@@ -1,8 +1,8 @@
-Below is a complete HTML document that meets your requirements for a weekly wine roundup newsletter. The design incorporates a warm color palette, elegant typography, and a responsive layout suitable for both mobile and desktop devices.
+Here's a complete HTML document for a weekly wine roundup that meets your requirements. The design is elegant, modern, and responsive, with a warm color palette and beautiful typography.
 
 ```html
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,72 +10,72 @@ Below is a complete HTML document that meets your requirements for a weekly wine
     <style>
         body {
             font-family: 'Source Sans Pro', sans-serif;
+            background-color: #f9f5f2;
+            color: #5c4b3a;
             margin: 0;
             padding: 0;
-            background-color: #f9f5f1;
-            color: #4a2c2a;
-            line-height: 1.6;
         }
         header {
-            background-color: #9b1b30;
+            background-color: #9e1b30;
             color: #fff;
             padding: 20px;
             text-align: center;
         }
-        header h1 {
+        h1 {
             font-family: 'Playfair Display', serif;
             margin: 0;
-            font-size: 2.5em;
         }
-        header p {
-            margin: 5px 0 0;
+        .date {
+            font-size: 1.2em;
+            margin-top: 5px;
+        }
+        .intro {
+            padding: 20px;
+            text-align: center;
+            font-size: 1.1em;
         }
         .container {
-            max-width: 1200px;
-            margin: 20px auto;
-            padding: 0 20px;
             display: flex;
             flex-wrap: wrap;
-            justify-content: space-between;
+            justify-content: center;
+            padding: 20px;
         }
         .wine-card {
-            background: #fff;
+            background-color: #fff;
             border-radius: 10px;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
             margin: 15px;
-            overflow: hidden;
-            width: calc(33% - 30px);
-            transition: transform 0.3s;
+            padding: 20px;
+            width: 300px;
+            transition: transform 0.2s;
         }
         .wine-card:hover {
             transform: translateY(-5px);
         }
         .wine-card img {
             width: 100%;
-            height: auto;
+            border-radius: 10px;
         }
-        .wine-card-content {
-            padding: 15px;
-        }
-        .wine-card h2 {
+        .wine-name {
             font-family: 'Playfair Display', serif;
             font-size: 1.5em;
-            margin: 0 0 10px;
-        }
-        .wine-card p {
             margin: 10px 0;
         }
         .price {
-            font-size: 1.2em;
-            color: #9b1b30;
-            font-weight: bold;
+            font-size: 1.3em;
+            color: #9e1b30;
+            margin: 10px 0;
+        }
+        .description {
+            font-size: 0.9em;
+            margin: 10px 0;
         }
         .buy-button {
-            background-color: #9b1b30;
+            background-color: #9e1b30;
             color: #fff;
             border: none;
-            padding: 10px 15px;
             border-radius: 5px;
+            padding: 10px 15px;
             cursor: pointer;
             text-align: center;
             text-decoration: none;
@@ -84,12 +84,12 @@ Below is a complete HTML document that meets your requirements for a weekly wine
             transition: background-color 0.3s;
         }
         .buy-button:hover {
-            background-color: #7a1625;
+            background-color: #b43b4e;
         }
         footer {
             text-align: center;
             padding: 20px;
-            background-color: #9b1b30;
+            background-color: #9e1b30;
             color: #fff;
             position: relative;
             bottom: 0;
@@ -97,80 +97,106 @@ Below is a complete HTML document that meets your requirements for a weekly wine
         }
         @media (max-width: 768px) {
             .wine-card {
-                width: calc(50% - 30px);
-            }
-        }
-        @media (max-width: 480px) {
-            .wine-card {
-                width: 100%;
+                width: 90%;
             }
         }
     </style>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Source+Sans+Pro:wght@400&display=swap" rel="stylesheet">
 </head>
 <body>
-
-<header>
-    <h1>Quebec Wine Weekly</h1>
-    <p>Current Date: <span id="current-date"></span></p>
-</header>
-
-<div class="container">
-    <p>Welcome to this week's roundup of exquisite wines! Explore our selection and find your next favorite bottle.</p>
-
-    <!-- Wine Cards -->
-    <div class="wine-card">
-        <img src="https://cdn.shopify.com/s/files/1/0243/5406/2413/files/apache-2022-vin-des-potes-188363.jpg?v=1719294888" alt="Apache 2022">
-        <div class="wine-card-content">
-            <h2>Apache 2022</h2>
-            <p>Apache 2022, le Fou du Roi, est un rouge léger et effronté qui s'invite avec impertinence, détendant l'atmosphère et faisant couler le vin avec un sourire en coin.</p>
-            <div class="price">27.95$</div>
-            <a href="https://ctrk.klclick.com/l/01JYP8KNESTNKV5RGDNSBJ7507_12" class="buy-button">Buy Now</a>
-        </div>
+    <header>
+        <h1>Quebec Wine Weekly</h1>
+        <div class="date">Date: <span id="current-date"></span></div>
+    </header>
+    <div class="intro">
+        <p>Bienvenue à notre sélection hebdomadaire des meilleurs vins du Québec. Découvrez des saveurs uniques et des histoires fascinantes derrière chaque bouteille.</p>
     </div>
-
-    <div class="wine-card">
-        <img src="https://cdn.shopify.com/s/files/1/0243/5406/2413/files/apache-2022-vin-des-potes-188363.jpg?v=1719294888" alt="Apache 2022">
-        <div class="wine-card-content">
-            <h2>Apache 2022</h2>
-            <p>Faites entrer Le Fou du Roi. Rouge léger, glouglou et effronté. Il fait irruption dans la cour, verre à la main et sourire en coin.</p>
-            <div class="price">27.95$</div>
-            <a href="https://ctrk.klclick.com/l/01JYVDKWK2E5MNEPA49G53GDB6_12" class="buy-button">Buy Now</a>
-        </div>
+    <div class="container" id="wine-container">
+        <!-- Wine cards will be inserted here -->
     </div>
+    <footer>
+        <p>&copy; 2023 Quebec Wine Weekly. All rights reserved.</p>
+    </footer>
 
-    <div class="wine-card">
-        <img src="https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/c40a4148-4126-04d7-1d28-dcdc0b31efd3.png" alt="Barbera d'Alba 2022">
-        <div class="wine-card-content">
-            <h2>Barbera d'Alba 2022</h2>
-            <p>Barbera d'Alba 2022, un rouge bio pur et fruité, incarne l'essence du Piémont avec sa fraîcheur éclatante et sa buvabilité, parfait pour accompagner vos repas d'été avec élégance.</p>
-            <div class="price">27,60$</div>
-            <a href="https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=4efb9f8047&e=a09c2580fc" class="buy-button">Buy Now</a>
-        </div>
-    </div>
+    <script>
+        const wines = [
+            {
+                "name": "Apache 2022",
+                "description": "Le Fou du Roi 2022, un rouge léger et effronté, s'invite avec un sourire, défiant les conventions et apportant une ambiance décontractée où chaque gorgée fait couler le vin et les rires.",
+                "price": "27.95$",
+                "link": "https://ctrk.klclick.com/l/01JYP8KNESTNKV5RGDNSBJ7507_12",
+                "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/apache-2022-vin-des-potes-188363.jpg?v=1719294888",
+                "producer": null,
+                "region": null,
+                "grape_varieties": null
+            },
+            {
+                "name": "Barbera d’Alba 2022",
+                "description": "Barbera d’Alba 2022, un rouge bio éclatant et pur, offre une expérience juteuse et énergique, avec des arômes de cerise et de framboise, sans artifice, parfait pour accompagner vos repas d'été avec une buvabilité exceptionnelle.",
+                "price": "27,60$",
+                "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=4efb9f8047&e=a09c2580fc",
+                "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/c40a4148-4126-04d7-1d28-dcdc0b31efd3.png",
+                "producer": "Punset",
+                "region": "Barbera d'Alba",
+                "grape_varieties": ["Barbera"]
+            },
+            {
+                "name": "Bardolino - Bardolino Goto 2024",
+                "description": "Bardolino Goto 2024, un rouge léger et croquant, marie corvina, rondinella et molinara, offrant des arômes de fruits rouges et une touche de poivre blanc, avec une finale fraîche et subtilement amère.",
+                "price": "34,59 $",
+                "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=911721e2f7&e=bc0729f8df",
+                "image_url": null,
+                "producer": "Sassara Vini",
+                "region": "Bardolino",
+                "grape_varieties": ["corvina", "rondinella", "molinara"]
+            },
+            {
+                "name": "Born to be 2024",
+                "description": "Le Compagnon 2024, un vin blanc lumineux et généreux, incarne la loyauté et l'équilibre, se révélant être le héros discret de toutes vos aventures.",
+                "price": "30.95$",
+                "link": "https://ctrk.klclick.com/l/01JYP8KNESTNKV5RGDNSBJ7507_16",
+                "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/born-to-be-2024-vin-des-potes-755856.jpg?v=1746790600",
+                "producer": null,
+                "region": null,
+                "grape_varieties": null
+            },
+            // Add more wines here...
+        ];
 
-    <!-- Add more wine cards as needed -->
-</div>
+        const wineContainer = document.getElementById('wine-container');
 
-<footer>
-    <p>&copy; 2023 Quebec Wine Weekly. All rights reserved.</p>
-</footer>
+        wines.forEach(wine => {
+            const wineCard = document.createElement('div');
+            wineCard.className = 'wine-card';
 
-<script>
-    // Set current date
-    const currentDate = new Date().toLocaleDateString();
-    document.getElementById('current-date').innerText = currentDate;
-</script>
+            wineCard.innerHTML = `
+                ${wine.image_url ? `<img src="${wine.image_url}" alt="${wine.name}">` : ''}
+                <div class="wine-name">${wine.name}</div>
+                <div class="description">${wine.description}</div>
+                <div class="price">${wine.price}</div>
+                ${wine.link ? `<a href="${wine.link}" class="buy-button" target="_blank">Buy Now</a>` : ''}
+            `;
 
+            wineContainer.appendChild(wineCard);
+        });
+
+        // Display current date
+        const currentDate = new Date().toLocaleDateString('fr-FR', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+        });
+        document.getElementById('current-date').textContent = currentDate;
+    </script>
 </body>
 </html>
 ```
 
-### Explanation of Key Features:
-- **Header**: Contains the title and current date.
-- **Container**: A flexible layout that adjusts wine cards based on screen size.
-- **Wine Cards**: Each wine is displayed in a card format with an image, description, price, and a "Buy Now" button.
-- **Responsive Design**: The layout adjusts for different screen sizes using media queries.
-- **Styling**: Elegant fonts and a warm color palette create a premium feel.
+### Explanation of the Code:
+1. **HTML Structure**: The document is structured with a header, an introduction section, a container for wine cards, and a footer.
+2. **CSS Styles**: The styles are embedded within a `<style>` tag and include responsive design, elegant typography, and a warm color palette.
+3. **Wine Cards**: Each wine is displayed in a card format with an image, name, description, price, and a "Buy Now" button if a link is provided.
+4. **JavaScript**: The wine data is stored in an array, and JavaScript dynamically generates the wine cards based on this data. The current date is also displayed in the header.
+5. **Responsive Design**: The layout adjusts for different screen sizes, ensuring a good user experience on both mobile and desktop devices.
 
-You can add more wine cards by duplicating the `<div class="wine-card">` section and updating the content accordingly. This HTML page is ready to be used and shared with wine enthusiasts!
+This design should provide a premium feel that wine enthusiasts would appreciate and want to share.
