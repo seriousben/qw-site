@@ -7,82 +7,73 @@
     <style>
         body {
             font-family: 'Source Sans Pro', sans-serif;
-            background-color: #f9f3e9;
+            background-color: #f9f3e8;
             color: #4a2c2a;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: #9b2a2a;
-            color: #fff;
+            background-color: #8b5a5a;
+            color: #f8e1b5;
+            padding: 20px;
             text-align: center;
-            padding: 20px 0;
         }
         h1 {
             font-family: 'Playfair Display', serif;
             margin: 0;
-            font-size: 2.5em;
-        }
-        h2 {
-            font-size: 1.2em;
-            margin: 10px 0;
         }
         .intro {
-            text-align: center;
             margin: 20px;
             font-size: 1.1em;
         }
+        .wine-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 20px;
+        }
         .wine-card {
-            background-color: #fff;
+            background-color: #ffffff;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            margin: 20px;
-            padding: 15px;
+            margin: 15px;
+            overflow: hidden;
+            width: 300px;
             transition: transform 0.2s;
-            max-width: 300px;
-            display: inline-block;
-            vertical-align: top;
         }
         .wine-card:hover {
             transform: scale(1.05);
         }
         .wine-card img {
+            width: 100%;
+            height: auto;
             max-height: 150px;
-            width: auto;
-            border-radius: 5px;
+            object-fit: cover;
         }
-        .wine-details {
-            margin-top: 10px;
+        .wine-info {
+            padding: 15px;
         }
-        .wine-details p {
+        .wine-info h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.5em;
+            margin: 0 0 10px;
+        }
+        .wine-info p {
             margin: 5px 0;
         }
         .link {
-            color: #9b2a2a;
+            color: #8b5a5a;
             text-decoration: none;
             font-weight: bold;
-            transition: color 0.2s;
         }
         .link:hover {
-            color: #6a1b1b;
+            text-decoration: underline;
         }
         footer {
             text-align: center;
             padding: 20px;
-            background-color: #9b2a2a;
-            color: #fff;
-            position: relative;
-            bottom: 0;
-            width: 100%;
-        }
-        @media (max-width: 600px) {
-            .wine-card {
-                max-width: 90%;
-                margin: 10px auto;
-            }
-            h1 {
-                font-size: 2em;
-            }
+            background-color: #8b5a5a;
+            color: #f8e1b5;
         }
     </style>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Source+Sans+Pro:wght@400&display=swap" rel="stylesheet">
@@ -90,233 +81,225 @@
 <body>
     <header>
         <h1>Les Vins du Québec Hebdo</h1>
-        <h2>Date actuelle : 3 juillet 2025</h2>
+        <p>Dernier vin ajouté le : 4 juillet 2025</p>
     </header>
     <div class="intro">
-        <p>Bienvenue dans notre sélection hebdomadaire des meilleurs vins! Découvrez des trésors vinicoles qui sauront ravir vos papilles.</p>
-        <p>Dernier vin ajouté le : 3 juillet 2025</p>
+        <p>Bienvenue dans notre sélection hebdomadaire des meilleurs vins. Découvrez des saveurs uniques et des histoires fascinantes derrière chaque bouteille. Santé!</p>
     </div>
-    <div class="wine-card">
-        <img src="https://cdn.shopify.com/s/files/1/0243/5406/2413/files/apache-2022-vin-des-potes-188363.jpg?v=1719294888" alt="Apache 2022">
-        <div class="wine-details">
-            <h3>Apache 2022</h3>
-            <p>Notes de dégustation : Apache 2022, le rouge effronté qui fait tourner les têtes, est l'ami idéal pour briser la glace et animer les conversations, alliant légèreté et impertinence dans chaque gorgée.</p>
-            <p>Agence : Le vin dans les voiles</p>
-            <p>Millésime : 2022</p>
-            <p>Prix : 27.95$</p>
-            <a class="link" href="https://ctrk.klclick.com/l/01JYVDKWK2E5MNEPA49G53GDB6_12" target="_blank">En savoir plus...</a>
+    <div class="wine-container">
+        <div class="wine-card">
+            <img src="https://dfalvymn23xg3.cloudfront.net/images/c_220x500_rhon--a-beaumes-de-venise-domaine-de-la-brune-2018.png" alt="Beaumes de Venise Domaine la Brune 2022">
+            <div class="wine-info">
+                <h2>Beaumes de Venise Domaine la Brune 2022</h2>
+                <p><strong>Notes de dégustation :</strong> Beaumes de Venise Domaine la Brune 2022 showcases Grenache vines thriving at 300 meters altitude in exceptional terroir, delivering concentrated flavors and remarkable aging potential, meticulously vinified to preserve the essence of its fruit.</p>
+                <p><strong>Région :</strong> Vallée du Rhône</p>
+                <p><strong>Agence :</strong> Noble Sélection</p>
+                <p><strong>Prix :</strong> 21,95$</p>
+                <p><a class="link" href="https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fc50950fd7&e=2c9a262afa" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://cdn.shopify.com/s/files/1/0243/5406/2413/files/born-to-be-2024-vin-des-potes-755856.jpg?v=1746790600" alt="Born to be 2024">
-        <div class="wine-details">
-            <h3>Born to be 2024</h3>
-            <p>Notes de dégustation : Born to be 2024, le Compagnon lumineux, incarne la fraîcheur et la générosité, apportant équilibre et douceur à chaque moment partagé, un héros discret mais essentiel dans l'univers des vins blancs.</p>
-            <p>Agence : Le vin dans les voiles</p>
-            <p>Millésime : 2024</p>
-            <p>Prix : 30.95$</p>
-            <a class="link" href="https://ctrk.klclick.com/l/01JYVDKWK2E5MNEPA49G53GDB6_16" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://dfalvymn23xg3.cloudfront.net/images/c_220x500_par--s-balt---blanc-de-pacs-pened--s-2022.png" alt="Blanc de Pacs 2024">
+            <div class="wine-info">
+                <h2>Blanc de Pacs 2024</h2>
+                <p><strong>Notes de dégustation :</strong> No tasting notes available</p>
+                <p><strong>Agence :</strong> Noble Sélection</p>
+                <p><strong>Prix :</strong> 18,10$</p>
+                <p><a class="link" href="https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4f28bbef0a&e=2c9a262afa" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cabriz-ra.png" alt="Cabriz Colheita Selecionada Dão 2022">
-        <div class="wine-details">
-            <h3>Cabriz Colheita Selecionada Dão 2022</h3>
-            <p>Notes de dégustation : No tasting notes available</p>
-            <p>Agence : Noble Sélection</p>
-            <p>Millésime : 2022</p>
-            <p>Prix : 15,55$</p>
-            <a class="link" href="https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=cd58b0cadf&e=2c9a262afa" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://dfalvymn23xg3.cloudfront.net/images/c_220x500_contraste-branco_2.png" alt="Contraste Douro Branco 2022">
+            <div class="wine-info">
+                <h2>Contraste Douro Branco 2022</h2>
+                <p><strong>Notes de dégustation :</strong> No tasting notes available</p>
+                <p><strong>Agence :</strong> Noble Sélection</p>
+                <p><strong>Prix :</strong> 21,90$</p>
+                <p><a class="link" href="https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5aafa3422d&e=2c9a262afa" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-eugenie-packaging-2020.png" alt="Cahors 2021">
-        <div class="wine-details">
-            <h3>Cahors 2021</h3>
-            <p>Notes de dégustation : No tasting notes available</p>
-            <p>Agence : Noble Sélection</p>
-            <p>Millésime : 2021</p>
-            <p>Prix : 19,40$</p>
-            <a class="link" href="https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=c99eea0a80&e=2c9a262afa" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://dfalvymn23xg3.cloudfront.net/images/c_220x500_gaba-do-xil-mencia-valdeorras-2020-copie.png" alt="Gaba do Xil Tinto 2021">
+            <div class="wine-info">
+                <h2>Gaba do Xil Tinto 2021</h2>
+                <p><strong>Notes de dégustation :</strong> No tasting notes available</p>
+                <p><strong>Agence :</strong> Noble Sélection</p>
+                <p><strong>Prix :</strong> 21,75$</p>
+                <p><a class="link" href="https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=0faca2fbcf&e=2c9a262afa" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/fd425f62-2819-43b6-b6a5-fdda6181fb3f.png" alt="Chablis Duplessis 2022">
-        <div class="wine-details">
-            <h3>Chablis Duplessis 2022</h3>
-            <p>Notes de dégustation : Chablis Duplessis 2022, un vin floral et salin, se savoure avec une élégance tranquille, offrant une simplicité réconfortante qui sublime les moments de partage autour de la table.</p>
-            <p>Agence : Le vin dans les voiles</p>
-            <p>Disponibilité : SAQ</p>
-            <p>Millésime : 2022</p>
-            <p>Prix : 53.75$</p>
-            <a class="link" href="https://ctrk.klclick.com/l/01JYVG4RSHEHYFTW0NQXRWMWHM_6" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://dfalvymn23xg3.cloudfront.net/images/c_220x500_langhe-rosso-pinin.png" alt="Langhe Rosso Pinin 2022">
+            <div class="wine-info">
+                <h2>Langhe Rosso Pinin 2022</h2>
+                <p><strong>Notes de dégustation :</strong> Langhe Rosso Pinin 2022 is a harmonious blend of Barbera, Dolcetto, and Nebbiolo, vinified separately and aged in concrete and Slavonian oak, resulting in a refined expression of the region's diverse terroir.</p>
+                <p><strong>Région :</strong> Piémont, Italie</p>
+                <p><strong>Agence :</strong> Noble Sélection</p>
+                <p><strong>Prix :</strong> 22,90$</p>
+                <p><a class="link" href="https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=23e4b73eed&e=2c9a262afa" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://cdn.shopify.com/s/files/1/0243/5406/2413/files/champagne-tradition-1er-cru-champagne-lelarge-pugeot-246778.jpg?v=1719294989" alt="Champagne 1er cru">
-        <div class="wine-details">
-            <h3>Champagne 1er cru</h3>
-            <p>Notes de dégustation : Champagne 1er cru, L’Enchanteresse, se présente avec une bulle cristalline et une fraîcheur désarmante, capturant l'éclat des étoiles et la magie des soirées d'été, un véritable élixir pour célébrer l'amour et les moments précieux.</p>
-            <p>Agence : Le vin dans les voiles</p>
-            <a class="link" href="https://ctrk.klclick.com/l/01JYVDKWK2E5MNEPA49G53GDB6_6" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://dfalvymn23xg3.cloudfront.net/images/c_220x500_13585407-1_1694639884-copie.png" alt="Saumur l'Ardillon 2024">
+            <div class="wine-info">
+                <h2>Saumur l'Ardillon 2024</h2>
+                <p><strong>Notes de dégustation :</strong> No tasting notes available</p>
+                <p><strong>Agence :</strong> Noble Sélection</p>
+                <p><strong>Prix :</strong> 25,15$</p>
+                <p><a class="link" href="https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fbe2eafe80&e=2c9a262afa" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/fa5ad9a5-f971-541c-19b7-1a189cebeb4e.png" alt="CHÂTEAU CANADEL">
-        <div class="wine-details">
-            <h3>CHÂTEAU CANADEL</h3>
-            <p>Notes de dégustation : Château Canadel, un domaine enchanteur aux racines romaines, se distingue par ses vignes cultivées en restanques biodynamiques, où l'eau et la terre s'unissent pour révéler un terroir d'exception, promettant des vins authentiques et vibrants.</p>
-            <p>Agence : réZin</p>
-            <p>Disponibilité : SAQ</p>
-            <p>Millésime : 2024</p>
-            <p>Prix : 36,25 $</p>
-            <a class="link" href="https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=22d276e43d&e=c11422f941" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/1df5d849-8ffb-d3d8-fe9e-593c1cbe1e79.png" alt="Las Criollas">
+            <div class="wine-info">
+                <h2>Las Criollas</h2>
+                <p><strong>Notes de dégustation :</strong> Las Criollas Blanc from Paso a Paso is an aromatic and refreshing white wine that showcases the unique potential of indigenous Criolla grapes, crafted with care to preserve its purity and vibrant character, revealing floral and citrus notes that delight the palate.</p>
+                <p><strong>Agence :</strong> Bambara Selection</p>
+                <p><strong>Disponibilité :</strong> SAQ</p>
+                <p><strong>Prix :</strong> 19,90 $</p>
+                <p><a class="link" href="https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=e9e66a9c60&e=a09c2580fc" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://cdn.shopify.com/s/files/1/0243/5406/2413/files/chiassobuio-2014-domaine-tunia-798697.jpg?v=1719294991" alt="Chiassobuio 2014">
-        <div class="wine-details">
-            <h3>Chiassobuio 2014</h3>
-            <p>Notes de dégustation : Chiassobuio 2014, L’Invincible, est un vin de garde d'une puissance tranquille, évoluant avec grâce et profondeur, fruit du savoir-faire audacieux d'une équipe de vigneronnes toulousaines qui défient les conventions.</p>
-            <p>Agence : Le vin dans les voiles</p>
-            <p>Millésime : 2014</p>
-            <p>Prix : 39.95$</p>
-            <a class="link" href="https://ctrk.klclick.com/l/01JYVDKWK2E5MNEPA49G53GDB6_8" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/0fa4b1bd-8fe4-007a-4d1b-b20cc03e25a4.png" alt="Nuit Grave">
+            <div class="wine-info">
+                <h2>Nuit Grave</h2>
+                <p><strong>Notes de dégustation :</strong> Nuit Grave from Mas des Chimères is an expressive blend of Syrah, Grenache, Mourvèdre, and Carignan, showcasing the unique volcanic terroir of Terrasses du Larzac, with ripe fruit and spice notes that balance beautifully for a fresh, authentic experience.</p>
+                <p><strong>Région :</strong> Terrasses du Larzac</p>
+                <p><strong>Agence :</strong> Bambara Selection</p>
+                <p><strong>Disponibilité :</strong> SAQ</p>
+                <p><strong>Prix :</strong> 29,55 $</p>
+                <p><a class="link" href="https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=a04805fd9e&e=a09c2580fc" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/0ba75355-c91c-4f41-b1b8-aa22b4b0601f.png" alt="DOMAINE M. & C. LAPIERRE">
-        <div class="wine-details">
-            <h3>DOMAINE M. & C. LAPIERRE</h3>
-            <p>Notes de dégustation : Domaine M. & C. Lapierre présente une cuvée vibrante, fruitée et gourmande, où fraises, cerises et notes florales s'entrelacent, offrant une buvabilité irrésistible, parfaite pour les soirées d'été.</p>
-            <p>Agence : réZin</p>
-            <p>Disponibilité : SAQ</p>
-            <p>Millésime : 2024</p>
-            <p>Prix : 37,00 $</p>
-            <a class="link" href="https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=c0ab32abb9&e=c11422f941" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/fa5ad9a5-f971-541c-19b7-1a189cebeb4e.png" alt="CHÂTEAU CANADEL">
+            <div class="wine-info">
+                <h2>CHÂTEAU CANADEL</h2>
+                <p><strong>Notes de dégustation :</strong> Château Canadel, with roots tracing back to Roman times, is a 15-hectare enchanting estate where biodynamic principles nurture the vines on terraced plots, creating unique microclimates that enhance the terroir's expression.</p>
+                <p><strong>Région :</strong> Bandol</p>
+                <p><strong>Agence :</strong> réZin</p>
+                <p><strong>Disponibilité :</strong> SAQ</p>
+                <p><strong>Prix :</strong> 36,25 $</p>
+                <p><a class="link" href="https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=22d276e43d&e=c11422f941" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://dfalvymn23xg3.cloudfront.net/images/c_220x500_par--s-balt---indigena-2021.png" alt="Indigena blanc 2023">
-        <div class="wine-details">
-            <h3>Indigena blanc 2023</h3>
-            <p>Notes de dégustation : No tasting notes available</p>
-            <p>Agence : Noble Sélection</p>
-            <p>Millésime : 2023</p>
-            <p>Prix : 24,70$</p>
-            <a class="link" href="https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=7739c8d82c&e=2c9a262afa" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/0ba75355-c91c-4f41-b1b8-aa22b4b0601f.png" alt="DOMAINE M. & C. LAPIERRE">
+            <div class="wine-info">
+                <h2>DOMAINE M. & C. LAPIERRE</h2>
+                <p><strong>Notes de dégustation :</strong> Domaine M. & C. Lapierre presents a vibrant cuvée from Mathieu and Camille, capturing the energetic purity of Morgon with luscious notes of strawberry, cherry, and sandalwood, making it an irresistible choice for summer evenings.</p>
+                <p><strong>Région :</strong> Beaujolais</p>
+                <p><strong>Agence :</strong> réZin</p>
+                <p><strong>Disponibilité :</strong> SAQ</p>
+                <p><strong>Prix :</strong> 37,00 $</p>
+                <p><a class="link" href="https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=c0ab32abb9&e=c11422f941" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://cdn.shopify.com/s/files/1/0243/5406/2413/files/joschuari-2021-gut-oggau-784319.jpg?v=1719295052" alt="Joschuari 2022">
-        <div class="wine-details">
-            <h3>Joschuari 2022</h3>
-            <p>Notes de dégustation : Joschuari 2022, Le Bodyguard, se distingue par sa structure dense et rassurante, alliant noblesse et puissance tannique, prêt à accompagner les plats les plus audacieux avec une élégance inébranlable.</p>
-            <p>Agence : Le vin dans les voiles</p>
-            <p>Millésime : 2022</p>
-            <p>Prix : 110.00$</p>
-            <a class="link" href="https://ctrk.klclick.com/l/01JYVDKWK2E5MNEPA49G53GDB6_14" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/493f1f42-3624-d156-c9b9-ec4182f8676e.jpeg" alt="Saumur Blanc 'Graippeaux'">
+            <div class="wine-info">
+                <h2>Saumur Blanc 'Graippeaux'</h2>
+                <p><strong>Notes de dégustation :</strong> Saumur Blanc 'Graippeaux' marks the debut of Etienne Bodet, showcasing massal selections of Chenin Blanc from prized limestone soils, aged for 22 months on lees to reveal a scintillating, pure, and structured wine—a true star in the making.</p>
+                <p><strong>Région :</strong> Saumur</p>
+                <p><strong>Agence :</strong> Vin Dame-Jeanne</p>
+                <p><strong>Disponibilité :</strong> Importation Privée</p>
+                <p><strong>Prix :</strong> Particulier 118.44 | Restaurant 103.15 | IP 6</p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/cea77a9a-7188-4b48-9a74-ae61a6578995.png" alt="L'Apostrophe 2024 – Domaine Les Terres Promises">
-        <div class="wine-details">
-            <h3>L'Apostrophe 2024 – Domaine Les Terres Promises</h3>
-            <p>Notes de dégustation : L'Apostrophe 2024, un rosé vibrant, évoque la légèreté d'une conversation estivale, mêlant notes de canneberge et de poivre blanc, à déguster frais pour une expérience ensoleillée et nostalgique.</p>
-            <p>Agence : Le vin dans les voiles</p>
-            <p>Disponibilité : SAQ</p>
-            <p>Millésime : 2024</p>
-            <p>Prix : 27.50$</p>
-            <a class="link" href="https://ctrk.klclick.com/l/01JYVG4RSHEHYFTW0NQXRWMWHM_8" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/5ff5c2df-7733-4b0b-f48c-2bf1de5f54b2.jpg" alt="Saumur Rouge 'Clos Durandière'">
+            <div class="wine-info">
+                <h2>Saumur Rouge 'Clos Durandière'</h2>
+                <p><strong>Notes de dégustation :</strong> Saumur Rouge 'Clos Durandière' is a heartfelt tribute to family heritage, showcasing exceptional Cabernet Franc from a rare Jurassic limestone terroir, aged for 24 months to reveal a grand, smoky, and floral expression that captivates the senses.</p>
+                <p><strong>Région :</strong> Saumur</p>
+                <p><strong>Agence :</strong> Vin Dame-Jeanne</p>
+                <p><strong>Disponibilité :</strong> Importation Privée</p>
+                <p><strong>Prix :</strong> Particulier 128.59 | Restaurant 105.67 | IP 6</p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/514b2047-0bac-ac57-bbda-c6b46da039f1.png" alt="Las Criollas">
-        <div class="wine-details">
-            <h3>Las Criollas</h3>
-            <p>Notes de dégustation : Las Criollas de Paso a Paso est un blanc aromatique et frais, mettant en lumière le potentiel des cépages autochtones criollas, avec des notes florales et d'agrumes, une vinification artisanale qui préserve l'authenticité et la pureté des arômes.</p>
-            <p>Agence : BAMBARA SELECTION</p>
-            <p>Disponibilité : SAQ</p>
-            <p>Millésime : 2024</p>
-            <p>Prix : 19,90 $</p>
-            <a class="link" href="https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=e9e66a9c60&e=a09c2580fc" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/fd425f62-2819-43b6-b6a5-fdda6181fb3f.png" alt="Chablis Duplessis 2022">
+            <div class="wine-info">
+                <h2>Chablis Duplessis 2022</h2>
+                <p><strong>Notes de dégustation :</strong> Chablis Duplessis 2022 is a straight, floral, and saline wine that elegantly complements delicate moments, offering a refreshing simplicity that delights the senses, whether enjoyed now or aged for a few years.</p>
+                <p><strong>Agence :</strong> Le vin dans les voiles</p>
+                <p><strong>Disponibilité :</strong> SAQ</p>
+                <p><strong>Prix :</strong> 53.75$</p>
+                <p><a class="link" href="https://ctrk.klclick.com/l/01JYVG4RSHEHYFTW0NQXRWMWHM_6" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://dfalvymn23xg3.cloudfront.net/images/c_220x500_alma_negra_2.png" alt="M Blend 2021">
-        <div class="wine-details">
-            <h3>M Blend 2021</h3>
-            <p>Notes de dégustation : No tasting notes available</p>
-            <p>Agence : Noble Sélection</p>
-            <p>Millésime : 2021</p>
-            <p>Prix : 22,85$</p>
-            <a class="link" href="https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4c893cb378&e=2c9a262afa" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/cea77a9a-7188-4b48-9a74-ae61a6578995.png" alt="L'Apostrophe 2024 – Domaine Les Terres Promises">
+            <div class="wine-info">
+                <h2>L'Apostrophe 2024 – Domaine Les Terres Promises</h2>
+                <p><strong>Notes de dégustation :</strong> L'Apostrophe 2024 is a vibrant rosé that flows like a light conversation, infused with notes of cranberry and white pepper, perfect for sipping casually while enjoying the warmth of the South.</p>
+                <p><strong>Agence :</strong> Le vin dans les voiles</p>
+                <p><strong>Disponibilité :</strong> SAQ</p>
+                <p><strong>Prix :</strong> 27.50$</p>
+                <p><a class="link" href="https://ctrk.klclick.com/l/01JYVG4RSHEHYFTW0NQXRWMWHM_8" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://dfalvymn23xg3.cloudfront.net/images/c_220x500_argiano-non-confunditur-2021-copie.png" alt="Non Confunditur 2023">
-        <div class="wine-details">
-            <h3>Non Confunditur 2023</h3>
-            <p>Notes de dégustation : Non Confunditur 2023, un hommage à l'unicité de la maison Argiano, se dévoile avec une élégance raffinée, fruit d'une vinification méticuleuse en barriques et d'une macération soigneusement orchestrée, offrant une profondeur et une complexité dignes de son illustre prédécesseur, Solengo.</p>
-            <p>Agence : Noble Sélection</p>
-            <p>Millésime : 2023</p>
-            <p>Prix : 26,95$</p>
-            <a class="link" href="https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6c7d858626&e=2c9a262afa" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://cdn.shopify.com/s/files/1/0243/5406/2413/files/apache-2022-vin-des-potes-188363.jpg?v=1719294888" alt="Apache 2022">
+            <div class="wine-info">
+                <h2>Apache 2022</h2>
+                <p><strong>Notes de dégustation :</strong> Apache 2022 is a light, cheeky red that bursts onto the scene with a mischievous smile, effortlessly breaking conventions and igniting lively conversations with its playful charm.</p>
+                <p><strong>Agence :</strong> Le vin dans les voiles</p>
+                <p><strong>Prix :</strong> 27.95$</p>
+                <p><a class="link" href="https://ctrk.klclick.com/l/01JYVDKWK2E5MNEPA49G53GDB6_12" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/0fa4b1bd-8fe4-007a-4d1b-b20cc03e25a4.png" alt="Nuit Grave">
-        <div class="wine-details">
-            <h3>Nuit Grave</h3>
-            <p>Notes de dégustation : Nuit Grave, l'emblématique cuvée du Mas des Chimères, est un assemblage audacieux de Syrah, Grenache, Mourvèdre et Carignan, offrant un bouquet de fruits mûrs et d'épices, avec une fraîcheur et une authenticité qui séduisent à chaque gorgée.</p>
-            <p>Agence : BAMBARA SELECTION</p>
-            <p>Disponibilité : SAQ</p>
-            <p>Millésime : 2022</p>
-            <p>Prix : 29,55 $</p>
-            <a class="link" href="https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=a04805fd9e&e=a09c2580fc" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://cdn.shopify.com/s/files/1/0243/5406/2413/files/born-to-be-2024-vin-des-potes-755856.jpg?v=1746790600" alt="Born to be 2024">
+            <div class="wine-info">
+                <h2>Born to be 2024</h2>
+                <p><strong>Notes de dégustation :</strong> Born to be 2024, affectionately known as Le Compagnon, is a luminous white wine that embodies unwavering loyalty and discreet generosity, gracefully enhancing every adventure with its perfect balance and softness.</p>
+                <p><strong>Agence :</strong> Le vin dans les voiles</p>
+                <p><strong>Prix :</strong> 30.95$</p>
+                <p><a class="link" href="https://ctrk.klclick.com/l/01JYVDKWK2E5MNEPA49G53GDB6_16" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg" alt="Saumur Blanc 'Graippeaux'">
-        <div class="wine-details">
-            <h3>Saumur Blanc 'Graippeaux'</h3>
-            <p>Notes de dégustation : Saumur Blanc 'Graippeaux', le premier chef-d'œuvre d’Etienne Bodet, émerge des terroirs prisés du Chenin Blanc avec une pureté éclatante, fruit d'un élevage minutieux sur lies, promettant une étoile montante dans l'univers des vins blancs.</p>
-            <p>Agence : Vin Dame-Jeanne</p>
-            <p>Disponibilité : Importation Privée</p>
-            <p>Millésime : 2022</p>
-            <p>Prix : Particulier 118.44 | Restaurant 103.15 | IP 6</p>
+        <div class="wine-card">
+            <img src="https://cdn.shopify.com/s/files/1/0243/5406/2413/files/champagne-tradition-1er-cru-champagne-lelarge-pugeot-246778.jpg?v=1719294989" alt="Champagne 1er cru">
+            <div class="wine-info">
+                <h2>Champagne 1er cru</h2>
+                <p><strong>Notes de dégustation :</strong> Champagne 1er cru, L’Enchanteresse, descends comme une douce brise, étincelant de brillance céleste et de douceur estivale, ses fines bulles cristallines et son fruit pur captivant les sens et élevant chaque moment à une célébration de l'amour.</p>
+                <p><strong>Agence :</strong> Le vin dans les voiles</p>
+                <p><strong>Prix :</strong> 79.95$</p>
+                <p><a class="link" href="https://ctrk.klclick.com/l/01JYVDKWK2E5MNEPA49G53GDB6_6" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/5ff5c2df-7733-4b0b-f48c-2bf1de5f54b2.jpg" alt="Saumur Rouge 'Clos Durandière'">
-        <div class="wine-details">
-            <h3>Saumur Rouge 'Clos Durandière'</h3>
-            <p>Notes de dégustation : Saumur Rouge 'Clos Durandière' est un Cabernet Franc d'exception, né d'un terroir de classe, offrant une complexité aromatique entre lardé, floral et gourmand, fruit d'un élevage soigné et d'une vinification respectueuse.</p>
-            <p>Agence : Vin Dame-Jeanne</p>
-            <p>Disponibilité : Importation Privée</p>
-            <p>Millésime : 2021</p>
-            <p>Prix : Particulier 128.59 | Restaurant 105.67 | IP 6</p>
+        <div class="wine-card">
+            <img src="https://cdn.shopify.com/s/files/1/0243/5406/2413/files/chiassobuio-2014-domaine-tunia-798697.jpg?v=1719294991" alt="Chiassobuio 2014">
+            <div class="wine-info">
+                <h2>Chiassobuio 2014</h2>
+                <p><strong>Notes de dégustation :</strong> Chiassobuio 2014, connu sous le nom de L’Invincible, est un vin rouge puissamment discret qui évolue gracieusement au fil du temps, élaboré par des vigneronnes héroïques en Toscane qui défient la convention avec leur talent et leur audace.</p>
+                <p><strong>Région :</strong> Non spécifiée</p>
+                <p><strong>Agence :</strong> Le vin dans les voiles</p>
+                <p><strong>Prix :</strong> 39.95$</p>
+                <p><a class="link" href="https://ctrk.klclick.com/l/01JYVDKWK2E5MNEPA49G53GDB6_8" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://dfalvymn23xg3.cloudfront.net/images/c_220x500_tutto-e-possible-terre-cevico.png" alt="Tutto è Possibile">
-        <div class="wine-details">
-            <h3>Tutto è Possibile</h3>
-            <p>Notes de dégustation : Tutto è Possibile enchante avec sa douceur et sa légèreté, révélant une effervescence naturelle qui danse sur le palais, fruit d'un pressurage délicat et d'une fermentation contrôlée, pour une expérience pétillante et rafraîchissante.</p>
-            <p>Agence : Noble Sélection</p>
-            <p>Prix : 16,95$</p>
-            <a class="link" href="https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=7c810e1a0b&e=2c9a262afa" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://cdn.shopify.com/s/files/1/0243/5406/2413/files/joschuari-2021-gut-oggau-784319.jpg?v=1719295052" alt="Joschuari 2022">
+            <div class="wine-info">
+                <h2>Joschuari 2022</h2>
+                <p><strong>Notes de dégustation :</strong> Joschuari 2022, Le Bodyguard, est un rouge structuré et rassurant, noble dans sa stature avec une ferme prise de tanins, se tenant fermement à vos côtés pour compléter des sauces riches et des viandes grillées avec élégance.</p>
+                <p><strong>Agence :</strong> Le vin dans les voiles</p>
+                <p><strong>Prix :</strong> 110.00$</p>
+                <p><a class="link" href="https://ctrk.klclick.com/l/01JYVDKWK2E5MNEPA49G53GDB6_14" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
-    </div>
-    <div class="wine-card">
-        <img src="https://cdn.shopify.com/s/files/1/0243/5406/2413/files/valtolla-bianco-2022-tenuta-vitivinicola-croci-242318.jpg?v=1736979523" alt="Valtolla Bianco 2022">
-        <div class="wine-details">
-            <h3>Valtolla Bianco 2022</h3>
-            <p>Notes de dégustation : Valtolla Bianco 2022, L'illusionniste, est un vin orange captivant qui joue avec les sens, alternant entre tannins, fleurs et épices, avant de révéler une fraîcheur inattendue, laissant une empreinte mémorable sur le palais.</p>
-            <p>Agence : Le vin dans les voiles</p>
-            <p>Millésime : 2022</p>
-            <p>Prix : 33.95$</p>
-            <a class="link" href="https://ctrk.klclick.com/l/01JYVDKWK2E5MNEPA49G53GDB6_10" target="_blank">En savoir plus...</a>
+        <div class="wine-card">
+            <img src="https://cdn.shopify.com/s/files/1/0243/5406/2413/files/valtolla-bianco-2022-tenuta-vitivinicola-croci-242318.jpg?v=1736979523" alt="Valtolla Bianco 2022">
+            <div class="wine-info">
+                <h2>Valtolla Bianco 2022</h2>
+                <p><strong>Notes de dégustation :</strong> Valtolla Bianco 2022, L'illusionniste, est un vin orange texturé qui danse entre les styles, révélant des notes tanniques, florales et épicées, avant qu'une touche rafraîchissante ne surprenne le palais, laissant une impression durable longtemps après la dernière gorgée.</p>
+                <p><strong>Agence :</strong> Le vin dans les voiles</p>
+                <p><strong>Prix :</strong> 33.95$</p>
+                <p><a class="link" href="https://ctrk.klclick.com/l/01JYVDKWK2E5MNEPA49G53GDB6_10" target="_blank">En savoir plus...</a></p>
+            </div>
         </div>
     </div>
     <footer>
