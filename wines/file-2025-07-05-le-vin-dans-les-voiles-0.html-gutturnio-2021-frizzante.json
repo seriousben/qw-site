@@ -1,0 +1,43 @@
+{
+  "id": "file-2025-07-05-le-vin-dans-les-voiles-0.html-gutturnio-2021-frizzante",
+  "blockId": "file-2025-07-05-le-vin-dans-les-voiles-0.html",
+  "createdAt": "2025-07-05T00:00:00.000Z",
+  "name": "Gutturnio 2021, frizzante",
+  "description": "Jamais a-t-on trouvé son égal au Québec. Ce rouge frizzante (pétillant!!!) du nord de l’Italie est un bijou : déroutant, plein de fruits, d’épices, de délicats tanins… Et ce pétillant qui rafraîchit tout sur son passage. À servir bien frais avec charcuteries, fromages ou tout ce qui va sur le grill. L’apéro à l’italienne pour tous!",
+  "price": "25.15$",
+  "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/c6faf39e-fd46-4747-9b28-248b2da3623e.png",
+  "link": "https://ctrk.klclick.com/l/01JZDGYWJ4KJ5D3VPQ9JJSNJSC_12",
+  "agence": "Le vin dans les voiles",
+  "disponibilite": "SAQ",
+  "raw_data": {
+    "name": "Gutturnio 2021, frizzante",
+    "description": "Jamais a-t-on trouvé son égal au Québec. Ce rouge frizzante (pétillant!!!) du nord de l’Italie est un bijou : déroutant, plein de fruits, d’épices, de délicats tanins… Et ce pétillant qui rafraîchit tout sur son passage. À servir bien frais avec charcuteries, fromages ou tout ce qui va sur le grill. L’apéro à l’italienne pour tous!",
+    "price": "25.15$",
+    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/c6faf39e-fd46-4747-9b28-248b2da3623e.png",
+    "link": "https://ctrk.klclick.com/l/01JZDGYWJ4KJ5D3VPQ9JJSNJSC_12",
+    "producer": "Croci",
+    "region": "nord de l’Italie",
+    "vintage": "2021",
+    "grape_varieties": null,
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": "SAQ",
+    "all_occurrences_raw_data": [
+      {
+        "name": "Gutturnio 2021, frizzante",
+        "description": "Jamais a-t-on trouvé son égal au Québec. Ce rouge frizzante (pétillant!!!) du nord de l’Italie est un bijou : déroutant, plein de fruits, d’épices, de délicats tanins… Et ce pétillant qui rafraîchit tout sur son passage. À servir bien frais avec charcuteries, fromages ou tout ce qui va sur le grill. L’apéro à l’italienne pour tous!",
+        "price": "25.15$",
+        "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/c6faf39e-fd46-4747-9b28-248b2da3623e.png",
+        "link": "https://ctrk.klclick.com/l/01JZDGYWJ4KJ5D3VPQ9JJSNJSC_12",
+        "producer": "Croci",
+        "region": "nord de l’Italie",
+        "vintage": "2021",
+        "grape_varieties": null,
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": "SAQ"
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}

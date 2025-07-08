@@ -1,0 +1,51 @@
+{
+  "id": "file-2025-07-04-noble-selection-0.html-langhe-rosso-pinin-2022",
+  "blockId": "file-2025-07-04-noble-selection-0.html",
+  "createdAt": "2025-07-04T00:00:00.000Z",
+  "name": "Langhe Rosso Pinin 2022",
+  "description": "Assemblage de 3 cépages de Barbera, Dolcetto et Nebbiolo. Les parcelles sont exposées Est/Nord-Est. Les cépages sont vinifiés séparément dans des cuves en acier inoxydable. Les vins font ensuite un court élevage dans des cuves en béton pour une grande partie et le reste dans des foudres de chêne de Slavonie avant d'être assemblés puis embouteillés.",
+  "price": "22,90$",
+  "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_langhe-rosso-pinin.png",
+  "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=23e4b73eed&e=2c9a262afa",
+  "agence": "Noble Sélection",
+  "disponibilite": null,
+  "raw_data": {
+    "name": "Langhe Rosso Pinin 2022",
+    "description": "Assemblage de 3 cépages de Barbera, Dolcetto et Nebbiolo. Les parcelles sont exposées Est/Nord-Est. Les cépages sont vinifiés séparément dans des cuves en acier inoxydable. Les vins font ensuite un court élevage dans des cuves en béton pour une grande partie et le reste dans des foudres de chêne de Slavonie avant d'être assemblés puis embouteillés.",
+    "price": "22,90$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_langhe-rosso-pinin.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=23e4b73eed&e=2c9a262afa",
+    "producer": "BORGOGNO",
+    "region": "Piémont, Italie",
+    "vintage": "2022",
+    "grape_varieties": [
+      "Barbera",
+      "Dolcetto",
+      "Nebbiolo"
+    ],
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": null,
+    "all_occurrences_raw_data": [
+      {
+        "name": "Langhe Rosso Pinin 2022",
+        "description": "Assemblage de 3 cépages de Barbera, Dolcetto et Nebbiolo. Les parcelles sont exposées Est/Nord-Est. Les cépages sont vinifiés séparément dans des cuves en acier inoxydable. Les vins font ensuite un court élevage dans des cuves en béton pour une grande partie et le reste dans des foudres de chêne de Slavonie avant d'être assemblés puis embouteillés.",
+        "price": "22,90$",
+        "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_langhe-rosso-pinin.png",
+        "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=23e4b73eed&e=2c9a262afa",
+        "producer": "BORGOGNO",
+        "region": "Piémont, Italie",
+        "vintage": "2022",
+        "grape_varieties": [
+          "Barbera",
+          "Dolcetto",
+          "Nebbiolo"
+        ],
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": null
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}

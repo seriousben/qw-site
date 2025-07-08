@@ -1,0 +1,43 @@
+{
+  "id": "file-2025-07-05-le-vin-dans-les-voiles-0.html-magic-of-juju-2023",
+  "blockId": "file-2025-07-05-le-vin-dans-les-voiles-0.html",
+  "createdAt": "2025-07-05T00:00:00.000Z",
+  "name": "Magic of Juju 2023",
+  "description": "Canon de la Loire! Non, vous ne rêvez pas : un trésor du Domaine Mosse est actuellement disponible à la SAQ. C’est vibrant, rafraîchissant et aussi rare qu’un après-midi sans nuage. Une gorgée, et hop! L’été explose en bouche. Faites vite, ce genre de magie ne reste jamais bien longtemps.",
+  "price": "30.50$",
+  "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/e4c9fed5-ba95-4ff3-a5b2-27d83a08de2a.png",
+  "link": "https://ctrk.klclick.com/l/01JZDGYWJ4KJ5D3VPQ9JJSNJSC_10",
+  "agence": "Le vin dans les voiles",
+  "disponibilite": "SAQ",
+  "raw_data": {
+    "name": "Magic of Juju 2023",
+    "description": "Canon de la Loire! Non, vous ne rêvez pas : un trésor du Domaine Mosse est actuellement disponible à la SAQ. C’est vibrant, rafraîchissant et aussi rare qu’un après-midi sans nuage. Une gorgée, et hop! L’été explose en bouche. Faites vite, ce genre de magie ne reste jamais bien longtemps.",
+    "price": "30.50$",
+    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/e4c9fed5-ba95-4ff3-a5b2-27d83a08de2a.png",
+    "link": "https://ctrk.klclick.com/l/01JZDGYWJ4KJ5D3VPQ9JJSNJSC_10",
+    "producer": "Domaine Mosse",
+    "region": null,
+    "vintage": "2023",
+    "grape_varieties": null,
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": "SAQ",
+    "all_occurrences_raw_data": [
+      {
+        "name": "Magic of Juju 2023",
+        "description": "Canon de la Loire! Non, vous ne rêvez pas : un trésor du Domaine Mosse est actuellement disponible à la SAQ. C’est vibrant, rafraîchissant et aussi rare qu’un après-midi sans nuage. Une gorgée, et hop! L’été explose en bouche. Faites vite, ce genre de magie ne reste jamais bien longtemps.",
+        "price": "30.50$",
+        "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/e4c9fed5-ba95-4ff3-a5b2-27d83a08de2a.png",
+        "link": "https://ctrk.klclick.com/l/01JZDGYWJ4KJ5D3VPQ9JJSNJSC_10",
+        "producer": "Domaine Mosse",
+        "region": null,
+        "vintage": "2023",
+        "grape_varieties": null,
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": "SAQ"
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}
