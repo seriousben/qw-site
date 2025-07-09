@@ -1,0 +1,43 @@
+{
+  "id": "file-2025-07-04-noble-selection-1.html-blanc-de-pacs-2024",
+  "blockId": "file-2025-07-04-noble-selection-1.html",
+  "createdAt": "2025-07-04T00:00:00.000Z",
+  "name": "Blanc de Pacs 2024",
+  "description": null,
+  "price": "18,10$",
+  "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_par--s-balt---blanc-de-pacs-pened--s-2022.png",
+  "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4f28bbef0a&e=2c9a262afa",
+  "agence": "Noble Sélection",
+  "disponibilite": null,
+  "raw_data": {
+    "name": "Blanc de Pacs 2024",
+    "description": null,
+    "price": "18,10$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_par--s-balt---blanc-de-pacs-pened--s-2022.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4f28bbef0a&e=2c9a262afa",
+    "producer": "PARÉS BALTÀ",
+    "region": null,
+    "vintage": "2024",
+    "grape_varieties": null,
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": null,
+    "all_occurrences_raw_data": [
+      {
+        "name": "Blanc de Pacs 2024",
+        "description": null,
+        "price": "18,10$",
+        "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_par--s-balt---blanc-de-pacs-pened--s-2022.png",
+        "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4f28bbef0a&e=2c9a262afa",
+        "producer": "PARÉS BALTÀ",
+        "region": null,
+        "vintage": "2024",
+        "grape_varieties": null,
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": null
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}
