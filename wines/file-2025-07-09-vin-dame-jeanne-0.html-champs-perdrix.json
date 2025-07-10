@@ -1,0 +1,44 @@
+{
+  "id": "file-2025-07-09-vin-dame-jeanne-0.html-champs-perdrix",
+  "blockId": "file-2025-07-09-vin-dame-jeanne-0.html",
+  "createdAt": "2025-07-09T00:00:00.000Z",
+  "name": "Champs Perdrix",
+  "description": "Un vin magnifique! Un millésime éprouvant et très peu quantitatif, mais si racé, si concentré, si pur.",
+  "price": null,
+  "image_url": null,
+  "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=895f96a91c&e=345e10d07b",
+  "agence": "Vin Dame-Jeanne",
+  "disponibilite": "SAQ",
+  "raw_data": {
+    "name": "Champs Perdrix",
+    "description": "Un vin magnifique! Un millésime éprouvant et très peu quantitatif, mais si racé, si concentré, si pur.",
+    "price": null,
+    "image_url": null,
+    "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=895f96a91c&e=345e10d07b",
+    "producer": "Jean-Yves Devevey",
+    "region": "Entre Côte",
+    "vintage": "2021",
+    "grape_varieties": null,
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": "SAQ",
+    "all_occurrences_raw_data": [
+      {
+        "name": "Champs Perdrix",
+        "description": "Un vin magnifique! Un millésime éprouvant et très peu quantitatif, mais si racé, si concentré, si pur.",
+        "price": null,
+        "image_url": null,
+        "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=895f96a91c&e=345e10d07b",
+        "producer": "Jean-Yves Devevey",
+        "region": "Entre Côte",
+        "vintage": "2021",
+        "grape_varieties": null,
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": "SAQ"
+      }
+    ],
+    "agence_was_defaulted": false
+  },
+  "summary": "Champs Perdrix is a stunning wine from a challenging vintage, showcasing remarkable concentration and purity that speaks to its exceptional character. Each sip reveals the elegance and depth of this limited production gem."
+}

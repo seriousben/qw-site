@@ -1,0 +1,52 @@
+{
+  "id": "file-2025-07-10-planvin-0.html-blanko",
+  "blockId": "file-2025-07-10-planvin-0.html",
+  "createdAt": "2025-07-10T00:00:00.000Z",
+  "name": "Blanko",
+  "description": "Assemblage de garganega, malvasia istriana et moscato bianco issus de jeunes vignes. Ce vin est vinifié avec une courte macération pelliculaire et élevé uniquement en cuve béton. Le nez révèle des notes délicates de zeste de citron et de fleurs blanches. La bouche est vive et florale, offre une texture légère et désaltérante qui glisse toute seule sans jamais tomber dans l’excès.",
+  "price": "28,97 $",
+  "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/5b3eb673-53d1-ba4e-b41c-df651fdecade.png",
+  "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=68308ccebf&e=bc0729f8df",
+  "agence": "Planvin",
+  "disponibilite": null,
+  "raw_data": {
+    "name": "Blanko",
+    "description": "Assemblage de garganega, malvasia istriana et moscato bianco issus de jeunes vignes. Ce vin est vinifié avec une courte macération pelliculaire et élevé uniquement en cuve béton. Le nez révèle des notes délicates de zeste de citron et de fleurs blanches. La bouche est vive et florale, offre une texture légère et désaltérante qui glisse toute seule sans jamais tomber dans l’excès.",
+    "price": "28,97 $",
+    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/5b3eb673-53d1-ba4e-b41c-df651fdecade.png",
+    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=68308ccebf&e=bc0729f8df",
+    "producer": null,
+    "region": "VDT",
+    "vintage": null,
+    "grape_varieties": [
+      "garganega",
+      "malvasia istriana",
+      "moscato bianco"
+    ],
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": null,
+    "all_occurrences_raw_data": [
+      {
+        "name": "Blanko",
+        "description": "Assemblage de garganega, malvasia istriana et moscato bianco issus de jeunes vignes. Ce vin est vinifié avec une courte macération pelliculaire et élevé uniquement en cuve béton. Le nez révèle des notes délicates de zeste de citron et de fleurs blanches. La bouche est vive et florale, offre une texture légère et désaltérante qui glisse toute seule sans jamais tomber dans l’excès.",
+        "price": "28,97 $",
+        "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/5b3eb673-53d1-ba4e-b41c-df651fdecade.png",
+        "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=68308ccebf&e=bc0729f8df",
+        "producer": null,
+        "region": "VDT",
+        "vintage": null,
+        "grape_varieties": [
+          "garganega",
+          "malvasia istriana",
+          "moscato bianco"
+        ],
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": null
+      }
+    ],
+    "agence_was_defaulted": false
+  },
+  "summary": "Blanko is a delicate blend of Garganega, Malvasia Istriana, and Moscato Bianco, showcasing bright notes of lemon zest and white flowers. Its light, refreshing texture glides effortlessly, making it an enchanting choice for any occasion."
+}
