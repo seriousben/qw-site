@@ -8,7 +8,7 @@
   "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/c6faf39e-fd46-4747-9b28-248b2da3623e.png",
   "link": "https://ctrk.klclick.com/l/01JZDGYWJ4KJ5D3VPQ9JJSNJSC_12",
   "agence": "Le vin dans les voiles",
-  "disponibilite": "SAQ",
+  "disponibilite": null,
   "raw_data": {
     "name": "Gutturnio 2021, frizzante",
     "description": "Jamais a-t-on trouvé son égal au Québec. Ce rouge frizzante (pétillant!!!) du nord de l’Italie est un bijou : déroutant, plein de fruits, d’épices, de délicats tanins… Et ce pétillant qui rafraîchit tout sur son passage. À servir bien frais avec charcuteries, fromages ou tout ce qui va sur le grill. L’apéro à l’italienne pour tous!",
@@ -21,7 +21,7 @@
     "grape_varieties": null,
     "alcohol_content": null,
     "volume": null,
-    "disponibilite": "SAQ",
+    "disponibilite": null,
     "all_occurrences_raw_data": [
       {
         "name": "Gutturnio 2021, frizzante",
@@ -35,10 +35,10 @@
         "grape_varieties": null,
         "alcohol_content": null,
         "volume": null,
-        "disponibilite": "SAQ"
+        "disponibilite": null
       }
     ],
     "agence_was_defaulted": false
   },
-  "summary": "Gutturnio 2021, a sparkling red from Northern Italy, dazzles with its vibrant fruit, spices, and delicate tannins, offering a refreshing effervescence that enlivens any gathering. Serve chilled alongside charcuterie and grilled delights for an authentic Italian aperitivo experience."
+  "summary": "Gutturnio 2021 is an enchanting frizzante red from Northern Italy, bursting with fruit and spice, its refreshing effervescence making it the perfect companion for charcuterie and grilled delights."
 }
