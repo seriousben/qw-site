@@ -16,10 +16,10 @@
     "image_url": null,
     "link": null,
     "producer": null,
-    "region": null,
+    "region": "VDF",
     "vintage": "2024",
     "grape_varieties": [
-      "folle blanche"
+      "Folle Blanche"
     ],
     "alcohol_content": null,
     "volume": null,
@@ -32,10 +32,10 @@
         "image_url": null,
         "link": null,
         "producer": null,
-        "region": null,
+        "region": "VDF",
         "vintage": "2024",
         "grape_varieties": [
-          "folle blanche"
+          "Folle Blanche"
         ],
         "alcohol_content": null,
         "volume": null,
@@ -44,5 +44,5 @@
     ],
     "agence_was_defaulted": false
   },
-  "summary": "La Part du Colibri - Folle Blanche 2024 is a pale, vibrant white from 40-year-old vines, showcasing a refreshing minerality and a lively tension that defines its character."
+  "summary": "La Part du Colibri - Folle Blanche 2024 presents a pale green hue and a vibrant profile, showcasing the minerality and freshness characteristic of its 40-year-old vines."
 }
