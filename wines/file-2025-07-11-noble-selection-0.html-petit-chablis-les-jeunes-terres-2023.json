@@ -22,7 +22,7 @@
       "Chardonnay"
     ],
     "alcohol_content": "12.5%",
-    "volume": null,
+    "volume": "750ml",
     "disponibilite": null,
     "all_occurrences_raw_data": [
       {
@@ -38,11 +38,11 @@
           "Chardonnay"
         ],
         "alcohol_content": "12.5%",
-        "volume": null,
+        "volume": "750ml",
         "disponibilite": null
       }
     ],
     "agence_was_defaulted": false
   },
-  "summary": "Petit Chablis Les Jeunes Terres 2023 showcases the purity of Chardonnay through traditional vinification, resulting in a fresh, rounded wine with complex aromas and a true expression of its terroir."
+  "summary": "Petit Chablis \"Les Jeunes Terres\" 2023 embodies traditional winemaking to preserve the purity of fruit and terroir, resulting in a fresh Chardonnay with roundness and complexity from fine lees aging."
 }

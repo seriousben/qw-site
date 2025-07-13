@@ -1,0 +1,44 @@
+{
+  "id": "file-2025-07-12-le-vin-dans-les-voiles-0.html-chablis-1er-cru-montmains-2021-domaine-duplessis",
+  "blockId": "file-2025-07-12-le-vin-dans-les-voiles-0.html",
+  "createdAt": "2025-07-12T00:00:00.000Z",
+  "name": "Chablis 1er Cru Montmains 2021 – Domaine Duplessis",
+  "description": "Solide comme Johnny, tendre comme son regard. Ce grand blanc, c’est du Chablis qui ne se presse pas. Il attend son moment, sûr de sa présence. Deux petites parcelles sur sol argilo-calcaire, un vin concentré, droit, précis — il a les épaules pour porter la soirée, et la douceur qu’on découvre à la deuxième gorgée. À sortir quand les voix montent autour de la table, que le soleil traîne sur les pierres chaudes, et que tout le monde oublie l’heure. Ou à garder bien au frais, comme une chanson qu’on remet pour une grande occasion. Ce genre de vin qui peut patienter quinze ans… mais qu’on a souvent envie d’ouvrir plus tôt.",
+  "price": "74.75$",
+  "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/28001e3d-4353-45a2-a6b4-d291c6e5bdc8.png",
+  "link": null,
+  "agence": "Le vin dans les voiles",
+  "disponibilite": "SAQ",
+  "raw_data": {
+    "name": "Chablis 1er Cru Montmains 2021 – Domaine Duplessis",
+    "description": "Solide comme Johnny, tendre comme son regard. Ce grand blanc, c’est du Chablis qui ne se presse pas. Il attend son moment, sûr de sa présence. Deux petites parcelles sur sol argilo-calcaire, un vin concentré, droit, précis — il a les épaules pour porter la soirée, et la douceur qu’on découvre à la deuxième gorgée. À sortir quand les voix montent autour de la table, que le soleil traîne sur les pierres chaudes, et que tout le monde oublie l’heure. Ou à garder bien au frais, comme une chanson qu’on remet pour une grande occasion. Ce genre de vin qui peut patienter quinze ans… mais qu’on a souvent envie d’ouvrir plus tôt.",
+    "price": "74.75$",
+    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/28001e3d-4353-45a2-a6b4-d291c6e5bdc8.png",
+    "link": null,
+    "producer": "Domaine Duplessis",
+    "region": "Chablis",
+    "vintage": "2021",
+    "grape_varieties": null,
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": "SAQ",
+    "all_occurrences_raw_data": [
+      {
+        "name": "Chablis 1er Cru Montmains 2021 – Domaine Duplessis",
+        "description": "Solide comme Johnny, tendre comme son regard. Ce grand blanc, c’est du Chablis qui ne se presse pas. Il attend son moment, sûr de sa présence. Deux petites parcelles sur sol argilo-calcaire, un vin concentré, droit, précis — il a les épaules pour porter la soirée, et la douceur qu’on découvre à la deuxième gorgée. À sortir quand les voix montent autour de la table, que le soleil traîne sur les pierres chaudes, et que tout le monde oublie l’heure. Ou à garder bien au frais, comme une chanson qu’on remet pour une grande occasion. Ce genre de vin qui peut patienter quinze ans… mais qu’on a souvent envie d’ouvrir plus tôt.",
+        "price": "74.75$",
+        "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/28001e3d-4353-45a2-a6b4-d291c6e5bdc8.png",
+        "link": null,
+        "producer": "Domaine Duplessis",
+        "region": "Chablis",
+        "vintage": "2021",
+        "grape_varieties": null,
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": "SAQ"
+      }
+    ],
+    "agence_was_defaulted": false
+  },
+  "summary": "Chablis 1er Cru Montmains 2021 is a concentrated and precise wine from two small parcels, embodying both strength and softness, perfect for memorable gatherings or special occasions."
+}

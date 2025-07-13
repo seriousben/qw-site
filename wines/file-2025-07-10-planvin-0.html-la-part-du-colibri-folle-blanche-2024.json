@@ -15,11 +15,11 @@
     "price": "29,91 $",
     "image_url": null,
     "link": null,
-    "producer": null,
-    "region": "VDF",
+    "producer": "Domaine Le Fay d'Homme",
+    "region": null,
     "vintage": "2024",
     "grape_varieties": [
-      "Folle Blanche"
+      "Folle blanche"
     ],
     "alcohol_content": null,
     "volume": null,
@@ -31,11 +31,11 @@
         "price": "29,91 $",
         "image_url": null,
         "link": null,
-        "producer": null,
-        "region": "VDF",
+        "producer": "Domaine Le Fay d'Homme",
+        "region": null,
         "vintage": "2024",
         "grape_varieties": [
-          "Folle Blanche"
+          "Folle blanche"
         ],
         "alcohol_content": null,
         "volume": null,
@@ -44,5 +44,5 @@
     ],
     "agence_was_defaulted": false
   },
-  "summary": "La Part du Colibri - Folle Blanche 2024 presents a pale green hue and a vibrant profile, showcasing the minerality and freshness characteristic of its 40-year-old vines."
+  "summary": "La Part du Colibri - Folle Blanche 2024 presents a pale green hue and showcases the grape's characteristic freshness and nerve, enhanced by mineral notes from its 40-year-old vines."
 }
