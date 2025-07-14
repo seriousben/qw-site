@@ -1,0 +1,48 @@
+{
+  "id": "file-2025-07-10-planvin-0.html-vdf-lbl-2023",
+  "blockId": "file-2025-07-10-planvin-0.html",
+  "createdAt": "2025-07-10T00:00:00.000Z",
+  "name": "VDF - LBL 2023",
+  "description": "LBL, un vin blanc issu de très vieilles vignes de sauvignon isolées pour révéler toute la finesse du terroir. Il déploie une palette aromatique riche et complexe, mêlant fruits blancs, fleurs sauvages et agrumes (pamplemousse), tout en échappant au caractère variétal parfois trop marqué du sauvignon. La bouche est fraîche, fruitée, longue, tendue par une fine minéralité calcaire.",
+  "price": "62,55 $",
+  "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/7f932926-0592-92ce-45a0-9475d0f4261a.jpg",
+  "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=95273c22a6&e=bc0729f8df",
+  "agence": "Planvin",
+  "disponibilite": "SAQ",
+  "raw_data": {
+    "name": "VDF - LBL 2023",
+    "description": "LBL, un vin blanc issu de très vieilles vignes de sauvignon isolées pour révéler toute la finesse du terroir. Il déploie une palette aromatique riche et complexe, mêlant fruits blancs, fleurs sauvages et agrumes (pamplemousse), tout en échappant au caractère variétal parfois trop marqué du sauvignon. La bouche est fraîche, fruitée, longue, tendue par une fine minéralité calcaire.",
+    "price": "62,55 $",
+    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/7f932926-0592-92ce-45a0-9475d0f4261a.jpg",
+    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=95273c22a6&e=bc0729f8df",
+    "producer": "Noëlla Morantin",
+    "region": null,
+    "vintage": "2023",
+    "grape_varieties": [
+      "sauvignon"
+    ],
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": "SAQ",
+    "all_occurrences_raw_data": [
+      {
+        "name": "VDF - LBL 2023",
+        "description": "LBL, un vin blanc issu de très vieilles vignes de sauvignon isolées pour révéler toute la finesse du terroir. Il déploie une palette aromatique riche et complexe, mêlant fruits blancs, fleurs sauvages et agrumes (pamplemousse), tout en échappant au caractère variétal parfois trop marqué du sauvignon. La bouche est fraîche, fruitée, longue, tendue par une fine minéralité calcaire.",
+        "price": "62,55 $",
+        "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/7f932926-0592-92ce-45a0-9475d0f4261a.jpg",
+        "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=95273c22a6&e=bc0729f8df",
+        "producer": "Noëlla Morantin",
+        "region": null,
+        "vintage": "2023",
+        "grape_varieties": [
+          "sauvignon"
+        ],
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": "SAQ"
+      }
+    ],
+    "agence_was_defaulted": false
+  },
+  "summary": "LBL 2023, crafted from ancient Sauvignon vines, reveals a rich aromatic palette of white fruits, wildflowers, and grapefruit, with a fresh, fruity palate that showcases a delicate limestone minerality."
+}
