@@ -3,7 +3,7 @@
   "blockId": "file-2025-07-10-planvin-0.html",
   "createdAt": "2025-07-10T00:00:00.000Z",
   "name": "VDF - La Part du Colibri - Folle Blanche 2024",
-  "description": null,
+  "description": "Folle blanche issue de vignes de 40 ans plantées sur des gabbros à Monnières. Un blanc pâle aux reflets verts, typique du cépage. Sec, frais et nerveux, avec une belle tension et des notes minérales en filigrane.",
   "price": "29,91 $",
   "image_url": null,
   "link": null,
@@ -11,7 +11,7 @@
   "disponibilite": null,
   "raw_data": {
     "name": "VDF - La Part du Colibri - Folle Blanche 2024",
-    "description": null,
+    "description": "Folle blanche issue de vignes de 40 ans plantées sur des gabbros à Monnières. Un blanc pâle aux reflets verts, typique du cépage. Sec, frais et nerveux, avec une belle tension et des notes minérales en filigrane.",
     "price": "29,91 $",
     "image_url": null,
     "link": null,
@@ -27,7 +27,7 @@
     "all_occurrences_raw_data": [
       {
         "name": "VDF - La Part du Colibri - Folle Blanche 2024",
-        "description": null,
+        "description": "Folle blanche issue de vignes de 40 ans plantées sur des gabbros à Monnières. Un blanc pâle aux reflets verts, typique du cépage. Sec, frais et nerveux, avec une belle tension et des notes minérales en filigrane.",
         "price": "29,91 $",
         "image_url": null,
         "link": null,
@@ -43,5 +43,6 @@
       }
     ],
     "agence_was_defaulted": false
-  }
+  },
+  "summary": "La Part du Colibri - Folle Blanche 2024 is a pale white with green reflections, showcasing the essence of its 40-year-old vines with a refreshing, nervy character and delicate mineral notes."
 }
