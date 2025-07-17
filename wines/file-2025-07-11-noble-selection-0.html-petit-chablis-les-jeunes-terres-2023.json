@@ -22,7 +22,7 @@
       "Chardonnay"
     ],
     "alcohol_content": "12.5%",
-    "volume": "750ml",
+    "volume": null,
     "disponibilite": null,
     "all_occurrences_raw_data": [
       {
@@ -38,11 +38,11 @@
           "Chardonnay"
         ],
         "alcohol_content": "12.5%",
-        "volume": "750ml",
+        "volume": null,
         "disponibilite": null
       }
     ],
     "agence_was_defaulted": false
   },
-  "summary": "Petit Chablis Les Jeunes Terres 2023, vinifié avec soin, préserve la pureté du fruit et l’expression du terroir, offrant des arômes frais de Chardonnay. Son élevage sur lies fines lui confère rondeur et complexité, promettant une expérience raffinée."
+  "summary": "Le Petit Chablis \"Les Jeunes Terres\" 2023 de Jean-Marc Brocard révèle la pureté du Chardonnay à travers une vinification traditionnelle, offrant une complexité et une rondeur captivantes grâce à un élevage sur lies fines en cuves inox."
 }
