@@ -1,0 +1,50 @@
+{
+  "id": "file-2025-07-17-planvin-0.html-igp-vin-du-quebec-batard-rose",
+  "blockId": "file-2025-07-17-planvin-0.html",
+  "createdAt": "2025-07-17T00:00:00.000Z",
+  "name": "IGP Vin du Québec - Bâtard rosé",
+  "description": "Pinot noir et gamay en rosé de saignée, issus des parcelles la Cache et la Brèche, avec un élevage de 6 mois en fûts neutres. Léger, frais, avec un joli fruit. Un rosé vibrant et désinvolte, fidèle à l’esprit Batard.",
+  "price": "26,75 $",
+  "image_url": null,
+  "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=753b052aa5&e=bc0729f8df",
+  "agence": "Planvin",
+  "disponibilite": null,
+  "raw_data": {
+    "name": "IGP Vin du Québec - Bâtard rosé",
+    "description": "Pinot noir et gamay en rosé de saignée, issus des parcelles la Cache et la Brèche, avec un élevage de 6 mois en fûts neutres. Léger, frais, avec un joli fruit. Un rosé vibrant et désinvolte, fidèle à l’esprit Batard.",
+    "price": "26,75 $",
+    "image_url": null,
+    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=753b052aa5&e=bc0729f8df",
+    "producer": null,
+    "region": "Québec",
+    "vintage": null,
+    "grape_varieties": [
+      "Pinot noir",
+      "Gamay"
+    ],
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": null,
+    "all_occurrences_raw_data": [
+      {
+        "name": "IGP Vin du Québec - Bâtard rosé",
+        "description": "Pinot noir et gamay en rosé de saignée, issus des parcelles la Cache et la Brèche, avec un élevage de 6 mois en fûts neutres. Léger, frais, avec un joli fruit. Un rosé vibrant et désinvolte, fidèle à l’esprit Batard.",
+        "price": "26,75 $",
+        "image_url": null,
+        "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=753b052aa5&e=bc0729f8df",
+        "producer": null,
+        "region": "Québec",
+        "vintage": null,
+        "grape_varieties": [
+          "Pinot noir",
+          "Gamay"
+        ],
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": null
+      }
+    ],
+    "agence_was_defaulted": false
+  },
+  "summary": "Le Bâtard rosé, un assemblage de Pinot Noir et Gamay, se distingue par sa légèreté et sa fraîcheur, offrant un fruité vibrant et désinvolte. Un rosé qui incarne l'esprit libre et joyeux du Québec."
+}
