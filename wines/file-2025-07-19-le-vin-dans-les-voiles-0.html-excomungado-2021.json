@@ -1,0 +1,44 @@
+{
+  "id": "file-2025-07-19-le-vin-dans-les-voiles-0.html-excomungado-2021",
+  "blockId": "file-2025-07-19-le-vin-dans-les-voiles-0.html",
+  "createdAt": "2025-07-19T00:00:00.000Z",
+  "name": "Excomungado 2021",
+  "description": "Il vient du Douro, mais oublie les stéréotypes : tout inox, zéro bois, 100 % croquant. Ce rouge souple et juteux débarque comme un plan de dernière minute qui s’avère être le meilleur de l’été. Cerise mûre, fraîcheur, buvabilité totale. À servir légèrement frais, entre ami·e·s qui aiment quand les choses dérapent juste ce qu’il faut. Un vin qui fait son propre chemin, comme Louise après le premier virage.",
+  "price": "18.35$",
+  "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/e4a65c37-f321-4d05-9908-264b7a9e5104.jpeg",
+  "link": null,
+  "agence": "Le vin dans les voiles",
+  "disponibilite": null,
+  "raw_data": {
+    "name": "Excomungado 2021",
+    "description": "Il vient du Douro, mais oublie les stéréotypes : tout inox, zéro bois, 100 % croquant. Ce rouge souple et juteux débarque comme un plan de dernière minute qui s’avère être le meilleur de l’été. Cerise mûre, fraîcheur, buvabilité totale. À servir légèrement frais, entre ami·e·s qui aiment quand les choses dérapent juste ce qu’il faut. Un vin qui fait son propre chemin, comme Louise après le premier virage.",
+    "price": "18.35$",
+    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/e4a65c37-f321-4d05-9908-264b7a9e5104.jpeg",
+    "link": null,
+    "producer": null,
+    "region": "Douro",
+    "vintage": "2021",
+    "grape_varieties": null,
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": null,
+    "all_occurrences_raw_data": [
+      {
+        "name": "Excomungado 2021",
+        "description": "Il vient du Douro, mais oublie les stéréotypes : tout inox, zéro bois, 100 % croquant. Ce rouge souple et juteux débarque comme un plan de dernière minute qui s’avère être le meilleur de l’été. Cerise mûre, fraîcheur, buvabilité totale. À servir légèrement frais, entre ami·e·s qui aiment quand les choses dérapent juste ce qu’il faut. Un vin qui fait son propre chemin, comme Louise après le premier virage.",
+        "price": "18.35$",
+        "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/e4a65c37-f321-4d05-9908-264b7a9e5104.jpeg",
+        "link": null,
+        "producer": null,
+        "region": "Douro",
+        "vintage": "2021",
+        "grape_varieties": null,
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": null
+      }
+    ],
+    "agence_was_defaulted": false
+  },
+  "summary": "Excomungado 2021 defies expectations with its stainless steel purity, delivering a juicy, easy-drinking red that surprises and delights with every sip."
+}
