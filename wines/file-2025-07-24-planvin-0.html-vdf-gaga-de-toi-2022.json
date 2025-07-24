@@ -1,0 +1,51 @@
+{
+  "id": "file-2025-07-24-planvin-0.html-vdf-gaga-de-toi-2022",
+  "blockId": "file-2025-07-24-planvin-0.html",
+  "createdAt": "2025-07-24T00:00:00.000Z",
+  "name": "VDF - Gaga de toi 2022",
+  "description": "Gaga de Toi est un assemblage à parts égales de gamay, pinot noir et pineau d’aunis. C’est un vin plein d’énergie, aux accents de fleur d’hibiscus, de sumac, de poivre blanc et de notes herbacées. Un rouge souple, gourmand et joyeux qui fait l’unanimité.",
+  "price": "38,71 $",
+  "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/f532f7ac-ef96-8a15-e282-96f02bd488a3.png",
+  "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8597f95ff8&e=bc0729f8df",
+  "agence": "Planvin",
+  "disponibilite": null,
+  "raw_data": {
+    "name": "VDF - Gaga de toi 2022",
+    "description": "Gaga de Toi est un assemblage à parts égales de gamay, pinot noir et pineau d’aunis. C’est un vin plein d’énergie, aux accents de fleur d’hibiscus, de sumac, de poivre blanc et de notes herbacées. Un rouge souple, gourmand et joyeux qui fait l’unanimité.",
+    "price": "38,71 $",
+    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/f532f7ac-ef96-8a15-e282-96f02bd488a3.png",
+    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8597f95ff8&e=bc0729f8df",
+    "producer": "Ariane & Co",
+    "region": "Coteaux du Vendômois",
+    "vintage": "2022",
+    "grape_varieties": [
+      "gamay",
+      "pinot noir",
+      "pineau d’aunis"
+    ],
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": null,
+    "all_occurrences_raw_data": [
+      {
+        "name": "VDF - Gaga de toi 2022",
+        "description": "Gaga de Toi est un assemblage à parts égales de gamay, pinot noir et pineau d’aunis. C’est un vin plein d’énergie, aux accents de fleur d’hibiscus, de sumac, de poivre blanc et de notes herbacées. Un rouge souple, gourmand et joyeux qui fait l’unanimité.",
+        "price": "38,71 $",
+        "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/f532f7ac-ef96-8a15-e282-96f02bd488a3.png",
+        "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8597f95ff8&e=bc0729f8df",
+        "producer": "Ariane & Co",
+        "region": "Coteaux du Vendômois",
+        "vintage": "2022",
+        "grape_varieties": [
+          "gamay",
+          "pinot noir",
+          "pineau d’aunis"
+        ],
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": null
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}

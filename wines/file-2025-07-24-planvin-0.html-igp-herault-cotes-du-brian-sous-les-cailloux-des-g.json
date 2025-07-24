@@ -1,0 +1,55 @@
+{
+  "id": "file-2025-07-24-planvin-0.html-igp-herault-cotes-du-brian-sous-les-cailloux-des-g",
+  "blockId": "file-2025-07-24-planvin-0.html",
+  "createdAt": "2025-07-24T00:00:00.000Z",
+  "name": "IGP Hérault Côtes du Brian, Sous les Cailloux des Grillons",
+  "description": "On adore ce vin à la personnalité unique, qui convient à toute situation. Assemblage, tenez-vous bien, de: syrah, carignan, grenache, terret noir et cabernet sauvignon. Notes de petits fruits noirs, d'anis et de garrigue. Le vin a juste ce qu'il faut de structure tout en étant friand, frais et digeste.",
+  "price": "33,58$",
+  "image_url": null,
+  "link": null,
+  "agence": "Planvin",
+  "disponibilite": null,
+  "raw_data": {
+    "name": "IGP Hérault Côtes du Brian, Sous les Cailloux des Grillons",
+    "description": "On adore ce vin à la personnalité unique, qui convient à toute situation. Assemblage, tenez-vous bien, de: syrah, carignan, grenache, terret noir et cabernet sauvignon. Notes de petits fruits noirs, d'anis et de garrigue. Le vin a juste ce qu'il faut de structure tout en étant friand, frais et digeste.",
+    "price": "33,58$",
+    "image_url": null,
+    "link": null,
+    "producer": "Clos du Gravillas",
+    "region": "Hérault",
+    "vintage": null,
+    "grape_varieties": [
+      "syrah",
+      "carignan",
+      "grenache",
+      "terret noir",
+      "cabernet sauvignon"
+    ],
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": null,
+    "all_occurrences_raw_data": [
+      {
+        "name": "IGP Hérault Côtes du Brian, Sous les Cailloux des Grillons",
+        "description": "On adore ce vin à la personnalité unique, qui convient à toute situation. Assemblage, tenez-vous bien, de: syrah, carignan, grenache, terret noir et cabernet sauvignon. Notes de petits fruits noirs, d'anis et de garrigue. Le vin a juste ce qu'il faut de structure tout en étant friand, frais et digeste.",
+        "price": "33,58$",
+        "image_url": null,
+        "link": null,
+        "producer": "Clos du Gravillas",
+        "region": "Hérault",
+        "vintage": null,
+        "grape_varieties": [
+          "syrah",
+          "carignan",
+          "grenache",
+          "terret noir",
+          "cabernet sauvignon"
+        ],
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": null
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}

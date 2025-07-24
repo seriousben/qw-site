@@ -1,0 +1,47 @@
+{
+  "id": "file-2025-07-24-planvin-0.html-vdf-stella-maris-2023",
+  "blockId": "file-2025-07-24-planvin-0.html",
+  "createdAt": "2025-07-24T00:00:00.000Z",
+  "name": "VdF - Stella Maris 2023",
+  "description": "Le Stella Maris est issu de sauvignon sur sols argilo-siliceux et sous-sol calcaire. Vinifié et élevé sur lies pendant un an en cuves de fibres de verre. Il séduit par ses arômes de pommette, de pêche blanche et sa franche minéralité. En bouche, une acidité vive porte des notes d’agrumes et une légère touche miellée, pour une finale fraîche et persistante.",
+  "price": "37,96$",
+  "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/b92736a3-2c50-1977-ad1b-60b1edc0c3f0.jpeg",
+  "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8732ef0ad4&e=bc0729f8df",
+  "agence": "Planvin",
+  "disponibilite": "SAQ",
+  "raw_data": {
+    "name": "VdF - Stella Maris 2023",
+    "description": "Le Stella Maris est issu de sauvignon sur sols argilo-siliceux et sous-sol calcaire. Vinifié et élevé sur lies pendant un an en cuves de fibres de verre. Il séduit par ses arômes de pommette, de pêche blanche et sa franche minéralité. En bouche, une acidité vive porte des notes d’agrumes et une légère touche miellée, pour une finale fraîche et persistante.",
+    "price": "37,96$",
+    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/b92736a3-2c50-1977-ad1b-60b1edc0c3f0.jpeg",
+    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8732ef0ad4&e=bc0729f8df",
+    "producer": "Noëlla Morantin",
+    "region": "Touraine",
+    "vintage": "2023",
+    "grape_varieties": [
+      "sauvignon"
+    ],
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": "SAQ",
+    "all_occurrences_raw_data": [
+      {
+        "name": "VdF - Stella Maris 2023",
+        "description": "Le Stella Maris est issu de sauvignon sur sols argilo-siliceux et sous-sol calcaire. Vinifié et élevé sur lies pendant un an en cuves de fibres de verre. Il séduit par ses arômes de pommette, de pêche blanche et sa franche minéralité. En bouche, une acidité vive porte des notes d’agrumes et une légère touche miellée, pour une finale fraîche et persistante.",
+        "price": "37,96$",
+        "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/b92736a3-2c50-1977-ad1b-60b1edc0c3f0.jpeg",
+        "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8732ef0ad4&e=bc0729f8df",
+        "producer": "Noëlla Morantin",
+        "region": "Touraine",
+        "vintage": "2023",
+        "grape_varieties": [
+          "sauvignon"
+        ],
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": "SAQ"
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}
