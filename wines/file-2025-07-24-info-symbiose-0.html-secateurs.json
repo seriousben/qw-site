@@ -1,0 +1,47 @@
+{
+  "id": "file-2025-07-24-info-symbiose-0.html-secateurs",
+  "blockId": "file-2025-07-24-info-symbiose-0.html",
+  "createdAt": "2025-07-24T00:00:00.000Z",
+  "name": "Sécateurs",
+  "description": "LE SECATEURS CHENIN BLANC EST EN PROMO POUR LES PROCHAINES 2 SEMAINES ! Jusqu’au 3 août, ce superbe Chenin Blanc signé Adi Badenhorst sera à prix réduit à la SAQ, une occasion parfaite pour découvrir ce vin vibrant et raffiné idéal pour l’été. Avec ses arômes de pomme, poire, citron confit et fleurs blanches, sa belle acidité et sa bouche généreuse, c’est le blanc idéal pour l’apéro ou les repas dans la cour.",
+  "price": "19,95 $",
+  "image_url": "https://img_a1000004144.centrixmail.com/fr/att.awp?ida=EeVju4xMTEiJ1Ag7qrEijg&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=nLv1upq9f0aeySfFCWlNWOBwsjsGoUO2-tvfXMtbTmY",
+  "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=1302&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=A7-XKSdli60RgF-7thDgvQRq9KZlfhFXD852YqSxW-8",
+  "agence": "Info Symbiose",
+  "disponibilite": "SAQ",
+  "raw_data": {
+    "name": "Sécateurs",
+    "description": "LE SECATEURS CHENIN BLANC EST EN PROMO POUR LES PROCHAINES 2 SEMAINES ! Jusqu’au 3 août, ce superbe Chenin Blanc signé Adi Badenhorst sera à prix réduit à la SAQ, une occasion parfaite pour découvrir ce vin vibrant et raffiné idéal pour l’été. Avec ses arômes de pomme, poire, citron confit et fleurs blanches, sa belle acidité et sa bouche généreuse, c’est le blanc idéal pour l’apéro ou les repas dans la cour.",
+    "price": "19,95 $",
+    "image_url": "https://img_a1000004144.centrixmail.com/fr/att.awp?ida=EeVju4xMTEiJ1Ag7qrEijg&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=nLv1upq9f0aeySfFCWlNWOBwsjsGoUO2-tvfXMtbTmY",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=1302&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=A7-XKSdli60RgF-7thDgvQRq9KZlfhFXD852YqSxW-8",
+    "producer": "AA Badenhorst",
+    "region": "Swartland — Afrique du Sud",
+    "vintage": null,
+    "grape_varieties": [
+      "Chenin blanc"
+    ],
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": "SAQ",
+    "all_occurrences_raw_data": [
+      {
+        "name": "Sécateurs",
+        "description": "LE SECATEURS CHENIN BLANC EST EN PROMO POUR LES PROCHAINES 2 SEMAINES ! Jusqu’au 3 août, ce superbe Chenin Blanc signé Adi Badenhorst sera à prix réduit à la SAQ, une occasion parfaite pour découvrir ce vin vibrant et raffiné idéal pour l’été. Avec ses arômes de pomme, poire, citron confit et fleurs blanches, sa belle acidité et sa bouche généreuse, c’est le blanc idéal pour l’apéro ou les repas dans la cour.",
+        "price": "19,95 $",
+        "image_url": "https://img_a1000004144.centrixmail.com/fr/att.awp?ida=EeVju4xMTEiJ1Ag7qrEijg&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=nLv1upq9f0aeySfFCWlNWOBwsjsGoUO2-tvfXMtbTmY",
+        "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=1302&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=A7-XKSdli60RgF-7thDgvQRq9KZlfhFXD852YqSxW-8",
+        "producer": "AA Badenhorst",
+        "region": "Swartland — Afrique du Sud",
+        "vintage": null,
+        "grape_varieties": [
+          "Chenin blanc"
+        ],
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": "SAQ"
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}

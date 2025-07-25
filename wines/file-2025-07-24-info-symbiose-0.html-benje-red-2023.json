@@ -1,0 +1,47 @@
+{
+  "id": "file-2025-07-24-info-symbiose-0.html-benje-red-2023",
+  "blockId": "file-2025-07-24-info-symbiose-0.html",
+  "createdAt": "2025-07-24T00:00:00.000Z",
+  "name": "Benje Red 2023",
+  "description": "Laissez-vous séduire par la touche épicée en prenant soin au préalable d’avoir rafraîchi la bouteille. Superbe avec quelques tranches de rosette de Lyon ou encore avec du poulet grillé mariné à l’huile d’olive et aux fines herbes.",
+  "price": "33,00 $",
+  "image_url": "https://www.saq.com/media/catalog/product/1/4/14993728-1_1681938785.png",
+  "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2163&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=3P88sa-Exvd1Pvbly3FZmJD7HyMJiL6v2LhgYmqICR8",
+  "agence": "Info Symbiose",
+  "disponibilite": "SAQ",
+  "raw_data": {
+    "name": "Benje Red 2023",
+    "description": "Laissez-vous séduire par la touche épicée en prenant soin au préalable d’avoir rafraîchi la bouteille. Superbe avec quelques tranches de rosette de Lyon ou encore avec du poulet grillé mariné à l’huile d’olive et aux fines herbes.",
+    "price": "33,00 $",
+    "image_url": "https://www.saq.com/media/catalog/product/1/4/14993728-1_1681938785.png",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2163&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=3P88sa-Exvd1Pvbly3FZmJD7HyMJiL6v2LhgYmqICR8",
+    "producer": "Envinate",
+    "region": "Les Iles Canaries — Espagne",
+    "vintage": "2023",
+    "grape_varieties": [
+      "Autres cépages"
+    ],
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": "SAQ",
+    "all_occurrences_raw_data": [
+      {
+        "name": "Benje Red 2023",
+        "description": "Laissez-vous séduire par la touche épicée en prenant soin au préalable d’avoir rafraîchi la bouteille. Superbe avec quelques tranches de rosette de Lyon ou encore avec du poulet grillé mariné à l’huile d’olive et aux fines herbes.",
+        "price": "33,00 $",
+        "image_url": "https://www.saq.com/media/catalog/product/1/4/14993728-1_1681938785.png",
+        "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2163&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=3P88sa-Exvd1Pvbly3FZmJD7HyMJiL6v2LhgYmqICR8",
+        "producer": "Envinate",
+        "region": "Les Iles Canaries — Espagne",
+        "vintage": "2023",
+        "grape_varieties": [
+          "Autres cépages"
+        ],
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": "SAQ"
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}

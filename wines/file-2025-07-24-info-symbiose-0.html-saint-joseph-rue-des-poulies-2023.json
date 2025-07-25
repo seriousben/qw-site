@@ -1,0 +1,47 @@
+{
+  "id": "file-2025-07-24-info-symbiose-0.html-saint-joseph-rue-des-poulies-2023",
+  "blockId": "file-2025-07-24-info-symbiose-0.html",
+  "createdAt": "2025-07-24T00:00:00.000Z",
+  "name": "Saint-Joseph Rue des Poulies 2023",
+  "description": "Cette syrah est issue de terroirs granitiques en coteaux, où s'épanouissent un beau fruit noir et rouge, des épices et une belle minéralité. Le vin est ample, complexe et la trame élégante grâce à un élevage maîtrisé, tannique pourtant souple.",
+  "price": "54,00 $",
+  "image_url": "https://www.saq.com/media/catalog/product/1/4/14954041-1_1652712945.png",
+  "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2065&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=1yLnnyQyIaRRtj9a-YhBD_c2dQmeMrfjwjidw45r70M",
+  "agence": "Info Symbiose",
+  "disponibilite": "SAQ",
+  "raw_data": {
+    "name": "Saint-Joseph Rue des Poulies 2023",
+    "description": "Cette syrah est issue de terroirs granitiques en coteaux, où s'épanouissent un beau fruit noir et rouge, des épices et une belle minéralité. Le vin est ample, complexe et la trame élégante grâce à un élevage maîtrisé, tannique pourtant souple.",
+    "price": "54,00 $",
+    "image_url": "https://www.saq.com/media/catalog/product/1/4/14954041-1_1652712945.png",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2065&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=1yLnnyQyIaRRtj9a-YhBD_c2dQmeMrfjwjidw45r70M",
+    "producer": "Famille De Boel",
+    "region": "Vallée du Rhône — France",
+    "vintage": "2023",
+    "grape_varieties": [
+      "Syrah"
+    ],
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": "SAQ",
+    "all_occurrences_raw_data": [
+      {
+        "name": "Saint-Joseph Rue des Poulies 2023",
+        "description": "Cette syrah est issue de terroirs granitiques en coteaux, où s'épanouissent un beau fruit noir et rouge, des épices et une belle minéralité. Le vin est ample, complexe et la trame élégante grâce à un élevage maîtrisé, tannique pourtant souple.",
+        "price": "54,00 $",
+        "image_url": "https://www.saq.com/media/catalog/product/1/4/14954041-1_1652712945.png",
+        "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2065&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=1yLnnyQyIaRRtj9a-YhBD_c2dQmeMrfjwjidw45r70M",
+        "producer": "Famille De Boel",
+        "region": "Vallée du Rhône — France",
+        "vintage": "2023",
+        "grape_varieties": [
+          "Syrah"
+        ],
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": "SAQ"
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}
