@@ -1,0 +1,43 @@
+{
+  "id": "file-2025-07-25-vin-dame-jeanne-0.html-hautes-cotes-de-beaune-rouge",
+  "blockId": "file-2025-07-25-vin-dame-jeanne-0.html",
+  "createdAt": "2025-07-25T00:00:00.000Z",
+  "name": "Hautes-Côtes-de-Beaune Rouge",
+  "description": "D’un clone très spécial de Pinot Noir, ‘Pommard Clos des Épenots’, planté dans les Hautes Côtes de Beaune à 420m d’altitude, sur argiles rouges et calcaire, et un plateau calcaire très proche de la surface. Macération en grappe entière pour la moitié des raisins, et élevage en vieilles barriques pendant un an.",
+  "price": "83.44$",
+  "image_url": null,
+  "link": null,
+  "agence": "Vin Dame-Jeanne",
+  "disponibilite": "Importation Privée",
+  "raw_data": {
+    "name": "Hautes-Côtes-de-Beaune Rouge",
+    "description": "D’un clone très spécial de Pinot Noir, ‘Pommard Clos des Épenots’, planté dans les Hautes Côtes de Beaune à 420m d’altitude, sur argiles rouges et calcaire, et un plateau calcaire très proche de la surface. Macération en grappe entière pour la moitié des raisins, et élevage en vieilles barriques pendant un an.",
+    "price": "83.44$",
+    "image_url": null,
+    "link": null,
+    "producer": null,
+    "region": null,
+    "vintage": "2022",
+    "grape_varieties": null,
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": "Importation Privée",
+    "all_occurrences_raw_data": [
+      {
+        "name": "Hautes-Côtes-de-Beaune Rouge",
+        "description": "D’un clone très spécial de Pinot Noir, ‘Pommard Clos des Épenots’, planté dans les Hautes Côtes de Beaune à 420m d’altitude, sur argiles rouges et calcaire, et un plateau calcaire très proche de la surface. Macération en grappe entière pour la moitié des raisins, et élevage en vieilles barriques pendant un an.",
+        "price": "83.44$",
+        "image_url": null,
+        "link": null,
+        "producer": null,
+        "region": null,
+        "vintage": "2022",
+        "grape_varieties": null,
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": "Importation Privée"
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}

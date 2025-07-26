@@ -1,0 +1,53 @@
+{
+  "id": "file-2025-07-25-noble-selection-0.html-invincible-numero-1-douro-2023",
+  "blockId": "file-2025-07-25-noble-selection-0.html",
+  "createdAt": "2025-07-25T00:00:00.000Z",
+  "name": "Invincible Número 1 Douro 2023",
+  "description": "Les raisins proviennent de vignes de plus de 30 ans, cultivées en agriculture durable. Après une récolte manuelle, les cépages Rabigato, Arinto et Códega sont fermentés en cuves inox, avec 10 % de la cuvée élevé en fûts de chêne français usagés pendant 7 mois",
+  "price": "19,95$",
+  "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_invincible-douro-uno-2023.png",
+  "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=72598291d4&e=2c9a262afa",
+  "agence": "Noble Sélection",
+  "disponibilite": null,
+  "raw_data": {
+    "name": "Invincible Número 1 Douro 2023",
+    "description": "Les raisins proviennent de vignes de plus de 30 ans, cultivées en agriculture durable. Après une récolte manuelle, les cépages Rabigato, Arinto et Códega sont fermentés en cuves inox, avec 10 % de la cuvée élevé en fûts de chêne français usagés pendant 7 mois",
+    "price": "19,95$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_invincible-douro-uno-2023.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=72598291d4&e=2c9a262afa",
+    "producer": "COMPANHIA DE VINHOS INVENCIVEL",
+    "region": "Douro",
+    "vintage": "2023",
+    "grape_varieties": [
+      "Codega",
+      "Rabigato",
+      "Gouveio",
+      "Moscatel"
+    ],
+    "alcohol_content": "12,5%",
+    "volume": null,
+    "disponibilite": null,
+    "all_occurrences_raw_data": [
+      {
+        "name": "Invincible Número 1 Douro 2023",
+        "description": "Les raisins proviennent de vignes de plus de 30 ans, cultivées en agriculture durable. Après une récolte manuelle, les cépages Rabigato, Arinto et Códega sont fermentés en cuves inox, avec 10 % de la cuvée élevé en fûts de chêne français usagés pendant 7 mois",
+        "price": "19,95$",
+        "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_invincible-douro-uno-2023.png",
+        "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=72598291d4&e=2c9a262afa",
+        "producer": "COMPANHIA DE VINHOS INVENCIVEL",
+        "region": "Douro",
+        "vintage": "2023",
+        "grape_varieties": [
+          "Codega",
+          "Rabigato",
+          "Gouveio",
+          "Moscatel"
+        ],
+        "alcohol_content": "12,5%",
+        "volume": null,
+        "disponibilite": null
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "file-2025-07-25-noble-selection-0.html-pour-ma-gueule",
+  "blockId": "file-2025-07-25-noble-selection-0.html",
+  "createdAt": "2025-07-25T00:00:00.000Z",
+  "name": "Pour Ma Gueule",
+  "description": "La méthode ancestrale est privilégiée ici dans l'élaboration de cette cuvée: début de la fermentation alcoolique dans les cuves, mise en bouteille du moût. La fermentation se poursuit dans les bouteilles et dégage du gaz. Il n'y a ni adjonction de sucre ni adjonction de liqueur d'expédition pour doser. C'est uniquement le sucre du raisin, qui, tout au long du processus, assurera la première fermentation, la prise de mousse et le sucre résiduel.",
+  "price": "25,15$",
+  "image_url": null,
+  "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9ff7378404&e=2c9a262afa",
+  "agence": "Noble Sélection",
+  "disponibilite": "SAQ",
+  "raw_data": {
+    "name": "Pour Ma Gueule",
+    "description": "La méthode ancestrale est privilégiée ici dans l'élaboration de cette cuvée: début de la fermentation alcoolique dans les cuves, mise en bouteille du moût. La fermentation se poursuit dans les bouteilles et dégage du gaz. Il n'y a ni adjonction de sucre ni adjonction de liqueur d'expédition pour doser. C'est uniquement le sucre du raisin, qui, tout au long du processus, assurera la première fermentation, la prise de mousse et le sucre résiduel.",
+    "price": "25,15$",
+    "image_url": null,
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9ff7378404&e=2c9a262afa",
+    "producer": "DOMAINE FOUET",
+    "region": "Vallée de la Loire",
+    "vintage": null,
+    "grape_varieties": null,
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": "SAQ",
+    "all_occurrences_raw_data": [
+      {
+        "name": "Pour Ma Gueule",
+        "description": "La méthode ancestrale est privilégiée ici dans l'élaboration de cette cuvée: début de la fermentation alcoolique dans les cuves, mise en bouteille du moût. La fermentation se poursuit dans les bouteilles et dégage du gaz. Il n'y a ni adjonction de sucre ni adjonction de liqueur d'expédition pour doser. C'est uniquement le sucre du raisin, qui, tout au long du processus, assurera la première fermentation, la prise de mousse et le sucre résiduel.",
+        "price": "25,15$",
+        "image_url": null,
+        "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9ff7378404&e=2c9a262afa",
+        "producer": "DOMAINE FOUET",
+        "region": "Vallée de la Loire",
+        "vintage": null,
+        "grape_varieties": null,
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": "SAQ"
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}

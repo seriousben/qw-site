@@ -1,0 +1,43 @@
+{
+  "id": "file-2025-07-25-vin-dame-jeanne-0.html-bourgogne-hautes-cotes-de-beaune-blanc-18-lunes",
+  "blockId": "file-2025-07-25-vin-dame-jeanne-0.html",
+  "createdAt": "2025-07-25T00:00:00.000Z",
+  "name": "Bourgogne Hautes-Côtes-de-Beaune Blanc '18 Lunes'",
+  "description": "Le Grand Cru du domaine! Vignes situées à Nantoux, sur le lieux-dit ‘Les Chaignots’ juste en bas de Champs Perdrix, en altitude autour de 400m, sur un plateau calcaire très proche de la surface. Élevage de 18 mois (18 lunes) en vieilles barriques sur lies fines.",
+  "price": "89.38$",
+  "image_url": null,
+  "link": null,
+  "agence": "Vin Dame-Jeanne",
+  "disponibilite": "Importation Privée",
+  "raw_data": {
+    "name": "Bourgogne Hautes-Côtes-de-Beaune Blanc '18 Lunes'",
+    "description": "Le Grand Cru du domaine! Vignes situées à Nantoux, sur le lieux-dit ‘Les Chaignots’ juste en bas de Champs Perdrix, en altitude autour de 400m, sur un plateau calcaire très proche de la surface. Élevage de 18 mois (18 lunes) en vieilles barriques sur lies fines.",
+    "price": "89.38$",
+    "image_url": null,
+    "link": null,
+    "producer": null,
+    "region": null,
+    "vintage": "2018",
+    "grape_varieties": null,
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": "Importation Privée",
+    "all_occurrences_raw_data": [
+      {
+        "name": "Bourgogne Hautes-Côtes-de-Beaune Blanc '18 Lunes'",
+        "description": "Le Grand Cru du domaine! Vignes situées à Nantoux, sur le lieux-dit ‘Les Chaignots’ juste en bas de Champs Perdrix, en altitude autour de 400m, sur un plateau calcaire très proche de la surface. Élevage de 18 mois (18 lunes) en vieilles barriques sur lies fines.",
+        "price": "89.38$",
+        "image_url": null,
+        "link": null,
+        "producer": null,
+        "region": null,
+        "vintage": "2018",
+        "grape_varieties": null,
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": "Importation Privée"
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}
