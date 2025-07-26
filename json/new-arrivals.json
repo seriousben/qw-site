@@ -1,1 +1,1234 @@
-[]
+[
+  {
+    "id": "file-2025-07-25-noble-selection-0.html-invincible-numero-1-douro-2023",
+    "blockId": "file-2025-07-25-noble-selection-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Invincible Número 1 Douro 2023",
+    "description": "Les raisins proviennent de vignes de plus de 30 ans, cultivées en agriculture durable. Après une récolte manuelle, les cépages Rabigato, Arinto et Códega sont fermentés en cuves inox, avec 10 % de la cuvée élevé en fûts de chêne français usagés pendant 7 mois",
+    "price": "19,95$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_invincible-douro-uno-2023.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=72598291d4&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Invincible Número 1 Douro 2023",
+      "description": "Les raisins proviennent de vignes de plus de 30 ans, cultivées en agriculture durable. Après une récolte manuelle, les cépages Rabigato, Arinto et Códega sont fermentés en cuves inox, avec 10 % de la cuvée élevé en fûts de chêne français usagés pendant 7 mois",
+      "price": "19,95$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_invincible-douro-uno-2023.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=72598291d4&e=2c9a262afa",
+      "producer": "COMPANHIA DE VINHOS INVENCIVEL",
+      "region": "Douro",
+      "vintage": "2023",
+      "grape_varieties": [
+        "Codega",
+        "Rabigato",
+        "Gouveio",
+        "Moscatel"
+      ],
+      "alcohol_content": "12,5%",
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Invincible Número 1 Douro 2023",
+          "description": "Les raisins proviennent de vignes de plus de 30 ans, cultivées en agriculture durable. Après une récolte manuelle, les cépages Rabigato, Arinto et Códega sont fermentés en cuves inox, avec 10 % de la cuvée élevé en fûts de chêne français usagés pendant 7 mois",
+          "price": "19,95$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_invincible-douro-uno-2023.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=72598291d4&e=2c9a262afa",
+          "producer": "COMPANHIA DE VINHOS INVENCIVEL",
+          "region": "Douro",
+          "vintage": "2023",
+          "grape_varieties": [
+            "Codega",
+            "Rabigato",
+            "Gouveio",
+            "Moscatel"
+          ],
+          "alcohol_content": "12,5%",
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Invincible Número 1 Douro 2023, issu de vignes de plus de 30 ans, révèle l'harmonie des cépages Rabigato, Arinto et Códega, avec une touche de chêne français qui sublime sa fraîcheur et sa complexité."
+  },
+  {
+    "id": "file-2025-07-25-noble-selection-0.html-pour-ma-gueule",
+    "blockId": "file-2025-07-25-noble-selection-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Pour Ma Gueule",
+    "description": "La méthode ancestrale est privilégiée ici dans l'élaboration de cette cuvée: début de la fermentation alcoolique dans les cuves, mise en bouteille du moût. La fermentation se poursuit dans les bouteilles et dégage du gaz. Il n'y a ni adjonction de sucre ni adjonction de liqueur d'expédition pour doser. C'est uniquement le sucre du raisin, qui, tout au long du processus, assurera la première fermentation, la prise de mousse et le sucre résiduel.",
+    "price": "25,15$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-fouet-pour-ma-gueule-copie.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9ff7378404&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Pour Ma Gueule",
+      "description": "La méthode ancestrale est privilégiée ici dans l'élaboration de cette cuvée: début de la fermentation alcoolique dans les cuves, mise en bouteille du moût. La fermentation se poursuit dans les bouteilles et dégage du gaz. Il n'y a ni adjonction de sucre ni adjonction de liqueur d'expédition pour doser. C'est uniquement le sucre du raisin, qui, tout au long du processus, assurera la première fermentation, la prise de mousse et le sucre résiduel.",
+      "price": "25,15$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-fouet-pour-ma-gueule-copie.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9ff7378404&e=2c9a262afa",
+      "producer": "DOMAINE FOUET",
+      "region": "Vallée de la Loire",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Pour Ma Gueule",
+          "description": "La méthode ancestrale est privilégiée ici dans l'élaboration de cette cuvée: début de la fermentation alcoolique dans les cuves, mise en bouteille du moût. La fermentation se poursuit dans les bouteilles et dégage du gaz. Il n'y a ni adjonction de sucre ni adjonction de liqueur d'expédition pour doser. C'est uniquement le sucre du raisin, qui, tout au long du processus, assurera la première fermentation, la prise de mousse et le sucre résiduel.",
+          "price": "25,15$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-fouet-pour-ma-gueule-copie.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9ff7378404&e=2c9a262afa",
+          "producer": "DOMAINE FOUET",
+          "region": "Vallée de la Loire",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Pour Ma Gueule incarne la pureté de la méthode ancestrale, où la fermentation naturelle crée une effervescence délicate, sans ajout de sucre, révélant la quintessence du raisin dans chaque bulle."
+  },
+  {
+    "id": "file-2025-07-25-noble-selection-0.html-soif-blanc-2023",
+    "blockId": "file-2025-07-25-noble-selection-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Soif Blanc 2023",
+    "description": null,
+    "price": "24,20$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_soif-blanc.jpg",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=593e8d4958&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Soif Blanc 2023",
+      "description": null,
+      "price": "24,20$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_soif-blanc.jpg",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=593e8d4958&e=2c9a262afa",
+      "producer": "LE LOUP BLANC",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Soif Blanc 2023",
+          "description": null,
+          "price": "24,20$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_soif-blanc.jpg",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=593e8d4958&e=2c9a262afa",
+          "producer": "LE LOUP BLANC",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-07-25-noble-selection-0.html-sancerre-la-grange-dimiere-rouge-2017",
+    "blockId": "file-2025-07-25-noble-selection-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Sancerre La Grange Dimière Rouge 2017",
+    "description": null,
+    "price": "20,25$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_grande-dimi--re-roger-375-ml.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=bcd67e67c3&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Sancerre La Grange Dimière Rouge 2017",
+      "description": null,
+      "price": "20,25$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_grande-dimi--re-roger-375-ml.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=bcd67e67c3&e=2c9a262afa",
+      "producer": "JEAN-MAX ROGER",
+      "region": null,
+      "vintage": "2017",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Sancerre La Grange Dimière Rouge 2017",
+          "description": null,
+          "price": "20,25$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_grande-dimi--re-roger-375-ml.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=bcd67e67c3&e=2c9a262afa",
+          "producer": "JEAN-MAX ROGER",
+          "region": null,
+          "vintage": "2017",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-07-25-noble-selection-0.html-cotes-du-rhone-mon-coeur-2023",
+    "blockId": "file-2025-07-25-noble-selection-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Côtes du Rhône Mon Coeur 2023",
+    "description": "Superbe interprétation de l’a.o.c côtes du rhône en grenache majeur et syrah mineure par le ténor Jean-Louis Chave. Avec sa gamme \"Sélection\" Jean-Louis Chave nous propose des vins de négoce élaborés avec les meilleurs raisins qu'il sélectionne lui-même chez quelques vignerons talentueux qui travaillent tous la vigne en agriculture biologique.",
+    "price": "26,45$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_j.l.-chave-s--lection-mon-coeur-2022-copie.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9198b357ca&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Côtes du Rhône Mon Coeur 2023",
+      "description": "Superbe interprétation de l’a.o.c côtes du rhône en grenache majeur et syrah mineure par le ténor Jean-Louis Chave. Avec sa gamme \"Sélection\" Jean-Louis Chave nous propose des vins de négoce élaborés avec les meilleurs raisins qu'il sélectionne lui-même chez quelques vignerons talentueux qui travaillent tous la vigne en agriculture biologique.",
+      "price": "26,45$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_j.l.-chave-s--lection-mon-coeur-2022-copie.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9198b357ca&e=2c9a262afa",
+      "producer": "JL CHAVE SELECTION",
+      "region": "Vallée du Rhône",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Côtes du Rhône Mon Coeur 2023",
+          "description": "Superbe interprétation de l’a.o.c côtes du rhône en grenache majeur et syrah mineure par le ténor Jean-Louis Chave. Avec sa gamme \"Sélection\" Jean-Louis Chave nous propose des vins de négoce élaborés avec les meilleurs raisins qu'il sélectionne lui-même chez quelques vignerons talentueux qui travaillent tous la vigne en agriculture biologique.",
+          "price": "26,45$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_j.l.-chave-s--lection-mon-coeur-2022-copie.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9198b357ca&e=2c9a262afa",
+          "producer": "JL CHAVE SELECTION",
+          "region": "Vallée du Rhône",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Côtes du Rhône Mon Coeur 2023, une œuvre de Jean-Louis Chave, marie avec brio Grenache et Syrah, offrant une interprétation raffinée et biologique de l'AOC, issue des meilleurs raisins sélectionnés."
+  },
+  {
+    "id": "file-2025-07-25-noble-selection-0.html-baglio-di-grisi-grillo-sicilia-2023",
+    "blockId": "file-2025-07-25-noble-selection-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Baglio di Grisi Grillo Sicilia 2023",
+    "description": null,
+    "price": "18,75$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_baglio-di-grisi-grillo-2023.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=e76095147b&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Baglio di Grisi Grillo Sicilia 2023",
+      "description": null,
+      "price": "18,75$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_baglio-di-grisi-grillo-2023.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=e76095147b&e=2c9a262afa",
+      "producer": "BAGLIO DI GRISI",
+      "region": "Sicilia",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Baglio di Grisi Grillo Sicilia 2023",
+          "description": null,
+          "price": "18,75$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_baglio-di-grisi-grillo-2023.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=e76095147b&e=2c9a262afa",
+          "producer": "BAGLIO DI GRISI",
+          "region": "Sicilia",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-07-25-noble-selection-0.html-terres-destandon-2024",
+    "blockId": "file-2025-07-25-noble-selection-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Terres d'Estandon 2024",
+    "description": null,
+    "price": "20,30$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_terres-d-estandon.jpg",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f387e735f0&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Terres d'Estandon 2024",
+      "description": null,
+      "price": "20,30$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_terres-d-estandon.jpg",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f387e735f0&e=2c9a262afa",
+      "producer": "ESTANDON",
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Terres d'Estandon 2024",
+          "description": null,
+          "price": "20,30$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_terres-d-estandon.jpg",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f387e735f0&e=2c9a262afa",
+          "producer": "ESTANDON",
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-07-25-noble-selection-0.html-cahors-2021",
+    "blockId": "file-2025-07-25-noble-selection-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Cahors 2021",
+    "description": null,
+    "price": "19,40$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-eugenie-packaging-2020.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=21e43b5e7c&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Cahors 2021",
+      "description": null,
+      "price": "19,40$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-eugenie-packaging-2020.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=21e43b5e7c&e=2c9a262afa",
+      "producer": "CHÂTEAU EUGÉNIE",
+      "region": null,
+      "vintage": "2021",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Cahors 2021",
+          "description": null,
+          "price": "19,40$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-eugenie-packaging-2020.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=21e43b5e7c&e=2c9a262afa",
+          "producer": "CHÂTEAU EUGÉNIE",
+          "region": null,
+          "vintage": "2021",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-07-25-noble-selection-0.html-m-blend-2021",
+    "blockId": "file-2025-07-25-noble-selection-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "M Blend 2021",
+    "description": null,
+    "price": "22,85$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_alma_negra_2.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=60f3c02ad1&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "M Blend 2021",
+      "description": null,
+      "price": "22,85$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_alma_negra_2.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=60f3c02ad1&e=2c9a262afa",
+      "producer": "ALMA NEGRA (par/by Ernesto Catena)",
+      "region": null,
+      "vintage": "2021",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "M Blend 2021",
+          "description": null,
+          "price": "22,85$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_alma_negra_2.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=60f3c02ad1&e=2c9a262afa",
+          "producer": "ALMA NEGRA (par/by Ernesto Catena)",
+          "region": null,
+          "vintage": "2021",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-07-25-vin-dame-jeanne-0.html-bourgogne-hautes-cotes-de-beaune-blanc-18-lunes",
+    "blockId": "file-2025-07-25-vin-dame-jeanne-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Bourgogne Hautes-Côtes-de-Beaune Blanc '18 Lunes'",
+    "description": "Le Grand Cru du domaine! Vignes situées à Nantoux, sur le lieux-dit ‘Les Chaignots’ juste en bas de Champs Perdrix, en altitude autour de 400m, sur un plateau calcaire très proche de la surface. Élevage de 18 mois (18 lunes) en vieilles barriques sur lies fines.",
+    "price": "89.38$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Bourgogne Hautes-Côtes-de-Beaune Blanc '18 Lunes'",
+      "description": "Le Grand Cru du domaine! Vignes situées à Nantoux, sur le lieux-dit ‘Les Chaignots’ juste en bas de Champs Perdrix, en altitude autour de 400m, sur un plateau calcaire très proche de la surface. Élevage de 18 mois (18 lunes) en vieilles barriques sur lies fines.",
+      "price": "89.38$",
+      "image_url": null,
+      "link": null,
+      "producer": null,
+      "region": null,
+      "vintage": "2018",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Bourgogne Hautes-Côtes-de-Beaune Blanc '18 Lunes'",
+          "description": "Le Grand Cru du domaine! Vignes situées à Nantoux, sur le lieux-dit ‘Les Chaignots’ juste en bas de Champs Perdrix, en altitude autour de 400m, sur un plateau calcaire très proche de la surface. Élevage de 18 mois (18 lunes) en vieilles barriques sur lies fines.",
+          "price": "89.38$",
+          "image_url": null,
+          "link": null,
+          "producer": null,
+          "region": null,
+          "vintage": "2018",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Bourgogne Hautes-Côtes-de-Beaune Blanc '18 Lunes' est un Grand Cru d'exception, où des vignes perchées à 400m d'altitude révèlent une complexité aromatique, affinée pendant 18 mois en vieilles barriques."
+  },
+  {
+    "id": "file-2025-07-25-vin-dame-jeanne-0.html-rully-blanc-la-chaume",
+    "blockId": "file-2025-07-25-vin-dame-jeanne-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Rully Blanc 'La Chaume'",
+    "description": "Issu d’une parcelle fascinante, aux sols marbré d’argiles blanches, rouges, et noires. Très joli blanc, vivifiant, droit, pulpeux mais salin. Élevage d'un an en vieilles barriques sur lies fines.",
+    "price": "91.25$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Rully Blanc 'La Chaume'",
+      "description": "Issu d’une parcelle fascinante, aux sols marbré d’argiles blanches, rouges, et noires. Très joli blanc, vivifiant, droit, pulpeux mais salin. Élevage d'un an en vieilles barriques sur lies fines.",
+      "price": "91.25$",
+      "image_url": null,
+      "link": null,
+      "producer": null,
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Rully Blanc 'La Chaume'",
+          "description": "Issu d’une parcelle fascinante, aux sols marbré d’argiles blanches, rouges, et noires. Très joli blanc, vivifiant, droit, pulpeux mais salin. Élevage d'un an en vieilles barriques sur lies fines.",
+          "price": "91.25$",
+          "image_url": null,
+          "link": null,
+          "producer": null,
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Rully Blanc 'La Chaume' séduit par sa vivacité et sa texture pulpeuse, un blanc élégant élevé en vieilles barriques, révélant la richesse de ses sols marbrés."
+  },
+  {
+    "id": "file-2025-07-25-vin-dame-jeanne-0.html-hautes-cotes-de-beaune-rouge",
+    "blockId": "file-2025-07-25-vin-dame-jeanne-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Hautes-Côtes-de-Beaune Rouge",
+    "description": "D’un clone très spécial de Pinot Noir, ‘Pommard Clos des Épenots’, planté dans les Hautes Côtes de Beaune à 420m d’altitude, sur argiles rouges et calcaire, et un plateau calcaire très proche de la surface. Macération en grappe entière pour la moitié des raisins, et élevage en vieilles barriques pendant un an.",
+    "price": "83.44$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Hautes-Côtes-de-Beaune Rouge",
+      "description": "D’un clone très spécial de Pinot Noir, ‘Pommard Clos des Épenots’, planté dans les Hautes Côtes de Beaune à 420m d’altitude, sur argiles rouges et calcaire, et un plateau calcaire très proche de la surface. Macération en grappe entière pour la moitié des raisins, et élevage en vieilles barriques pendant un an.",
+      "price": "83.44$",
+      "image_url": null,
+      "link": null,
+      "producer": null,
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Hautes-Côtes-de-Beaune Rouge",
+          "description": "D’un clone très spécial de Pinot Noir, ‘Pommard Clos des Épenots’, planté dans les Hautes Côtes de Beaune à 420m d’altitude, sur argiles rouges et calcaire, et un plateau calcaire très proche de la surface. Macération en grappe entière pour la moitié des raisins, et élevage en vieilles barriques pendant un an.",
+          "price": "83.44$",
+          "image_url": null,
+          "link": null,
+          "producer": null,
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Hautes-Côtes-de-Beaune Rouge, issu d'un clone unique de Pinot Noir, offre une profondeur et une finesse exceptionnelles, grâce à une macération en grappes entières et un élevage en vieilles barriques."
+  },
+  {
+    "id": "file-2025-07-25-vin-dame-jeanne-0.html-rully-rouge-la-chaume",
+    "blockId": "file-2025-07-25-vin-dame-jeanne-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Rully Rouge 'La Chaume'",
+    "description": "Cette fameuse parcelle fascinante, aux sols marbré d’argiles blanches, rouges, et noires, mais cette fois en rouge! Joli Pinot Noir frais, racé et bien charmeur, sur les petits fruits rouges, la charcuterie, et les épices chaudes. Macération en grappe entière pour la moitié des raisins, et élevage en vieilles barriques pendant 18 mois.",
+    "price": "91.25$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Rully Rouge 'La Chaume'",
+      "description": "Cette fameuse parcelle fascinante, aux sols marbré d’argiles blanches, rouges, et noires, mais cette fois en rouge! Joli Pinot Noir frais, racé et bien charmeur, sur les petits fruits rouges, la charcuterie, et les épices chaudes. Macération en grappe entière pour la moitié des raisins, et élevage en vieilles barriques pendant 18 mois.",
+      "price": "91.25$",
+      "image_url": null,
+      "link": null,
+      "producer": null,
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Rully Rouge 'La Chaume'",
+          "description": "Cette fameuse parcelle fascinante, aux sols marbré d’argiles blanches, rouges, et noires, mais cette fois en rouge! Joli Pinot Noir frais, racé et bien charmeur, sur les petits fruits rouges, la charcuterie, et les épices chaudes. Macération en grappe entière pour la moitié des raisins, et élevage en vieilles barriques pendant 18 mois.",
+          "price": "91.25$",
+          "image_url": null,
+          "link": null,
+          "producer": null,
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Rully Rouge 'La Chaume' dévoile un Pinot Noir racé et charmeur, où les arômes de petits fruits rouges et d'épices se mêlent harmonieusement, grâce à une macération en grappes entières et un élevage soigné."
+  },
+  {
+    "id": "file-2025-07-25-vin-dame-jeanne-0.html-volnay",
+    "blockId": "file-2025-07-25-vin-dame-jeanne-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Volnay",
+    "description": "Grandiose Volnay de délicatesse et élégance, si stimulant. Des lieux-dits ‘La Gigotte’, ‘Les Pluchots’, et ‘Les Famines’ sur Volnay, vignes entre 35 et 65 ans, exposées Est. Macération en grappe entière pour la moitié des raisins, et élevage en vieilles et moins vieilles barriques pendant 18 mois.",
+    "price": "139.69$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Volnay",
+      "description": "Grandiose Volnay de délicatesse et élégance, si stimulant. Des lieux-dits ‘La Gigotte’, ‘Les Pluchots’, et ‘Les Famines’ sur Volnay, vignes entre 35 et 65 ans, exposées Est. Macération en grappe entière pour la moitié des raisins, et élevage en vieilles et moins vieilles barriques pendant 18 mois.",
+      "price": "139.69$",
+      "image_url": null,
+      "link": null,
+      "producer": null,
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Volnay",
+          "description": "Grandiose Volnay de délicatesse et élégance, si stimulant. Des lieux-dits ‘La Gigotte’, ‘Les Pluchots’, et ‘Les Famines’ sur Volnay, vignes entre 35 et 65 ans, exposées Est. Macération en grappe entière pour la moitié des raisins, et élevage en vieilles et moins vieilles barriques pendant 18 mois.",
+          "price": "139.69$",
+          "image_url": null,
+          "link": null,
+          "producer": null,
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Volnay, un vin d'une délicatesse et d'une élégance exceptionnelles, provient de vignes anciennes exposées à l'est, offrant une complexité aromatique raffinée après 18 mois d'élevage."
+  },
+  {
+    "id": "file-2025-07-25-vin-dame-jeanne-0.html-beaune-1er-cru-pertuisots",
+    "blockId": "file-2025-07-25-vin-dame-jeanne-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Beaune 1er cru 'Pertuisots'",
+    "description": "Exceptionnelle parcelle d’un demi hectare que Jean-Yves travaille depuis 1999, entouré de voisins bio — la chance! Vigne en bas de coteau, avec beaucoup de cailloux, sur un plateau de calcaire puissant. Parfaitement situé. Macération 100% en grappes entières sur 2022, et WOW! Frais, fin, délicat, doucement épicé. 12 mois d'élevage en fûts.",
+    "price": "140.94$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Beaune 1er cru 'Pertuisots'",
+      "description": "Exceptionnelle parcelle d’un demi hectare que Jean-Yves travaille depuis 1999, entouré de voisins bio — la chance! Vigne en bas de coteau, avec beaucoup de cailloux, sur un plateau de calcaire puissant. Parfaitement situé. Macération 100% en grappes entières sur 2022, et WOW! Frais, fin, délicat, doucement épicé. 12 mois d'élevage en fûts.",
+      "price": "140.94$",
+      "image_url": null,
+      "link": null,
+      "producer": null,
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Beaune 1er cru 'Pertuisots'",
+          "description": "Exceptionnelle parcelle d’un demi hectare que Jean-Yves travaille depuis 1999, entouré de voisins bio — la chance! Vigne en bas de coteau, avec beaucoup de cailloux, sur un plateau de calcaire puissant. Parfaitement situé. Macération 100% en grappes entières sur 2022, et WOW! Frais, fin, délicat, doucement épicé. 12 mois d'élevage en fûts.",
+          "price": "140.94$",
+          "image_url": null,
+          "link": null,
+          "producer": null,
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Beaune 1er cru 'Pertuisots' est un trésor de finesse et de fraîcheur, élaboré à partir de raisins en grappes entières, révélant une délicatesse épicée après 12 mois en fût."
+  },
+  {
+    "id": "file-2025-07-25-vin-dame-jeanne-0.html-volnay-lopins",
+    "blockId": "file-2025-07-25-vin-dame-jeanne-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Volnay 'Lopins'",
+    "description": "Première fois au Québec! assemblage de parcelles sur les hauts de coteaux des 'Pluchots' et 'La Gigotte', assemblé dès la vendange. Macération 50% en grappes entières cette année. Un vin dense, un peu plus foncé et magnifiquement mystérieux, avec une finale incroyablement longue.",
+    "price": "140.94$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Volnay 'Lopins'",
+      "description": "Première fois au Québec! assemblage de parcelles sur les hauts de coteaux des 'Pluchots' et 'La Gigotte', assemblé dès la vendange. Macération 50% en grappes entières cette année. Un vin dense, un peu plus foncé et magnifiquement mystérieux, avec une finale incroyablement longue.",
+      "price": "140.94$",
+      "image_url": null,
+      "link": null,
+      "producer": null,
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Volnay 'Lopins'",
+          "description": "Première fois au Québec! assemblage de parcelles sur les hauts de coteaux des 'Pluchots' et 'La Gigotte', assemblé dès la vendange. Macération 50% en grappes entières cette année. Un vin dense, un peu plus foncé et magnifiquement mystérieux, avec une finale incroyablement longue.",
+          "price": "140.94$",
+          "image_url": null,
+          "link": null,
+          "producer": null,
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Volnay 'Lopins' fait ses débuts au Québec avec un assemblage mystérieux de parcelles, offrant une densité captivante et une finale d'une longueur inoubliable."
+  },
+  {
+    "id": "file-2025-07-25-vin-dame-jeanne-0.html-volnay-1er-cru-les-mitans",
+    "blockId": "file-2025-07-25-vin-dame-jeanne-0.html",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "name": "Volnay 1er cru 'Les Mitans'",
+    "description": "Première fois au Québec! Une vigne travaillée avec soin par Jean-Yves, anciennement assemblée dans la cuvée 'Les Ormeaux'. Macération sur raisins égrappés, vinification sans soufre. Aérien, éclatant, et précis. Un grand, grand Volnay!",
+    "price": "224.37$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Volnay 1er cru 'Les Mitans'",
+      "description": "Première fois au Québec! Une vigne travaillée avec soin par Jean-Yves, anciennement assemblée dans la cuvée 'Les Ormeaux'. Macération sur raisins égrappés, vinification sans soufre. Aérien, éclatant, et précis. Un grand, grand Volnay!",
+      "price": "224.37$",
+      "image_url": null,
+      "link": null,
+      "producer": null,
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Volnay 1er cru 'Les Mitans'",
+          "description": "Première fois au Québec! Une vigne travaillée avec soin par Jean-Yves, anciennement assemblée dans la cuvée 'Les Ormeaux'. Macération sur raisins égrappés, vinification sans soufre. Aérien, éclatant, et précis. Un grand, grand Volnay!",
+          "price": "224.37$",
+          "image_url": null,
+          "link": null,
+          "producer": null,
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Volnay 1er cru 'Les Mitans' arrive au Québec, offrant un vin aérien et éclatant, vinifié sans soufre pour préserver sa pureté et sa précision."
+  },
+  {
+    "id": "file-2025-07-24-info-symbiose-0.html-secateurs",
+    "blockId": "file-2025-07-24-info-symbiose-0.html",
+    "createdAt": "2025-07-24T00:00:00.000Z",
+    "name": "Sécateurs",
+    "description": "LE SECATEURS CHENIN BLANC EST EN PROMO POUR LES PROCHAINES 2 SEMAINES ! Jusqu’au 3 août, ce superbe Chenin Blanc signé Adi Badenhorst sera à prix réduit à la SAQ, une occasion parfaite pour découvrir ce vin vibrant et raffiné idéal pour l’été. Avec ses arômes de pomme, poire, citron confit et fleurs blanches, sa belle acidité et sa bouche généreuse, c’est le blanc idéal pour l’apéro ou les repas dans la cour.",
+    "price": "19,95 $",
+    "image_url": "https://img_a1000004144.centrixmail.com/fr/att.awp?ida=EeVju4xMTEiJ1Ag7qrEijg&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=nLv1upq9f0aeySfFCWlNWOBwsjsGoUO2-tvfXMtbTmY",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=1302&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=A7-XKSdli60RgF-7thDgvQRq9KZlfhFXD852YqSxW-8",
+    "agence": "Info Symbiose",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Sécateurs",
+      "description": "LE SECATEURS CHENIN BLANC EST EN PROMO POUR LES PROCHAINES 2 SEMAINES ! Jusqu’au 3 août, ce superbe Chenin Blanc signé Adi Badenhorst sera à prix réduit à la SAQ, une occasion parfaite pour découvrir ce vin vibrant et raffiné idéal pour l’été. Avec ses arômes de pomme, poire, citron confit et fleurs blanches, sa belle acidité et sa bouche généreuse, c’est le blanc idéal pour l’apéro ou les repas dans la cour.",
+      "price": "19,95 $",
+      "image_url": "https://img_a1000004144.centrixmail.com/fr/att.awp?ida=EeVju4xMTEiJ1Ag7qrEijg&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=nLv1upq9f0aeySfFCWlNWOBwsjsGoUO2-tvfXMtbTmY",
+      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=1302&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=A7-XKSdli60RgF-7thDgvQRq9KZlfhFXD852YqSxW-8",
+      "producer": "AA Badenhorst",
+      "region": "Swartland — Afrique du Sud",
+      "vintage": null,
+      "grape_varieties": [
+        "Chenin blanc"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Sécateurs",
+          "description": "LE SECATEURS CHENIN BLANC EST EN PROMO POUR LES PROCHAINES 2 SEMAINES ! Jusqu’au 3 août, ce superbe Chenin Blanc signé Adi Badenhorst sera à prix réduit à la SAQ, une occasion parfaite pour découvrir ce vin vibrant et raffiné idéal pour l’été. Avec ses arômes de pomme, poire, citron confit et fleurs blanches, sa belle acidité et sa bouche généreuse, c’est le blanc idéal pour l’apéro ou les repas dans la cour.",
+          "price": "19,95 $",
+          "image_url": "https://img_a1000004144.centrixmail.com/fr/att.awp?ida=EeVju4xMTEiJ1Ag7qrEijg&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=nLv1upq9f0aeySfFCWlNWOBwsjsGoUO2-tvfXMtbTmY",
+          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=1302&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=A7-XKSdli60RgF-7thDgvQRq9KZlfhFXD852YqSxW-8",
+          "producer": "AA Badenhorst",
+          "region": "Swartland — Afrique du Sud",
+          "vintage": null,
+          "grape_varieties": [
+            "Chenin blanc"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Sécateurs, un Chenin Blanc vibrant et raffiné, dévoile des arômes de pomme et de citron confit, avec une acidité éclatante, parfait pour égayer vos journées d'été."
+  },
+  {
+    "id": "file-2025-07-24-info-symbiose-0.html-saint-joseph-rue-des-poulies-2023",
+    "blockId": "file-2025-07-24-info-symbiose-0.html",
+    "createdAt": "2025-07-24T00:00:00.000Z",
+    "name": "Saint-Joseph Rue des Poulies 2023",
+    "description": "Cette syrah est issue de terroirs granitiques en coteaux, où s'épanouissent un beau fruit noir et rouge, des épices et une belle minéralité. Le vin est ample, complexe et la trame élégante grâce à un élevage maîtrisé, tannique pourtant souple.",
+    "price": "54,00 $",
+    "image_url": "https://www.saq.com/media/catalog/product/1/4/14954041-1_1652712945.png",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2065&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=1yLnnyQyIaRRtj9a-YhBD_c2dQmeMrfjwjidw45r70M",
+    "agence": "Info Symbiose",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Saint-Joseph Rue des Poulies 2023",
+      "description": "Cette syrah est issue de terroirs granitiques en coteaux, où s'épanouissent un beau fruit noir et rouge, des épices et une belle minéralité. Le vin est ample, complexe et la trame élégante grâce à un élevage maîtrisé, tannique pourtant souple.",
+      "price": "54,00 $",
+      "image_url": "https://www.saq.com/media/catalog/product/1/4/14954041-1_1652712945.png",
+      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2065&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=1yLnnyQyIaRRtj9a-YhBD_c2dQmeMrfjwjidw45r70M",
+      "producer": "Famille De Boel",
+      "region": "Vallée du Rhône — France",
+      "vintage": "2023",
+      "grape_varieties": [
+        "Syrah"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Saint-Joseph Rue des Poulies 2023",
+          "description": "Cette syrah est issue de terroirs granitiques en coteaux, où s'épanouissent un beau fruit noir et rouge, des épices et une belle minéralité. Le vin est ample, complexe et la trame élégante grâce à un élevage maîtrisé, tannique pourtant souple.",
+          "price": "54,00 $",
+          "image_url": "https://www.saq.com/media/catalog/product/1/4/14954041-1_1652712945.png",
+          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2065&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=1yLnnyQyIaRRtj9a-YhBD_c2dQmeMrfjwjidw45r70M",
+          "producer": "Famille De Boel",
+          "region": "Vallée du Rhône — France",
+          "vintage": "2023",
+          "grape_varieties": [
+            "Syrah"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Saint-Joseph Rue des Poulies 2023 séduit par son ampleur et sa complexité, où la Syrah s'épanouit sur des terroirs granitiques, offrant un équilibre parfait entre fruit et minéralité."
+  },
+  {
+    "id": "file-2025-07-24-info-symbiose-0.html-benje-red-2023",
+    "blockId": "file-2025-07-24-info-symbiose-0.html",
+    "createdAt": "2025-07-24T00:00:00.000Z",
+    "name": "Benje Red 2023",
+    "description": "Laissez-vous séduire par la touche épicée en prenant soin au préalable d’avoir rafraîchi la bouteille. Superbe avec quelques tranches de rosette de Lyon ou encore avec du poulet grillé mariné à l’huile d’olive et aux fines herbes.",
+    "price": "33,00 $",
+    "image_url": "https://www.saq.com/media/catalog/product/1/4/14993728-1_1681938785.png",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2163&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=3P88sa-Exvd1Pvbly3FZmJD7HyMJiL6v2LhgYmqICR8",
+    "agence": "Info Symbiose",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Benje Red 2023",
+      "description": "Laissez-vous séduire par la touche épicée en prenant soin au préalable d’avoir rafraîchi la bouteille. Superbe avec quelques tranches de rosette de Lyon ou encore avec du poulet grillé mariné à l’huile d’olive et aux fines herbes.",
+      "price": "33,00 $",
+      "image_url": "https://www.saq.com/media/catalog/product/1/4/14993728-1_1681938785.png",
+      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2163&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=3P88sa-Exvd1Pvbly3FZmJD7HyMJiL6v2LhgYmqICR8",
+      "producer": "Envinate",
+      "region": "Les Iles Canaries — Espagne",
+      "vintage": "2023",
+      "grape_varieties": [
+        "Autres cépages"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Benje Red 2023",
+          "description": "Laissez-vous séduire par la touche épicée en prenant soin au préalable d’avoir rafraîchi la bouteille. Superbe avec quelques tranches de rosette de Lyon ou encore avec du poulet grillé mariné à l’huile d’olive et aux fines herbes.",
+          "price": "33,00 $",
+          "image_url": "https://www.saq.com/media/catalog/product/1/4/14993728-1_1681938785.png",
+          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2163&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=3P88sa-Exvd1Pvbly3FZmJD7HyMJiL6v2LhgYmqICR8",
+          "producer": "Envinate",
+          "region": "Les Iles Canaries — Espagne",
+          "vintage": "2023",
+          "grape_varieties": [
+            "Autres cépages"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Benje Red 2023, avec sa touche épicée, se marie à merveille avec des mets savoureux, offrant une expérience gustative à la fois fraîche et délicieuse."
+  },
+  {
+    "id": "file-2025-07-24-planvin-0.html-vdf-stella-maris-2023",
+    "blockId": "file-2025-07-24-planvin-0.html",
+    "createdAt": "2025-07-24T00:00:00.000Z",
+    "name": "VdF - Stella Maris 2023",
+    "description": "Le Stella Maris est issu de sauvignon sur sols argilo-siliceux et sous-sol calcaire. Vinifié et élevé sur lies pendant un an en cuves de fibres de verre. Il séduit par ses arômes de pommette, de pêche blanche et sa franche minéralité. En bouche, une acidité vive porte des notes d’agrumes et une légère touche miellée, pour une finale fraîche et persistante.",
+    "price": "37,96$",
+    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/b92736a3-2c50-1977-ad1b-60b1edc0c3f0.jpeg",
+    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8732ef0ad4&e=bc0729f8df",
+    "agence": "Planvin",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "VdF - Stella Maris 2023",
+      "description": "Le Stella Maris est issu de sauvignon sur sols argilo-siliceux et sous-sol calcaire. Vinifié et élevé sur lies pendant un an en cuves de fibres de verre. Il séduit par ses arômes de pommette, de pêche blanche et sa franche minéralité. En bouche, une acidité vive porte des notes d’agrumes et une légère touche miellée, pour une finale fraîche et persistante.",
+      "price": "37,96$",
+      "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/b92736a3-2c50-1977-ad1b-60b1edc0c3f0.jpeg",
+      "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8732ef0ad4&e=bc0729f8df",
+      "producer": "Noëlla Morantin",
+      "region": "Touraine",
+      "vintage": "2023",
+      "grape_varieties": [
+        "sauvignon"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "VdF - Stella Maris 2023",
+          "description": "Le Stella Maris est issu de sauvignon sur sols argilo-siliceux et sous-sol calcaire. Vinifié et élevé sur lies pendant un an en cuves de fibres de verre. Il séduit par ses arômes de pommette, de pêche blanche et sa franche minéralité. En bouche, une acidité vive porte des notes d’agrumes et une légère touche miellée, pour une finale fraîche et persistante.",
+          "price": "37,96$",
+          "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/b92736a3-2c50-1977-ad1b-60b1edc0c3f0.jpeg",
+          "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8732ef0ad4&e=bc0729f8df",
+          "producer": "Noëlla Morantin",
+          "region": "Touraine",
+          "vintage": "2023",
+          "grape_varieties": [
+            "sauvignon"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "VdF - Stella Maris 2023, un Sauvignon élégant, révèle des arômes de pommette et de pêche blanche, avec une acidité vive et une finale fraîche, parfaite pour les journées ensoleillées."
+  },
+  {
+    "id": "file-2025-07-24-planvin-0.html-igp-herault-cotes-du-brian-sous-les-cailloux-des-g",
+    "blockId": "file-2025-07-24-planvin-0.html",
+    "createdAt": "2025-07-24T00:00:00.000Z",
+    "name": "IGP Hérault Côtes du Brian, Sous les Cailloux des Grillons",
+    "description": "On adore ce vin à la personnalité unique, qui convient à toute situation. Assemblage, tenez-vous bien, de: syrah, carignan, grenache, terret noir et cabernet sauvignon. Notes de petits fruits noirs, d'anis et de garrigue. Le vin a juste ce qu'il faut de structure tout en étant friand, frais et digeste.",
+    "price": "33,58$",
+    "image_url": null,
+    "link": null,
+    "agence": "Planvin",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "IGP Hérault Côtes du Brian, Sous les Cailloux des Grillons",
+      "description": "On adore ce vin à la personnalité unique, qui convient à toute situation. Assemblage, tenez-vous bien, de: syrah, carignan, grenache, terret noir et cabernet sauvignon. Notes de petits fruits noirs, d'anis et de garrigue. Le vin a juste ce qu'il faut de structure tout en étant friand, frais et digeste.",
+      "price": "33,58$",
+      "image_url": null,
+      "link": null,
+      "producer": "Clos du Gravillas",
+      "region": "Hérault",
+      "vintage": null,
+      "grape_varieties": [
+        "syrah",
+        "carignan",
+        "grenache",
+        "terret noir",
+        "cabernet sauvignon"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "IGP Hérault Côtes du Brian, Sous les Cailloux des Grillons",
+          "description": "On adore ce vin à la personnalité unique, qui convient à toute situation. Assemblage, tenez-vous bien, de: syrah, carignan, grenache, terret noir et cabernet sauvignon. Notes de petits fruits noirs, d'anis et de garrigue. Le vin a juste ce qu'il faut de structure tout en étant friand, frais et digeste.",
+          "price": "33,58$",
+          "image_url": null,
+          "link": null,
+          "producer": "Clos du Gravillas",
+          "region": "Hérault",
+          "vintage": null,
+          "grape_varieties": [
+            "syrah",
+            "carignan",
+            "grenache",
+            "terret noir",
+            "cabernet sauvignon"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "IGP Hérault Côtes du Brian, Sous les Cailloux des Grillons, est un assemblage audacieux de cépages, offrant une personnalité unique avec des notes de fruits noirs et d'anis, tout en restant frais et accessible."
+  },
+  {
+    "id": "file-2025-07-24-planvin-0.html-vdf-gaga-de-toi-2022",
+    "blockId": "file-2025-07-24-planvin-0.html",
+    "createdAt": "2025-07-24T00:00:00.000Z",
+    "name": "VDF - Gaga de toi 2022",
+    "description": "Gaga de Toi est un assemblage à parts égales de gamay, pinot noir et pineau d’aunis. C’est un vin plein d’énergie, aux accents de fleur d’hibiscus, de sumac, de poivre blanc et de notes herbacées. Un rouge souple, gourmand et joyeux qui fait l’unanimité.",
+    "price": "38,71 $",
+    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/f532f7ac-ef96-8a15-e282-96f02bd488a3.png",
+    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8597f95ff8&e=bc0729f8df",
+    "agence": "Planvin",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "VDF - Gaga de toi 2022",
+      "description": "Gaga de Toi est un assemblage à parts égales de gamay, pinot noir et pineau d’aunis. C’est un vin plein d’énergie, aux accents de fleur d’hibiscus, de sumac, de poivre blanc et de notes herbacées. Un rouge souple, gourmand et joyeux qui fait l’unanimité.",
+      "price": "38,71 $",
+      "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/f532f7ac-ef96-8a15-e282-96f02bd488a3.png",
+      "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8597f95ff8&e=bc0729f8df",
+      "producer": "Ariane & Co",
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": [
+        "gamay",
+        "pinot noir",
+        "pineau d’aunis"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "VDF - Gaga de toi 2022",
+          "description": "Gaga de Toi est un assemblage à parts égales de gamay, pinot noir et pineau d’aunis. C’est un vin plein d’énergie, aux accents de fleur d’hibiscus, de sumac, de poivre blanc et de notes herbacées. Un rouge souple, gourmand et joyeux qui fait l’unanimité.",
+          "price": "38,71 $",
+          "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/f532f7ac-ef96-8a15-e282-96f02bd488a3.png",
+          "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8597f95ff8&e=bc0729f8df",
+          "producer": "Ariane & Co",
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": [
+            "gamay",
+            "pinot noir",
+            "pineau d’aunis"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "VDF - Gaga de toi 2022, un assemblage énergique de Gamay, Pinot Noir et Pineau d’Aunis, offre une explosion de saveurs florales et épicées, un rouge joyeux et accessible."
+  },
+  {
+    "id": "file-2025-07-24-planvin-0.html-la-part-du-colibri-gamay",
+    "blockId": "file-2025-07-24-planvin-0.html",
+    "createdAt": "2025-07-24T00:00:00.000Z",
+    "name": "La Part du Colibri Gamay",
+    "description": "Issu de vignes de Gamay âgées de 30 à 35 ans, ce gamay prend racine sur les roches volcaniques de gabbro des villages de Gorges et Monnières. Les raisins sont égrappés et font une courte macération. Élevage de 8 mois en cuve inox. La bouche fraîche et juteuse est portée par un fruit éclatant. Magnifique exemple de gamay ligérien!",
+    "price": "32,95$",
+    "image_url": null,
+    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=2535800b20&e=bc0729f8df",
+    "agence": "Planvin",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "La Part du Colibri Gamay",
+      "description": "Issu de vignes de Gamay âgées de 30 à 35 ans, ce gamay prend racine sur les roches volcaniques de gabbro des villages de Gorges et Monnières. Les raisins sont égrappés et font une courte macération. Élevage de 8 mois en cuve inox. La bouche fraîche et juteuse est portée par un fruit éclatant. Magnifique exemple de gamay ligérien!",
+      "price": "32,95$",
+      "image_url": null,
+      "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=2535800b20&e=bc0729f8df",
+      "producer": "Domaine Le Fay d'Homme",
+      "region": null,
+      "vintage": null,
+      "grape_varieties": [
+        "gamay"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "La Part du Colibri Gamay",
+          "description": "Issu de vignes de Gamay âgées de 30 à 35 ans, ce gamay prend racine sur les roches volcaniques de gabbro des villages de Gorges et Monnières. Les raisins sont égrappés et font une courte macération. Élevage de 8 mois en cuve inox. La bouche fraîche et juteuse est portée par un fruit éclatant. Magnifique exemple de gamay ligérien!",
+          "price": "32,95$",
+          "image_url": null,
+          "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=2535800b20&e=bc0729f8df",
+          "producer": "Domaine Le Fay d'Homme",
+          "region": null,
+          "vintage": null,
+          "grape_varieties": [
+            "gamay"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "La Part du Colibri Gamay, issu de vignes anciennes sur roches volcaniques, offre une bouche fraîche et juteuse, révélant un fruit éclatant, véritable hommage au terroir ligérien."
+  },
+  {
+    "id": "file-2025-07-24-rezin-0.html-cotes-catalanes-les-centenaires",
+    "blockId": "file-2025-07-24-rezin-0.html",
+    "createdAt": "2025-07-24T00:00:00.000Z",
+    "name": "CÔTES CATALANES LES CENTENAIRES",
+    "description": "UNE BOMBE DE FRUITS !!! Mireille Ribière, Herbaliste et Vigneronne, a baignée depuis l’enfance dans la nature et le monde vigneron grâce à son père, son oncle, son grand-père et toutes les générations précédentes. C’est avec la création du Domaine du Lendemain en 2018 qu’elle laisse s’exprimer le gène familial. Et la famille, vous la connaissez ? Révéler la flore de notre terroir à travers d’emblématiques cépages des Pyrénées-Orientales. Créé en 1993 lorsque Denis Ferrer et Bruno Ribière, décidèrent d’unir leurs forces complémentaires : le premier étant viticulteur et le second, poète, à son aise dans le chai, le Domaine F. Ribière a été repris par Mireille en 2021. Situé au cœur des Aspres, sur les collines verdoyantes, entre 2 canyons d’argiles rouge et ocre. À la vigne, Mireille vise à favoriser le cycle naturel de la vigne ainsi que la vie et la structure du sol : Apports de minéraux et oligo-éléments, taille courte pour la vigueur, maîtrise de l’enherbement, apports de fumier composté et des pulvérisations de tisanes de plantes, de purins et de préparations à base d’huiles essentielles et d’hydrolats en prophylaxie. À la cave, les vendanges sont manuelles : tri à la vigne et sur table, levures indigènes, pas d’ajout de produits de synthèse, dynamique des jus par gravité, hygiène et vigilance sensorielle, contrôle des températures.",
+    "price": "24,95 $",
+    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/b50826da-123e-fb98-ee6c-4882789afb41.png",
+    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=eccea87257&e=c11422f941",
+    "agence": "réZin",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "CÔTES CATALANES LES CENTENAIRES",
+      "description": "UNE BOMBE DE FRUITS !!! Mireille Ribière, Herbaliste et Vigneronne, a baignée depuis l’enfance dans la nature et le monde vigneron grâce à son père, son oncle, son grand-père et toutes les générations précédentes. C’est avec la création du Domaine du Lendemain en 2018 qu’elle laisse s’exprimer le gène familial. Et la famille, vous la connaissez ? Révéler la flore de notre terroir à travers d’emblématiques cépages des Pyrénées-Orientales. Créé en 1993 lorsque Denis Ferrer et Bruno Ribière, décidèrent d’unir leurs forces complémentaires : le premier étant viticulteur et le second, poète, à son aise dans le chai, le Domaine F. Ribière a été repris par Mireille en 2021. Situé au cœur des Aspres, sur les collines verdoyantes, entre 2 canyons d’argiles rouge et ocre. À la vigne, Mireille vise à favoriser le cycle naturel de la vigne ainsi que la vie et la structure du sol : Apports de minéraux et oligo-éléments, taille courte pour la vigueur, maîtrise de l’enherbement, apports de fumier composté et des pulvérisations de tisanes de plantes, de purins et de préparations à base d’huiles essentielles et d’hydrolats en prophylaxie. À la cave, les vendanges sont manuelles : tri à la vigne et sur table, levures indigènes, pas d’ajout de produits de synthèse, dynamique des jus par gravité, hygiène et vigilance sensorielle, contrôle des températures.",
+      "price": "24,95 $",
+      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/b50826da-123e-fb98-ee6c-4882789afb41.png",
+      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=eccea87257&e=c11422f941",
+      "producer": "DOMAINE DU LENDEMAIN",
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "CÔTES CATALANES LES CENTENAIRES",
+          "description": "UNE BOMBE DE FRUITS !!! Mireille Ribière, Herbaliste et Vigneronne, a baignée depuis l’enfance dans la nature et le monde vigneron grâce à son père, son oncle, son grand-père et toutes les générations précédentes. C’est avec la création du Domaine du Lendemain en 2018 qu’elle laisse s’exprimer le gène familial. Et la famille, vous la connaissez ? Révéler la flore de notre terroir à travers d’emblématiques cépages des Pyrénées-Orientales. Créé en 1993 lorsque Denis Ferrer et Bruno Ribière, décidèrent d’unir leurs forces complémentaires : le premier étant viticulteur et le second, poète, à son aise dans le chai, le Domaine F. Ribière a été repris par Mireille en 2021. Situé au cœur des Aspres, sur les collines verdoyantes, entre 2 canyons d’argiles rouge et ocre. À la vigne, Mireille vise à favoriser le cycle naturel de la vigne ainsi que la vie et la structure du sol : Apports de minéraux et oligo-éléments, taille courte pour la vigueur, maîtrise de l’enherbement, apports de fumier composté et des pulvérisations de tisanes de plantes, de purins et de préparations à base d’huiles essentielles et d’hydrolats en prophylaxie. À la cave, les vendanges sont manuelles : tri à la vigne et sur table, levures indigènes, pas d’ajout de produits de synthèse, dynamique des jus par gravité, hygiène et vigilance sensorielle, contrôle des températures.",
+          "price": "24,95 $",
+          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/b50826da-123e-fb98-ee6c-4882789afb41.png",
+          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=eccea87257&e=c11422f941",
+          "producer": "DOMAINE DU LENDEMAIN",
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Côtes Catalanes Les Centenaires, une explosion de fruits, est le fruit d'un savoir-faire familial, révélant la richesse du terroir des Pyrénées-Orientales avec des cépages emblématiques cultivés en harmonie avec la nature."
+  },
+  {
+    "id": "file-2025-07-24-rezin-0.html-cotes-de-rhone",
+    "blockId": "file-2025-07-24-rezin-0.html",
+    "createdAt": "2025-07-24T00:00:00.000Z",
+    "name": "CÔTES DE RHÔNE",
+    "description": "UN DÉLICE À ACHETER À LA CAISSE ! « (...) Un vin d’une élégance généreuse et chaleureuse, aux notes de cassis et de cacao, pointées de thym citronné, sur une finale poivrée. Le tout est produit sans sulfites, en fermentation spontanée avec levures indigènes, dans des cuves de béton où le vin est laissé en maturation de huit à douze mois avant d’être embouteillé. Pour vous mettre en contexte, il y a d’abord le Château Mourgues du Grès qui est considéré comme l’un des meilleurs vignobles de la Costière de Nîmes, depuis que François Collard a pris la relève de son père en 1990, en collaboration avec son épouse Anne. Puis en 2019, Anne Collard achète 30 hectares de vignes à Comps, un terroir particulièrement venteux et propice à la culture biologique, situé à six kilomètres du château. Elle mène son projet en collaboration avec l’expertise de son fils Romain au vignoble et de son mari François à la cave, pour élaborer seulement deux cuvées en petite quantité, celle-ci et «Aube» qui est produite à partir de vieilles vignes. Des vins vibrants et équilibrés qui sont vinifiés au Château Mourgues du Grès, dans de nouvelles installations.",
+    "price": "23,60 $",
+    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/84faaafc-86b0-48f5-df57-26c039cea4da.png",
+    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=8374d1f9f8&e=c11422f941",
+    "agence": "réZin",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "CÔTES DE RHÔNE",
+      "description": "UN DÉLICE À ACHETER À LA CAISSE ! « (...) Un vin d’une élégance généreuse et chaleureuse, aux notes de cassis et de cacao, pointées de thym citronné, sur une finale poivrée. Le tout est produit sans sulfites, en fermentation spontanée avec levures indigènes, dans des cuves de béton où le vin est laissé en maturation de huit à douze mois avant d’être embouteillé. Pour vous mettre en contexte, il y a d’abord le Château Mourgues du Grès qui est considéré comme l’un des meilleurs vignobles de la Costière de Nîmes, depuis que François Collard a pris la relève de son père en 1990, en collaboration avec son épouse Anne. Puis en 2019, Anne Collard achète 30 hectares de vignes à Comps, un terroir particulièrement venteux et propice à la culture biologique, situé à six kilomètres du château. Elle mène son projet en collaboration avec l’expertise de son fils Romain au vignoble et de son mari François à la cave, pour élaborer seulement deux cuvées en petite quantité, celle-ci et «Aube» qui est produite à partir de vieilles vignes. Des vins vibrants et équilibrés qui sont vinifiés au Château Mourgues du Grès, dans de nouvelles installations.",
+      "price": "23,60 $",
+      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/84faaafc-86b0-48f5-df57-26c039cea4da.png",
+      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=8374d1f9f8&e=c11422f941",
+      "producer": "VIGNOBLE ANNE COLLARD",
+      "region": null,
+      "vintage": "2021",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "CÔTES DE RHÔNE",
+          "description": "UN DÉLICE À ACHETER À LA CAISSE ! « (...) Un vin d’une élégance généreuse et chaleureuse, aux notes de cassis et de cacao, pointées de thym citronné, sur une finale poivrée. Le tout est produit sans sulfites, en fermentation spontanée avec levures indigènes, dans des cuves de béton où le vin est laissé en maturation de huit à douze mois avant d’être embouteillé. Pour vous mettre en contexte, il y a d’abord le Château Mourgues du Grès qui est considéré comme l’un des meilleurs vignobles de la Costière de Nîmes, depuis que François Collard a pris la relève de son père en 1990, en collaboration avec son épouse Anne. Puis en 2019, Anne Collard achète 30 hectares de vignes à Comps, un terroir particulièrement venteux et propice à la culture biologique, situé à six kilomètres du château. Elle mène son projet en collaboration avec l’expertise de son fils Romain au vignoble et de son mari François à la cave, pour élaborer seulement deux cuvées en petite quantité, celle-ci et «Aube» qui est produite à partir de vieilles vignes. Des vins vibrants et équilibrés qui sont vinifiés au Château Mourgues du Grès, dans de nouvelles installations.",
+          "price": "23,60 $",
+          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/84faaafc-86b0-48f5-df57-26c039cea4da.png",
+          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=8374d1f9f8&e=c11422f941",
+          "producer": "VIGNOBLE ANNE COLLARD",
+          "region": null,
+          "vintage": "2021",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Côtes de Rhône, un délice à savourer, offre une élégance chaleureuse avec des notes de cassis et de cacao, élaboré sans sulfites dans un respect total du terroir et des traditions."
+  },
+  {
+    "id": "file-2025-07-24-rezin-0.html-petit-chablis-hauterivien",
+    "blockId": "file-2025-07-24-rezin-0.html",
+    "createdAt": "2025-07-24T00:00:00.000Z",
+    "name": "PETIT CHABLIS «HAUTÉRIVIEN»",
+    "description": "IL N'Y A RIEN DE PETIT DANS CETTE MERVEILLE ! C'est en 1990 que Denis Pommier a repris les deux hectares de vignes de ses grands-parents, à Poinchy, près de Chablis, en Bourgogne. Aujourd'hui, le domaine en culture biologique s'étend sur environ 23 hectares en Petit Chablis et Chablis, incluant trois premiers crus, ainsi qu'une parcelle de pinot noir. Le domaine privilégie les vendanges manuelles, assurant ainsi une sélection rigoureuse des raisins, tout en évitant au maximum la trituration des baies. Le potentiel aromatique en est donc préservé. Ici, c'est le terroir qui dicte le mode de vinification, parfois en barriques mais plus souvent en cuves. Les élevages sur lies fines se prolongent pour gagner en volume et complexité, ce qui permet notamment de réduire les doses de soufre. Domaine en culture biologique, le travail se fait avec des levures indigènes et un élevage sur lies fines. La récolte de chaque parcelle est vinifiée séparément afin de préserver au maximum la typicité de leur terroir.",
+    "price": "37,25 $",
+    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/b616519e-c64e-ea23-52bb-851c384a7019.png",
+    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=00ea28f337&e=c11422f941",
+    "agence": "réZin",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "PETIT CHABLIS «HAUTÉRIVIEN»",
+      "description": "IL N'Y A RIEN DE PETIT DANS CETTE MERVEILLE ! C'est en 1990 que Denis Pommier a repris les deux hectares de vignes de ses grands-parents, à Poinchy, près de Chablis, en Bourgogne. Aujourd'hui, le domaine en culture biologique s'étend sur environ 23 hectares en Petit Chablis et Chablis, incluant trois premiers crus, ainsi qu'une parcelle de pinot noir. Le domaine privilégie les vendanges manuelles, assurant ainsi une sélection rigoureuse des raisins, tout en évitant au maximum la trituration des baies. Le potentiel aromatique en est donc préservé. Ici, c'est le terroir qui dicte le mode de vinification, parfois en barriques mais plus souvent en cuves. Les élevages sur lies fines se prolongent pour gagner en volume et complexité, ce qui permet notamment de réduire les doses de soufre. Domaine en culture biologique, le travail se fait avec des levures indigènes et un élevage sur lies fines. La récolte de chaque parcelle est vinifiée séparément afin de préserver au maximum la typicité de leur terroir.",
+      "price": "37,25 $",
+      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/b616519e-c64e-ea23-52bb-851c384a7019.png",
+      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=00ea28f337&e=c11422f941",
+      "producer": "ISABELLE ET DENIS POMMIER",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "PETIT CHABLIS «HAUTÉRIVIEN»",
+          "description": "IL N'Y A RIEN DE PETIT DANS CETTE MERVEILLE ! C'est en 1990 que Denis Pommier a repris les deux hectares de vignes de ses grands-parents, à Poinchy, près de Chablis, en Bourgogne. Aujourd'hui, le domaine en culture biologique s'étend sur environ 23 hectares en Petit Chablis et Chablis, incluant trois premiers crus, ainsi qu'une parcelle de pinot noir. Le domaine privilégie les vendanges manuelles, assurant ainsi une sélection rigoureuse des raisins, tout en évitant au maximum la trituration des baies. Le potentiel aromatique en est donc préservé. Ici, c'est le terroir qui dicte le mode de vinification, parfois en barriques mais plus souvent en cuves. Les élevages sur lies fines se prolongent pour gagner en volume et complexité, ce qui permet notamment de réduire les doses de soufre. Domaine en culture biologique, le travail se fait avec des levures indigènes et un élevage sur lies fines. La récolte de chaque parcelle est vinifiée séparément afin de préserver au maximum la typicité de leur terroir.",
+          "price": "37,25 $",
+          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/b616519e-c64e-ea23-52bb-851c384a7019.png",
+          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=00ea28f337&e=c11422f941",
+          "producer": "ISABELLE ET DENIS POMMIER",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Petit Chablis 'Hautérivien' transcende son nom, offrant une complexité aromatique exceptionnelle grâce à des vendanges manuelles et un élevage sur lies fines, révélant la pureté de son terroir bourguignon."
+  }
+]
