@@ -1,0 +1,43 @@
+{
+  "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-gutturnio-frizzante-2021",
+  "blockId": "file-2025-07-26-le-vin-dans-les-voiles-0.html",
+  "createdAt": "2025-07-26T00:00:00.000Z",
+  "name": "Gutturnio frizzante 2021",
+  "description": "Il y a des bulles qui annoncent la fête, et d’autres qui se faufilent discrètement pour éveiller les sens. Le frizzante de Croci, c’est l’Italie version sauvage et confidentielle : un rouge léger, un peu rustique, aux notes de petits fruits rouges acidulés, relevé d’un soupçon animal au nez. Servi frais, il accompagne les moments simples — une planche bien garnie, une fin d’après-midi à l’ombre — sans jamais voler la vedette. Une excentricité tranquille, pour les introvertis qui savent aussi pétiller.",
+  "price": "25.15$",
+  "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/2dd5a9f4-e9ff-4b2c-90de-acce513ca459.jpeg",
+  "link": null,
+  "agence": "Le vin dans les voiles",
+  "disponibilite": "SAQ",
+  "raw_data": {
+    "name": "Gutturnio frizzante 2021",
+    "description": "Il y a des bulles qui annoncent la fête, et d’autres qui se faufilent discrètement pour éveiller les sens. Le frizzante de Croci, c’est l’Italie version sauvage et confidentielle : un rouge léger, un peu rustique, aux notes de petits fruits rouges acidulés, relevé d’un soupçon animal au nez. Servi frais, il accompagne les moments simples — une planche bien garnie, une fin d’après-midi à l’ombre — sans jamais voler la vedette. Une excentricité tranquille, pour les introvertis qui savent aussi pétiller.",
+    "price": "25.15$",
+    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/2dd5a9f4-e9ff-4b2c-90de-acce513ca459.jpeg",
+    "link": null,
+    "producer": "Azienda Croci",
+    "region": null,
+    "vintage": "2021",
+    "grape_varieties": null,
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": "SAQ",
+    "all_occurrences_raw_data": [
+      {
+        "name": "Gutturnio frizzante 2021",
+        "description": "Il y a des bulles qui annoncent la fête, et d’autres qui se faufilent discrètement pour éveiller les sens. Le frizzante de Croci, c’est l’Italie version sauvage et confidentielle : un rouge léger, un peu rustique, aux notes de petits fruits rouges acidulés, relevé d’un soupçon animal au nez. Servi frais, il accompagne les moments simples — une planche bien garnie, une fin d’après-midi à l’ombre — sans jamais voler la vedette. Une excentricité tranquille, pour les introvertis qui savent aussi pétiller.",
+        "price": "25.15$",
+        "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/2dd5a9f4-e9ff-4b2c-90de-acce513ca459.jpeg",
+        "link": null,
+        "producer": "Azienda Croci",
+        "region": null,
+        "vintage": "2021",
+        "grape_varieties": null,
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": "SAQ"
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}

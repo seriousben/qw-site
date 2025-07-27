@@ -1,0 +1,43 @@
+{
+  "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-chablis-1er-cru-montmains-2021",
+  "blockId": "file-2025-07-26-le-vin-dans-les-voiles-0.html",
+  "createdAt": "2025-07-26T00:00:00.000Z",
+  "name": "Chablis 1er Cru Montmains 2021",
+  "description": "Voici un vin qui n’a rien à prouver. Concentré, puissant, calme, il avance avec assurance, sans forcer le ton. Le genre de bouteille qu’on n’ouvre pas à la légère, mais qui marque les esprits sans élever la voix. Parfait pour les longues soirées lentes, les repas sans faux-semblants, ou les moments où on célèbre en silence. Et si vous préférez attendre, sachez qu’il vieillira très bien — comme ceux qui ont appris à se taire pour mieux écouter.",
+  "price": "74.75 $",
+  "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/929b6964-5055-480b-96dd-3af439ee293c.jpeg",
+  "link": null,
+  "agence": "Le vin dans les voiles",
+  "disponibilite": "SAQ",
+  "raw_data": {
+    "name": "Chablis 1er Cru Montmains 2021",
+    "description": "Voici un vin qui n’a rien à prouver. Concentré, puissant, calme, il avance avec assurance, sans forcer le ton. Le genre de bouteille qu’on n’ouvre pas à la légère, mais qui marque les esprits sans élever la voix. Parfait pour les longues soirées lentes, les repas sans faux-semblants, ou les moments où on célèbre en silence. Et si vous préférez attendre, sachez qu’il vieillira très bien — comme ceux qui ont appris à se taire pour mieux écouter.",
+    "price": "74.75 $",
+    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/929b6964-5055-480b-96dd-3af439ee293c.jpeg",
+    "link": null,
+    "producer": "Domaine Duplessis",
+    "region": null,
+    "vintage": "2021",
+    "grape_varieties": null,
+    "alcohol_content": null,
+    "volume": null,
+    "disponibilite": "SAQ",
+    "all_occurrences_raw_data": [
+      {
+        "name": "Chablis 1er Cru Montmains 2021",
+        "description": "Voici un vin qui n’a rien à prouver. Concentré, puissant, calme, il avance avec assurance, sans forcer le ton. Le genre de bouteille qu’on n’ouvre pas à la légère, mais qui marque les esprits sans élever la voix. Parfait pour les longues soirées lentes, les repas sans faux-semblants, ou les moments où on célèbre en silence. Et si vous préférez attendre, sachez qu’il vieillira très bien — comme ceux qui ont appris à se taire pour mieux écouter.",
+        "price": "74.75 $",
+        "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/929b6964-5055-480b-96dd-3af439ee293c.jpeg",
+        "link": null,
+        "producer": "Domaine Duplessis",
+        "region": null,
+        "vintage": "2021",
+        "grape_varieties": null,
+        "alcohol_content": null,
+        "volume": null,
+        "disponibilite": "SAQ"
+      }
+    ],
+    "agence_was_defaulted": false
+  }
+}
