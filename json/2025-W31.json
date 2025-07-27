@@ -41,7 +41,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Gutturnio frizzante 2021 de Croci est une célébration discrète de l'Italie sauvage, un rouge léger et rustique aux notes acidulées de petits fruits rouges, parfait pour accompagner des moments simples avec une excentricité tranquille."
+    "summary": "Le Gutturnio frizzante 2021 de Croci est un rouge léger et rustique, aux notes acidulées de petits fruits rouges et d'un soupçon animal, parfait pour éveiller les sens tout en restant discret lors des moments simples."
   },
   {
     "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-la-compagnon-2022",
@@ -93,7 +93,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Compagnon 2022 est un rouge réconfortant aux notes souples de Syrah, Carignan et Grenache, idéal pour des moments de partage chaleureux, alliant gourmandise et discrète épice."
+    "summary": "La Compagnon 2022 est une alliance de Syrah, Carignan et Grenache, offrant une souplesse gourmande et une profondeur réconfortante, idéale pour des moments de partage au coin du feu."
   },
   {
     "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-chablis-1er-cru-montmains-2021",
@@ -105,7 +105,7 @@
     "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/929b6964-5055-480b-96dd-3af439ee293c.jpeg",
     "link": null,
     "agence": "Le vin dans les voiles",
-    "disponibilite": null,
+    "disponibilite": "SAQ",
     "raw_data": {
       "name": "Chablis 1er Cru Montmains 2021",
       "description": "Voici un vin qui n’a rien à prouver. Concentré, puissant, calme, il avance avec assurance, sans forcer le ton. Le genre de bouteille qu’on n’ouvre pas à la légère, mais qui marque les esprits sans élever la voix. Parfait pour les longues soirées lentes, les repas sans faux-semblants, ou les moments où on célèbre en silence. Et si vous préférez attendre, sachez qu’il vieillira très bien — comme ceux qui ont appris à se taire pour mieux écouter.",
@@ -118,7 +118,7 @@
       "grape_varieties": null,
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": null,
+      "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
           "name": "Chablis 1er Cru Montmains 2021",
@@ -132,12 +132,12 @@
           "grape_varieties": null,
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": null
+          "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Chablis 1er Cru Montmains 2021 est un vin concentré et puissant, qui s'impose avec calme et élégance, idéal pour des soirées mémorables et des célébrations discrètes."
+    "summary": "Le Chablis 1er Cru Montmains 2021 est un vin concentré et puissant, qui s'impose avec calme et assurance, idéal pour les soirées intimes et les célébrations discrètes, tout en promettant une belle évolution avec le temps."
   },
   {
     "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-chablis-2022",
@@ -149,7 +149,7 @@
     "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/ad879048-c82f-43bc-b319-6bbdf4254b72.jpeg",
     "link": null,
     "agence": "Le vin dans les voiles",
-    "disponibilite": null,
+    "disponibilite": "SAQ",
     "raw_data": {
       "name": "Chablis 2022",
       "description": "Plus lumineux, plus accessible, mais tout aussi délicat. Ce chablis floral et minéral se glisse à table comme un invité discret qui connaît les codes. Coquillages, salades, bouchées fraîches… il accompagne sans prendre trop de place, mais en rehaussant tout ce qu’il touche. À boire maintenant ou dans cinq ans, selon l’envie et le moment. Un vin à l’image des meilleurs week-ends d’été : simples, fins, inoubliables.",
@@ -162,7 +162,7 @@
       "grape_varieties": null,
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": null,
+      "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
           "name": "Chablis 2022",
@@ -176,12 +176,12 @@
           "grape_varieties": null,
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": null
+          "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Chablis 2022, floral et minéral, se présente comme un invité délicat à votre table, sublimant chaque plat sans jamais s'imposer, parfait pour des moments simples et mémorables."
+    "summary": "Le Chablis 2022, floral et minéral, se présente comme un invité discret à votre table, sublimant les plats frais tout en offrant une accessibilité qui le rend parfait à déguster dès maintenant ou dans les années à venir."
   },
   {
     "id": "file-2025-07-25-noble-selection-0.html-invincible-numero-1-douro-2023",
@@ -235,7 +235,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "L'Invincible Número 1 Douro 2023, issu de vignes de plus de 30 ans, révèle l'authenticité des cépages Rabigato, Arinto et Códega, avec une touche de chêne français pour une complexité subtile."
+    "summary": "L'Invincible Número 1 Douro 2023, issu de vignes de plus de 30 ans cultivées durablement, révèle l'harmonie des cépages Rabigato, Arinto et Códega, avec une touche de chêne français pour une complexité raffinée."
   },
   {
     "id": "file-2025-07-25-noble-selection-0.html-pour-ma-gueule",
@@ -279,7 +279,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Pour Ma Gueule est une cuvée élaborée selon la méthode ancestrale, où la fermentation naturelle crée des bulles authentiques, sans ajout de sucre, révélant la pureté du raisin."
+    "summary": "Pour Ma Gueule est une cuvée élaborée selon la méthode ancestrale, où la fermentation naturelle dans la bouteille crée une effervescence authentique, sans ajout de sucre ni de liqueur, révélant la pureté du raisin."
   },
   {
     "id": "file-2025-07-25-noble-selection-0.html-soif-blanc-2023",
@@ -375,7 +375,7 @@
     "description": "Superbe interprétation de l’a.o.c côtes du rhône en grenache majeur et syrah mineure par le ténor Jean-Louis Chave. Avec sa gamme \"Sélection\" Jean-Louis Chave nous propose des vins de négoce élaborés avec les meilleurs raisins qu'il sélectionne lui-même chez quelques vignerons talentueux qui travaillent tous la vigne en agriculture biologique.",
     "price": "26,45$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_j.l.-chave-s--lection-mon-coeur-2022-copie.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f59416129d&e=2c9a262afa",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9198b357ca&e=2c9a262afa",
     "agence": "Noble Sélection",
     "disponibilite": null,
     "raw_data": {
@@ -383,7 +383,7 @@
       "description": "Superbe interprétation de l’a.o.c côtes du rhône en grenache majeur et syrah mineure par le ténor Jean-Louis Chave. Avec sa gamme \"Sélection\" Jean-Louis Chave nous propose des vins de négoce élaborés avec les meilleurs raisins qu'il sélectionne lui-même chez quelques vignerons talentueux qui travaillent tous la vigne en agriculture biologique.",
       "price": "26,45$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_j.l.-chave-s--lection-mon-coeur-2022-copie.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f59416129d&e=2c9a262afa",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9198b357ca&e=2c9a262afa",
       "producer": "JL CHAVE SELECTION",
       "region": "Vallée du Rhône",
       "vintage": "2023",
@@ -397,7 +397,7 @@
           "description": "Superbe interprétation de l’a.o.c côtes du rhône en grenache majeur et syrah mineure par le ténor Jean-Louis Chave. Avec sa gamme \"Sélection\" Jean-Louis Chave nous propose des vins de négoce élaborés avec les meilleurs raisins qu'il sélectionne lui-même chez quelques vignerons talentueux qui travaillent tous la vigne en agriculture biologique.",
           "price": "26,45$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_j.l.-chave-s--lection-mon-coeur-2022-copie.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f59416129d&e=2c9a262afa",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9198b357ca&e=2c9a262afa",
           "producer": "JL CHAVE SELECTION",
           "region": "Vallée du Rhône",
           "vintage": "2023",
@@ -409,7 +409,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Côtes du Rhône Mon Coeur 2023, signé Jean-Louis Chave, est une interprétation magistrale du Grenache et de la Syrah, élaborée avec soin à partir de raisins biologiques sélectionnés avec passion."
+    "summary": "Le Côtes du Rhône Mon Coeur 2023, signé Jean-Louis Chave, est une interprétation exquise de Grenache et Syrah, élaborée à partir des meilleurs raisins issus de vignerons engagés en agriculture biologique."
   },
   {
     "id": "file-2025-07-25-noble-selection-0.html-baglio-di-grisi-grillo-sicilia-2023",
@@ -601,7 +601,7 @@
       "image_url": null,
       "link": null,
       "producer": null,
-      "region": null,
+      "region": "Bourgogne",
       "vintage": "2018",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -615,7 +615,7 @@
           "image_url": null,
           "link": null,
           "producer": null,
-          "region": null,
+          "region": "Bourgogne",
           "vintage": "2018",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -625,7 +625,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Bourgogne Hautes-Côtes-de-Beaune Blanc '18 Lunes' est un Grand Cru d'exception, élevé pendant 18 mois en vieilles barriques, offrant une complexité minérale et une finesse inégalée."
+    "summary": "Le Bourgogne Hautes-Côtes-de-Beaune Blanc '18 Lunes' est un Grand Cru d'exception, élevé pendant 18 mois en vieilles barriques, offrant une expression minérale et complexe des vignes de Nantoux, sur un terroir calcaire privilégié."
   },
   {
     "id": "file-2025-07-25-vin-dame-jeanne-0.html-rully-blanc-la-chaume",
@@ -645,7 +645,7 @@
       "image_url": null,
       "link": null,
       "producer": null,
-      "region": null,
+      "region": "Rully",
       "vintage": "2022",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -659,7 +659,7 @@
           "image_url": null,
           "link": null,
           "producer": null,
-          "region": null,
+          "region": "Rully",
           "vintage": "2022",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -669,7 +669,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Rully Blanc 'La Chaume' est un vin vivifiant et salin, issu de sols marbrés, offrant une belle texture pulpeuse et une élégance raffinée grâce à son élevage en vieilles barriques."
+    "summary": "Le Rully Blanc 'La Chaume' est un vin vivifiant et salin, issu de sols marbrés d'argiles, élevé un an en vieilles barriques, offrant une belle pulpe et une fraîcheur remarquable."
   },
   {
     "id": "file-2025-07-25-vin-dame-jeanne-0.html-hautes-cotes-de-beaune-rouge",
@@ -689,7 +689,7 @@
       "image_url": null,
       "link": null,
       "producer": null,
-      "region": null,
+      "region": "Hautes-Côtes-de-Beaune",
       "vintage": "2022",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -703,7 +703,7 @@
           "image_url": null,
           "link": null,
           "producer": null,
-          "region": null,
+          "region": "Hautes-Côtes-de-Beaune",
           "vintage": "2022",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -713,7 +713,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Hautes-Côtes-de-Beaune Rouge, issu d'un clone unique de Pinot Noir, révèle une complexité raffinée grâce à sa macération en grappes entières et son élevage en vieilles barriques."
+    "summary": "Le Hautes-Côtes-de-Beaune Rouge, issu d'un clone unique de Pinot Noir, révèle une complexité raffinée grâce à une macération en grappes entières et un élevage en vieilles barriques, sur un terroir d'argiles rouges et calcaire."
   },
   {
     "id": "file-2025-07-25-vin-dame-jeanne-0.html-rully-rouge-la-chaume",
@@ -733,7 +733,7 @@
       "image_url": null,
       "link": null,
       "producer": null,
-      "region": null,
+      "region": "Rully",
       "vintage": "2022",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -747,7 +747,7 @@
           "image_url": null,
           "link": null,
           "producer": null,
-          "region": null,
+          "region": "Rully",
           "vintage": "2022",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -757,7 +757,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Rully Rouge 'La Chaume' est un Pinot Noir racé et charmeur, offrant des arômes de petits fruits rouges et d'épices chaudes, sublimé par un élevage de 18 mois en vieilles barriques."
+    "summary": "Le Rully Rouge 'La Chaume' est un Pinot Noir racé et charmeur, aux arômes de petits fruits rouges et d'épices chaudes, élevé pendant 18 mois en vieilles barriques pour une complexité séduisante."
   },
   {
     "id": "file-2025-07-25-vin-dame-jeanne-0.html-volnay",
@@ -777,7 +777,7 @@
       "image_url": null,
       "link": null,
       "producer": null,
-      "region": null,
+      "region": "Volnay",
       "vintage": "2022",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -791,7 +791,7 @@
           "image_url": null,
           "link": null,
           "producer": null,
-          "region": null,
+          "region": "Volnay",
           "vintage": "2022",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -801,7 +801,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Volnay, d'une délicatesse et d'une élégance grandioses, est un vin stimulant, issu de vignes anciennes et élevé avec soin pour révéler toute sa complexité."
+    "summary": "Le Volnay, issu de vignes anciennes, est un vin d'une délicatesse et d'une élégance grandioses, offrant une complexité stimulante grâce à une macération en grappes entières et un élevage soigné en barriques."
   },
   {
     "id": "file-2025-07-25-vin-dame-jeanne-0.html-beaune-1er-cru-pertuisots",
@@ -821,7 +821,7 @@
       "image_url": null,
       "link": null,
       "producer": null,
-      "region": null,
+      "region": "Beaune",
       "vintage": "2022",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -835,7 +835,7 @@
           "image_url": null,
           "link": null,
           "producer": null,
-          "region": null,
+          "region": "Beaune",
           "vintage": "2022",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -845,7 +845,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Beaune 1er cru 'Pertuisots' est un vin frais et délicat, issu d'une parcelle exceptionnelle, avec une macération en grappes entières qui révèle sa finesse et son épice subtile."
+    "summary": "Le Beaune 1er cru 'Pertuisots' est un vin exceptionnel, frais et délicat, élaboré à partir de raisins en grappes entières, offrant une complexité épicée après 12 mois d'élevage en fûts sur un terroir calcaire privilégié."
   },
   {
     "id": "file-2025-07-25-vin-dame-jeanne-0.html-volnay-lopins",
@@ -865,7 +865,7 @@
       "image_url": null,
       "link": null,
       "producer": null,
-      "region": null,
+      "region": "Volnay",
       "vintage": "2022",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -879,7 +879,7 @@
           "image_url": null,
           "link": null,
           "producer": null,
-          "region": null,
+          "region": "Volnay",
           "vintage": "2022",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -889,7 +889,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Volnay 'Lopins', une première au Québec, est un vin dense et mystérieux, avec une macération partielle en grappes entières, offrant une finale d'une longueur remarquable."
+    "summary": "Le Volnay 'Lopins' est un vin dense et mystérieux, issu d'un assemblage de parcelles, offrant une finale incroyablement longue grâce à une macération partielle en grappes entières."
   },
   {
     "id": "file-2025-07-25-vin-dame-jeanne-0.html-volnay-1er-cru-les-mitans",
@@ -909,7 +909,7 @@
       "image_url": null,
       "link": null,
       "producer": null,
-      "region": null,
+      "region": "Volnay",
       "vintage": "2022",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -923,7 +923,7 @@
           "image_url": null,
           "link": null,
           "producer": null,
-          "region": null,
+          "region": "Volnay",
           "vintage": "2022",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -933,7 +933,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Volnay 1er cru 'Les Mitans' est un vin aérien et éclatant, élaboré sans soufre, révélant la précision et la grandeur d'un terroir travaillé avec soin."
+    "summary": "Le Volnay 1er cru 'Les Mitans' est un vin aérien et éclatant, élaboré sans soufre, offrant une précision remarquable et une expression authentique du terroir de Volnay."
   },
   {
     "id": "file-2025-07-24-info-symbiose-0.html-secateurs",
@@ -981,7 +981,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Sécateurs Chenin Blanc, un vin vibrant et raffiné, séduit par ses arômes de pomme et de poire, offrant une belle acidité et une générosité en bouche, parfait pour les journées d'été."
+    "summary": "Le Sécateurs Chenin Blanc, vibrant et raffiné, séduit par ses arômes de pomme, poire et citron confit, offrant une belle acidité et une générosité en bouche, parfait pour les moments estivaux."
   },
   {
     "id": "file-2025-07-24-info-symbiose-0.html-saint-joseph-rue-des-poulies-2023",
@@ -1077,7 +1077,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Benje Red 2023, avec sa touche épicée, se marie à merveille avec des mets savoureux comme la rosette de Lyon ou un poulet grillé, promettant une expérience gustative mémorable."
+    "summary": "Le Benje Red 2023, avec sa touche épicée, se marie à merveille avec des mets savoureux comme la rosette de Lyon ou un poulet grillé, promettant une expérience gustative délicieuse."
   },
   {
     "id": "file-2025-07-24-planvin-0.html-vdf-stella-maris-2023",
@@ -1125,7 +1125,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Stella Maris 2023, issu de Sauvignon, offre une belle minéralité et des arômes de pommette et de pêche blanche, avec une acidité vive et une finale fraîche et persistante."
+    "summary": "Le Stella Maris 2023, vinifié en cuves de fibres de verre, offre des arômes de pommette et de pêche blanche, avec une acidité vive et une finale fraîche, révélant la minéralité de son terroir argilo-siliceux."
   },
   {
     "id": "file-2025-07-24-planvin-0.html-igp-herault-cotes-du-brian-sous-les-cailloux-des-g",
@@ -1181,7 +1181,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le IGP Hérault Côtes du Brian, Sous les Cailloux des Grillons, est un assemblage audacieux de cépages, offrant des notes de petits fruits noirs et d'anis, avec une structure friande et fraîche."
+    "summary": "L'IGP Hérault Côtes du Brian, Sous les Cailloux des Grillons, est un assemblage audacieux de Syrah, Carignan, Grenache, Terret Noir et Cabernet Sauvignon, offrant des notes de petits fruits noirs et d'anis, avec une structure fraîche et digeste."
   },
   {
     "id": "file-2025-07-24-planvin-0.html-vdf-gaga-de-toi-2022",
@@ -1190,16 +1190,16 @@
     "name": "VDF - Gaga de toi 2022",
     "description": "Gaga de Toi est un assemblage à parts égales de gamay, pinot noir et pineau d’aunis. C’est un vin plein d’énergie, aux accents de fleur d’hibiscus, de sumac, de poivre blanc et de notes herbacées. Un rouge souple, gourmand et joyeux qui fait l’unanimité.",
     "price": "38,71 $",
-    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/f532f7ac-ef96-8a15-e282-96f02bd488a3.png",
-    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8597f95ff8&e=bc0729f8df",
+    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/_compresseds/33a14487-970b-befa-ef81-d4b17a765587.jpg",
+    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=328b4c78e1&e=bc0729f8df",
     "agence": "Planvin",
     "disponibilite": null,
     "raw_data": {
       "name": "VDF - Gaga de toi 2022",
       "description": "Gaga de Toi est un assemblage à parts égales de gamay, pinot noir et pineau d’aunis. C’est un vin plein d’énergie, aux accents de fleur d’hibiscus, de sumac, de poivre blanc et de notes herbacées. Un rouge souple, gourmand et joyeux qui fait l’unanimité.",
       "price": "38,71 $",
-      "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/f532f7ac-ef96-8a15-e282-96f02bd488a3.png",
-      "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8597f95ff8&e=bc0729f8df",
+      "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/_compresseds/33a14487-970b-befa-ef81-d4b17a765587.jpg",
+      "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=328b4c78e1&e=bc0729f8df",
       "producer": "Ariane & Co",
       "region": "Coteaux du Vendômois",
       "vintage": "2022",
@@ -1216,8 +1216,8 @@
           "name": "VDF - Gaga de toi 2022",
           "description": "Gaga de Toi est un assemblage à parts égales de gamay, pinot noir et pineau d’aunis. C’est un vin plein d’énergie, aux accents de fleur d’hibiscus, de sumac, de poivre blanc et de notes herbacées. Un rouge souple, gourmand et joyeux qui fait l’unanimité.",
           "price": "38,71 $",
-          "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/f532f7ac-ef96-8a15-e282-96f02bd488a3.png",
-          "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8597f95ff8&e=bc0729f8df",
+          "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/_compresseds/33a14487-970b-befa-ef81-d4b17a765587.jpg",
+          "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=328b4c78e1&e=bc0729f8df",
           "producer": "Ariane & Co",
           "region": "Coteaux du Vendômois",
           "vintage": "2022",
@@ -1233,7 +1233,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le VDF - Gaga de Toi 2022 est un assemblage énergique de Gamay, Pinot Noir et Pineau d’Aunis, offrant des notes florales et épicées, un rouge souple et joyeux qui ravit les palais."
+    "summary": "Le VDF - Gaga de toi 2022 est un assemblage énergique de Gamay, Pinot Noir et Pineau d’Aunis, offrant des notes florales et épicées, pour un rouge souple et joyeux qui ravira tous les palais."
   },
   {
     "id": "file-2025-07-24-planvin-0.html-la-part-du-colibri-gamay",
@@ -1281,7 +1281,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Part du Colibri Gamay, issu de vignes anciennes sur roches volcaniques, offre une bouche fraîche et juteuse, révélant un fruit éclatant et l'authenticité du terroir ligérien."
+    "summary": "La Part du Colibri Gamay, issu de vignes âgées de 30 à 35 ans sur des roches volcaniques, offre une bouche fraîche et juteuse, révélant un fruit éclatant, véritable hommage au terroir ligérien."
   },
   {
     "id": "file-2025-07-24-rezin-0.html-cotes-catalanes-les-centenaires",
@@ -1325,7 +1325,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Les Côtes Catalanes Les Centenaires, une explosion de fruits, révèlent le savoir-faire familial de Mireille Ribière, alliant respect de la nature et vinification artisanale pour un terroir authentique des Pyrénées-Orientales."
+    "summary": "Les Côtes Catalanes Les Centenaires, un vin explosif de fruits, est le fruit d'une tradition familiale, cultivé avec soin dans les Pyrénées-Orientales, révélant la richesse du terroir à travers des cépages emblématiques."
   },
   {
     "id": "file-2025-07-24-rezin-0.html-cotes-de-rhone",
@@ -1369,7 +1369,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Côtes de Rhône, un délice généreux et chaleureux, dévoile des notes de cassis et de cacao, avec une finale poivrée, élaboré sans sulfites dans le respect des traditions artisanales."
+    "summary": "Le Côtes de Rhône, élaboré au Château Mourgues du Grès, est un vin généreux et élégant, aux notes de cassis et cacao, produit sans sulfites et offrant une belle complexité après une maturation soignée en cuves de béton."
   },
   {
     "id": "file-2025-07-24-rezin-0.html-petit-chablis-hauterivien",
@@ -1413,6 +1413,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Petit Chablis 'Hautérivien' est une merveille biologique, offrant une complexité aromatique préservée grâce à des vendanges manuelles et un élevage sur lies fines, révélant l'authenticité de son terroir."
+    "summary": "Le Petit Chablis 'Hautérivien' est une merveille biologique, élaborée avec soin pour préserver l'expression aromatique de chaque parcelle, offrant une complexité et une finesse remarquables, sans compromis sur la qualité."
   }
 ]
