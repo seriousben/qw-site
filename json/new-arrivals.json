@@ -41,7 +41,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Gutturnio Frizzante 2021 de Croci est un rouge léger et rustique, aux notes de petits fruits rouges acidulés et une touche animale, parfait pour éveiller les sens lors de moments simples et authentiques."
+    "summary": "Le Gutturnio frizzante 2021 de Croci est une célébration discrète de l'Italie sauvage, un rouge léger et rustique aux notes de petits fruits rouges acidulés, parfait pour accompagner des moments simples sans jamais voler la vedette."
   },
   {
     "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-la-compagnon-2022",
@@ -93,7 +93,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Compagnon 2022 est une alliance harmonieuse de Syrah, Carignan et Grenache, offrant une profondeur tranquille et une présence réconfortante, idéale pour des moments de partage au coin du feu."
+    "summary": "La Compagnon 2022 est un rouge réconfortant, une harmonie de Syrah, Carignan et Grenache, offrant une profondeur tranquille et une présence gourmande, idéale pour des moments de partage au coin du feu."
   },
   {
     "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-chablis-1er-cru-montmains-2021",
@@ -137,7 +137,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Chablis 1er Cru Montmains 2021 est un vin concentré et puissant, qui s'impose avec calme et élégance, idéal pour des soirées mémorables et des célébrations discrètes."
+    "summary": "Le Chablis 1er Cru Montmains 2021 est un vin concentré et puissant, qui s'affirme avec calme et élégance, idéal pour des soirées mémorables ou à savourer avec le temps."
   },
   {
     "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-chablis-2022",
@@ -181,7 +181,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Chablis 2022, floral et minéral, se présente comme un invité discret à table, sublimant coquillages et salades tout en offrant une expérience délicate et accessible."
+    "summary": "Le Chablis 2022, floral et minéral, est un vin lumineux qui s'invite discrètement à table, sublimant chaque plat sans jamais s'imposer, à déguster dès maintenant ou dans les années à venir."
   },
   {
     "id": "file-2025-07-25-noble-selection-0.html-invincible-numero-1-douro-2023",
@@ -243,7 +243,7 @@
     "name": "Pour Ma Gueule",
     "description": "La méthode ancestrale est privilégiée ici dans l'élaboration de cette cuvée: début de la fermentation alcoolique dans les cuves, mise en bouteille du moût. La fermentation se poursuit dans les bouteilles et dégage du gaz. Il n'y a ni adjonction de sucre ni adjonction de liqueur d'expédition pour doser. C'est uniquement le sucre du raisin, qui, tout au long du processus, assurera la première fermentation, la prise de mousse et le sucre résiduel.",
     "price": "25,15$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-fouet-pour-ma-gueule-copie.png",
+    "image_url": null,
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9ff7378404&e=2c9a262afa",
     "agence": "Noble Sélection",
     "disponibilite": "SAQ",
@@ -251,7 +251,7 @@
       "name": "Pour Ma Gueule",
       "description": "La méthode ancestrale est privilégiée ici dans l'élaboration de cette cuvée: début de la fermentation alcoolique dans les cuves, mise en bouteille du moût. La fermentation se poursuit dans les bouteilles et dégage du gaz. Il n'y a ni adjonction de sucre ni adjonction de liqueur d'expédition pour doser. C'est uniquement le sucre du raisin, qui, tout au long du processus, assurera la première fermentation, la prise de mousse et le sucre résiduel.",
       "price": "25,15$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-fouet-pour-ma-gueule-copie.png",
+      "image_url": null,
       "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9ff7378404&e=2c9a262afa",
       "producer": "DOMAINE FOUET",
       "region": "Vallée de la Loire",
@@ -265,7 +265,7 @@
           "name": "Pour Ma Gueule",
           "description": "La méthode ancestrale est privilégiée ici dans l'élaboration de cette cuvée: début de la fermentation alcoolique dans les cuves, mise en bouteille du moût. La fermentation se poursuit dans les bouteilles et dégage du gaz. Il n'y a ni adjonction de sucre ni adjonction de liqueur d'expédition pour doser. C'est uniquement le sucre du raisin, qui, tout au long du processus, assurera la première fermentation, la prise de mousse et le sucre résiduel.",
           "price": "25,15$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-fouet-pour-ma-gueule-copie.png",
+          "image_url": null,
           "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9ff7378404&e=2c9a262afa",
           "producer": "DOMAINE FOUET",
           "region": "Vallée de la Loire",
@@ -373,7 +373,7 @@
     "description": "Superbe interprétation de l’a.o.c côtes du rhône en grenache majeur et syrah mineure par le ténor Jean-Louis Chave. Avec sa gamme \"Sélection\" Jean-Louis Chave nous propose des vins de négoce élaborés avec les meilleurs raisins qu'il sélectionne lui-même chez quelques vignerons talentueux qui travaillent tous la vigne en agriculture biologique.",
     "price": "26,45$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_j.l.-chave-s--lection-mon-coeur-2022-copie.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9198b357ca&e=2c9a262afa",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f59416129d&e=2c9a262afa",
     "agence": "Noble Sélection",
     "disponibilite": null,
     "raw_data": {
@@ -381,7 +381,7 @@
       "description": "Superbe interprétation de l’a.o.c côtes du rhône en grenache majeur et syrah mineure par le ténor Jean-Louis Chave. Avec sa gamme \"Sélection\" Jean-Louis Chave nous propose des vins de négoce élaborés avec les meilleurs raisins qu'il sélectionne lui-même chez quelques vignerons talentueux qui travaillent tous la vigne en agriculture biologique.",
       "price": "26,45$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_j.l.-chave-s--lection-mon-coeur-2022-copie.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9198b357ca&e=2c9a262afa",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f59416129d&e=2c9a262afa",
       "producer": "JL CHAVE SELECTION",
       "region": "Vallée du Rhône",
       "vintage": "2023",
@@ -395,7 +395,7 @@
           "description": "Superbe interprétation de l’a.o.c côtes du rhône en grenache majeur et syrah mineure par le ténor Jean-Louis Chave. Avec sa gamme \"Sélection\" Jean-Louis Chave nous propose des vins de négoce élaborés avec les meilleurs raisins qu'il sélectionne lui-même chez quelques vignerons talentueux qui travaillent tous la vigne en agriculture biologique.",
           "price": "26,45$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_j.l.-chave-s--lection-mon-coeur-2022-copie.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9198b357ca&e=2c9a262afa",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f59416129d&e=2c9a262afa",
           "producer": "JL CHAVE SELECTION",
           "region": "Vallée du Rhône",
           "vintage": "2023",
@@ -1174,16 +1174,16 @@
     "name": "VDF - Gaga de toi 2022",
     "description": "Gaga de Toi est un assemblage à parts égales de gamay, pinot noir et pineau d’aunis. C’est un vin plein d’énergie, aux accents de fleur d’hibiscus, de sumac, de poivre blanc et de notes herbacées. Un rouge souple, gourmand et joyeux qui fait l’unanimité.",
     "price": "38,71 $",
-    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/_compresseds/33a14487-970b-befa-ef81-d4b17a765587.jpg",
-    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=328b4c78e1&e=bc0729f8df",
+    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/f532f7ac-ef96-8a15-e282-96f02bd488a3.png",
+    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8597f95ff8&e=bc0729f8df",
     "agence": "Planvin",
     "disponibilite": null,
     "raw_data": {
       "name": "VDF - Gaga de toi 2022",
       "description": "Gaga de Toi est un assemblage à parts égales de gamay, pinot noir et pineau d’aunis. C’est un vin plein d’énergie, aux accents de fleur d’hibiscus, de sumac, de poivre blanc et de notes herbacées. Un rouge souple, gourmand et joyeux qui fait l’unanimité.",
       "price": "38,71 $",
-      "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/_compresseds/33a14487-970b-befa-ef81-d4b17a765587.jpg",
-      "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=328b4c78e1&e=bc0729f8df",
+      "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/f532f7ac-ef96-8a15-e282-96f02bd488a3.png",
+      "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8597f95ff8&e=bc0729f8df",
       "producer": "Ariane & Co",
       "region": "Coteaux du Vendômois",
       "vintage": "2022",
@@ -1200,8 +1200,8 @@
           "name": "VDF - Gaga de toi 2022",
           "description": "Gaga de Toi est un assemblage à parts égales de gamay, pinot noir et pineau d’aunis. C’est un vin plein d’énergie, aux accents de fleur d’hibiscus, de sumac, de poivre blanc et de notes herbacées. Un rouge souple, gourmand et joyeux qui fait l’unanimité.",
           "price": "38,71 $",
-          "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/_compresseds/33a14487-970b-befa-ef81-d4b17a765587.jpg",
-          "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=328b4c78e1&e=bc0729f8df",
+          "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/f532f7ac-ef96-8a15-e282-96f02bd488a3.png",
+          "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8597f95ff8&e=bc0729f8df",
           "producer": "Ariane & Co",
           "region": "Coteaux du Vendômois",
           "vintage": "2022",
