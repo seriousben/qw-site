@@ -1,5 +1,247 @@
 [
   {
+    "id": "file-2025-07-31-planvin-0.html-doc-langhe-risa-2022",
+    "blockId": "file-2025-07-31-planvin-0.html",
+    "createdAt": "2025-07-31T00:00:00.000Z",
+    "name": "DOC Langhe - Risa 2022",
+    "description": "85 % nebbiolo, 15 % gamay. Il s’agit d’un gamay autochtone, qui était largement répandu dans la région avant le phylloxéra. Vignes plantées en 1945 à 250 mètres d’altitude, sur un coteau exposé sud-est. Nez complexe, à la fois fruité, épicé et floral, avec des notes de rose séchée et de cerise noire qui enrobent joliment les tannins du nebbiolo.",
+    "price": "29,40$",
+    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/a1b14ef4-74bf-2b7c-274d-5354b94d39ea.jpg",
+    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=cf60143e2a&e=bc0729f8df",
+    "agence": "Planvin",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "DOC Langhe - Risa 2022",
+      "description": "85 % nebbiolo, 15 % gamay. Il s’agit d’un gamay autochtone, qui était largement répandu dans la région avant le phylloxéra. Vignes plantées en 1945 à 250 mètres d’altitude, sur un coteau exposé sud-est. Nez complexe, à la fois fruité, épicé et floral, avec des notes de rose séchée et de cerise noire qui enrobent joliment les tannins du nebbiolo.",
+      "price": "29,40$",
+      "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/a1b14ef4-74bf-2b7c-274d-5354b94d39ea.jpg",
+      "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=cf60143e2a&e=bc0729f8df",
+      "producer": null,
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": [
+        "nebbiolo",
+        "gamay"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "DOC Langhe - Risa 2022",
+          "description": "85 % nebbiolo, 15 % gamay. Il s’agit d’un gamay autochtone, qui était largement répandu dans la région avant le phylloxéra. Vignes plantées en 1945 à 250 mètres d’altitude, sur un coteau exposé sud-est. Nez complexe, à la fois fruité, épicé et floral, avec des notes de rose séchée et de cerise noire qui enrobent joliment les tannins du nebbiolo.",
+          "price": "29,40$",
+          "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/a1b14ef4-74bf-2b7c-274d-5354b94d39ea.jpg",
+          "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=cf60143e2a&e=bc0729f8df",
+          "producer": null,
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": [
+            "nebbiolo",
+            "gamay"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Risa 2022 is a captivating blend of 85% Nebbiolo and 15% indigenous Gamay, showcasing a complex bouquet of dried rose and black cherry, elegantly enveloping the refined tannins of Nebbiolo from vines planted in 1945 at 250 meters altitude."
+  },
+  {
+    "id": "file-2025-07-31-planvin-0.html-doc-nebbiolo-dalba-paradis-2012",
+    "blockId": "file-2025-07-31-planvin-0.html",
+    "createdAt": "2025-07-31T00:00:00.000Z",
+    "name": "DOC Nebbiolo d’Alba - Paradis 2012",
+    "description": "Cuvée anniversaire célébrant les 50 ans du domaine, ce vin exceptionnel, issu à 100 % de nebbiolo, témoigne d’un savoir-faire remarquable et d’une vision patiente. Après la fermentation, il est transvasé dans des tonneaux de 500 litres où s’opère la fermentation malolactique. Suit un affinage de neuf années en fût, avant un passage de six mois en cuve béton, puis une mise en bouteille et un repos supplémentaire de six mois. Le nez, fin et aristocratique, dévoile une grande complexité aromatique : rose séchée, violette et épices nobles. En bouche, le vin impressionne par sa classe et son équilibre, avec une matière soyeuse, une douceur maîtrisée et un baume aromatique persistant. Un vin rare, profond et harmonieux, à la hauteur de l’anniversaire qu’il célèbre.",
+    "price": "40,50 $ - Caisse de 6",
+    "image_url": null,
+    "link": null,
+    "agence": "Planvin",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "DOC Nebbiolo d’Alba - Paradis 2012",
+      "description": "Cuvée anniversaire célébrant les 50 ans du domaine, ce vin exceptionnel, issu à 100 % de nebbiolo, témoigne d’un savoir-faire remarquable et d’une vision patiente. Après la fermentation, il est transvasé dans des tonneaux de 500 litres où s’opère la fermentation malolactique. Suit un affinage de neuf années en fût, avant un passage de six mois en cuve béton, puis une mise en bouteille et un repos supplémentaire de six mois. Le nez, fin et aristocratique, dévoile une grande complexité aromatique : rose séchée, violette et épices nobles. En bouche, le vin impressionne par sa classe et son équilibre, avec une matière soyeuse, une douceur maîtrisée et un baume aromatique persistant. Un vin rare, profond et harmonieux, à la hauteur de l’anniversaire qu’il célèbre.",
+      "price": "40,50 $ - Caisse de 6",
+      "image_url": null,
+      "link": null,
+      "producer": null,
+      "region": null,
+      "vintage": "2012",
+      "grape_varieties": [
+        "nebbiolo"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "DOC Nebbiolo d’Alba - Paradis 2012",
+          "description": "Cuvée anniversaire célébrant les 50 ans du domaine, ce vin exceptionnel, issu à 100 % de nebbiolo, témoigne d’un savoir-faire remarquable et d’une vision patiente. Après la fermentation, il est transvasé dans des tonneaux de 500 litres où s’opère la fermentation malolactique. Suit un affinage de neuf années en fût, avant un passage de six mois en cuve béton, puis une mise en bouteille et un repos supplémentaire de six mois. Le nez, fin et aristocratique, dévoile une grande complexité aromatique : rose séchée, violette et épices nobles. En bouche, le vin impressionne par sa classe et son équilibre, avec une matière soyeuse, une douceur maîtrisée et un baume aromatique persistant. Un vin rare, profond et harmonieux, à la hauteur de l’anniversaire qu’il célèbre.",
+          "price": "40,50 $ - Caisse de 6",
+          "image_url": null,
+          "link": null,
+          "producer": null,
+          "region": null,
+          "vintage": "2012",
+          "grape_varieties": [
+            "nebbiolo"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Paradis 2012, a remarkable 100% Nebbiolo, celebrates the estate's 50th anniversary with an aristocratic bouquet of dried rose, violet, and noble spices, revealing a silky texture and a persistent aromatic balm after nine years of aging in oak and additional resting in concrete."
+  },
+  {
+    "id": "file-2025-07-31-planvin-0.html-docg-roero-arneis-dla-trifula-2023",
+    "blockId": "file-2025-07-31-planvin-0.html",
+    "createdAt": "2025-07-31T00:00:00.000Z",
+    "name": "DOCG Roero Arneis - Dla trifula 2023",
+    "description": "100 % arneis issu d’un pressurage délicat : seul le cœur du premier jus (60 % du moût) est utilisé. Fermenté puis élevé trois mois sur lies fines, le vin présente une robe jaune paille aux reflets verts. Le nez est floral et précis, sur l’acacia, le genêt, la pomme fraîche, la poire et une touche d’amande. En bouche, c’est sec, droit et équilibré, avec une acidité juste qui apporte fraîcheur et longueur.",
+    "price": "28,25 $ - Caisse de 12",
+    "image_url": null,
+    "link": null,
+    "agence": "Planvin",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "DOCG Roero Arneis - Dla trifula 2023",
+      "description": "100 % arneis issu d’un pressurage délicat : seul le cœur du premier jus (60 % du moût) est utilisé. Fermenté puis élevé trois mois sur lies fines, le vin présente une robe jaune paille aux reflets verts. Le nez est floral et précis, sur l’acacia, le genêt, la pomme fraîche, la poire et une touche d’amande. En bouche, c’est sec, droit et équilibré, avec une acidité juste qui apporte fraîcheur et longueur.",
+      "price": "28,25 $ - Caisse de 12",
+      "image_url": null,
+      "link": null,
+      "producer": null,
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": [
+        "arneis"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "DOCG Roero Arneis - Dla trifula 2023",
+          "description": "100 % arneis issu d’un pressurage délicat : seul le cœur du premier jus (60 % du moût) est utilisé. Fermenté puis élevé trois mois sur lies fines, le vin présente une robe jaune paille aux reflets verts. Le nez est floral et précis, sur l’acacia, le genêt, la pomme fraîche, la poire et une touche d’amande. En bouche, c’est sec, droit et équilibré, avec une acidité juste qui apporte fraîcheur et longueur.",
+          "price": "28,25 $ - Caisse de 12",
+          "image_url": null,
+          "link": null,
+          "producer": null,
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": [
+            "arneis"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Dla trifula 2023 is a pristine 100% Arneis, showcasing a pale yellow hue with green reflections, and a floral bouquet of acacia, fresh apple, and almond, delivering a dry, balanced palate with refreshing acidity and length after three months on fine lees."
+  },
+  {
+    "id": "file-2025-07-31-planvin-0.html-doc-nebbiolo-dalba-superiore-gerbole-2020",
+    "blockId": "file-2025-07-31-planvin-0.html",
+    "createdAt": "2025-07-31T00:00:00.000Z",
+    "name": "DOC Nebbiolo d’Alba Superiore - Gerbole 2020",
+    "description": "100 % nebbiolo issu d'une fermentation de 9 jours avec pigeage manuel et délestage, suivie d’un élevage de 18 mois en fûts (barriques et grands contenants), puis repos de 3 mois en cuve avant la mise en bouteille. Robe rubis profonde. Nez intense sur la cerise noire et les épices douces. Bouche ample et veloutée, avec une structure souple et une belle allonge. Potentiel de garde : 10 ans et plus.",
+    "price": "35,60 $ - Caisse de 12",
+    "image_url": null,
+    "link": null,
+    "agence": "Planvin",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "DOC Nebbiolo d’Alba Superiore - Gerbole 2020",
+      "description": "100 % nebbiolo issu d'une fermentation de 9 jours avec pigeage manuel et délestage, suivie d’un élevage de 18 mois en fûts (barriques et grands contenants), puis repos de 3 mois en cuve avant la mise en bouteille. Robe rubis profonde. Nez intense sur la cerise noire et les épices douces. Bouche ample et veloutée, avec une structure souple et une belle allonge. Potentiel de garde : 10 ans et plus.",
+      "price": "35,60 $ - Caisse de 12",
+      "image_url": null,
+      "link": null,
+      "producer": null,
+      "region": null,
+      "vintage": "2020",
+      "grape_varieties": [
+        "nebbiolo"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "DOC Nebbiolo d’Alba Superiore - Gerbole 2020",
+          "description": "100 % nebbiolo issu d'une fermentation de 9 jours avec pigeage manuel et délestage, suivie d’un élevage de 18 mois en fûts (barriques et grands contenants), puis repos de 3 mois en cuve avant la mise en bouteille. Robe rubis profonde. Nez intense sur la cerise noire et les épices douces. Bouche ample et veloutée, avec une structure souple et une belle allonge. Potentiel de garde : 10 ans et plus.",
+          "price": "35,60 $ - Caisse de 12",
+          "image_url": null,
+          "link": null,
+          "producer": null,
+          "region": null,
+          "vintage": "2020",
+          "grape_varieties": [
+            "nebbiolo"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Gerbole 2020 is a deep ruby 100% Nebbiolo, revealing intense aromas of black cherry and sweet spices, with a velvety mouthfeel and supple structure, promising a graceful evolution over the next decade or more."
+  },
+  {
+    "id": "file-2025-07-31-planvin-0.html-doc-piemonte-chardonnay-2023",
+    "blockId": "file-2025-07-31-planvin-0.html",
+    "createdAt": "2025-07-31T00:00:00.000Z",
+    "name": "DOC Piemonte - Chardonnay 2023",
+    "description": "Parcelle de chardonnay, plantée en 1989 sur marnes calcaires à 200 mètres d'altitude. Vinification en cuves inox, sur lies pendant quelques mois. S’en suit un élevage de quelques mois supplémentaires, en cuve et en fûts neutres. Vin aux notes subtiles de fruits à chair blanc et de citron confit, avec une touche de pain frais.",
+    "price": "25,60 $ - Caisse de 12",
+    "image_url": null,
+    "link": null,
+    "agence": "Planvin",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "DOC Piemonte - Chardonnay 2023",
+      "description": "Parcelle de chardonnay, plantée en 1989 sur marnes calcaires à 200 mètres d'altitude. Vinification en cuves inox, sur lies pendant quelques mois. S’en suit un élevage de quelques mois supplémentaires, en cuve et en fûts neutres. Vin aux notes subtiles de fruits à chair blanc et de citron confit, avec une touche de pain frais.",
+      "price": "25,60 $ - Caisse de 12",
+      "image_url": null,
+      "link": null,
+      "producer": null,
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": [
+        "chardonnay"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "DOC Piemonte - Chardonnay 2023",
+          "description": "Parcelle de chardonnay, plantée en 1989 sur marnes calcaires à 200 mètres d'altitude. Vinification en cuves inox, sur lies pendant quelques mois. S’en suit un élevage de quelques mois supplémentaires, en cuve et en fûts neutres. Vin aux notes subtiles de fruits à chair blanc et de citron confit, avec une touche de pain frais.",
+          "price": "25,60 $ - Caisse de 12",
+          "image_url": null,
+          "link": null,
+          "producer": null,
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": [
+            "chardonnay"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Chardonnay 2023 from Piemonte presents subtle notes of white-fleshed fruits and candied lemon, enhanced by a hint of fresh bread, crafted from vines planted in 1989 and aged on lees in stainless steel and neutral barrels."
+  },
+  {
     "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-gutturnio-frizzante-2021",
     "blockId": "file-2025-07-26-le-vin-dans-les-voiles-0.html",
     "createdAt": "2025-07-26T00:00:00.000Z",
@@ -41,7 +283,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Gutturnio frizzante 2021 de Croci est une célébration discrète de l'Italie, offrant un rouge léger et rustique aux notes acidulées de petits fruits rouges, parfait pour accompagner des moments simples avec une excentricité tranquille."
+    "summary": "Gutturnio Frizzante 2021 is a light, rustic red with a playful effervescence, featuring tart red berry notes and a hint of earthiness, perfect for simple moments without overshadowing the occasion."
   },
   {
     "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-la-compagnon-2022",
@@ -93,7 +335,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Compagnon 2022 est un rouge réconfortant, mélange de Syrah, Carignan et Grenache, offrant une alliance souple et gourmande, idéale pour des moments de partage au coin du feu."
+    "summary": "La Compagnon 2022 is a soulful blend of Syrah, Carignan, and Grenache, embodying warmth and comfort with its soft, spicy character, perfect for intimate moments by the fire or quiet gatherings."
   },
   {
     "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-chablis-1er-cru-montmains-2021",
@@ -105,7 +347,7 @@
     "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/929b6964-5055-480b-96dd-3af439ee293c.jpeg",
     "link": null,
     "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
+    "disponibilite": null,
     "raw_data": {
       "name": "Chablis 1er Cru Montmains 2021",
       "description": "Voici un vin qui n’a rien à prouver. Concentré, puissant, calme, il avance avec assurance, sans forcer le ton. Le genre de bouteille qu’on n’ouvre pas à la légère, mais qui marque les esprits sans élever la voix. Parfait pour les longues soirées lentes, les repas sans faux-semblants, ou les moments où on célèbre en silence. Et si vous préférez attendre, sachez qu’il vieillira très bien — comme ceux qui ont appris à se taire pour mieux écouter.",
@@ -118,7 +360,7 @@
       "grape_varieties": null,
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": "SAQ",
+      "disponibilite": null,
       "all_occurrences_raw_data": [
         {
           "name": "Chablis 1er Cru Montmains 2021",
@@ -132,12 +374,12 @@
           "grape_varieties": null,
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": "SAQ"
+          "disponibilite": null
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Chablis 1er Cru Montmains 2021 est un vin concentré et puissant, qui s'impose avec calme et élégance, parfait pour des moments de célébration silencieuse ou pour un vieillissement prometteur."
+    "summary": "Chablis 1er Cru Montmains 2021 is a concentrated and powerful wine that speaks with quiet confidence, ideal for slow evenings and unpretentious meals, promising graceful aging for those who choose to wait."
   },
   {
     "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-chablis-2022",
@@ -149,7 +391,7 @@
     "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/ad879048-c82f-43bc-b319-6bbdf4254b72.jpeg",
     "link": null,
     "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
+    "disponibilite": null,
     "raw_data": {
       "name": "Chablis 2022",
       "description": "Plus lumineux, plus accessible, mais tout aussi délicat. Ce chablis floral et minéral se glisse à table comme un invité discret qui connaît les codes. Coquillages, salades, bouchées fraîches… il accompagne sans prendre trop de place, mais en rehaussant tout ce qu’il touche. À boire maintenant ou dans cinq ans, selon l’envie et le moment. Un vin à l’image des meilleurs week-ends d’été : simples, fins, inoubliables.",
@@ -162,7 +404,7 @@
       "grape_varieties": null,
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": "SAQ",
+      "disponibilite": null,
       "all_occurrences_raw_data": [
         {
           "name": "Chablis 2022",
@@ -176,12 +418,12 @@
           "grape_varieties": null,
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": "SAQ"
+          "disponibilite": null
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Chablis 2022, floral et minéral, se présente comme un invité discret à table, sublimant les plats sans jamais dominer, et s'apprécie aussi bien maintenant que dans cinq ans."
+    "summary": "Chablis 2022 is a bright and accessible floral wine, effortlessly enhancing fresh seafood and salads, embodying the essence of delightful summer weekends—simple, refined, and unforgettable."
   },
   {
     "id": "file-2025-07-25-noble-selection-0.html-invincible-numero-1-douro-2023",
@@ -235,7 +477,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "L'Invincible Número 1 Douro 2023, issu de vignes de plus de 30 ans cultivées durablement, marie les cépages Rabigato, Arinto et Códega pour une expérience vinifiée avec soin, dont 10% est élevé en fûts de chêne français."
+    "summary": "Invincible Número 1 Douro 2023 showcases sustainably farmed grapes from over 30-year-old vines, featuring a blend of Rabigato, Arinto, and Códega, with 10% aged in used French oak for seven months, reflecting the region's rich heritage."
   },
   {
     "id": "file-2025-07-25-noble-selection-0.html-pour-ma-gueule",
@@ -279,7 +521,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Pour Ma Gueule est une cuvée élaborée selon la méthode ancestrale, où la fermentation naturelle en bouteille crée une effervescence authentique sans ajout de sucre, révélant la pureté du raisin."
+    "summary": "Pour Ma Gueule is crafted using the ancestral method, where fermentation begins in tanks and continues in bottle, resulting in a natural sparkling wine with no added sugar, showcasing the pure essence of the grape."
   },
   {
     "id": "file-2025-07-25-noble-selection-0.html-soif-blanc-2023",
@@ -375,7 +617,7 @@
     "description": "Superbe interprétation de l’a.o.c côtes du rhône en grenache majeur et syrah mineure par le ténor Jean-Louis Chave. Avec sa gamme \"Sélection\" Jean-Louis Chave nous propose des vins de négoce élaborés avec les meilleurs raisins qu'il sélectionne lui-même chez quelques vignerons talentueux qui travaillent tous la vigne en agriculture biologique.",
     "price": "26,45$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_j.l.-chave-s--lection-mon-coeur-2022-copie.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9198b357ca&e=2c9a262afa",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f59416129d&e=2c9a262afa",
     "agence": "Noble Sélection",
     "disponibilite": null,
     "raw_data": {
@@ -383,7 +625,7 @@
       "description": "Superbe interprétation de l’a.o.c côtes du rhône en grenache majeur et syrah mineure par le ténor Jean-Louis Chave. Avec sa gamme \"Sélection\" Jean-Louis Chave nous propose des vins de négoce élaborés avec les meilleurs raisins qu'il sélectionne lui-même chez quelques vignerons talentueux qui travaillent tous la vigne en agriculture biologique.",
       "price": "26,45$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_j.l.-chave-s--lection-mon-coeur-2022-copie.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9198b357ca&e=2c9a262afa",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f59416129d&e=2c9a262afa",
       "producer": "JL CHAVE SELECTION",
       "region": "Vallée du Rhône",
       "vintage": "2023",
@@ -397,7 +639,7 @@
           "description": "Superbe interprétation de l’a.o.c côtes du rhône en grenache majeur et syrah mineure par le ténor Jean-Louis Chave. Avec sa gamme \"Sélection\" Jean-Louis Chave nous propose des vins de négoce élaborés avec les meilleurs raisins qu'il sélectionne lui-même chez quelques vignerons talentueux qui travaillent tous la vigne en agriculture biologique.",
           "price": "26,45$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_j.l.-chave-s--lection-mon-coeur-2022-copie.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9198b357ca&e=2c9a262afa",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f59416129d&e=2c9a262afa",
           "producer": "JL CHAVE SELECTION",
           "region": "Vallée du Rhône",
           "vintage": "2023",
@@ -409,7 +651,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Côtes du Rhône Mon Coeur 2023, signé Jean-Louis Chave, est une interprétation magistrale de l'AOC, alliant Grenache et Syrah, élaborée à partir des meilleurs raisins issus de vignerons engagés en agriculture biologique."
+    "summary": "Côtes du Rhône Mon Coeur 2023 is a superb interpretation of the AOC, featuring a dominant Grenache and a touch of Syrah, crafted by Jean-Louis Chave from meticulously selected organic grapes, reflecting the region's authenticity."
   },
   {
     "id": "file-2025-07-25-noble-selection-0.html-baglio-di-grisi-grillo-sicilia-2023",
@@ -625,7 +867,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Bourgogne Hautes-Côtes-de-Beaune Blanc '18 Lunes' est un Grand Cru d'exception, élevé pendant 18 mois en vieilles barriques, offrant une expression minérale et complexe de son terroir calcaire."
+    "summary": "Bourgogne Hautes-Côtes-de-Beaune Blanc '18 Lunes' is a Grand Cru from high-altitude vines on limestone soils, aged for 18 months on fine lees in old barrels, offering a refined expression of the terroir."
   },
   {
     "id": "file-2025-07-25-vin-dame-jeanne-0.html-rully-blanc-la-chaume",
@@ -669,7 +911,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Rully Blanc 'La Chaume' est un vin vivifiant et pulpeux, issu de sols marbrés, élevé un an en vieilles barriques, offrant une belle salinité et une fraîcheur éclatante."
+    "summary": "Rully Blanc 'La Chaume' is a captivating white from a mosaic of clay soils, offering a vivacious, saline character with a pulpy texture, aged for a year on fine lees in old barrels."
   },
   {
     "id": "file-2025-07-25-vin-dame-jeanne-0.html-hautes-cotes-de-beaune-rouge",
@@ -713,7 +955,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Hautes-Côtes-de-Beaune Rouge, issu d'un clone unique de Pinot Noir, révèle une complexité raffinée grâce à une macération en grappes entières et un élevage en vieilles barriques."
+    "summary": "Hautes-Côtes-de-Beaune Rouge is a unique expression of Pinot Noir from the 'Pommard Clos des Épenots' clone, grown at 420 meters on red clay and limestone, showcasing depth and character through whole cluster fermentation and a year in old barrels."
   },
   {
     "id": "file-2025-07-25-vin-dame-jeanne-0.html-rully-rouge-la-chaume",
@@ -757,7 +999,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Rully Rouge 'La Chaume' est un Pinot Noir racé et charmeur, offrant des arômes de petits fruits rouges et d'épices chaudes, avec une macération en grappes entières et un élevage de 18 mois en vieilles barriques."
+    "summary": "Rully Rouge 'La Chaume' is a charming Pinot Noir from a fascinating clay-rich parcel, showcasing fresh red fruits, charcuterie, and warm spices, with half of the grapes undergoing whole cluster fermentation and 18 months in old barrels."
   },
   {
     "id": "file-2025-07-25-vin-dame-jeanne-0.html-volnay",
@@ -801,7 +1043,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Volnay, d'une délicatesse et d'une élégance grandioses, provient de vignes âgées de 35 à 65 ans, offrant une complexité stimulante grâce à une macération en grappes entières et un élevage soigné."
+    "summary": "Volnay is a grand expression of elegance and delicacy, sourced from 35 to 65-year-old vines in esteemed lieux-dits, showcasing a harmonious balance through whole cluster fermentation and 18 months in both old and newer barrels."
   },
   {
     "id": "file-2025-07-25-vin-dame-jeanne-0.html-beaune-1er-cru-pertuisots",
@@ -845,7 +1087,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Beaune 1er cru 'Pertuisots', cultivé avec soin par Jean-Yves, est un vin frais et délicat, issu d'une macération 100% en grappes entières et élevé pendant 12 mois en fûts, révélant une subtile épice."
+    "summary": "Beaune 1er cru 'Pertuisots' is an exceptional half-hectare parcel cultivated by Jean-Yves since 1999, showcasing a fresh, delicate, and subtly spiced profile after 12 months of whole cluster fermentation and aging in barrels."
   },
   {
     "id": "file-2025-07-25-vin-dame-jeanne-0.html-volnay-lopins",
@@ -889,7 +1131,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Volnay 'Lopins', une première au Québec, est un vin dense et mystérieux, issu d'un assemblage de parcelles et d'une macération partielle en grappes entières, offrant une finale d'une longueur impressionnante."
+    "summary": "Volnay 'Lopins' makes its debut in Quebec, featuring a dense and mysterious blend from the heights of 'Pluchots' and 'La Gigotte', with 50% whole cluster fermentation, offering an incredibly long finish."
   },
   {
     "id": "file-2025-07-25-vin-dame-jeanne-0.html-volnay-1er-cru-les-mitans",
@@ -933,486 +1175,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Volnay 1er cru 'Les Mitans', une première au Québec, est un vin aérien et éclatant, élaboré sans soufre et offrant une précision remarquable, témoignant du soin apporté par Jean-Yves."
-  },
-  {
-    "id": "file-2025-07-24-info-symbiose-0.html-secateurs",
-    "blockId": "file-2025-07-24-info-symbiose-0.html",
-    "createdAt": "2025-07-24T00:00:00.000Z",
-    "name": "Sécateurs",
-    "description": "LE SECATEURS CHENIN BLANC EST EN PROMO POUR LES PROCHAINES 2 SEMAINES ! Jusqu’au 3 août, ce superbe Chenin Blanc signé Adi Badenhorst sera à prix réduit à la SAQ, une occasion parfaite pour découvrir ce vin vibrant et raffiné idéal pour l’été. Avec ses arômes de pomme, poire, citron confit et fleurs blanches, sa belle acidité et sa bouche généreuse, c’est le blanc idéal pour l’apéro ou les repas dans la cour.",
-    "price": "19,95 $",
-    "image_url": "https://img_a1000004144.centrixmail.com/fr/att.awp?ida=EeVju4xMTEiJ1Ag7qrEijg&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=nLv1upq9f0aeySfFCWlNWOBwsjsGoUO2-tvfXMtbTmY",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=1302&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=A7-XKSdli60RgF-7thDgvQRq9KZlfhFXD852YqSxW-8",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Sécateurs",
-      "description": "LE SECATEURS CHENIN BLANC EST EN PROMO POUR LES PROCHAINES 2 SEMAINES ! Jusqu’au 3 août, ce superbe Chenin Blanc signé Adi Badenhorst sera à prix réduit à la SAQ, une occasion parfaite pour découvrir ce vin vibrant et raffiné idéal pour l’été. Avec ses arômes de pomme, poire, citron confit et fleurs blanches, sa belle acidité et sa bouche généreuse, c’est le blanc idéal pour l’apéro ou les repas dans la cour.",
-      "price": "19,95 $",
-      "image_url": "https://img_a1000004144.centrixmail.com/fr/att.awp?ida=EeVju4xMTEiJ1Ag7qrEijg&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=nLv1upq9f0aeySfFCWlNWOBwsjsGoUO2-tvfXMtbTmY",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=1302&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=A7-XKSdli60RgF-7thDgvQRq9KZlfhFXD852YqSxW-8",
-      "producer": "AA Badenhorst",
-      "region": "Swartland — Afrique du Sud",
-      "vintage": null,
-      "grape_varieties": [
-        "Chenin blanc"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Sécateurs",
-          "description": "LE SECATEURS CHENIN BLANC EST EN PROMO POUR LES PROCHAINES 2 SEMAINES ! Jusqu’au 3 août, ce superbe Chenin Blanc signé Adi Badenhorst sera à prix réduit à la SAQ, une occasion parfaite pour découvrir ce vin vibrant et raffiné idéal pour l’été. Avec ses arômes de pomme, poire, citron confit et fleurs blanches, sa belle acidité et sa bouche généreuse, c’est le blanc idéal pour l’apéro ou les repas dans la cour.",
-          "price": "19,95 $",
-          "image_url": "https://img_a1000004144.centrixmail.com/fr/att.awp?ida=EeVju4xMTEiJ1Ag7qrEijg&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=nLv1upq9f0aeySfFCWlNWOBwsjsGoUO2-tvfXMtbTmY",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=1302&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=A7-XKSdli60RgF-7thDgvQRq9KZlfhFXD852YqSxW-8",
-          "producer": "AA Badenhorst",
-          "region": "Swartland — Afrique du Sud",
-          "vintage": null,
-          "grape_varieties": [
-            "Chenin blanc"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Sécateurs Chenin Blanc, en promotion, est un vin vibrant et raffiné, révélant des arômes de pomme, poire et citron confit, avec une belle acidité, parfait pour les repas d'été en plein air."
-  },
-  {
-    "id": "file-2025-07-24-info-symbiose-0.html-saint-joseph-rue-des-poulies-2023",
-    "blockId": "file-2025-07-24-info-symbiose-0.html",
-    "createdAt": "2025-07-24T00:00:00.000Z",
-    "name": "Saint-Joseph Rue des Poulies 2023",
-    "description": "Cette syrah est issue de terroirs granitiques en coteaux, où s'épanouissent un beau fruit noir et rouge, des épices et une belle minéralité. Le vin est ample, complexe et la trame élégante grâce à un élevage maîtrisé, tannique pourtant souple.",
-    "price": "54,00 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/4/14954041-1_1652712945.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2065&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=1yLnnyQyIaRRtj9a-YhBD_c2dQmeMrfjwjidw45r70M",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Saint-Joseph Rue des Poulies 2023",
-      "description": "Cette syrah est issue de terroirs granitiques en coteaux, où s'épanouissent un beau fruit noir et rouge, des épices et une belle minéralité. Le vin est ample, complexe et la trame élégante grâce à un élevage maîtrisé, tannique pourtant souple.",
-      "price": "54,00 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/4/14954041-1_1652712945.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2065&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=1yLnnyQyIaRRtj9a-YhBD_c2dQmeMrfjwjidw45r70M",
-      "producer": "Famille De Boel",
-      "region": "Vallée du Rhône — France",
-      "vintage": "2023",
-      "grape_varieties": [
-        "Syrah"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Saint-Joseph Rue des Poulies 2023",
-          "description": "Cette syrah est issue de terroirs granitiques en coteaux, où s'épanouissent un beau fruit noir et rouge, des épices et une belle minéralité. Le vin est ample, complexe et la trame élégante grâce à un élevage maîtrisé, tannique pourtant souple.",
-          "price": "54,00 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/4/14954041-1_1652712945.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2065&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=1yLnnyQyIaRRtj9a-YhBD_c2dQmeMrfjwjidw45r70M",
-          "producer": "Famille De Boel",
-          "region": "Vallée du Rhône — France",
-          "vintage": "2023",
-          "grape_varieties": [
-            "Syrah"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Saint-Joseph Rue des Poulies 2023 est une Syrah ample et complexe, issue de terroirs granitiques, offrant des arômes de fruits noirs et rouges, d'épices et une minéralité élégante."
-  },
-  {
-    "id": "file-2025-07-24-info-symbiose-0.html-benje-red-2023",
-    "blockId": "file-2025-07-24-info-symbiose-0.html",
-    "createdAt": "2025-07-24T00:00:00.000Z",
-    "name": "Benje Red 2023",
-    "description": "Laissez-vous séduire par la touche épicée en prenant soin au préalable d’avoir rafraîchi la bouteille. Superbe avec quelques tranches de rosette de Lyon ou encore avec du poulet grillé mariné à l’huile d’olive et aux fines herbes.",
-    "price": "33,00 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/4/14993728-1_1681938785.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2163&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=3P88sa-Exvd1Pvbly3FZmJD7HyMJiL6v2LhgYmqICR8",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Benje Red 2023",
-      "description": "Laissez-vous séduire par la touche épicée en prenant soin au préalable d’avoir rafraîchi la bouteille. Superbe avec quelques tranches de rosette de Lyon ou encore avec du poulet grillé mariné à l’huile d’olive et aux fines herbes.",
-      "price": "33,00 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/4/14993728-1_1681938785.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2163&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=3P88sa-Exvd1Pvbly3FZmJD7HyMJiL6v2LhgYmqICR8",
-      "producer": "Envinate",
-      "region": "Les Iles Canaries — Espagne",
-      "vintage": "2023",
-      "grape_varieties": [
-        "Autres cépages"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Benje Red 2023",
-          "description": "Laissez-vous séduire par la touche épicée en prenant soin au préalable d’avoir rafraîchi la bouteille. Superbe avec quelques tranches de rosette de Lyon ou encore avec du poulet grillé mariné à l’huile d’olive et aux fines herbes.",
-          "price": "33,00 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/4/14993728-1_1681938785.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1153133&idl=2163&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=3P88sa-Exvd1Pvbly3FZmJD7HyMJiL6v2LhgYmqICR8",
-          "producer": "Envinate",
-          "region": "Les Iles Canaries — Espagne",
-          "vintage": "2023",
-          "grape_varieties": [
-            "Autres cépages"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Benje Red 2023, avec sa touche épicée, se marie à merveille avec des mets savoureux comme la rosette de Lyon ou du poulet grillé, offrant une expérience gustative à savourer bien frais."
-  },
-  {
-    "id": "file-2025-07-24-planvin-0.html-vdf-stella-maris-2023",
-    "blockId": "file-2025-07-24-planvin-0.html",
-    "createdAt": "2025-07-24T00:00:00.000Z",
-    "name": "VdF - Stella Maris 2023",
-    "description": "Le Stella Maris est issu de sauvignon sur sols argilo-siliceux et sous-sol calcaire. Vinifié et élevé sur lies pendant un an en cuves de fibres de verre. Il séduit par ses arômes de pommette, de pêche blanche et sa franche minéralité. En bouche, une acidité vive porte des notes d’agrumes et une légère touche miellée, pour une finale fraîche et persistante.",
-    "price": "37,96$",
-    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/b92736a3-2c50-1977-ad1b-60b1edc0c3f0.jpeg",
-    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8732ef0ad4&e=bc0729f8df",
-    "agence": "Planvin",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "VdF - Stella Maris 2023",
-      "description": "Le Stella Maris est issu de sauvignon sur sols argilo-siliceux et sous-sol calcaire. Vinifié et élevé sur lies pendant un an en cuves de fibres de verre. Il séduit par ses arômes de pommette, de pêche blanche et sa franche minéralité. En bouche, une acidité vive porte des notes d’agrumes et une légère touche miellée, pour une finale fraîche et persistante.",
-      "price": "37,96$",
-      "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/b92736a3-2c50-1977-ad1b-60b1edc0c3f0.jpeg",
-      "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8732ef0ad4&e=bc0729f8df",
-      "producer": "Noëlla Morantin",
-      "region": "Touraine",
-      "vintage": "2023",
-      "grape_varieties": [
-        "sauvignon"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "VdF - Stella Maris 2023",
-          "description": "Le Stella Maris est issu de sauvignon sur sols argilo-siliceux et sous-sol calcaire. Vinifié et élevé sur lies pendant un an en cuves de fibres de verre. Il séduit par ses arômes de pommette, de pêche blanche et sa franche minéralité. En bouche, une acidité vive porte des notes d’agrumes et une légère touche miellée, pour une finale fraîche et persistante.",
-          "price": "37,96$",
-          "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/b92736a3-2c50-1977-ad1b-60b1edc0c3f0.jpeg",
-          "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=8732ef0ad4&e=bc0729f8df",
-          "producer": "Noëlla Morantin",
-          "region": "Touraine",
-          "vintage": "2023",
-          "grape_varieties": [
-            "sauvignon"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le VdF - Stella Maris 2023, vinifié sur lies en cuves de fibres de verre, offre des arômes de pommette et de pêche blanche, avec une acidité vive et une finale fraîche et persistante."
-  },
-  {
-    "id": "file-2025-07-24-planvin-0.html-igp-herault-cotes-du-brian-sous-les-cailloux-des-g",
-    "blockId": "file-2025-07-24-planvin-0.html",
-    "createdAt": "2025-07-24T00:00:00.000Z",
-    "name": "IGP Hérault Côtes du Brian, Sous les Cailloux des Grillons",
-    "description": "On adore ce vin à la personnalité unique, qui convient à toute situation. Assemblage, tenez-vous bien, de: syrah, carignan, grenache, terret noir et cabernet sauvignon. Notes de petits fruits noirs, d'anis et de garrigue. Le vin a juste ce qu'il faut de structure tout en étant friand, frais et digeste.",
-    "price": "33,58$",
-    "image_url": null,
-    "link": null,
-    "agence": "Planvin",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "IGP Hérault Côtes du Brian, Sous les Cailloux des Grillons",
-      "description": "On adore ce vin à la personnalité unique, qui convient à toute situation. Assemblage, tenez-vous bien, de: syrah, carignan, grenache, terret noir et cabernet sauvignon. Notes de petits fruits noirs, d'anis et de garrigue. Le vin a juste ce qu'il faut de structure tout en étant friand, frais et digeste.",
-      "price": "33,58$",
-      "image_url": null,
-      "link": null,
-      "producer": "Clos du Gravillas",
-      "region": "Hérault",
-      "vintage": null,
-      "grape_varieties": [
-        "syrah",
-        "carignan",
-        "grenache",
-        "terret noir",
-        "cabernet sauvignon"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "IGP Hérault Côtes du Brian, Sous les Cailloux des Grillons",
-          "description": "On adore ce vin à la personnalité unique, qui convient à toute situation. Assemblage, tenez-vous bien, de: syrah, carignan, grenache, terret noir et cabernet sauvignon. Notes de petits fruits noirs, d'anis et de garrigue. Le vin a juste ce qu'il faut de structure tout en étant friand, frais et digeste.",
-          "price": "33,58$",
-          "image_url": null,
-          "link": null,
-          "producer": "Clos du Gravillas",
-          "region": "Hérault",
-          "vintage": null,
-          "grape_varieties": [
-            "syrah",
-            "carignan",
-            "grenache",
-            "terret noir",
-            "cabernet sauvignon"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "L'IGP Hérault Côtes du Brian, Sous les Cailloux des Grillons, est un assemblage audacieux de Syrah, Carignan, Grenache, Terret Noir et Cabernet Sauvignon, offrant des notes de petits fruits noirs et de garrigue, avec une structure friande et digeste."
-  },
-  {
-    "id": "file-2025-07-24-planvin-0.html-vdf-gaga-de-toi-2022",
-    "blockId": "file-2025-07-24-planvin-0.html",
-    "createdAt": "2025-07-24T00:00:00.000Z",
-    "name": "VDF - Gaga de toi 2022",
-    "description": "Gaga de Toi est un assemblage à parts égales de gamay, pinot noir et pineau d’aunis. C’est un vin plein d’énergie, aux accents de fleur d’hibiscus, de sumac, de poivre blanc et de notes herbacées. Un rouge souple, gourmand et joyeux qui fait l’unanimité.",
-    "price": "38,71 $",
-    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/_compresseds/33a14487-970b-befa-ef81-d4b17a765587.jpg",
-    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=328b4c78e1&e=bc0729f8df",
-    "agence": "Planvin",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "VDF - Gaga de toi 2022",
-      "description": "Gaga de Toi est un assemblage à parts égales de gamay, pinot noir et pineau d’aunis. C’est un vin plein d’énergie, aux accents de fleur d’hibiscus, de sumac, de poivre blanc et de notes herbacées. Un rouge souple, gourmand et joyeux qui fait l’unanimité.",
-      "price": "38,71 $",
-      "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/_compresseds/33a14487-970b-befa-ef81-d4b17a765587.jpg",
-      "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=328b4c78e1&e=bc0729f8df",
-      "producer": "Ariane & Co",
-      "region": "Coteaux du Vendômois",
-      "vintage": "2022",
-      "grape_varieties": [
-        "gamay",
-        "pinot noir",
-        "pineau d’aunis"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "VDF - Gaga de toi 2022",
-          "description": "Gaga de Toi est un assemblage à parts égales de gamay, pinot noir et pineau d’aunis. C’est un vin plein d’énergie, aux accents de fleur d’hibiscus, de sumac, de poivre blanc et de notes herbacées. Un rouge souple, gourmand et joyeux qui fait l’unanimité.",
-          "price": "38,71 $",
-          "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/_compresseds/33a14487-970b-befa-ef81-d4b17a765587.jpg",
-          "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=328b4c78e1&e=bc0729f8df",
-          "producer": "Ariane & Co",
-          "region": "Coteaux du Vendômois",
-          "vintage": "2022",
-          "grape_varieties": [
-            "gamay",
-            "pinot noir",
-            "pineau d’aunis"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le VDF - Gaga de toi 2022, mélange énergique de Gamay, Pinot Noir et Pineau d’Aunis, séduit par ses accents floraux et épicés, offrant un rouge souple et joyeux."
-  },
-  {
-    "id": "file-2025-07-24-planvin-0.html-la-part-du-colibri-gamay",
-    "blockId": "file-2025-07-24-planvin-0.html",
-    "createdAt": "2025-07-24T00:00:00.000Z",
-    "name": "La Part du Colibri Gamay",
-    "description": "Issu de vignes de Gamay âgées de 30 à 35 ans, ce gamay prend racine sur les roches volcaniques de gabbro des villages de Gorges et Monnières. Les raisins sont égrappés et font une courte macération. Élevage de 8 mois en cuve inox. La bouche fraîche et juteuse est portée par un fruit éclatant. Magnifique exemple de gamay ligérien!",
-    "price": "32,95$",
-    "image_url": null,
-    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=2535800b20&e=bc0729f8df",
-    "agence": "Planvin",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "La Part du Colibri Gamay",
-      "description": "Issu de vignes de Gamay âgées de 30 à 35 ans, ce gamay prend racine sur les roches volcaniques de gabbro des villages de Gorges et Monnières. Les raisins sont égrappés et font une courte macération. Élevage de 8 mois en cuve inox. La bouche fraîche et juteuse est portée par un fruit éclatant. Magnifique exemple de gamay ligérien!",
-      "price": "32,95$",
-      "image_url": null,
-      "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=2535800b20&e=bc0729f8df",
-      "producer": "Domaine Le Fay d'Homme",
-      "region": null,
-      "vintage": null,
-      "grape_varieties": [
-        "gamay"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "La Part du Colibri Gamay",
-          "description": "Issu de vignes de Gamay âgées de 30 à 35 ans, ce gamay prend racine sur les roches volcaniques de gabbro des villages de Gorges et Monnières. Les raisins sont égrappés et font une courte macération. Élevage de 8 mois en cuve inox. La bouche fraîche et juteuse est portée par un fruit éclatant. Magnifique exemple de gamay ligérien!",
-          "price": "32,95$",
-          "image_url": null,
-          "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=2535800b20&e=bc0729f8df",
-          "producer": "Domaine Le Fay d'Homme",
-          "region": null,
-          "vintage": null,
-          "grape_varieties": [
-            "gamay"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "La Part du Colibri Gamay, issu de vignes de 30 à 35 ans sur roches volcaniques, offre une bouche fraîche et juteuse, révélant un fruit éclatant et un bel exemple de Gamay ligérien."
-  },
-  {
-    "id": "file-2025-07-24-rezin-0.html-cotes-catalanes-les-centenaires",
-    "blockId": "file-2025-07-24-rezin-0.html",
-    "createdAt": "2025-07-24T00:00:00.000Z",
-    "name": "CÔTES CATALANES LES CENTENAIRES",
-    "description": "UNE BOMBE DE FRUITS !!! Mireille Ribière, Herbaliste et Vigneronne, a baignée depuis l’enfance dans la nature et le monde vigneron grâce à son père, son oncle, son grand-père et toutes les générations précédentes. C’est avec la création du Domaine du Lendemain en 2018 qu’elle laisse s’exprimer le gène familial. Et la famille, vous la connaissez ? Révéler la flore de notre terroir à travers d’emblématiques cépages des Pyrénées-Orientales. Créé en 1993 lorsque Denis Ferrer et Bruno Ribière, décidèrent d’unir leurs forces complémentaires : le premier étant viticulteur et le second, poète, à son aise dans le chai, le Domaine F. Ribière a été repris par Mireille en 2021. Situé au cœur des Aspres, sur les collines verdoyantes, entre 2 canyons d’argiles rouge et ocre. À la vigne, Mireille vise à favoriser le cycle naturel de la vigne ainsi que la vie et la structure du sol : Apports de minéraux et oligo-éléments, taille courte pour la vigueur, maîtrise de l’enherbement, apports de fumier composté et des pulvérisations de tisanes de plantes, de purins et de préparations à base d’huiles essentielles et d’hydrolats en prophylaxie. À la cave, les vendanges sont manuelles : tri à la vigne et sur table, levures indigènes, pas d’ajout de produits de synthèse, dynamique des jus par gravité, hygiène et vigilance sensorielle, contrôle des températures.",
-    "price": "24,95 $",
-    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/b50826da-123e-fb98-ee6c-4882789afb41.png",
-    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=eccea87257&e=c11422f941",
-    "agence": "réZin",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "CÔTES CATALANES LES CENTENAIRES",
-      "description": "UNE BOMBE DE FRUITS !!! Mireille Ribière, Herbaliste et Vigneronne, a baignée depuis l’enfance dans la nature et le monde vigneron grâce à son père, son oncle, son grand-père et toutes les générations précédentes. C’est avec la création du Domaine du Lendemain en 2018 qu’elle laisse s’exprimer le gène familial. Et la famille, vous la connaissez ? Révéler la flore de notre terroir à travers d’emblématiques cépages des Pyrénées-Orientales. Créé en 1993 lorsque Denis Ferrer et Bruno Ribière, décidèrent d’unir leurs forces complémentaires : le premier étant viticulteur et le second, poète, à son aise dans le chai, le Domaine F. Ribière a été repris par Mireille en 2021. Situé au cœur des Aspres, sur les collines verdoyantes, entre 2 canyons d’argiles rouge et ocre. À la vigne, Mireille vise à favoriser le cycle naturel de la vigne ainsi que la vie et la structure du sol : Apports de minéraux et oligo-éléments, taille courte pour la vigueur, maîtrise de l’enherbement, apports de fumier composté et des pulvérisations de tisanes de plantes, de purins et de préparations à base d’huiles essentielles et d’hydrolats en prophylaxie. À la cave, les vendanges sont manuelles : tri à la vigne et sur table, levures indigènes, pas d’ajout de produits de synthèse, dynamique des jus par gravité, hygiène et vigilance sensorielle, contrôle des températures.",
-      "price": "24,95 $",
-      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/b50826da-123e-fb98-ee6c-4882789afb41.png",
-      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=eccea87257&e=c11422f941",
-      "producer": "DOMAINE DU LENDEMAIN",
-      "region": null,
-      "vintage": "2022",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "CÔTES CATALANES LES CENTENAIRES",
-          "description": "UNE BOMBE DE FRUITS !!! Mireille Ribière, Herbaliste et Vigneronne, a baignée depuis l’enfance dans la nature et le monde vigneron grâce à son père, son oncle, son grand-père et toutes les générations précédentes. C’est avec la création du Domaine du Lendemain en 2018 qu’elle laisse s’exprimer le gène familial. Et la famille, vous la connaissez ? Révéler la flore de notre terroir à travers d’emblématiques cépages des Pyrénées-Orientales. Créé en 1993 lorsque Denis Ferrer et Bruno Ribière, décidèrent d’unir leurs forces complémentaires : le premier étant viticulteur et le second, poète, à son aise dans le chai, le Domaine F. Ribière a été repris par Mireille en 2021. Situé au cœur des Aspres, sur les collines verdoyantes, entre 2 canyons d’argiles rouge et ocre. À la vigne, Mireille vise à favoriser le cycle naturel de la vigne ainsi que la vie et la structure du sol : Apports de minéraux et oligo-éléments, taille courte pour la vigueur, maîtrise de l’enherbement, apports de fumier composté et des pulvérisations de tisanes de plantes, de purins et de préparations à base d’huiles essentielles et d’hydrolats en prophylaxie. À la cave, les vendanges sont manuelles : tri à la vigne et sur table, levures indigènes, pas d’ajout de produits de synthèse, dynamique des jus par gravité, hygiène et vigilance sensorielle, contrôle des températures.",
-          "price": "24,95 $",
-          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/b50826da-123e-fb98-ee6c-4882789afb41.png",
-          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=eccea87257&e=c11422f941",
-          "producer": "DOMAINE DU LENDEMAIN",
-          "region": null,
-          "vintage": "2022",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Les Côtes Catalanes Les Centenaires, un vin fruité et vibrant, est le fruit d'un savoir-faire familial, cultivé avec soin et respect de la nature, révélant la richesse des cépages des Pyrénées-Orientales."
-  },
-  {
-    "id": "file-2025-07-24-rezin-0.html-cotes-de-rhone",
-    "blockId": "file-2025-07-24-rezin-0.html",
-    "createdAt": "2025-07-24T00:00:00.000Z",
-    "name": "CÔTES DE RHÔNE",
-    "description": "UN DÉLICE À ACHETER À LA CAISSE ! « (...) Un vin d’une élégance généreuse et chaleureuse, aux notes de cassis et de cacao, pointées de thym citronné, sur une finale poivrée. Le tout est produit sans sulfites, en fermentation spontanée avec levures indigènes, dans des cuves de béton où le vin est laissé en maturation de huit à douze mois avant d’être embouteillé. Pour vous mettre en contexte, il y a d’abord le Château Mourgues du Grès qui est considéré comme l’un des meilleurs vignobles de la Costière de Nîmes, depuis que François Collard a pris la relève de son père en 1990, en collaboration avec son épouse Anne. Puis en 2019, Anne Collard achète 30 hectares de vignes à Comps, un terroir particulièrement venteux et propice à la culture biologique, situé à six kilomètres du château. Elle mène son projet en collaboration avec l’expertise de son fils Romain au vignoble et de son mari François à la cave, pour élaborer seulement deux cuvées en petite quantité, celle-ci et «Aube» qui est produite à partir de vieilles vignes. Des vins vibrants et équilibrés qui sont vinifiés au Château Mourgues du Grès, dans de nouvelles installations.",
-    "price": "23,60 $",
-    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/84faaafc-86b0-48f5-df57-26c039cea4da.png",
-    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=8374d1f9f8&e=c11422f941",
-    "agence": "réZin",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "CÔTES DE RHÔNE",
-      "description": "UN DÉLICE À ACHETER À LA CAISSE ! « (...) Un vin d’une élégance généreuse et chaleureuse, aux notes de cassis et de cacao, pointées de thym citronné, sur une finale poivrée. Le tout est produit sans sulfites, en fermentation spontanée avec levures indigènes, dans des cuves de béton où le vin est laissé en maturation de huit à douze mois avant d’être embouteillé. Pour vous mettre en contexte, il y a d’abord le Château Mourgues du Grès qui est considéré comme l’un des meilleurs vignobles de la Costière de Nîmes, depuis que François Collard a pris la relève de son père en 1990, en collaboration avec son épouse Anne. Puis en 2019, Anne Collard achète 30 hectares de vignes à Comps, un terroir particulièrement venteux et propice à la culture biologique, situé à six kilomètres du château. Elle mène son projet en collaboration avec l’expertise de son fils Romain au vignoble et de son mari François à la cave, pour élaborer seulement deux cuvées en petite quantité, celle-ci et «Aube» qui est produite à partir de vieilles vignes. Des vins vibrants et équilibrés qui sont vinifiés au Château Mourgues du Grès, dans de nouvelles installations.",
-      "price": "23,60 $",
-      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/84faaafc-86b0-48f5-df57-26c039cea4da.png",
-      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=8374d1f9f8&e=c11422f941",
-      "producer": "VIGNOBLE ANNE COLLARD",
-      "region": null,
-      "vintage": "2021",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "CÔTES DE RHÔNE",
-          "description": "UN DÉLICE À ACHETER À LA CAISSE ! « (...) Un vin d’une élégance généreuse et chaleureuse, aux notes de cassis et de cacao, pointées de thym citronné, sur une finale poivrée. Le tout est produit sans sulfites, en fermentation spontanée avec levures indigènes, dans des cuves de béton où le vin est laissé en maturation de huit à douze mois avant d’être embouteillé. Pour vous mettre en contexte, il y a d’abord le Château Mourgues du Grès qui est considéré comme l’un des meilleurs vignobles de la Costière de Nîmes, depuis que François Collard a pris la relève de son père en 1990, en collaboration avec son épouse Anne. Puis en 2019, Anne Collard achète 30 hectares de vignes à Comps, un terroir particulièrement venteux et propice à la culture biologique, situé à six kilomètres du château. Elle mène son projet en collaboration avec l’expertise de son fils Romain au vignoble et de son mari François à la cave, pour élaborer seulement deux cuvées en petite quantité, celle-ci et «Aube» qui est produite à partir de vieilles vignes. Des vins vibrants et équilibrés qui sont vinifiés au Château Mourgues du Grès, dans de nouvelles installations.",
-          "price": "23,60 $",
-          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/84faaafc-86b0-48f5-df57-26c039cea4da.png",
-          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=8374d1f9f8&e=c11422f941",
-          "producer": "VIGNOBLE ANNE COLLARD",
-          "region": null,
-          "vintage": "2021",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Côtes de Rhône, un délice généreux et chaleureux, révèle des notes de cassis et de cacao, avec une finale poivrée, élaboré sans sulfites dans un respect total du terroir et de la tradition."
-  },
-  {
-    "id": "file-2025-07-24-rezin-0.html-petit-chablis-hauterivien",
-    "blockId": "file-2025-07-24-rezin-0.html",
-    "createdAt": "2025-07-24T00:00:00.000Z",
-    "name": "PETIT CHABLIS «HAUTÉRIVIEN»",
-    "description": "IL N'Y A RIEN DE PETIT DANS CETTE MERVEILLE ! C'est en 1990 que Denis Pommier a repris les deux hectares de vignes de ses grands-parents, à Poinchy, près de Chablis, en Bourgogne. Aujourd'hui, le domaine en culture biologique s'étend sur environ 23 hectares en Petit Chablis et Chablis, incluant trois premiers crus, ainsi qu'une parcelle de pinot noir. Le domaine privilégie les vendanges manuelles, assurant ainsi une sélection rigoureuse des raisins, tout en évitant au maximum la trituration des baies. Le potentiel aromatique en est donc préservé. Ici, c'est le terroir qui dicte le mode de vinification, parfois en barriques mais plus souvent en cuves. Les élevages sur lies fines se prolongent pour gagner en volume et complexité, ce qui permet notamment de réduire les doses de soufre. Domaine en culture biologique, le travail se fait avec des levures indigènes et un élevage sur lies fines. La récolte de chaque parcelle est vinifiée séparément afin de préserver au maximum la typicité de leur terroir.",
-    "price": "37,25 $",
-    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/b616519e-c64e-ea23-52bb-851c384a7019.png",
-    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=00ea28f337&e=c11422f941",
-    "agence": "réZin",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "PETIT CHABLIS «HAUTÉRIVIEN»",
-      "description": "IL N'Y A RIEN DE PETIT DANS CETTE MERVEILLE ! C'est en 1990 que Denis Pommier a repris les deux hectares de vignes de ses grands-parents, à Poinchy, près de Chablis, en Bourgogne. Aujourd'hui, le domaine en culture biologique s'étend sur environ 23 hectares en Petit Chablis et Chablis, incluant trois premiers crus, ainsi qu'une parcelle de pinot noir. Le domaine privilégie les vendanges manuelles, assurant ainsi une sélection rigoureuse des raisins, tout en évitant au maximum la trituration des baies. Le potentiel aromatique en est donc préservé. Ici, c'est le terroir qui dicte le mode de vinification, parfois en barriques mais plus souvent en cuves. Les élevages sur lies fines se prolongent pour gagner en volume et complexité, ce qui permet notamment de réduire les doses de soufre. Domaine en culture biologique, le travail se fait avec des levures indigènes et un élevage sur lies fines. La récolte de chaque parcelle est vinifiée séparément afin de préserver au maximum la typicité de leur terroir.",
-      "price": "37,25 $",
-      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/b616519e-c64e-ea23-52bb-851c384a7019.png",
-      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=00ea28f337&e=c11422f941",
-      "producer": "ISABELLE ET DENIS POMMIER",
-      "region": null,
-      "vintage": "2023",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "PETIT CHABLIS «HAUTÉRIVIEN»",
-          "description": "IL N'Y A RIEN DE PETIT DANS CETTE MERVEILLE ! C'est en 1990 que Denis Pommier a repris les deux hectares de vignes de ses grands-parents, à Poinchy, près de Chablis, en Bourgogne. Aujourd'hui, le domaine en culture biologique s'étend sur environ 23 hectares en Petit Chablis et Chablis, incluant trois premiers crus, ainsi qu'une parcelle de pinot noir. Le domaine privilégie les vendanges manuelles, assurant ainsi une sélection rigoureuse des raisins, tout en évitant au maximum la trituration des baies. Le potentiel aromatique en est donc préservé. Ici, c'est le terroir qui dicte le mode de vinification, parfois en barriques mais plus souvent en cuves. Les élevages sur lies fines se prolongent pour gagner en volume et complexité, ce qui permet notamment de réduire les doses de soufre. Domaine en culture biologique, le travail se fait avec des levures indigènes et un élevage sur lies fines. La récolte de chaque parcelle est vinifiée séparément afin de préserver au maximum la typicité de leur terroir.",
-          "price": "37,25 $",
-          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/b616519e-c64e-ea23-52bb-851c384a7019.png",
-          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=00ea28f337&e=c11422f941",
-          "producer": "ISABELLE ET DENIS POMMIER",
-          "region": null,
-          "vintage": "2023",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Petit Chablis 'Hautérivien' est une merveille biologique, offrant une complexité aromatique préservée grâce à des vendanges manuelles et un élevage sur lies fines, révélant l'essence de son terroir."
+    "summary": "Volnay 1er cru 'Les Mitans' debuts in Quebec, showcasing an airy and precise character through careful vinification without sulfur, promising a remarkable expression of Volnay's elegance."
   }
 ]
