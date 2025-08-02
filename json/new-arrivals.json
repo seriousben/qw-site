@@ -1,11 +1,800 @@
 [
   {
+    "id": "file-2025-08-01-info-symbiose-0.html-pourpre",
+    "blockId": "file-2025-08-01-info-symbiose-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Pourpre",
+    "description": "Assemblage de saison de blé affinée en tonneaux et macérée sur de la camerise des Petits Fruits du Clocher à Ste-Cécile-de-Milton. En bouche c’est sec et vif, avec un pointe d’astringence",
+    "price": "16,00 $",
+    "image_url": "https://www.saq.com/media/catalog/product/1/5/15518241-1_1753726086.png",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1158909&idl=8227&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=5lB9bw7TPaQ2vpvfulX9eQ97Ll3Y9tFvwvFLgpTpPbI",
+    "agence": "Info Symbiose",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Pourpre",
+      "description": "Assemblage de saison de blé affinée en tonneaux et macérée sur de la camerise des Petits Fruits du Clocher à Ste-Cécile-de-Milton. En bouche c’est sec et vif, avec un pointe d’astringence",
+      "price": "16,00 $",
+      "image_url": "https://www.saq.com/media/catalog/product/1/5/15518241-1_1753726086.png",
+      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1158909&idl=8227&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=5lB9bw7TPaQ2vpvfulX9eQ97Ll3Y9tFvwvFLgpTpPbI",
+      "producer": "Robin",
+      "region": "Québec",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Pourpre",
+          "description": "Assemblage de saison de blé affinée en tonneaux et macérée sur de la camerise des Petits Fruits du Clocher à Ste-Cécile-de-Milton. En bouche c’est sec et vif, avec un pointe d’astringence",
+          "price": "16,00 $",
+          "image_url": "https://www.saq.com/media/catalog/product/1/5/15518241-1_1753726086.png",
+          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1158909&idl=8227&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=5lB9bw7TPaQ2vpvfulX9eQ97Ll3Y9tFvwvFLgpTpPbI",
+          "producer": "Robin",
+          "region": "Québec",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Pourpre enchante avec sa macération sur camerise, offrant une bouche sèche et vive, rehaussée d'une subtile astringence qui lui confère une personnalité unique."
+  },
+  {
+    "id": "file-2025-08-01-info-symbiose-0.html-cotes-du-jura-trio",
+    "blockId": "file-2025-08-01-info-symbiose-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Côtes du Jura Trio",
+    "description": "Un trio qui séduit par sa légèreté et son bouquet complexe de petits fruits rouges et de notes terreuses. Élevé 10 mois en cuve inox, c’est un rouge frais et fruité, à servir légèrement rafraîchi. Parfait avec des charcuteries, des viandes fumées ou grillées.",
+    "price": "51,00 $",
+    "image_url": "https://www.saq.com/media/catalog/product/1/5/15467754-1_1753726084.png",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1158909&idl=8224&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=eze30sVCl_W88JZztBKDKTwOkbP9B_Vg8gj3wH_x21I",
+    "agence": "Info Symbiose",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Côtes du Jura Trio",
+      "description": "Un trio qui séduit par sa légèreté et son bouquet complexe de petits fruits rouges et de notes terreuses. Élevé 10 mois en cuve inox, c’est un rouge frais et fruité, à servir légèrement rafraîchi. Parfait avec des charcuteries, des viandes fumées ou grillées.",
+      "price": "51,00 $",
+      "image_url": "https://www.saq.com/media/catalog/product/1/5/15467754-1_1753726084.png",
+      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1158909&idl=8224&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=eze30sVCl_W88JZztBKDKTwOkbP9B_Vg8gj3wH_x21I",
+      "producer": "Domaine Berthet-Bondet",
+      "region": "Jura — France",
+      "vintage": null,
+      "grape_varieties": [
+        "Trousseau",
+        "Pinot noir",
+        "Poulsard"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Côtes du Jura Trio",
+          "description": "Un trio qui séduit par sa légèreté et son bouquet complexe de petits fruits rouges et de notes terreuses. Élevé 10 mois en cuve inox, c’est un rouge frais et fruité, à servir légèrement rafraîchi. Parfait avec des charcuteries, des viandes fumées ou grillées.",
+          "price": "51,00 $",
+          "image_url": "https://www.saq.com/media/catalog/product/1/5/15467754-1_1753726084.png",
+          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1158909&idl=8224&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=eze30sVCl_W88JZztBKDKTwOkbP9B_Vg8gj3wH_x21I",
+          "producer": "Domaine Berthet-Bondet",
+          "region": "Jura — France",
+          "vintage": null,
+          "grape_varieties": [
+            "Trousseau",
+            "Pinot noir",
+            "Poulsard"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Côtes du Jura Trio se distingue par sa légèreté et son bouquet complexe de petits fruits rouges, offrant un rouge frais et fruité, idéalement servi légèrement rafraîchi."
+  },
+  {
+    "id": "file-2025-08-01-noble-selection-0.html-ribera-del-duero-condado-de-haza-2020",
+    "blockId": "file-2025-08-01-noble-selection-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Ribera del Duero Condado de Haza 2020",
+    "description": "Dans les vignes, les pratiques sont durables; les engrais utilisés sont 100% organiques et aucun pesticide n'est utilisé. Le rendement est maximum de 4 kilos par vigne. Au chai, les raisins, le jus et le vin sont déplacés à 100% par gravité. Les vins ne sont pas filtrés ni clarifiés. Ils sont soutirés quatre fois au cours des douze premiers mois.",
+    "price": "29,20$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_condado-de-haza-ribera-del-duero-2019-copie.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4921e0bed1&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Ribera del Duero Condado de Haza 2020",
+      "description": "Dans les vignes, les pratiques sont durables; les engrais utilisés sont 100% organiques et aucun pesticide n'est utilisé. Le rendement est maximum de 4 kilos par vigne. Au chai, les raisins, le jus et le vin sont déplacés à 100% par gravité. Les vins ne sont pas filtrés ni clarifiés. Ils sont soutirés quatre fois au cours des douze premiers mois.",
+      "price": "29,20$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_condado-de-haza-ribera-del-duero-2019-copie.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4921e0bed1&e=2c9a262afa",
+      "producer": "CONDADO DE HAZA - Familia Fernández Rivera",
+      "region": "Ribera del Duero",
+      "vintage": "2020",
+      "grape_varieties": [
+        "Tempranillo"
+      ],
+      "alcohol_content": "15%",
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Ribera del Duero Condado de Haza 2020",
+          "description": "Dans les vignes, les pratiques sont durables; les engrais utilisés sont 100% organiques et aucun pesticide n'est utilisé. Le rendement est maximum de 4 kilos par vigne. Au chai, les raisins, le jus et le vin sont déplacés à 100% par gravité. Les vins ne sont pas filtrés ni clarifiés. Ils sont soutirés quatre fois au cours des douze premiers mois.",
+          "price": "29,20$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_condado-de-haza-ribera-del-duero-2019-copie.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4921e0bed1&e=2c9a262afa",
+          "producer": "CONDADO DE HAZA - Familia Fernández Rivera",
+          "region": "Ribera del Duero",
+          "vintage": "2020",
+          "grape_varieties": [
+            "Tempranillo"
+          ],
+          "alcohol_content": "15%",
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Ribera del Duero Condado de Haza 2020 incarne l'excellence durable, avec des raisins cultivés sans pesticides et un processus de vinification délicat, garantissant un vin pur et authentique."
+  },
+  {
+    "id": "file-2025-08-01-noble-selection-0.html-village-chardonnay-2024",
+    "blockId": "file-2025-08-01-noble-selection-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Village Chardonnay 2024",
+    "description": null,
+    "price": "23,30$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_kumeu-river-village-face-croped.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f18b333d32&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Village Chardonnay 2024",
+      "description": null,
+      "price": "23,30$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_kumeu-river-village-face-croped.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f18b333d32&e=2c9a262afa",
+      "producer": "Kumeu River",
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Village Chardonnay 2024",
+          "description": null,
+          "price": "23,30$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_kumeu-river-village-face-croped.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f18b333d32&e=2c9a262afa",
+          "producer": "Kumeu River",
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-01-noble-selection-0.html-sauvignon-blanc-2024",
+    "blockId": "file-2025-08-01-noble-selection-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Sauvignon blanc 2024",
+    "description": null,
+    "price": "23,70$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_southern-right-cellars-sauvignon-blanc-walker-bay-2023-copie.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=0c6aad77bf&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Sauvignon blanc 2024",
+      "description": null,
+      "price": "23,70$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_southern-right-cellars-sauvignon-blanc-walker-bay-2023-copie.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=0c6aad77bf&e=2c9a262afa",
+      "producer": "SOUTHERN RIGHT",
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Sauvignon blanc 2024",
+          "description": null,
+          "price": "23,70$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_southern-right-cellars-sauvignon-blanc-walker-bay-2023-copie.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=0c6aad77bf&e=2c9a262afa",
+          "producer": "SOUTHERN RIGHT",
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-01-noble-selection-0.html-alentejano-2021",
+    "blockId": "file-2025-08-01-noble-selection-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Alentejano 2021",
+    "description": null,
+    "price": "16,95$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_alentejano-2021.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=75f5c39aa4&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Alentejano 2021",
+      "description": null,
+      "price": "16,95$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_alentejano-2021.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=75f5c39aa4&e=2c9a262afa",
+      "producer": "MONTE DA CAL",
+      "region": null,
+      "vintage": "2021",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Alentejano 2021",
+          "description": null,
+          "price": "16,95$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_alentejano-2021.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=75f5c39aa4&e=2c9a262afa",
+          "producer": "MONTE DA CAL",
+          "region": null,
+          "vintage": "2021",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-01-noble-selection-0.html-grand-claret-bordeaux-2018",
+    "blockId": "file-2025-08-01-noble-selection-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Grand Claret Bordeaux 2018",
+    "description": null,
+    "price": "19,25$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_la-grange-clinet-copie.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=2e9dd8bc6e&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Grand Claret Bordeaux 2018",
+      "description": null,
+      "price": "19,25$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_la-grange-clinet-copie.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=2e9dd8bc6e&e=2c9a262afa",
+      "producer": "CHÂTEAU LA GRANGE CLINET",
+      "region": null,
+      "vintage": "2018",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Grand Claret Bordeaux 2018",
+          "description": null,
+          "price": "19,25$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_la-grange-clinet-copie.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=2e9dd8bc6e&e=2c9a262afa",
+          "producer": "CHÂTEAU LA GRANGE CLINET",
+          "region": null,
+          "vintage": "2018",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-01-noble-selection-0.html-tutto-e-possibile",
+    "blockId": "file-2025-08-01-noble-selection-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Tutto è Possibile",
+    "description": null,
+    "price": "16,95$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_tutto-e-possible-terre-cevico.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=43dd4991cb&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Tutto è Possibile",
+      "description": null,
+      "price": "16,95$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_tutto-e-possible-terre-cevico.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=43dd4991cb&e=2c9a262afa",
+      "producer": "TERRE CEVICO",
+      "region": null,
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Tutto è Possibile",
+          "description": null,
+          "price": "16,95$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_tutto-e-possible-terre-cevico.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=43dd4991cb&e=2c9a262afa",
+          "producer": "TERRE CEVICO",
+          "region": null,
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-01-noble-selection-0.html-cabriz-colheita-selecionada-dao-2022",
+    "blockId": "file-2025-08-01-noble-selection-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Cabriz Colheita Selecionada Dão 2022",
+    "description": null,
+    "price": "15,55$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cabriz-ra.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=2d2dffb346&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Cabriz Colheita Selecionada Dão 2022",
+      "description": null,
+      "price": "15,55$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cabriz-ra.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=2d2dffb346&e=2c9a262afa",
+      "producer": "GLOBAL WINES",
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Cabriz Colheita Selecionada Dão 2022",
+          "description": null,
+          "price": "15,55$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cabriz-ra.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=2d2dffb346&e=2c9a262afa",
+          "producer": "GLOBAL WINES",
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-01-noble-selection-0.html-les-calcaires-saumur-champigny-2023",
+    "blockId": "file-2025-08-01-noble-selection-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Les Calcaires Saumur-Champigny 2023",
+    "description": null,
+    "price": "21,80$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_les-calcaires-saumur-champigny-2022-copie.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=01e7254cbb&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Les Calcaires Saumur-Champigny 2023",
+      "description": null,
+      "price": "21,80$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_les-calcaires-saumur-champigny-2022-copie.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=01e7254cbb&e=2c9a262afa",
+      "producer": "COMPLICES DE LOIRE",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Les Calcaires Saumur-Champigny 2023",
+          "description": null,
+          "price": "21,80$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_les-calcaires-saumur-champigny-2022-copie.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=01e7254cbb&e=2c9a262afa",
+          "producer": "COMPLICES DE LOIRE",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-01-noble-selection-0.html-non-confunditur-2023",
+    "blockId": "file-2025-08-01-noble-selection-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Non Confunditur 2023",
+    "description": null,
+    "price": "26,95$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_argiano-non-confunditur-2021-copie.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=2d7932ff0c&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Non Confunditur 2023",
+      "description": null,
+      "price": "26,95$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_argiano-non-confunditur-2021-copie.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=2d7932ff0c&e=2c9a262afa",
+      "producer": "ARGIANO",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Non Confunditur 2023",
+          "description": null,
+          "price": "26,95$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_argiano-non-confunditur-2021-copie.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=2d7932ff0c&e=2c9a262afa",
+          "producer": "ARGIANO",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-01-vin-dame-jeanne-0.html-bourgogne-aligote-les-champs-dargent",
+    "blockId": "file-2025-08-01-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Bourgogne Aligoté 'Les Champs d'Argent'",
+    "description": "Particulier 588.75 | Restaurant 512.07 | 15505773",
+    "price": "588,75$",
+    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Bourgogne Aligoté 'Les Champs d'Argent'",
+      "description": "Particulier 588.75 | Restaurant 512.07 | 15505773",
+      "price": "588,75$",
+      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+      "link": null,
+      "producer": "Charles Lachaux",
+      "region": "Bourgogne",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Bourgogne Aligoté 'Les Champs d'Argent'",
+          "description": "Particulier 588.75 | Restaurant 512.07 | 15505773",
+          "price": "588,75$",
+          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+          "link": null,
+          "producer": "Charles Lachaux",
+          "region": "Bourgogne",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-01-vin-dame-jeanne-0.html-corton-charlemagne-grand-cru-le-corton",
+    "blockId": "file-2025-08-01-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Corton Charlemagne Grand Cru 'Le Corton'",
+    "description": "Particulier 1,119.25 | Restaurant 973.47 | 15503946",
+    "price": "1 119,25$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Corton Charlemagne Grand Cru 'Le Corton'",
+      "description": "Particulier 1,119.25 | Restaurant 973.47 | 15503946",
+      "price": "1 119,25$",
+      "image_url": null,
+      "link": null,
+      "producer": "Charles Lachaux",
+      "region": "Corton Charlemagne",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Corton Charlemagne Grand Cru 'Le Corton'",
+          "description": "Particulier 1,119.25 | Restaurant 973.47 | 15503946",
+          "price": "1 119,25$",
+          "image_url": null,
+          "link": null,
+          "producer": "Charles Lachaux",
+          "region": "Corton Charlemagne",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-01-vin-dame-jeanne-0.html-bourgogne-rouge-les-croix-blanches",
+    "blockId": "file-2025-08-01-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Bourgogne Rouge 'Les Croix Blanches'",
+    "description": "Particulier 129 | Restaurant 112.20 | 15505634",
+    "price": "129,00$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Bourgogne Rouge 'Les Croix Blanches'",
+      "description": "Particulier 129 | Restaurant 112.20 | 15505634",
+      "price": "129,00$",
+      "image_url": null,
+      "link": null,
+      "producer": "Charles Lachaux",
+      "region": "Bourgogne",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Bourgogne Rouge 'Les Croix Blanches'",
+          "description": "Particulier 129 | Restaurant 112.20 | 15505634",
+          "price": "129,00$",
+          "image_url": null,
+          "link": null,
+          "producer": "Charles Lachaux",
+          "region": "Bourgogne",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-01-vin-dame-jeanne-0.html-cote-de-nuits-villages-aux-montagnes",
+    "blockId": "file-2025-08-01-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Côte de Nuits Villages 'Aux Montagnes'",
+    "description": "Particulier 189.25 | Restaurant 164.60 | 15505669",
+    "price": "189,25$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Côte de Nuits Villages 'Aux Montagnes'",
+      "description": "Particulier 189.25 | Restaurant 164.60 | 15505669",
+      "price": "189,25$",
+      "image_url": null,
+      "link": null,
+      "producer": "Charles Lachaux",
+      "region": "Côte de Nuits",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Côte de Nuits Villages 'Aux Montagnes'",
+          "description": "Particulier 189.25 | Restaurant 164.60 | 15505669",
+          "price": "189,25$",
+          "image_url": null,
+          "link": null,
+          "producer": "Charles Lachaux",
+          "region": "Côte de Nuits",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-01-vin-dame-jeanne-0.html-nuits-st-georges-la-petite-charmotte",
+    "blockId": "file-2025-08-01-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Nuits-St-Georges 'La Petite Charmotte'",
+    "description": "Particulier 323.50 | Restaurant 281.37 | 15505651",
+    "price": "323,50$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Nuits-St-Georges 'La Petite Charmotte'",
+      "description": "Particulier 323.50 | Restaurant 281.37 | 15505651",
+      "price": "323,50$",
+      "image_url": null,
+      "link": null,
+      "producer": "Charles Lachaux",
+      "region": "Nuits-St-Georges",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Nuits-St-Georges 'La Petite Charmotte'",
+          "description": "Particulier 323.50 | Restaurant 281.37 | 15505651",
+          "price": "323,50$",
+          "image_url": null,
+          "link": null,
+          "producer": "Charles Lachaux",
+          "region": "Nuits-St-Georges",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-01-vin-dame-jeanne-0.html-pommard-les-vignots",
+    "blockId": "file-2025-08-01-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Pommard 'Les Vignots'",
+    "description": "Particulier 339 | Restaurant 294.85 | 15503954",
+    "price": "339,00$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Pommard 'Les Vignots'",
+      "description": "Particulier 339 | Restaurant 294.85 | 15503954",
+      "price": "339,00$",
+      "image_url": null,
+      "link": null,
+      "producer": "Charles Lachaux",
+      "region": "Pommard",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Pommard 'Les Vignots'",
+          "description": "Particulier 339 | Restaurant 294.85 | 15503954",
+          "price": "339,00$",
+          "image_url": null,
+          "link": null,
+          "producer": "Charles Lachaux",
+          "region": "Pommard",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-01-vin-dame-jeanne-0.html-aloxe-corton-1er-cru-les-valozieres",
+    "blockId": "file-2025-08-01-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "name": "Aloxe-Corton 1er cru 'Les Valozières'",
+    "description": "Particulier 571 | Restaurant 296.63 | 15505731",
+    "price": "571,00$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Aloxe-Corton 1er cru 'Les Valozières'",
+      "description": "Particulier 571 | Restaurant 296.63 | 15505731",
+      "price": "571,00$",
+      "image_url": null,
+      "link": null,
+      "producer": "Charles Lachaux",
+      "region": "Aloxe-Corton",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Aloxe-Corton 1er cru 'Les Valozières'",
+          "description": "Particulier 571 | Restaurant 296.63 | 15505731",
+          "price": "571,00$",
+          "image_url": null,
+          "link": null,
+          "producer": "Charles Lachaux",
+          "region": "Aloxe-Corton",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
     "id": "file-2025-07-31-bambara-selection-0.html-cote-rotie-2022-domaine-xavier-gerard",
     "blockId": "file-2025-07-31-bambara-selection-0.html",
     "createdAt": "2025-07-31T00:00:00.000Z",
     "name": "Côte-Rôtie 2022 – Domaine Xavier Gérard",
     "description": "Une concentration d’élégance et d’énergie ! Issu de vieilles vignes sur les plus beaux coteaux de Côte-Rôtie (dont La Landonne), ce 2022 mêle la profondeur du Syrah à une belle fraîcheur naturelle. Un grand classique dans un millésime solaire et expressif!",
-    "price": "110,75$",
+    "price": "110,75 $",
     "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=7c235874b3&e=a09c2580fc",
     "agence": "Bambara Selection",
@@ -13,7 +802,7 @@
     "raw_data": {
       "name": "Côte-Rôtie 2022 – Domaine Xavier Gérard",
       "description": "Une concentration d’élégance et d’énergie ! Issu de vieilles vignes sur les plus beaux coteaux de Côte-Rôtie (dont La Landonne), ce 2022 mêle la profondeur du Syrah à une belle fraîcheur naturelle. Un grand classique dans un millésime solaire et expressif!",
-      "price": "110,75$",
+      "price": "110,75 $",
       "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=7c235874b3&e=a09c2580fc",
       "producer": "Domaine Xavier Gérard",
@@ -30,7 +819,7 @@
         {
           "name": "Côte-Rôtie 2022 – Domaine Xavier Gérard",
           "description": "Une concentration d’élégance et d’énergie ! Issu de vieilles vignes sur les plus beaux coteaux de Côte-Rôtie (dont La Landonne), ce 2022 mêle la profondeur du Syrah à une belle fraîcheur naturelle. Un grand classique dans un millésime solaire et expressif!",
-          "price": "110,75$",
+          "price": "110,75 $",
           "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=7c235874b3&e=a09c2580fc",
           "producer": "Domaine Xavier Gérard",
@@ -47,7 +836,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Côte-Rôtie 2022 de Domaine Xavier Gérard, issu de vieilles vignes, allie la profondeur du Syrah à une fraîcheur éclatante, incarnant l'élégance et l'énergie d'un millésime solaire et expressif."
+    "summary": "Côte-Rôtie 2022 du Domaine Xavier Gérard révèle une élégance concentrée, alliant la profondeur du Syrah à une fraîcheur naturelle, un classique solaire et expressif."
   },
   {
     "id": "file-2025-07-31-bambara-selection-0.html-marsannay-les-longeroies-2022-domaine-jean-fournie",
@@ -55,7 +844,7 @@
     "createdAt": "2025-07-31T00:00:00.000Z",
     "name": "Marsannay Les Longeroies 2022 – Domaine Jean Fournier",
     "description": "La Bourgogne bio, élégante et expressive, comme on l’aime ! Cuvée emblématique du domaine, « Les Longeroies » est l’âme du vignoble Fournier. Un vin pur, ample et soyeux, à la minéralité ciselée et au rapport qualité-prix remarquable.",
-    "price": "81,00$",
+    "price": "81,00 $",
     "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/19fa532e-03f7-a913-bb35-49e4db5a2d37.png",
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=fbd3b27673&e=a09c2580fc",
     "agence": "Bambara Selection",
@@ -63,7 +852,7 @@
     "raw_data": {
       "name": "Marsannay Les Longeroies 2022 – Domaine Jean Fournier",
       "description": "La Bourgogne bio, élégante et expressive, comme on l’aime ! Cuvée emblématique du domaine, « Les Longeroies » est l’âme du vignoble Fournier. Un vin pur, ample et soyeux, à la minéralité ciselée et au rapport qualité-prix remarquable.",
-      "price": "81,00$",
+      "price": "81,00 $",
       "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/19fa532e-03f7-a913-bb35-49e4db5a2d37.png",
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=fbd3b27673&e=a09c2580fc",
       "producer": "Domaine Jean Fournier",
@@ -79,7 +868,7 @@
         {
           "name": "Marsannay Les Longeroies 2022 – Domaine Jean Fournier",
           "description": "La Bourgogne bio, élégante et expressive, comme on l’aime ! Cuvée emblématique du domaine, « Les Longeroies » est l’âme du vignoble Fournier. Un vin pur, ample et soyeux, à la minéralité ciselée et au rapport qualité-prix remarquable.",
-          "price": "81,00$",
+          "price": "81,00 $",
           "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/19fa532e-03f7-a913-bb35-49e4db5a2d37.png",
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=fbd3b27673&e=a09c2580fc",
           "producer": "Domaine Jean Fournier",
@@ -95,7 +884,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Marsannay Les Longeroies 2022 de Domaine Jean Fournier, emblématique de la Bourgogne bio, se distingue par sa pureté, son ampleur soyeuse et sa minéralité ciselée, offrant un rapport qualité-prix exceptionnel."
+    "summary": "Marsannay Les Longeroies 2022 incarne l'élégance bourguignonne, avec une pureté soyeuse et une minéralité ciselée, véritable âme du domaine Fournier."
   },
   {
     "id": "file-2025-07-31-bambara-selection-0.html-nerojbleo-sicilia-2022-gulfi",
@@ -143,7 +932,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Nerojbleo Sicilia 2022 de Gulfi, 100% Nero d’Avola, est un rouge sicilien équilibré et raffiné, alliant richesse fruitée et souplesse ensoleillée, avec des tannins enveloppants qui séduisent à chaque gorgée."
+    "summary": "Nerojbleo Sicilia 2022 est un rouge sicilien raffiné, 100% Nero d’Avola, alliant richesse fruitée et souplesse ensoleillée, un vin gourmand qui invite à revenir encore et encore."
   },
   {
     "id": "file-2025-07-31-planvin-0.html-doc-langhe-risa-2022",
@@ -193,7 +982,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le DOC Langhe - Risa 2022, composé de 85% Nebbiolo et 15% Gamay, révèle un nez complexe de fruits, épices et fleurs, où les notes de rose séchée et de cerise noire enveloppent harmonieusement les tannins du Nebbiolo."
+    "summary": "DOC Langhe - Risa 2022, un assemblage de 85% nebbiolo et 15% gamay, offre un nez complexe de fruits, épices et fleurs, enveloppant les tannins du nebbiolo dans une harmonie délicate."
   },
   {
     "id": "file-2025-07-31-planvin-0.html-doc-nebbiolo-dalba-paradis-2012",
@@ -241,7 +1030,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le DOC Nebbiolo d’Alba - Paradis 2012, célébrant les 50 ans du domaine, est un vin exceptionnel à 100% Nebbiolo, offrant un nez aristocratique de rose séchée et d'épices, et une bouche soyeuse, équilibrée et persistante, témoignant d'un savoir-faire remarquable."
+    "summary": "DOC Nebbiolo d’Alba - Paradis 2012 célèbre 50 ans de savoir-faire avec un vin exceptionnel, dévoilant une complexité aromatique aristocratique et une bouche soyeuse, équilibrée et persistante."
   },
   {
     "id": "file-2025-07-31-planvin-0.html-docg-roero-arneis-dla-trifula-2023",
@@ -289,7 +1078,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le DOCG Roero Arneis - Dla trifula 2023, 100% Arneis, se dévoile avec une robe jaune paille et un nez floral précis, offrant une bouche sèche et équilibrée, rehaussée d'une acidité rafraîchissante et d'une belle longueur."
+    "summary": "DOCG Roero Arneis - Dla trifula 2023, 100% arneis, se dévoile dans une robe jaune paille, offrant un nez floral précis et une bouche équilibrée, fraîche et longue."
   },
   {
     "id": "file-2025-07-31-planvin-0.html-doc-nebbiolo-dalba-superiore-gerbole-2020",
@@ -337,7 +1126,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le DOC Nebbiolo d’Alba Superiore - Gerbole 2020, 100% Nebbiolo, présente une robe rubis profonde et un nez intense de cerise noire et d'épices douces, offrant une bouche ample et veloutée avec une structure souple et un potentiel de garde de plus de 10 ans."
+    "summary": "DOC Nebbiolo d’Alba Superiore - Gerbole 2020, 100% nebbiolo, se présente avec une robe rubis profonde, un nez intense de cerise noire et d'épices, et une bouche veloutée aux belles longueurs."
   },
   {
     "id": "file-2025-07-31-planvin-0.html-doc-piemonte-chardonnay-2023",
@@ -385,7 +1174,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le DOC Piemonte - Chardonnay 2023, issu de vignes plantées en 1989, révèle des notes subtiles de fruits à chair blanche et de citron confit, avec une touche de pain frais, offrant une élégance et une complexité raffinées."
+    "summary": "DOC Piemonte - Chardonnay 2023 révèle des notes subtiles de fruits à chair blanche et de citron confit, avec une touche de pain frais, offrant une élégance délicate et raffinée."
   },
   {
     "id": "file-2025-07-31-rezin-0.html-chateau-bujan",
@@ -429,7 +1218,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Château Bujan, reconnu pour sa qualité constante, se situe au cœur des Côtes de Bourg, sur des coteaux ensoleillés, et offre un vin abordable qui se bonifie avec le temps, révélant la richesse de ses sols variés."
+    "summary": "Château Bujan, reconnu pour sa qualité constante, se niche au cœur des Côtes de Bourg, ses vignes profitant de sols variés et d'une exposition sud, offrant un vin d'une remarquable longévité."
   },
   {
     "id": "file-2025-07-31-rezin-0.html-riesling-qualitatswein-2023",
@@ -451,9 +1240,7 @@
       "producer": "Selbach-Oster",
       "region": null,
       "vintage": "2023",
-      "grape_varieties": [
-        "Riesling"
-      ],
+      "grape_varieties": null,
       "alcohol_content": null,
       "volume": null,
       "disponibilite": "SAQ",
@@ -467,9 +1254,7 @@
           "producer": "Selbach-Oster",
           "region": null,
           "vintage": "2023",
-          "grape_varieties": [
-            "Riesling"
-          ],
+          "grape_varieties": null,
           "alcohol_content": null,
           "volume": null,
           "disponibilite": "SAQ"
@@ -477,7 +1262,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Riesling Qualitätswein 2023 de Selbach-Oster, issu de vignes historiques le long de la Moselle, incarne l'essence de chaque terroir unique, révélant un potentiel et un caractère typiques grâce à un travail minutieux à la vigne et en cave."
+    "summary": "RIESLING QUALITÄTSWEIN 2023 de Selbach-Oster, issu de vignes historiques le long de la Moselle, exprime le potentiel unique de chaque terroir, révélant un caractère typique et authentique."
   },
   {
     "id": "file-2025-07-31-rezin-0.html-vassaltis",
@@ -487,7 +1272,7 @@
     "description": "Pas de doute : on est ici en présence d’un vin profond, droit, à la structure dense et tendue. VASSALTIS est un projet fondé à Santorin en 2010, au plus fort de la récession grecque, par Yannis Valambous. Santorin, ce n’est pas seulement une île grecque idyllique — c’est aussi un terroir volcanique exceptionnel, idéal pour cultiver de grands vins. Un patrimoine unique, avec ses célèbres vignes en forme de « panier », façonnées pour résister au vent et à la sécheresse. « Nous nous devons de perpétuer la tradition viticole de nos ancêtres, en travaillant avec intégrité et honnêteté, et en élaborant des vins qui expriment la pureté du terroir de façon authentique. » — Yannis Valambous",
     "price": null,
     "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/81904cd6-2bbf-3009-ef32-8b5c1013417c.jpg",
-    "link": null,
+    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=e175694deb&e=c11422f941",
     "agence": "réZin",
     "disponibilite": null,
     "raw_data": {
@@ -495,7 +1280,7 @@
       "description": "Pas de doute : on est ici en présence d’un vin profond, droit, à la structure dense et tendue. VASSALTIS est un projet fondé à Santorin en 2010, au plus fort de la récession grecque, par Yannis Valambous. Santorin, ce n’est pas seulement une île grecque idyllique — c’est aussi un terroir volcanique exceptionnel, idéal pour cultiver de grands vins. Un patrimoine unique, avec ses célèbres vignes en forme de « panier », façonnées pour résister au vent et à la sécheresse. « Nous nous devons de perpétuer la tradition viticole de nos ancêtres, en travaillant avec intégrité et honnêteté, et en élaborant des vins qui expriment la pureté du terroir de façon authentique. » — Yannis Valambous",
       "price": null,
       "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/81904cd6-2bbf-3009-ef32-8b5c1013417c.jpg",
-      "link": null,
+      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=e175694deb&e=c11422f941",
       "producer": "Vassaltis",
       "region": "Santorin",
       "vintage": null,
@@ -509,7 +1294,7 @@
           "description": "Pas de doute : on est ici en présence d’un vin profond, droit, à la structure dense et tendue. VASSALTIS est un projet fondé à Santorin en 2010, au plus fort de la récession grecque, par Yannis Valambous. Santorin, ce n’est pas seulement une île grecque idyllique — c’est aussi un terroir volcanique exceptionnel, idéal pour cultiver de grands vins. Un patrimoine unique, avec ses célèbres vignes en forme de « panier », façonnées pour résister au vent et à la sécheresse. « Nous nous devons de perpétuer la tradition viticole de nos ancêtres, en travaillant avec intégrité et honnêteté, et en élaborant des vins qui expriment la pureté du terroir de façon authentique. » — Yannis Valambous",
           "price": null,
           "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/81904cd6-2bbf-3009-ef32-8b5c1013417c.jpg",
-          "link": null,
+          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=e175694deb&e=c11422f941",
           "producer": "Vassaltis",
           "region": "Santorin",
           "vintage": null,
@@ -521,7 +1306,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "VASSALTIS, un projet de Santorin, dévoile un vin profond et tendu, cultivé sur un terroir volcanique exceptionnel, alliant tradition viticole et authenticité pour exprimer la pureté de son origine."
+    "summary": "VASSALTIS, né des terroirs volcaniques de Santorin, offre un vin profond et tendu, témoignant d'un héritage viticole authentique et d'une intégrité dans chaque gorgée."
   },
   {
     "id": "file-2025-07-31-vin-dame-jeanne-0.html-alsace-blanc-vibrations",
@@ -569,190 +1354,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Riesling 'Vibrations' d'Alsace, issu de vignes de 40 ans, se distingue par sa délicatesse et son bouquet éclatant de fruits blancs et de zestes d'agrumes, offrant un équilibre brillant et une texture joyeuse, parfaite pour toutes les occasions."
-  },
-  {
-    "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-gutturnio-frizzante-2021",
-    "blockId": "file-2025-07-26-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-07-26T00:00:00.000Z",
-    "name": "Gutturnio frizzante 2021",
-    "description": "Il y a des bulles qui annoncent la fête, et d’autres qui se faufilent discrètement pour éveiller les sens. Le frizzante de Croci, c’est l’Italie version sauvage et confidentielle : un rouge léger, un peu rustique, aux notes de petits fruits rouges acidulés, relevé d’un soupçon animal au nez. Servi frais, il accompagne les moments simples — une planche bien garnie, une fin d’après-midi à l’ombre — sans jamais voler la vedette. Une excentricité tranquille, pour les introvertis qui savent aussi pétiller.",
-    "price": "25.15$",
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/2dd5a9f4-e9ff-4b2c-90de-acce513ca459.jpeg",
-    "link": null,
-    "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Gutturnio frizzante 2021",
-      "description": "Il y a des bulles qui annoncent la fête, et d’autres qui se faufilent discrètement pour éveiller les sens. Le frizzante de Croci, c’est l’Italie version sauvage et confidentielle : un rouge léger, un peu rustique, aux notes de petits fruits rouges acidulés, relevé d’un soupçon animal au nez. Servi frais, il accompagne les moments simples — une planche bien garnie, une fin d’après-midi à l’ombre — sans jamais voler la vedette. Une excentricité tranquille, pour les introvertis qui savent aussi pétiller.",
-      "price": "25.15$",
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/2dd5a9f4-e9ff-4b2c-90de-acce513ca459.jpeg",
-      "link": null,
-      "producer": "Azienda Croci",
-      "region": null,
-      "vintage": "2021",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Gutturnio frizzante 2021",
-          "description": "Il y a des bulles qui annoncent la fête, et d’autres qui se faufilent discrètement pour éveiller les sens. Le frizzante de Croci, c’est l’Italie version sauvage et confidentielle : un rouge léger, un peu rustique, aux notes de petits fruits rouges acidulés, relevé d’un soupçon animal au nez. Servi frais, il accompagne les moments simples — une planche bien garnie, une fin d’après-midi à l’ombre — sans jamais voler la vedette. Une excentricité tranquille, pour les introvertis qui savent aussi pétiller.",
-          "price": "25.15$",
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/2dd5a9f4-e9ff-4b2c-90de-acce513ca459.jpeg",
-          "link": null,
-          "producer": "Azienda Croci",
-          "region": null,
-          "vintage": "2021",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Gutturnio Frizzante 2021 de Croci est un rouge léger et rustique, aux notes de petits fruits rouges acidulés et un soupçon animal, parfait pour accompagner des moments simples avec une excentricité tranquille."
-  },
-  {
-    "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-la-compagnon-2022",
-    "blockId": "file-2025-07-26-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-07-26T00:00:00.000Z",
-    "name": "La Compagnon 2022",
-    "description": "Son nom dit tout : La Compagnon, c’est le rouge des confidences au coin du feu ou des soirées plus fraîches, quand la lumière baisse et qu’on s’attarde encore un peu. Syrah, carignan, grenache : une alliance souple, gourmande, discrètement épicée, avec une profondeur tranquille et une présence réconfortante. Pas besoin de faire du bruit pour être inoubliable — c’est ce genre de vin-là. Recommandé par des grands noms (comme Véronique Rivest et Philippe Lapeyrie), mais surtout à découvrir quand on a envie de se faire du bien, en toute simplicité.",
-    "price": "28.65$",
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/c4c311cb-aa64-4a64-9670-80684530707e.png",
-    "link": null,
-    "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "La Compagnon 2022",
-      "description": "Son nom dit tout : La Compagnon, c’est le rouge des confidences au coin du feu ou des soirées plus fraîches, quand la lumière baisse et qu’on s’attarde encore un peu. Syrah, carignan, grenache : une alliance souple, gourmande, discrètement épicée, avec une profondeur tranquille et une présence réconfortante. Pas besoin de faire du bruit pour être inoubliable — c’est ce genre de vin-là. Recommandé par des grands noms (comme Véronique Rivest et Philippe Lapeyrie), mais surtout à découvrir quand on a envie de se faire du bien, en toute simplicité.",
-      "price": "28.65$",
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/c4c311cb-aa64-4a64-9670-80684530707e.png",
-      "link": null,
-      "producer": "Domaine Ledogar",
-      "region": null,
-      "vintage": "2022",
-      "grape_varieties": [
-        "Syrah",
-        "Carignan",
-        "Grenache"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "La Compagnon 2022",
-          "description": "Son nom dit tout : La Compagnon, c’est le rouge des confidences au coin du feu ou des soirées plus fraîches, quand la lumière baisse et qu’on s’attarde encore un peu. Syrah, carignan, grenache : une alliance souple, gourmande, discrètement épicée, avec une profondeur tranquille et une présence réconfortante. Pas besoin de faire du bruit pour être inoubliable — c’est ce genre de vin-là. Recommandé par des grands noms (comme Véronique Rivest et Philippe Lapeyrie), mais surtout à découvrir quand on a envie de se faire du bien, en toute simplicité.",
-          "price": "28.65$",
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/c4c311cb-aa64-4a64-9670-80684530707e.png",
-          "link": null,
-          "producer": "Domaine Ledogar",
-          "region": null,
-          "vintage": "2022",
-          "grape_varieties": [
-            "Syrah",
-            "Carignan",
-            "Grenache"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "La Compagnon 2022, un assemblage de Syrah, Carignan et Grenache, incarne la douceur des moments partagés, offrant une alliance gourmande et discrètement épicée, parfaite pour des instants réconfortants au coin du feu."
-  },
-  {
-    "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-chablis-1er-cru-montmains-2021",
-    "blockId": "file-2025-07-26-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-07-26T00:00:00.000Z",
-    "name": "Chablis 1er Cru Montmains 2021",
-    "description": "Voici un vin qui n’a rien à prouver. Concentré, puissant, calme, il avance avec assurance, sans forcer le ton. Le genre de bouteille qu’on n’ouvre pas à la légère, mais qui marque les esprits sans élever la voix. Parfait pour les longues soirées lentes, les repas sans faux-semblants, ou les moments où on célèbre en silence. Et si vous préférez attendre, sachez qu’il vieillira très bien — comme ceux qui ont appris à se taire pour mieux écouter.",
-    "price": "74.75 $",
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/929b6964-5055-480b-96dd-3af439ee293c.jpeg",
-    "link": null,
-    "agence": "Le vin dans les voiles",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Chablis 1er Cru Montmains 2021",
-      "description": "Voici un vin qui n’a rien à prouver. Concentré, puissant, calme, il avance avec assurance, sans forcer le ton. Le genre de bouteille qu’on n’ouvre pas à la légère, mais qui marque les esprits sans élever la voix. Parfait pour les longues soirées lentes, les repas sans faux-semblants, ou les moments où on célèbre en silence. Et si vous préférez attendre, sachez qu’il vieillira très bien — comme ceux qui ont appris à se taire pour mieux écouter.",
-      "price": "74.75 $",
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/929b6964-5055-480b-96dd-3af439ee293c.jpeg",
-      "link": null,
-      "producer": "Domaine Duplessis",
-      "region": null,
-      "vintage": "2021",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Chablis 1er Cru Montmains 2021",
-          "description": "Voici un vin qui n’a rien à prouver. Concentré, puissant, calme, il avance avec assurance, sans forcer le ton. Le genre de bouteille qu’on n’ouvre pas à la légère, mais qui marque les esprits sans élever la voix. Parfait pour les longues soirées lentes, les repas sans faux-semblants, ou les moments où on célèbre en silence. Et si vous préférez attendre, sachez qu’il vieillira très bien — comme ceux qui ont appris à se taire pour mieux écouter.",
-          "price": "74.75 $",
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/929b6964-5055-480b-96dd-3af439ee293c.jpeg",
-          "link": null,
-          "producer": "Domaine Duplessis",
-          "region": null,
-          "vintage": "2021",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Chablis 1er Cru Montmains 2021, concentré et puissant, s'impose avec calme et assurance, parfait pour des soirées mémorables, et promet un vieillissement remarquable, à l'image des grands moments de vie."
-  },
-  {
-    "id": "file-2025-07-26-le-vin-dans-les-voiles-0.html-chablis-2022",
-    "blockId": "file-2025-07-26-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-07-26T00:00:00.000Z",
-    "name": "Chablis 2022",
-    "description": "Plus lumineux, plus accessible, mais tout aussi délicat. Ce chablis floral et minéral se glisse à table comme un invité discret qui connaît les codes. Coquillages, salades, bouchées fraîches… il accompagne sans prendre trop de place, mais en rehaussant tout ce qu’il touche. À boire maintenant ou dans cinq ans, selon l’envie et le moment. Un vin à l’image des meilleurs week-ends d’été : simples, fins, inoubliables.",
-    "price": "53.75$",
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/ad879048-c82f-43bc-b319-6bbdf4254b72.jpeg",
-    "link": null,
-    "agence": "Le vin dans les voiles",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Chablis 2022",
-      "description": "Plus lumineux, plus accessible, mais tout aussi délicat. Ce chablis floral et minéral se glisse à table comme un invité discret qui connaît les codes. Coquillages, salades, bouchées fraîches… il accompagne sans prendre trop de place, mais en rehaussant tout ce qu’il touche. À boire maintenant ou dans cinq ans, selon l’envie et le moment. Un vin à l’image des meilleurs week-ends d’été : simples, fins, inoubliables.",
-      "price": "53.75$",
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/ad879048-c82f-43bc-b319-6bbdf4254b72.jpeg",
-      "link": null,
-      "producer": "Domaine Duplessis",
-      "region": null,
-      "vintage": "2022",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Chablis 2022",
-          "description": "Plus lumineux, plus accessible, mais tout aussi délicat. Ce chablis floral et minéral se glisse à table comme un invité discret qui connaît les codes. Coquillages, salades, bouchées fraîches… il accompagne sans prendre trop de place, mais en rehaussant tout ce qu’il touche. À boire maintenant ou dans cinq ans, selon l’envie et le moment. Un vin à l’image des meilleurs week-ends d’été : simples, fins, inoubliables.",
-          "price": "53.75$",
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/ad879048-c82f-43bc-b319-6bbdf4254b72.jpeg",
-          "link": null,
-          "producer": "Domaine Duplessis",
-          "region": null,
-          "vintage": "2022",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Chablis 2022, floral et minéral, se présente comme un invité discret à table, rehaussant chaque plat sans jamais s'imposer, et évoque la simplicité et la finesse des meilleurs week-ends d'été."
+    "summary": "Alsace Blanc 'Vibrations' est un Riesling délicat et éclatant, offrant un bouquet de fruits blancs et d'agrumes, avec une belle densité et un équilibre brillant, parfait tant à table qu'à l'apéritif."
   }
 ]
