@@ -85,7 +85,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce rouge du Douro, vinifié en cuve inox pour préserver sa fraîcheur, offre un style juteux et léger, réinventant l'assemblage classique du Douro avec une touche moderne et audacieuse."
+    "summary": "Ce rouge du Douro, vinifié en cuve inox pour préserver la fraîcheur du fruit, se distingue par son style juteux et léger, offrant une approche moderne d'un assemblage classique."
   },
   {
     "id": "file-2025-08-02-le-vin-dans-les-voiles-0.html-chablis-1er-cru-montmains-2021-domaine-duplessis",
@@ -97,7 +97,7 @@
     "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/929b6964-5055-480b-96dd-3af439ee293c.jpeg",
     "link": null,
     "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
+    "disponibilite": null,
     "raw_data": {
       "name": "Chablis 1er Cru Montmains 2021 – Domaine Duplessis",
       "description": "Un Chablis de caractère, né sur des sols argilo-calcaires, issu de deux parcelles d’un hectare chacune. Un vin qui ne tremble pas, même devant le temps. Gras, puissant, avec une belle structure minérale. Il peut vieillir une quinzaine d’années, voire plus, mais si vous l’ouvrez maintenant… c’est vous qui risquez de trembler.",
@@ -110,7 +110,7 @@
       "grape_varieties": null,
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": "SAQ",
+      "disponibilite": null,
       "all_occurrences_raw_data": [
         {
           "name": "Chablis 1er Cru Montmains 2021 – Domaine Duplessis",
@@ -124,12 +124,12 @@
           "grape_varieties": null,
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": "SAQ"
+          "disponibilite": null
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Chablis 1er Cru, issu de parcelles argilo-calcaires, allie puissance et structure minérale, promettant une évolution remarquable au fil des années, tout en offrant une dégustation qui pourrait bien vous faire trembler d'émotion."
+    "summary": "Ce Chablis 1er Cru, issu de parcelles argilo-calcaires, allie puissance et élégance avec une structure minérale remarquable, promettant une belle évolution au fil des ans."
   },
   {
     "id": "file-2025-08-02-le-vin-dans-les-voiles-0.html-domaine-geschickt-grand-cru-kaefferkopf-pfulben-20",
@@ -141,7 +141,7 @@
     "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/f78656d6-d86d-435d-9bcb-18ff5e04a425.jpeg",
     "link": null,
     "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
+    "disponibilite": null,
     "raw_data": {
       "name": "Domaine Geschickt – Grand Cru Kaefferkopf Pfulben 2022",
       "description": "Un grand cru d’assemblage? Oh que oui. Gewurztraminer, riesling et pinot gris de vignes de 40 à 70 ans, cueillis le même jour, pressés ensemble, élevés un an en foudre, puis embouteillés sans filtration ni sulfites ajoutés. Résultat? Un blanc sec, droit, aromatique et puissamment élégant. Déjà délicieux maintenant, mais prêt à s’épanouir avec les années. Deux ou trois ans d'attente? Parfait. Mais dans dix ans, ce sera carrément un chef-d’œuvre.",
@@ -158,7 +158,7 @@
       ],
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": "SAQ",
+      "disponibilite": null,
       "all_occurrences_raw_data": [
         {
           "name": "Domaine Geschickt – Grand Cru Kaefferkopf Pfulben 2022",
@@ -176,12 +176,12 @@
           ],
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": "SAQ"
+          "disponibilite": null
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Grand Cru, assemblage de Gewurztraminer, Riesling et Pinot Gris de vignes anciennes, offre une élégance aromatique et une puissance inégalée, promettant un chef-d'œuvre à savourer dans les années à venir."
+    "summary": "Ce Grand Cru, assemblage de Gewurztraminer, Riesling et Pinot Gris, offre une élégance puissante et aromatique, déjà savoureuse mais promettant une évolution magistrale avec le temps."
   },
   {
     "id": "file-2025-08-02-le-vin-dans-les-voiles-0.html-loterie-chablis-1er-cru-les-clos-2021-domaine-dupl",
@@ -225,7 +225,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Chablis 1er Cru, issu d'une micro-parcelle à l'exposition privilégiée, se distingue par sa profondeur et sa tendresse, offrant une garde vertigineuse qui en fait un trésor à savourer ou à conserver."
+    "summary": "Ce Chablis 1er Cru, issu d'une micro-parcelle à l'exposition idéale, se révèle profond et tendre, promettant une garde exceptionnelle et un plaisir rare pour les chanceux qui en feront l'acquisition."
   },
   {
     "id": "file-2025-08-01-info-symbiose-0.html-pourpre",
@@ -320,7 +320,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce trio du Jura, léger et complexe, enchante par son bouquet de petits fruits rouges et ses notes terreuses, offrant un rouge frais et fruité à déguster légèrement rafraîchi."
+    "summary": "Ce trio du Jura, léger et complexe, enchante par son bouquet de petits fruits rouges et de notes terreuses, offrant un rouge frais et fruité à savourer légèrement rafraîchi."
   },
   {
     "id": "file-2025-08-01-noble-selection-0.html-ribera-del-duero-condado-de-haza-2020",
@@ -346,7 +346,7 @@
         "Tempranillo"
       ],
       "alcohol_content": "15%",
-      "volume": "750ml",
+      "volume": null,
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
@@ -362,7 +362,7 @@
             "Tempranillo"
           ],
           "alcohol_content": "15%",
-          "volume": "750ml",
+          "volume": null,
           "disponibilite": "SAQ"
         }
       ],
@@ -377,7 +377,7 @@
     "description": null,
     "price": "23,30$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_kumeu-river-village-face-croped.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f18b333d32&e=2c9a262afa",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fd7d8e81b6&e=2c9a262afa",
     "agence": "Noble Sélection",
     "disponibilite": null,
     "raw_data": {
@@ -385,7 +385,7 @@
       "description": null,
       "price": "23,30$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_kumeu-river-village-face-croped.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f18b333d32&e=2c9a262afa",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fd7d8e81b6&e=2c9a262afa",
       "producer": "Kumeu River",
       "region": null,
       "vintage": "2024",
@@ -399,7 +399,7 @@
           "description": null,
           "price": "23,30$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_kumeu-river-village-face-croped.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f18b333d32&e=2c9a262afa",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fd7d8e81b6&e=2c9a262afa",
           "producer": "Kumeu River",
           "region": null,
           "vintage": "2024",
@@ -718,20 +718,20 @@
     "blockId": "file-2025-08-01-vin-dame-jeanne-0.html",
     "createdAt": "2025-08-01T00:00:00.000Z",
     "name": "Bourgogne Aligoté 'Les Champs d'Argent'",
-    "description": null,
-    "price": "588.75$",
-    "image_url": null,
+    "description": "Particulier 588.75 | Restaurant 512.07 | 15505773",
+    "price": "588,75$",
+    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
     "link": null,
     "agence": "Vin Dame-Jeanne",
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Bourgogne Aligoté 'Les Champs d'Argent'",
-      "description": null,
-      "price": "588.75$",
-      "image_url": null,
+      "description": "Particulier 588.75 | Restaurant 512.07 | 15505773",
+      "price": "588,75$",
+      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
       "link": null,
-      "producer": null,
-      "region": null,
+      "producer": "Charles Lachaux",
+      "region": "Bourgogne",
       "vintage": "2023",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -740,12 +740,12 @@
       "all_occurrences_raw_data": [
         {
           "name": "Bourgogne Aligoté 'Les Champs d'Argent'",
-          "description": null,
-          "price": "588.75$",
-          "image_url": null,
+          "description": "Particulier 588.75 | Restaurant 512.07 | 15505773",
+          "price": "588,75$",
+          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
           "link": null,
-          "producer": null,
-          "region": null,
+          "producer": "Charles Lachaux",
+          "region": "Bourgogne",
           "vintage": "2023",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -761,20 +761,20 @@
     "blockId": "file-2025-08-01-vin-dame-jeanne-0.html",
     "createdAt": "2025-08-01T00:00:00.000Z",
     "name": "Corton Charlemagne Grand Cru 'Le Corton'",
-    "description": null,
-    "price": "1,119.25$",
-    "image_url": null,
+    "description": "Particulier 1,119.25 | Restaurant 973.47 | 15503946",
+    "price": "1 119,25$",
+    "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/00793cb3-65b5-a5aa-008f-2b0f72874845.jpg",
     "link": null,
     "agence": "Vin Dame-Jeanne",
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Corton Charlemagne Grand Cru 'Le Corton'",
-      "description": null,
-      "price": "1,119.25$",
-      "image_url": null,
+      "description": "Particulier 1,119.25 | Restaurant 973.47 | 15503946",
+      "price": "1 119,25$",
+      "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/00793cb3-65b5-a5aa-008f-2b0f72874845.jpg",
       "link": null,
-      "producer": null,
-      "region": null,
+      "producer": "Charles Lachaux",
+      "region": "Corton Charlemagne",
       "vintage": "2023",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -783,12 +783,12 @@
       "all_occurrences_raw_data": [
         {
           "name": "Corton Charlemagne Grand Cru 'Le Corton'",
-          "description": null,
-          "price": "1,119.25$",
-          "image_url": null,
+          "description": "Particulier 1,119.25 | Restaurant 973.47 | 15503946",
+          "price": "1 119,25$",
+          "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/00793cb3-65b5-a5aa-008f-2b0f72874845.jpg",
           "link": null,
-          "producer": null,
-          "region": null,
+          "producer": "Charles Lachaux",
+          "region": "Corton Charlemagne",
           "vintage": "2023",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -804,20 +804,20 @@
     "blockId": "file-2025-08-01-vin-dame-jeanne-0.html",
     "createdAt": "2025-08-01T00:00:00.000Z",
     "name": "Bourgogne Rouge 'Les Croix Blanches'",
-    "description": null,
-    "price": "129$",
+    "description": "Particulier 129 | Restaurant 112.20 | 15505634",
+    "price": "129,00$",
     "image_url": null,
     "link": null,
     "agence": "Vin Dame-Jeanne",
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Bourgogne Rouge 'Les Croix Blanches'",
-      "description": null,
-      "price": "129$",
+      "description": "Particulier 129 | Restaurant 112.20 | 15505634",
+      "price": "129,00$",
       "image_url": null,
       "link": null,
-      "producer": null,
-      "region": null,
+      "producer": "Charles Lachaux",
+      "region": "Bourgogne",
       "vintage": "2023",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -826,12 +826,12 @@
       "all_occurrences_raw_data": [
         {
           "name": "Bourgogne Rouge 'Les Croix Blanches'",
-          "description": null,
-          "price": "129$",
+          "description": "Particulier 129 | Restaurant 112.20 | 15505634",
+          "price": "129,00$",
           "image_url": null,
           "link": null,
-          "producer": null,
-          "region": null,
+          "producer": "Charles Lachaux",
+          "region": "Bourgogne",
           "vintage": "2023",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -847,20 +847,20 @@
     "blockId": "file-2025-08-01-vin-dame-jeanne-0.html",
     "createdAt": "2025-08-01T00:00:00.000Z",
     "name": "Côte de Nuits Villages 'Aux Montagnes'",
-    "description": null,
-    "price": "189.25$",
+    "description": "Particulier 189.25 | Restaurant 164.60 | 15505669",
+    "price": "189,25$",
     "image_url": null,
     "link": null,
     "agence": "Vin Dame-Jeanne",
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Côte de Nuits Villages 'Aux Montagnes'",
-      "description": null,
-      "price": "189.25$",
+      "description": "Particulier 189.25 | Restaurant 164.60 | 15505669",
+      "price": "189,25$",
       "image_url": null,
       "link": null,
-      "producer": null,
-      "region": null,
+      "producer": "Charles Lachaux",
+      "region": "Côte de Nuits",
       "vintage": "2023",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -869,12 +869,12 @@
       "all_occurrences_raw_data": [
         {
           "name": "Côte de Nuits Villages 'Aux Montagnes'",
-          "description": null,
-          "price": "189.25$",
+          "description": "Particulier 189.25 | Restaurant 164.60 | 15505669",
+          "price": "189,25$",
           "image_url": null,
           "link": null,
-          "producer": null,
-          "region": null,
+          "producer": "Charles Lachaux",
+          "region": "Côte de Nuits",
           "vintage": "2023",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -890,20 +890,20 @@
     "blockId": "file-2025-08-01-vin-dame-jeanne-0.html",
     "createdAt": "2025-08-01T00:00:00.000Z",
     "name": "Nuits-St-Georges 'La Petite Charmotte'",
-    "description": null,
-    "price": "323.50$",
+    "description": "Particulier 323.50 | Restaurant 281.37 | 15505651",
+    "price": "323,50$",
     "image_url": null,
     "link": null,
     "agence": "Vin Dame-Jeanne",
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Nuits-St-Georges 'La Petite Charmotte'",
-      "description": null,
-      "price": "323.50$",
+      "description": "Particulier 323.50 | Restaurant 281.37 | 15505651",
+      "price": "323,50$",
       "image_url": null,
       "link": null,
-      "producer": null,
-      "region": null,
+      "producer": "Charles Lachaux",
+      "region": "Nuits-St-Georges",
       "vintage": "2023",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -912,12 +912,12 @@
       "all_occurrences_raw_data": [
         {
           "name": "Nuits-St-Georges 'La Petite Charmotte'",
-          "description": null,
-          "price": "323.50$",
+          "description": "Particulier 323.50 | Restaurant 281.37 | 15505651",
+          "price": "323,50$",
           "image_url": null,
           "link": null,
-          "producer": null,
-          "region": null,
+          "producer": "Charles Lachaux",
+          "region": "Nuits-St-Georges",
           "vintage": "2023",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -933,20 +933,20 @@
     "blockId": "file-2025-08-01-vin-dame-jeanne-0.html",
     "createdAt": "2025-08-01T00:00:00.000Z",
     "name": "Pommard 'Les Vignots'",
-    "description": null,
-    "price": "339$",
+    "description": "Particulier 339 | Restaurant 294.85 | 15503954",
+    "price": "339,00$",
     "image_url": null,
     "link": null,
     "agence": "Vin Dame-Jeanne",
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Pommard 'Les Vignots'",
-      "description": null,
-      "price": "339$",
+      "description": "Particulier 339 | Restaurant 294.85 | 15503954",
+      "price": "339,00$",
       "image_url": null,
       "link": null,
-      "producer": null,
-      "region": null,
+      "producer": "Charles Lachaux",
+      "region": "Pommard",
       "vintage": "2023",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -955,12 +955,12 @@
       "all_occurrences_raw_data": [
         {
           "name": "Pommard 'Les Vignots'",
-          "description": null,
-          "price": "339$",
+          "description": "Particulier 339 | Restaurant 294.85 | 15503954",
+          "price": "339,00$",
           "image_url": null,
           "link": null,
-          "producer": null,
-          "region": null,
+          "producer": "Charles Lachaux",
+          "region": "Pommard",
           "vintage": "2023",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -976,20 +976,20 @@
     "blockId": "file-2025-08-01-vin-dame-jeanne-0.html",
     "createdAt": "2025-08-01T00:00:00.000Z",
     "name": "Aloxe-Corton 1er cru 'Les Valozières'",
-    "description": null,
-    "price": "571$",
+    "description": "Particulier 571 | Restaurant 296.63 | 15505731",
+    "price": "571,00$",
     "image_url": null,
     "link": null,
     "agence": "Vin Dame-Jeanne",
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Aloxe-Corton 1er cru 'Les Valozières'",
-      "description": null,
-      "price": "571$",
+      "description": "Particulier 571 | Restaurant 296.63 | 15505731",
+      "price": "571,00$",
       "image_url": null,
       "link": null,
-      "producer": null,
-      "region": null,
+      "producer": "Charles Lachaux",
+      "region": "Aloxe-Corton",
       "vintage": "2023",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -998,12 +998,12 @@
       "all_occurrences_raw_data": [
         {
           "name": "Aloxe-Corton 1er cru 'Les Valozières'",
-          "description": null,
-          "price": "571$",
+          "description": "Particulier 571 | Restaurant 296.63 | 15505731",
+          "price": "571,00$",
           "image_url": null,
           "link": null,
-          "producer": null,
-          "region": null,
+          "producer": "Charles Lachaux",
+          "region": "Aloxe-Corton",
           "vintage": "2023",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -1062,7 +1062,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Côte-Rôtie 2022, issu de vieilles vignes, allie l'élégance et l'énergie, mêlant la profondeur du Syrah à une fraîcheur naturelle, incarnant un classique solaire et expressif."
+    "summary": "Ce Côte-Rôtie 2022, issu de vieilles vignes, allie la profondeur du Syrah à une fraîcheur naturelle, offrant une élégance et une énergie remarquables dans un millésime solaire."
   },
   {
     "id": "file-2025-07-31-bambara-selection-0.html-marsannay-les-longeroies-2022-domaine-jean-fournie",
@@ -1130,7 +1130,7 @@
       "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/850fc4a1-c81c-4e16-91a0-839686cbe0da.png",
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=e1277c70dd&e=a09c2580fc",
       "producer": "Gulfi",
-      "region": "Sicilia",
+      "region": "Sicile",
       "vintage": "2022",
       "grape_varieties": [
         "Nero d'Avola"
@@ -1146,7 +1146,7 @@
           "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/850fc4a1-c81c-4e16-91a0-839686cbe0da.png",
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=e1277c70dd&e=a09c2580fc",
           "producer": "Gulfi",
-          "region": "Sicilia",
+          "region": "Sicile",
           "vintage": "2022",
           "grape_varieties": [
             "Nero d'Avola"
@@ -1158,7 +1158,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Nero d'Avola sicilien, à la fois raffiné et équilibré, séduit par sa richesse fruitée et ses tannins enveloppants, offrant une expérience gourmande et authentique qui appelle à revenir."
+    "summary": "Ce Nero d’Avola sicilien, raffiné et équilibré, séduit par sa richesse fruitée et sa souplesse ensoleillée, offrant une expérience gourmande et authentique qui appelle à revenir encore et encore."
   },
   {
     "id": "file-2025-07-31-planvin-0.html-doc-langhe-risa-2022",
@@ -1208,7 +1208,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce DOC Langhe, mélange de Nebbiolo et de Gamay, offre un nez complexe aux notes fruitées, épicées et florales, enveloppant les tannins du Nebbiolo dans une élégante harmonie."
+    "summary": "Ce DOC Langhe, composé de 85% Nebbiolo et 15% Gamay, révèle un nez complexe de fruits, d'épices et de fleurs, avec des notes de rose séchée et de cerise noire, enveloppant les tannins du Nebbiolo avec élégance."
   },
   {
     "id": "file-2025-07-31-planvin-0.html-doc-nebbiolo-dalba-paradis-2012",
@@ -1256,7 +1256,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Nebbiolo d'Alba, célébrant les 50 ans du domaine, incarne un savoir-faire exceptionnel avec sa complexité aromatique de rose séchée et d'épices nobles, offrant une bouche soyeuse et équilibrée qui en fait un vin rare et harmonieux."
+    "summary": "Ce Nebbiolo d’Alba, célébrant les 50 ans du domaine, offre une complexité aromatique aristocratique de rose séchée et d'épices, avec une bouche soyeuse et équilibrée, témoignant d'un savoir-faire exceptionnel."
   },
   {
     "id": "file-2025-07-31-planvin-0.html-docg-roero-arneis-dla-trifula-2023",
@@ -1304,7 +1304,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Roero Arneis, issu d'un pressurage délicat, se dévoile avec une robe jaune paille et un nez floral précis, offrant une bouche sèche et équilibrée, rehaussée d'une acidité fraîche et persistante."
+    "summary": "Ce Roero Arneis, issu d'un pressurage délicat, se dévoile avec une robe jaune paille et un nez floral précis, offrant une bouche sèche et équilibrée, avec une acidité rafraîchissante et une belle longueur."
   },
   {
     "id": "file-2025-07-31-planvin-0.html-doc-nebbiolo-dalba-superiore-gerbole-2020",
@@ -1352,7 +1352,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Nebbiolo d'Alba Superiore, d'une robe rubis profonde, offre un nez intense de cerise noire et d'épices douces, avec une bouche ample et veloutée, promettant un potentiel de garde remarquable."
+    "summary": "Ce Nebbiolo d’Alba Superiore, avec sa robe rubis profonde, offre un nez intense de cerise noire et d'épices douces, tandis que sa bouche ample et veloutée promet une belle allonge et un potentiel de garde exceptionnel."
   },
   {
     "id": "file-2025-07-31-planvin-0.html-doc-piemonte-chardonnay-2023",
@@ -1400,7 +1400,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Chardonnay du Piémont, élevé sur lies et en fûts neutres, révèle des notes subtiles de fruits à chair blanche et de citron confit, avec une délicate touche de pain frais."
+    "summary": "Ce Chardonnay du Piémont, vinifié en cuves inox et élevé sur lies, révèle des notes subtiles de fruits à chair blanche et de citron confit, avec une délicate touche de pain frais."
   },
   {
     "id": "file-2025-07-31-rezin-0.html-chateau-bujan",
@@ -1419,8 +1419,8 @@
       "price": null,
       "image_url": null,
       "link": null,
-      "producer": null,
-      "region": null,
+      "producer": "Château Bujan",
+      "region": "Côtes de Bourg",
       "vintage": null,
       "grape_varieties": null,
       "alcohol_content": null,
@@ -1433,8 +1433,8 @@
           "price": null,
           "image_url": null,
           "link": null,
-          "producer": null,
-          "region": null,
+          "producer": "Château Bujan",
+          "region": "Côtes de Bourg",
           "vintage": null,
           "grape_varieties": null,
           "alcohol_content": null,
@@ -1444,7 +1444,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Château Bujan, reconnu pour sa qualité constante, se niche au cœur des Côtes de Bourg, offrant des vins abordables qui se bonifient avec le temps, issus de sols variés et riches en histoire."
+    "summary": "Le Château Bujan, reconnu pour sa qualité constante, s'épanouit sur les coteaux ensoleillés de Gauriac, offrant des vins accessibles qui se bonifient avec le temps, issus de sols variés et riches en minéraux."
   },
   {
     "id": "file-2025-07-31-rezin-0.html-riesling-qualitatswein-2023",
@@ -1491,8 +1491,7 @@
         }
       ],
       "agence_was_defaulted": false
-    },
-    "summary": "Ce Riesling Qualitätswein de Selbach-Oster, issu de vignes historiques le long de la Moselle, exprime le caractère unique de chaque terroir, grâce à une vinification respectueuse qui révèle tout son potentiel naturel."
+    }
   },
   {
     "id": "file-2025-07-31-rezin-0.html-vassaltis",
@@ -1502,7 +1501,7 @@
     "description": "Pas de doute : on est ici en présence d’un vin profond, droit, à la structure dense et tendue. VASSALTIS est un projet fondé à Santorin en 2010, au plus fort de la récession grecque, par Yannis Valambous. Santorin, ce n’est pas seulement une île grecque idyllique — c’est aussi un terroir volcanique exceptionnel, idéal pour cultiver de grands vins. Un patrimoine unique, avec ses célèbres vignes en forme de « panier », façonnées pour résister au vent et à la sécheresse. « Nous nous devons de perpétuer la tradition viticole de nos ancêtres, en travaillant avec intégrité et honnêteté, et en élaborant des vins qui expriment la pureté du terroir de façon authentique. » — Yannis Valambous",
     "price": null,
     "image_url": null,
-    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=e175694deb&e=c11422f941",
+    "link": null,
     "agence": "réZin",
     "disponibilite": null,
     "raw_data": {
@@ -1510,8 +1509,8 @@
       "description": "Pas de doute : on est ici en présence d’un vin profond, droit, à la structure dense et tendue. VASSALTIS est un projet fondé à Santorin en 2010, au plus fort de la récession grecque, par Yannis Valambous. Santorin, ce n’est pas seulement une île grecque idyllique — c’est aussi un terroir volcanique exceptionnel, idéal pour cultiver de grands vins. Un patrimoine unique, avec ses célèbres vignes en forme de « panier », façonnées pour résister au vent et à la sécheresse. « Nous nous devons de perpétuer la tradition viticole de nos ancêtres, en travaillant avec intégrité et honnêteté, et en élaborant des vins qui expriment la pureté du terroir de façon authentique. » — Yannis Valambous",
       "price": null,
       "image_url": null,
-      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=e175694deb&e=c11422f941",
-      "producer": null,
+      "link": null,
+      "producer": "Vassaltis",
       "region": "Santorin",
       "vintage": null,
       "grape_varieties": null,
@@ -1524,8 +1523,8 @@
           "description": "Pas de doute : on est ici en présence d’un vin profond, droit, à la structure dense et tendue. VASSALTIS est un projet fondé à Santorin en 2010, au plus fort de la récession grecque, par Yannis Valambous. Santorin, ce n’est pas seulement une île grecque idyllique — c’est aussi un terroir volcanique exceptionnel, idéal pour cultiver de grands vins. Un patrimoine unique, avec ses célèbres vignes en forme de « panier », façonnées pour résister au vent et à la sécheresse. « Nous nous devons de perpétuer la tradition viticole de nos ancêtres, en travaillant avec intégrité et honnêteté, et en élaborant des vins qui expriment la pureté du terroir de façon authentique. » — Yannis Valambous",
           "price": null,
           "image_url": null,
-          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=e175694deb&e=c11422f941",
-          "producer": null,
+          "link": null,
+          "producer": "Vassaltis",
           "region": "Santorin",
           "vintage": null,
           "grape_varieties": null,
@@ -1536,7 +1535,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "VASSALTIS, un vin profond et structuré de Santorin, incarne l'authenticité d'un terroir volcanique unique, où chaque gorgée témoigne d'un héritage viticole préservé avec intégrité et passion."
+    "summary": "Ce vin VASSALTIS, issu du terroir volcanique de Santorin, se distingue par sa profondeur et sa structure tendue, témoignant d'un engagement à préserver la tradition viticole tout en exprimant l'authenticité du terroir."
   },
   {
     "id": "file-2025-07-31-vin-dame-jeanne-0.html-alsace-blanc-vibrations",
@@ -1556,7 +1555,7 @@
       "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
       "link": "http://SAQ.com",
       "producer": "Vignoble du Rêveur",
-      "region": "Alsace",
+      "region": "Bennwihr",
       "vintage": "2023",
       "grape_varieties": [
         "Riesling"
@@ -1572,7 +1571,7 @@
           "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
           "link": "http://SAQ.com",
           "producer": "Vignoble du Rêveur",
-          "region": "Alsace",
+          "region": "Bennwihr",
           "vintage": "2023",
           "grape_varieties": [
             "Riesling"
@@ -1584,6 +1583,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Riesling 'Vibrations', issu de vignes de 40 ans, offre une délicatesse éclatante avec des arômes de fruits blancs et de zeste d'agrumes, alliant noblesse et joie dans un équilibre parfait."
+    "summary": "Ce Riesling 'Vibrations', issu de vignes de 40 ans, se dévoile avec une délicatesse éclatante de fruits blancs et de zestes d'agrumes, offrant un équilibre brillant et une texture joyeuse, parfaite pour toutes les occasions."
   }
 ]
