@@ -41,7 +41,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce blanc sec et vibrant, fruit d'un assemblage harmonieux de six cépages alsaciens, séduit par son élégance florale et son acidité cristalline, offrant une finale minérale qui éveille les sens."
+    "summary": "Domaine Geschickt's 6 Pieds sur Terre 2022 is a vibrant, dry white wine crafted from a masterful blend of six Alsatian grape varieties, showcasing elegance and floral notes, with a crystalline acidity and a mineral finish that invigorates the palate."
   },
   {
     "id": "file-2025-08-02-le-vin-dans-les-voiles-0.html-excomungado-2021-rouge-du-douro-portugal",
@@ -85,7 +85,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce rouge du Douro, vinifié en cuve inox pour préserver la fraîcheur du fruit, se distingue par son style juteux et léger, offrant une approche moderne d'un assemblage classique."
+    "summary": "Excomungado 2021 is a refreshing, light red from the Douro, crafted in stainless steel to preserve the fruit's juiciness, offering a modern twist on a classic blend that pairs effortlessly with everyday moments."
   },
   {
     "id": "file-2025-08-02-le-vin-dans-les-voiles-0.html-chablis-1er-cru-montmains-2021-domaine-duplessis",
@@ -129,7 +129,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Chablis 1er Cru, issu de parcelles argilo-calcaires, allie puissance et élégance avec une structure minérale remarquable, promettant une belle évolution au fil des ans."
+    "summary": "Chablis 1er Cru Montmains 2021 from Domaine Duplessis is a robust wine with a powerful mineral structure, born from clay-limestone soils, capable of aging gracefully for over a decade while delivering a thrilling experience if enjoyed now."
   },
   {
     "id": "file-2025-08-02-le-vin-dans-les-voiles-0.html-domaine-geschickt-grand-cru-kaefferkopf-pfulben-20",
@@ -181,7 +181,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Grand Cru, assemblage de Gewurztraminer, Riesling et Pinot Gris, offre une élégance puissante et aromatique, déjà savoureuse mais promettant une évolution magistrale avec le temps."
+    "summary": "Domaine Geschickt's Grand Cru Kaefferkopf Pfulben 2022 is a masterful blend of Gewurztraminer, Riesling, and Pinot Gris from venerable vines, producing a dry, aromatic white that is elegantly powerful and poised for a decade of evolution."
   },
   {
     "id": "file-2025-08-02-le-vin-dans-les-voiles-0.html-loterie-chablis-1er-cru-les-clos-2021-domaine-dupl",
@@ -225,7 +225,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Chablis 1er Cru, issu d'une micro-parcelle à l'exposition idéale, se révèle profond et tendre, promettant une garde exceptionnelle et un plaisir rare pour les chanceux qui en feront l'acquisition."
+    "summary": "Domaine Duplessis's Chablis 1er Cru Les Clos 2021 is the jewel of the estate, offering a profound and tender wine from a prime vineyard parcel, perfect for momentous occasions or cherished in solitude by those fortunate enough to acquire it."
   },
   {
     "id": "file-2025-08-01-info-symbiose-0.html-pourpre",
@@ -268,7 +268,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "Pourpre is a seasonal blend of barrel-aged wheat and camerise from Ste-Cécile-de-Milton, delivering a dry and vibrant palate with a hint of astringency that invigorates the senses."
   },
   {
     "id": "file-2025-08-01-info-symbiose-0.html-cotes-du-jura-trio",
@@ -320,7 +321,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce trio du Jura, léger et complexe, enchante par son bouquet de petits fruits rouges et de notes terreuses, offrant un rouge frais et fruité à savourer légèrement rafraîchi."
+    "summary": "Côtes du Jura Trio is a light and fresh red wine, aged for 10 months in stainless steel, showcasing a complex bouquet of red fruits and earthy notes, ideal for serving slightly chilled alongside charcuterie or grilled meats."
   },
   {
     "id": "file-2025-08-01-noble-selection-0.html-ribera-del-duero-condado-de-haza-2020",
@@ -346,7 +347,7 @@
         "Tempranillo"
       ],
       "alcohol_content": "15%",
-      "volume": null,
+      "volume": "750ml",
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
@@ -362,12 +363,13 @@
             "Tempranillo"
           ],
           "alcohol_content": "15%",
-          "volume": null,
+          "volume": "750ml",
           "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "Ribera del Duero Condado de Haza 2020 embodies sustainable viticulture with organic practices and gravity-fed winemaking, resulting in unfiltered wines that reflect the purity of the terroir."
   },
   {
     "id": "file-2025-08-01-noble-selection-0.html-village-chardonnay-2024",
@@ -377,7 +379,7 @@
     "description": null,
     "price": "23,30$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_kumeu-river-village-face-croped.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fd7d8e81b6&e=2c9a262afa",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f18b333d32&e=2c9a262afa",
     "agence": "Noble Sélection",
     "disponibilite": null,
     "raw_data": {
@@ -385,7 +387,7 @@
       "description": null,
       "price": "23,30$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_kumeu-river-village-face-croped.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fd7d8e81b6&e=2c9a262afa",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f18b333d32&e=2c9a262afa",
       "producer": "Kumeu River",
       "region": null,
       "vintage": "2024",
@@ -399,7 +401,7 @@
           "description": null,
           "price": "23,30$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_kumeu-river-village-face-croped.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fd7d8e81b6&e=2c9a262afa",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f18b333d32&e=2c9a262afa",
           "producer": "Kumeu River",
           "region": null,
           "vintage": "2024",
@@ -763,7 +765,7 @@
     "name": "Corton Charlemagne Grand Cru 'Le Corton'",
     "description": "Particulier 1,119.25 | Restaurant 973.47 | 15503946",
     "price": "1 119,25$",
-    "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/00793cb3-65b5-a5aa-008f-2b0f72874845.jpg",
+    "image_url": null,
     "link": null,
     "agence": "Vin Dame-Jeanne",
     "disponibilite": "SAQ",
@@ -771,7 +773,7 @@
       "name": "Corton Charlemagne Grand Cru 'Le Corton'",
       "description": "Particulier 1,119.25 | Restaurant 973.47 | 15503946",
       "price": "1 119,25$",
-      "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/00793cb3-65b5-a5aa-008f-2b0f72874845.jpg",
+      "image_url": null,
       "link": null,
       "producer": "Charles Lachaux",
       "region": "Corton Charlemagne",
@@ -785,7 +787,7 @@
           "name": "Corton Charlemagne Grand Cru 'Le Corton'",
           "description": "Particulier 1,119.25 | Restaurant 973.47 | 15503946",
           "price": "1 119,25$",
-          "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/00793cb3-65b5-a5aa-008f-2b0f72874845.jpg",
+          "image_url": null,
           "link": null,
           "producer": "Charles Lachaux",
           "region": "Corton Charlemagne",
@@ -1062,7 +1064,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Côte-Rôtie 2022, issu de vieilles vignes, allie la profondeur du Syrah à une fraîcheur naturelle, offrant une élégance et une énergie remarquables dans un millésime solaire."
+    "summary": "Domaine Xavier Gérard's Côte-Rôtie 2022 is a classic expression of elegance and energy, blending the depth of Syrah with natural freshness from old vines on the prestigious Côte-Rôtie slopes."
   },
   {
     "id": "file-2025-07-31-bambara-selection-0.html-marsannay-les-longeroies-2022-domaine-jean-fournie",
@@ -1110,7 +1112,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Marsannay Les Longeroies, emblématique du domaine, incarne l'élégance bourguignonne avec sa pureté, son ampleur soyeuse et sa minéralité ciselée, tout en offrant un rapport qualité-prix exceptionnel."
+    "summary": "Marsannay Les Longeroies 2022 from Domaine Jean Fournier is an emblematic organic Burgundy, offering a pure, ample, and silky wine with a finely chiseled minerality and exceptional value."
   },
   {
     "id": "file-2025-07-31-bambara-selection-0.html-nerojbleo-sicilia-2022-gulfi",
@@ -1158,7 +1160,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Nero d’Avola sicilien, raffiné et équilibré, séduit par sa richesse fruitée et sa souplesse ensoleillée, offrant une expérience gourmande et authentique qui appelle à revenir encore et encore."
+    "summary": "Nerojbleo Sicilia 2022 by Gulfi is a refined and balanced Sicilian red, 100% Nero d’Avola, celebrated for its sunny fruitiness, enveloping tannins, and an irresistible charm that invites you back for more."
   },
   {
     "id": "file-2025-07-31-planvin-0.html-doc-langhe-risa-2022",
@@ -1208,7 +1210,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce DOC Langhe, composé de 85% Nebbiolo et 15% Gamay, révèle un nez complexe de fruits, d'épices et de fleurs, avec des notes de rose séchée et de cerise noire, enveloppant les tannins du Nebbiolo avec élégance."
+    "summary": "DOC Langhe Risa 2022 is a captivating blend of 85% Nebbiolo and 15% indigenous Gamay, showcasing a complex nose of dried rose, black cherry, and spices, elegantly enveloping the Nebbiolo's tannins from vines planted in 1945."
   },
   {
     "id": "file-2025-07-31-planvin-0.html-doc-nebbiolo-dalba-paradis-2012",
@@ -1217,7 +1219,7 @@
     "name": "DOC Nebbiolo d’Alba - Paradis 2012",
     "description": "Cuvée anniversaire célébrant les 50 ans du domaine, ce vin exceptionnel, issu à 100 % de nebbiolo, témoigne d’un savoir-faire remarquable et d’une vision patiente. Après la fermentation, il est transvasé dans des tonneaux de 500 litres où s’opère la fermentation malolactique. Suit un affinage de neuf années en fût, avant un passage de six mois en cuve béton, puis une mise en bouteille et un repos supplémentaire de six mois. Le nez, fin et aristocratique, dévoile une grande complexité aromatique : rose séchée, violette et épices nobles. En bouche, le vin impressionne par sa classe et son équilibre, avec une matière soyeuse, une douceur maîtrisée et un baume aromatique persistant. Un vin rare, profond et harmonieux, à la hauteur de l’anniversaire qu’il célèbre.",
     "price": "40,50 $ - Caisse de 6",
-    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/bd7e542c-905b-1ffc-9336-aeaaeee68eed.png",
+    "image_url": null,
     "link": null,
     "agence": "Planvin",
     "disponibilite": "Importation Privée",
@@ -1225,7 +1227,7 @@
       "name": "DOC Nebbiolo d’Alba - Paradis 2012",
       "description": "Cuvée anniversaire célébrant les 50 ans du domaine, ce vin exceptionnel, issu à 100 % de nebbiolo, témoigne d’un savoir-faire remarquable et d’une vision patiente. Après la fermentation, il est transvasé dans des tonneaux de 500 litres où s’opère la fermentation malolactique. Suit un affinage de neuf années en fût, avant un passage de six mois en cuve béton, puis une mise en bouteille et un repos supplémentaire de six mois. Le nez, fin et aristocratique, dévoile une grande complexité aromatique : rose séchée, violette et épices nobles. En bouche, le vin impressionne par sa classe et son équilibre, avec une matière soyeuse, une douceur maîtrisée et un baume aromatique persistant. Un vin rare, profond et harmonieux, à la hauteur de l’anniversaire qu’il célèbre.",
       "price": "40,50 $ - Caisse de 6",
-      "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/bd7e542c-905b-1ffc-9336-aeaaeee68eed.png",
+      "image_url": null,
       "link": null,
       "producer": null,
       "region": null,
@@ -1241,7 +1243,7 @@
           "name": "DOC Nebbiolo d’Alba - Paradis 2012",
           "description": "Cuvée anniversaire célébrant les 50 ans du domaine, ce vin exceptionnel, issu à 100 % de nebbiolo, témoigne d’un savoir-faire remarquable et d’une vision patiente. Après la fermentation, il est transvasé dans des tonneaux de 500 litres où s’opère la fermentation malolactique. Suit un affinage de neuf années en fût, avant un passage de six mois en cuve béton, puis une mise en bouteille et un repos supplémentaire de six mois. Le nez, fin et aristocratique, dévoile une grande complexité aromatique : rose séchée, violette et épices nobles. En bouche, le vin impressionne par sa classe et son équilibre, avec une matière soyeuse, une douceur maîtrisée et un baume aromatique persistant. Un vin rare, profond et harmonieux, à la hauteur de l’anniversaire qu’il célèbre.",
           "price": "40,50 $ - Caisse de 6",
-          "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/bd7e542c-905b-1ffc-9336-aeaaeee68eed.png",
+          "image_url": null,
           "link": null,
           "producer": null,
           "region": null,
@@ -1256,7 +1258,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Nebbiolo d’Alba, célébrant les 50 ans du domaine, offre une complexité aromatique aristocratique de rose séchée et d'épices, avec une bouche soyeuse et équilibrée, témoignant d'un savoir-faire exceptionnel."
+    "summary": "DOC Nebbiolo d’Alba Paradis 2012 is a remarkable tribute to the estate's 50th anniversary, showcasing 100% Nebbiolo with an aristocratic nose of dried rose, violet, and noble spices, and a silky, balanced palate that lingers with aromatic finesse."
   },
   {
     "id": "file-2025-07-31-planvin-0.html-docg-roero-arneis-dla-trifula-2023",
@@ -1265,7 +1267,7 @@
     "name": "DOCG Roero Arneis - Dla trifula 2023",
     "description": "100 % arneis issu d’un pressurage délicat : seul le cœur du premier jus (60 % du moût) est utilisé. Fermenté puis élevé trois mois sur lies fines, le vin présente une robe jaune paille aux reflets verts. Le nez est floral et précis, sur l’acacia, le genêt, la pomme fraîche, la poire et une touche d’amande. En bouche, c’est sec, droit et équilibré, avec une acidité juste qui apporte fraîcheur et longueur.",
     "price": "28,25 $ - Caisse de 12",
-    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/417daa87-0587-8bf6-fdd0-7d7eebba13f9.png",
+    "image_url": null,
     "link": null,
     "agence": "Planvin",
     "disponibilite": null,
@@ -1273,7 +1275,7 @@
       "name": "DOCG Roero Arneis - Dla trifula 2023",
       "description": "100 % arneis issu d’un pressurage délicat : seul le cœur du premier jus (60 % du moût) est utilisé. Fermenté puis élevé trois mois sur lies fines, le vin présente une robe jaune paille aux reflets verts. Le nez est floral et précis, sur l’acacia, le genêt, la pomme fraîche, la poire et une touche d’amande. En bouche, c’est sec, droit et équilibré, avec une acidité juste qui apporte fraîcheur et longueur.",
       "price": "28,25 $ - Caisse de 12",
-      "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/417daa87-0587-8bf6-fdd0-7d7eebba13f9.png",
+      "image_url": null,
       "link": null,
       "producer": null,
       "region": null,
@@ -1289,7 +1291,7 @@
           "name": "DOCG Roero Arneis - Dla trifula 2023",
           "description": "100 % arneis issu d’un pressurage délicat : seul le cœur du premier jus (60 % du moût) est utilisé. Fermenté puis élevé trois mois sur lies fines, le vin présente une robe jaune paille aux reflets verts. Le nez est floral et précis, sur l’acacia, le genêt, la pomme fraîche, la poire et une touche d’amande. En bouche, c’est sec, droit et équilibré, avec une acidité juste qui apporte fraîcheur et longueur.",
           "price": "28,25 $ - Caisse de 12",
-          "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/417daa87-0587-8bf6-fdd0-7d7eebba13f9.png",
+          "image_url": null,
           "link": null,
           "producer": null,
           "region": null,
@@ -1304,7 +1306,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Roero Arneis, issu d'un pressurage délicat, se dévoile avec une robe jaune paille et un nez floral précis, offrant une bouche sèche et équilibrée, avec une acidité rafraîchissante et une belle longueur."
+    "summary": "DOCG Roero Arneis Dla trifula 2023 is a delicate 100% Arneis, showcasing a pale yellow hue with green reflections, floral and precise aromas of acacia and fresh apple, and a dry, balanced palate with refreshing acidity and length."
   },
   {
     "id": "file-2025-07-31-planvin-0.html-doc-nebbiolo-dalba-superiore-gerbole-2020",
@@ -1313,7 +1315,7 @@
     "name": "DOC Nebbiolo d’Alba Superiore - Gerbole 2020",
     "description": "100 % nebbiolo issu d'une fermentation de 9 jours avec pigeage manuel et délestage, suivie d’un élevage de 18 mois en fûts (barriques et grands contenants), puis repos de 3 mois en cuve avant la mise en bouteille. Robe rubis profonde. Nez intense sur la cerise noire et les épices douces. Bouche ample et veloutée, avec une structure souple et une belle allonge. Potentiel de garde : 10 ans et plus.",
     "price": "35,60 $ - Caisse de 12",
-    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/523fb610-027e-2e7e-a027-471206d3f74b.png",
+    "image_url": null,
     "link": null,
     "agence": "Planvin",
     "disponibilite": null,
@@ -1321,7 +1323,7 @@
       "name": "DOC Nebbiolo d’Alba Superiore - Gerbole 2020",
       "description": "100 % nebbiolo issu d'une fermentation de 9 jours avec pigeage manuel et délestage, suivie d’un élevage de 18 mois en fûts (barriques et grands contenants), puis repos de 3 mois en cuve avant la mise en bouteille. Robe rubis profonde. Nez intense sur la cerise noire et les épices douces. Bouche ample et veloutée, avec une structure souple et une belle allonge. Potentiel de garde : 10 ans et plus.",
       "price": "35,60 $ - Caisse de 12",
-      "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/523fb610-027e-2e7e-a027-471206d3f74b.png",
+      "image_url": null,
       "link": null,
       "producer": null,
       "region": null,
@@ -1337,7 +1339,7 @@
           "name": "DOC Nebbiolo d’Alba Superiore - Gerbole 2020",
           "description": "100 % nebbiolo issu d'une fermentation de 9 jours avec pigeage manuel et délestage, suivie d’un élevage de 18 mois en fûts (barriques et grands contenants), puis repos de 3 mois en cuve avant la mise en bouteille. Robe rubis profonde. Nez intense sur la cerise noire et les épices douces. Bouche ample et veloutée, avec une structure souple et une belle allonge. Potentiel de garde : 10 ans et plus.",
           "price": "35,60 $ - Caisse de 12",
-          "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/523fb610-027e-2e7e-a027-471206d3f74b.png",
+          "image_url": null,
           "link": null,
           "producer": null,
           "region": null,
@@ -1352,7 +1354,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Nebbiolo d’Alba Superiore, avec sa robe rubis profonde, offre un nez intense de cerise noire et d'épices douces, tandis que sa bouche ample et veloutée promet une belle allonge et un potentiel de garde exceptionnel."
+    "summary": "DOC Nebbiolo d’Alba Superiore Gerbole 2020 is a deep ruby wine made from 100% Nebbiolo, offering intense aromas of black cherry and sweet spices, with a velvety mouthfeel and a supple structure that promises a decade or more of aging potential."
   },
   {
     "id": "file-2025-07-31-planvin-0.html-doc-piemonte-chardonnay-2023",
@@ -1361,7 +1363,7 @@
     "name": "DOC Piemonte - Chardonnay 2023",
     "description": "Parcelle de chardonnay, plantée en 1989 sur marnes calcaires à 200 mètres d'altitude. Vinification en cuves inox, sur lies pendant quelques mois. S’en suit un élevage de quelques mois supplémentaires, en cuve et en fûts neutres. Vin aux notes subtiles de fruits à chair blanc et de citron confit, avec une touche de pain frais.",
     "price": "25,60 $ - Caisse de 12",
-    "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/9c1fc8c2-466b-4f31-07f2-90a49c60f466.png",
+    "image_url": null,
     "link": null,
     "agence": "Planvin",
     "disponibilite": null,
@@ -1369,7 +1371,7 @@
       "name": "DOC Piemonte - Chardonnay 2023",
       "description": "Parcelle de chardonnay, plantée en 1989 sur marnes calcaires à 200 mètres d'altitude. Vinification en cuves inox, sur lies pendant quelques mois. S’en suit un élevage de quelques mois supplémentaires, en cuve et en fûts neutres. Vin aux notes subtiles de fruits à chair blanc et de citron confit, avec une touche de pain frais.",
       "price": "25,60 $ - Caisse de 12",
-      "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/9c1fc8c2-466b-4f31-07f2-90a49c60f466.png",
+      "image_url": null,
       "link": null,
       "producer": null,
       "region": null,
@@ -1385,7 +1387,7 @@
           "name": "DOC Piemonte - Chardonnay 2023",
           "description": "Parcelle de chardonnay, plantée en 1989 sur marnes calcaires à 200 mètres d'altitude. Vinification en cuves inox, sur lies pendant quelques mois. S’en suit un élevage de quelques mois supplémentaires, en cuve et en fûts neutres. Vin aux notes subtiles de fruits à chair blanc et de citron confit, avec une touche de pain frais.",
           "price": "25,60 $ - Caisse de 12",
-          "image_url": "https://mcusercontent.com/bcc803c4eada215e47355c036/images/9c1fc8c2-466b-4f31-07f2-90a49c60f466.png",
+          "image_url": null,
           "link": null,
           "producer": null,
           "region": null,
@@ -1400,7 +1402,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Chardonnay du Piémont, vinifié en cuves inox et élevé sur lies, révèle des notes subtiles de fruits à chair blanche et de citron confit, avec une délicate touche de pain frais."
+    "summary": "DOC Piemonte Chardonnay 2023 is a refined expression of Chardonnay from limestone soils, revealing subtle notes of white-fleshed fruits and candied lemon, complemented by a hint of fresh bread, showcasing elegance and finesse."
   },
   {
     "id": "file-2025-07-31-rezin-0.html-chateau-bujan",
@@ -1409,7 +1411,7 @@
     "name": "Château Bujan",
     "description": "Bon an mal an, d’une qualité constante, le Château Bujan reçoit toujours l’éloge des critiques, et, quoiqu’abordable, il se conserve pendant plusieurs années en cave. Situé au cœur de l'appellation Côtes de Bourg, sur les coteaux de Gauriac, le Château Bujan, comptant 17 hectares de vignes, repose sur des coteaux exposés au sud. Les sols y sont composés de molasses du Fronsadais sur lesquelles se sont constitués des sols en surface extrêmement bigarrés, allant de terres très fortes à des graves calcaires en passant par des zones où la roche mère affleure et où abondent les crasses de fer.",
     "price": null,
-    "image_url": null,
+    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/cf6ca04e-bdf2-c004-5772-f60a0fc27e6a.png",
     "link": null,
     "agence": "réZin",
     "disponibilite": null,
@@ -1417,7 +1419,7 @@
       "name": "Château Bujan",
       "description": "Bon an mal an, d’une qualité constante, le Château Bujan reçoit toujours l’éloge des critiques, et, quoiqu’abordable, il se conserve pendant plusieurs années en cave. Situé au cœur de l'appellation Côtes de Bourg, sur les coteaux de Gauriac, le Château Bujan, comptant 17 hectares de vignes, repose sur des coteaux exposés au sud. Les sols y sont composés de molasses du Fronsadais sur lesquelles se sont constitués des sols en surface extrêmement bigarrés, allant de terres très fortes à des graves calcaires en passant par des zones où la roche mère affleure et où abondent les crasses de fer.",
       "price": null,
-      "image_url": null,
+      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/cf6ca04e-bdf2-c004-5772-f60a0fc27e6a.png",
       "link": null,
       "producer": "Château Bujan",
       "region": "Côtes de Bourg",
@@ -1431,7 +1433,7 @@
           "name": "Château Bujan",
           "description": "Bon an mal an, d’une qualité constante, le Château Bujan reçoit toujours l’éloge des critiques, et, quoiqu’abordable, il se conserve pendant plusieurs années en cave. Situé au cœur de l'appellation Côtes de Bourg, sur les coteaux de Gauriac, le Château Bujan, comptant 17 hectares de vignes, repose sur des coteaux exposés au sud. Les sols y sont composés de molasses du Fronsadais sur lesquelles se sont constitués des sols en surface extrêmement bigarrés, allant de terres très fortes à des graves calcaires en passant par des zones où la roche mère affleure et où abondent les crasses de fer.",
           "price": null,
-          "image_url": null,
+          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/cf6ca04e-bdf2-c004-5772-f60a0fc27e6a.png",
           "link": null,
           "producer": "Château Bujan",
           "region": "Côtes de Bourg",
@@ -1444,7 +1446,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Château Bujan, reconnu pour sa qualité constante, s'épanouit sur les coteaux ensoleillés de Gauriac, offrant des vins accessibles qui se bonifient avec le temps, issus de sols variés et riches en minéraux."
+    "summary": "Château Bujan consistently garners acclaim for its quality, nestled in the heart of Côtes de Bourg, where its diverse soils yield wines that age gracefully, making it a reliable choice for collectors."
   },
   {
     "id": "file-2025-07-31-rezin-0.html-riesling-qualitatswein-2023",
@@ -1491,7 +1493,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "Selbach-Oster's Riesling Qualitätswein 2023 reflects the unique terroirs along the Moselle, crafted with a dedication to showcasing each vineyard's potential, resulting in wines that express their natural character and elegance."
   },
   {
     "id": "file-2025-07-31-rezin-0.html-vassaltis",
@@ -1500,7 +1503,7 @@
     "name": "VASSALTIS",
     "description": "Pas de doute : on est ici en présence d’un vin profond, droit, à la structure dense et tendue. VASSALTIS est un projet fondé à Santorin en 2010, au plus fort de la récession grecque, par Yannis Valambous. Santorin, ce n’est pas seulement une île grecque idyllique — c’est aussi un terroir volcanique exceptionnel, idéal pour cultiver de grands vins. Un patrimoine unique, avec ses célèbres vignes en forme de « panier », façonnées pour résister au vent et à la sécheresse. « Nous nous devons de perpétuer la tradition viticole de nos ancêtres, en travaillant avec intégrité et honnêteté, et en élaborant des vins qui expriment la pureté du terroir de façon authentique. » — Yannis Valambous",
     "price": null,
-    "image_url": null,
+    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/81904cd6-2bbf-3009-ef32-8b5c1013417c.jpg",
     "link": null,
     "agence": "réZin",
     "disponibilite": null,
@@ -1508,7 +1511,7 @@
       "name": "VASSALTIS",
       "description": "Pas de doute : on est ici en présence d’un vin profond, droit, à la structure dense et tendue. VASSALTIS est un projet fondé à Santorin en 2010, au plus fort de la récession grecque, par Yannis Valambous. Santorin, ce n’est pas seulement une île grecque idyllique — c’est aussi un terroir volcanique exceptionnel, idéal pour cultiver de grands vins. Un patrimoine unique, avec ses célèbres vignes en forme de « panier », façonnées pour résister au vent et à la sécheresse. « Nous nous devons de perpétuer la tradition viticole de nos ancêtres, en travaillant avec intégrité et honnêteté, et en élaborant des vins qui expriment la pureté du terroir de façon authentique. » — Yannis Valambous",
       "price": null,
-      "image_url": null,
+      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/81904cd6-2bbf-3009-ef32-8b5c1013417c.jpg",
       "link": null,
       "producer": "Vassaltis",
       "region": "Santorin",
@@ -1522,7 +1525,7 @@
           "name": "VASSALTIS",
           "description": "Pas de doute : on est ici en présence d’un vin profond, droit, à la structure dense et tendue. VASSALTIS est un projet fondé à Santorin en 2010, au plus fort de la récession grecque, par Yannis Valambous. Santorin, ce n’est pas seulement une île grecque idyllique — c’est aussi un terroir volcanique exceptionnel, idéal pour cultiver de grands vins. Un patrimoine unique, avec ses célèbres vignes en forme de « panier », façonnées pour résister au vent et à la sécheresse. « Nous nous devons de perpétuer la tradition viticole de nos ancêtres, en travaillant avec intégrité et honnêteté, et en élaborant des vins qui expriment la pureté du terroir de façon authentique. » — Yannis Valambous",
           "price": null,
-          "image_url": null,
+          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/81904cd6-2bbf-3009-ef32-8b5c1013417c.jpg",
           "link": null,
           "producer": "Vassaltis",
           "region": "Santorin",
@@ -1535,7 +1538,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce vin VASSALTIS, issu du terroir volcanique de Santorin, se distingue par sa profondeur et sa structure tendue, témoignant d'un engagement à préserver la tradition viticole tout en exprimant l'authenticité du terroir."
+    "summary": "VASSALTIS is a profound and structured wine from Santorini's volcanic terroir, crafted with integrity to honor ancestral traditions while expressing the authentic purity of the land."
   },
   {
     "id": "file-2025-07-31-vin-dame-jeanne-0.html-alsace-blanc-vibrations",
@@ -1583,6 +1586,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Riesling 'Vibrations', issu de vignes de 40 ans, se dévoile avec une délicatesse éclatante de fruits blancs et de zestes d'agrumes, offrant un équilibre brillant et une texture joyeuse, parfaite pour toutes les occasions."
+    "summary": "Alsace Blanc 'Vibrations' is a magnificent Riesling from 40-year-old vines, showcasing a delicate bouquet of white fruits and citrus zest, with a joyful density and brilliant balance that shines at the table or as a lively aperitif."
   }
 ]
