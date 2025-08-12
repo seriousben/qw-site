@@ -41,7 +41,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "L'Apostrophe 2024 is a vibrant rosé that captures the essence of sunlit Provence, with juicy cranberry notes and a hint of white pepper, making it an elegant choice for any gathering."
+    "summary": "L'Apostrophe 2024 is a vibrant rosé that captures the essence of sunny Provence, with juicy cranberry notes and a hint of white pepper, making it a radiant companion for any gathering."
   },
   {
     "id": "file-2025-08-09-le-vin-dans-les-voiles-0.html-la-mariole-2022",
@@ -85,7 +85,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Mariole 2022 is a bold Mediterranean red, rich with ripe black fruits, a touch of leather, and spices, offering a delightful balance of tenderness and temperament."
+    "summary": "La Mariole 2022 is a bold Mediterranean red, bursting with ripe black fruits, leather, and spices, offering a delightful balance of tenderness and character that melts on the palate."
   },
   {
     "id": "file-2025-08-08-noble-selection-0.html-spumante-brut-2024",
@@ -113,7 +113,7 @@
         "Pinot Grigio"
       ],
       "alcohol_content": "11%",
-      "volume": null,
+      "volume": "750ml",
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
@@ -131,13 +131,13 @@
             "Pinot Grigio"
           ],
           "alcohol_content": "11%",
-          "volume": null,
+          "volume": "750ml",
           "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Spumante Brut 2024 is crafted using the Charmat method, ensuring a fine and persistent sparkle that beautifully preserves its fresh, fruity aromas, making it a delightful sparkling experience."
+    "summary": "Spumante Brut 2024, crafted using the Charmat method, showcases a fine and persistent sparkle, preserving its fresh, fruity aromas for a delightful effervescent experience."
   },
   {
     "id": "file-2025-08-08-noble-selection-0.html-bourgogne-chardonnay-2023",
@@ -267,7 +267,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Alentejo Rouge 2023 showcases the purity of hand-harvested grapes, fermented with indigenous yeasts, resulting in a wine that reflects its high-altitude, granitic terroir with elegance and depth."
+    "summary": "Alentejo Rouge 2023 is a meticulously crafted wine, fermented with indigenous yeasts and aged in oak, reflecting the unique terroir of its high-altitude granite and clay soils."
   },
   {
     "id": "file-2025-08-08-noble-selection-0.html-vision-gruner-veltliner-2024",
@@ -491,7 +491,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Moulin des Costes 2024 is a luminous Bandol rosé, crafted from old vines of Mourvèdre, Cinsault, and Grenache, offering a vibrant and saline profile that beautifully complements Mediterranean cuisine."
+    "summary": "Moulin des Costes 2024 is a luminous and structured Bandol rosé, crafted from old organic vines, offering vibrant notes of white peach, citrus, and garrigue, with a subtle saline finish that celebrates its Mediterranean roots."
   },
   {
     "id": "file-2025-08-07-info-symbiose-0.html-secateurs",
@@ -541,10 +541,10 @@
     }
   },
   {
-    "id": "file-2025-08-07-info-symbiose-0.html-chianti-superiore-poggio-ai-grilli-2022",
+    "id": "file-2025-08-07-info-symbiose-0.html-chianti-superiore-poggio-ai-grilli",
     "blockId": "file-2025-08-07-info-symbiose-0.html",
     "createdAt": "2025-08-07T00:00:00.000Z",
-    "name": "Chianti Superiore Poggio Ai Grilli 2022",
+    "name": "Chianti Superiore Poggio Ai Grilli",
     "description": null,
     "price": "22,95 $",
     "image_url": "https://www.saq.com/media/catalog/product/1/3/13465878-1_1674747068.png",
@@ -552,7 +552,7 @@
     "agence": "Info Symbiose",
     "disponibilite": "SAQ",
     "raw_data": {
-      "name": "Chianti Superiore Poggio Ai Grilli 2022",
+      "name": "Chianti Superiore Poggio Ai Grilli",
       "description": null,
       "price": "22,95 $",
       "image_url": "https://www.saq.com/media/catalog/product/1/3/13465878-1_1674747068.png",
@@ -569,7 +569,7 @@
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
-          "name": "Chianti Superiore Poggio Ai Grilli 2022",
+          "name": "Chianti Superiore Poggio Ai Grilli",
           "description": null,
           "price": "22,95 $",
           "image_url": "https://www.saq.com/media/catalog/product/1/3/13465878-1_1674747068.png",
@@ -590,10 +590,10 @@
     }
   },
   {
-    "id": "file-2025-08-07-info-symbiose-0.html-zarate-2024",
+    "id": "file-2025-08-07-info-symbiose-0.html-zarate",
     "blockId": "file-2025-08-07-info-symbiose-0.html",
     "createdAt": "2025-08-07T00:00:00.000Z",
-    "name": "Zarate 2024",
+    "name": "Zarate",
     "description": null,
     "price": "27,75 $",
     "image_url": "https://www.saq.com/media/catalog/product/1/3/13529202-1_1578537016.png",
@@ -601,7 +601,7 @@
     "agence": "Info Symbiose",
     "disponibilite": "SAQ",
     "raw_data": {
-      "name": "Zarate 2024",
+      "name": "Zarate",
       "description": null,
       "price": "27,75 $",
       "image_url": "https://www.saq.com/media/catalog/product/1/3/13529202-1_1578537016.png",
@@ -617,7 +617,7 @@
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
-          "name": "Zarate 2024",
+          "name": "Zarate",
           "description": null,
           "price": "27,75 $",
           "image_url": "https://www.saq.com/media/catalog/product/1/3/13529202-1_1578537016.png",
@@ -637,10 +637,10 @@
     }
   },
   {
-    "id": "file-2025-08-07-info-symbiose-0.html-chablis-cuvee-antoine-2024",
+    "id": "file-2025-08-07-info-symbiose-0.html-chablis-cuvee-antoine",
     "blockId": "file-2025-08-07-info-symbiose-0.html",
     "createdAt": "2025-08-07T00:00:00.000Z",
-    "name": "Chablis Cuvée Antoine 2024",
+    "name": "Chablis Cuvée Antoine",
     "description": null,
     "price": "34,25 $",
     "image_url": "https://www.saq.com/media/catalog/product/1/4/14872459-1_1647965459.png",
@@ -648,7 +648,7 @@
     "agence": "Info Symbiose",
     "disponibilite": "SAQ",
     "raw_data": {
-      "name": "Chablis Cuvée Antoine 2024",
+      "name": "Chablis Cuvée Antoine",
       "description": null,
       "price": "34,25 $",
       "image_url": "https://www.saq.com/media/catalog/product/1/4/14872459-1_1647965459.png",
@@ -664,7 +664,7 @@
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
-          "name": "Chablis Cuvée Antoine 2024",
+          "name": "Chablis Cuvée Antoine",
           "description": null,
           "price": "34,25 $",
           "image_url": "https://www.saq.com/media/catalog/product/1/4/14872459-1_1647965459.png",
@@ -684,10 +684,10 @@
     }
   },
   {
-    "id": "file-2025-08-07-info-symbiose-0.html-serradenari-barbera-dalba-2023",
+    "id": "file-2025-08-07-info-symbiose-0.html-serradenari-barbera-dalba",
     "blockId": "file-2025-08-07-info-symbiose-0.html",
     "createdAt": "2025-08-07T00:00:00.000Z",
-    "name": "Serradenari Barbera d'Alba 2023",
+    "name": "Serradenari Barbera d'Alba",
     "description": null,
     "price": "40,00 $",
     "image_url": "https://www.saq.com/media/catalog/product/1/5/15487000-1_1754328786.png",
@@ -695,7 +695,7 @@
     "agence": "Info Symbiose",
     "disponibilite": "SAQ",
     "raw_data": {
-      "name": "Serradenari Barbera d'Alba 2023",
+      "name": "Serradenari Barbera d'Alba",
       "description": null,
       "price": "40,00 $",
       "image_url": "https://www.saq.com/media/catalog/product/1/5/15487000-1_1754328786.png",
@@ -711,7 +711,7 @@
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
-          "name": "Serradenari Barbera d'Alba 2023",
+          "name": "Serradenari Barbera d'Alba",
           "description": null,
           "price": "40,00 $",
           "image_url": "https://www.saq.com/media/catalog/product/1/5/15487000-1_1754328786.png",
@@ -731,10 +731,10 @@
     }
   },
   {
-    "id": "file-2025-08-07-info-symbiose-0.html-river-sand-2023",
+    "id": "file-2025-08-07-info-symbiose-0.html-river-sand",
     "blockId": "file-2025-08-07-info-symbiose-0.html",
     "createdAt": "2025-08-07T00:00:00.000Z",
-    "name": "River Sand 2023",
+    "name": "River Sand",
     "description": null,
     "price": "26,30 $",
     "image_url": "https://www.saq.com/media/catalog/product/1/5/15289636-1_1717772283.png",
@@ -742,7 +742,7 @@
     "agence": "Info Symbiose",
     "disponibilite": "SAQ",
     "raw_data": {
-      "name": "River Sand 2023",
+      "name": "River Sand",
       "description": null,
       "price": "26,30 $",
       "image_url": "https://www.saq.com/media/catalog/product/1/5/15289636-1_1717772283.png",
@@ -758,7 +758,7 @@
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
-          "name": "River Sand 2023",
+          "name": "River Sand",
           "description": null,
           "price": "26,30 $",
           "image_url": "https://www.saq.com/media/catalog/product/1/5/15289636-1_1717772283.png",
@@ -819,7 +819,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Déferlante Orangée 2024 is a vibrant orange wine with a charming pastel hue and lively energy, crafted by star winemaker Olivier Cohen, making it an unforgettable experience."
+    "summary": "Déferlante Orangée 2024 is a vibrant, pastel-hued orange wine by star winemaker Olivier Cohen, exuding lively energy and charm that makes it irresistibly enjoyable."
   },
   {
     "id": "file-2025-08-07-le-vin-dans-les-voiles-0.html-campedello-2022",
@@ -863,7 +863,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Campedello 2022 is a natural frizzante that sparkles with complexity, blending fruity, tropical, and floral notes for a lively and convivial aperitif."
+    "summary": "Campedello 2022 is a naturally sparkling wine that dazzles with its fruity, tropical, and floral notes, offering a delightful complexity perfect for lively gatherings."
   },
   {
     "id": "file-2025-08-07-le-vin-dans-les-voiles-0.html-overmars-2022",
@@ -907,7 +907,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Overmars 2022 is an exquisite orange wine with tropical nuances, offering a rare and vibrant experience that is both rich and fresh, making it a must-try."
+    "summary": "Overmars 2022 is a rare and vibrant orange wine, showcasing tropical richness and freshness, with only 24 bottles available, making it a must-try for adventurous palates."
   },
   {
     "id": "file-2025-08-07-le-vin-dans-les-voiles-0.html-monticelli-bianco-2018",
@@ -995,7 +995,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "D'Orange et de Fleurs 2023 is a sparkling celebration of freshness, bursting with citrus fireworks and floral notes, perfect for sun-drenched days."
+    "summary": "D'Orange et de Fleurs 2023 is a sparkling celebration of wildflowers and sunshine, bursting with citrus and freshness that dances on your palate."
   },
   {
     "id": "file-2025-08-07-le-vin-dans-les-voiles-0.html-vino-naranja-2024",
@@ -1039,7 +1039,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Vino Naranja 2024 is a vibrant and dry orange wine from Chile, showcasing a delicate blend of lychee, passion fruit, and peach, extending summer's essence."
+    "summary": "Vino Naranja 2024 is a vibrant, dry orange wine from Chile, showcasing lychee, passion fruit, and peach, with a tension that extends the summer experience well into autumn."
   },
   {
     "id": "file-2025-08-07-planvin-0.html-vdf-hop-hop-hop-2022",
@@ -1087,7 +1087,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Hop Hop Hop 2022 is a captivating pet-nat made from 100% Pineau d’Aunis, offering a golden hue and a delightful palate of citrus and tart berries, enhanced by fine bubbles and balanced acidity."
+    "summary": "Hop Hop Hop 2022 is a charming pet-nat made from 100% Pineau d'Aunis, featuring a golden hue, fine bubbles, and a palate of citrus and tart berries, with a distinctive spicy backbone."
   },
   {
     "id": "file-2025-08-07-planvin-0.html-vdf-sauv-qui-peut-2022",
@@ -1137,7 +1137,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Sauv qui Peut 2022 is a harmonious blend of Sauvignon and Chenin, offering delicate floral aromas and a fresh, ample palate with a persistent, expressive finish."
+    "summary": "Sauv qui Peut 2022 is a balanced white blend of Sauvignon and Chenin, showcasing delicate floral aromas and a fresh, ample palate with a persistent, saline finish."
   },
   {
     "id": "file-2025-08-07-planvin-0.html-vdf-gaga-de-toi-2022",
@@ -1189,7 +1189,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Gaga de toi 2022 is an energetic red blend of Gamay, Pinot Noir, and Pineau d’Aunis, bursting with hibiscus, sumac, and herbal notes for a joyful and approachable experience."
+    "summary": "Gaga de Toi 2022 is an energetic red blend of Gamay, Pinot Noir, and Pineau d'Aunis, bursting with hibiscus, sumac, and white pepper notes, creating a soft, joyful wine that delights all."
   },
   {
     "id": "file-2025-08-07-rezin-0.html-la-fage",
@@ -1237,7 +1237,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Fage is a deep violet Malbec, aged for 14 months in barrels, offering a powerful bouquet of cacao, blackberry, and floral notes, with a rich and vibrant palate that lingers elegantly."
+    "summary": "La Fage, crafted from old Malbec vines and aged in oak, presents a deep violet hue with a powerful bouquet of cocoa, blackberry, and floral notes, offering a rich, vibrant palate with refined tannins."
   },
   {
     "id": "file-2025-08-07-vin-dame-jeanne-0.html-riesling-calcaires-jaunes",
@@ -1245,7 +1245,7 @@
     "createdAt": "2025-08-07T00:00:00.000Z",
     "name": "Riesling 'Calcaires Jaunes'",
     "description": "Un Riesling de grand plaisir, d'une légèreté si agréable, finement tissé. Il s'exprime sur des nuances de pomme honeycrisp, de gingembre mariné et d'agrumes, avec une acidité qui met l'eau à la bouche. Superbe tension minérale ici, grâce aux fameux calcaires jaunes, avec des notes fumées et caillouteuses, pour une longueur salivante.",
-    "price": "30,50$",
+    "price": "30.50$",
     "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
     "link": "http://SAQ.com",
     "agence": "Vin Dame-Jeanne",
@@ -1253,10 +1253,10 @@
     "raw_data": {
       "name": "Riesling 'Calcaires Jaunes'",
       "description": "Un Riesling de grand plaisir, d'une légèreté si agréable, finement tissé. Il s'exprime sur des nuances de pomme honeycrisp, de gingembre mariné et d'agrumes, avec une acidité qui met l'eau à la bouche. Superbe tension minérale ici, grâce aux fameux calcaires jaunes, avec des notes fumées et caillouteuses, pour une longueur salivante.",
-      "price": "30,50$",
+      "price": "30.50$",
       "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
       "link": "http://SAQ.com",
-      "producer": "Murés",
+      "producer": "Domaine Muré",
       "region": "Alsace",
       "vintage": "2023",
       "grape_varieties": [
@@ -1269,10 +1269,10 @@
         {
           "name": "Riesling 'Calcaires Jaunes'",
           "description": "Un Riesling de grand plaisir, d'une légèreté si agréable, finement tissé. Il s'exprime sur des nuances de pomme honeycrisp, de gingembre mariné et d'agrumes, avec une acidité qui met l'eau à la bouche. Superbe tension minérale ici, grâce aux fameux calcaires jaunes, avec des notes fumées et caillouteuses, pour une longueur salivante.",
-          "price": "30,50$",
+          "price": "30.50$",
           "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
           "link": "http://SAQ.com",
-          "producer": "Murés",
+          "producer": "Domaine Muré",
           "region": "Alsace",
           "vintage": "2023",
           "grape_varieties": [
@@ -1285,7 +1285,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Riesling 'Calcaires Jaunes' is a delightfully light and finely woven wine, showcasing honeycrisp apple, pickled ginger, and citrus notes, with a mineral tension that leaves a refreshing finish."
+    "summary": "Riesling 'Calcaires Jaunes' is a delightful wine, elegantly woven with notes of Honeycrisp apple, marinated ginger, and citrus, showcasing a mouthwatering acidity and mineral tension from its unique limestone terroir."
   },
   {
     "id": "file-2025-08-07-vin-dame-jeanne-0.html-alsace-blanc-singulier",
@@ -1293,7 +1293,7 @@
     "createdAt": "2025-08-07T00:00:00.000Z",
     "name": "Alsace Blanc, 'Singulier'",
     "description": "Vin unique, magnifiquement construit. Macération carbonique de 10 jours sur 50/50 Pinot Gris et Riesling, issu de vignes de 45 ans sur la commune de Bennwihr, sur sols d'alluvions du quartenaire. Elevage sur lies fines pendant 11 mois. Arômes de coing, melon, et petites fleurs sauvages. Vin de grande texture, qui allie richesse et plenitude, profondeur, et épices. Extrêmement captivant.",
-    "price": "39,25$",
+    "price": "39.25$",
     "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
     "link": "http://SAQ.com",
     "agence": "Vin Dame-Jeanne",
@@ -1301,7 +1301,7 @@
     "raw_data": {
       "name": "Alsace Blanc, 'Singulier'",
       "description": "Vin unique, magnifiquement construit. Macération carbonique de 10 jours sur 50/50 Pinot Gris et Riesling, issu de vignes de 45 ans sur la commune de Bennwihr, sur sols d'alluvions du quartenaire. Elevage sur lies fines pendant 11 mois. Arômes de coing, melon, et petites fleurs sauvages. Vin de grande texture, qui allie richesse et plenitude, profondeur, et épices. Extrêmement captivant.",
-      "price": "39,25$",
+      "price": "39.25$",
       "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
       "link": "http://SAQ.com",
       "producer": "Vignoble du Rêveur",
@@ -1318,7 +1318,7 @@
         {
           "name": "Alsace Blanc, 'Singulier'",
           "description": "Vin unique, magnifiquement construit. Macération carbonique de 10 jours sur 50/50 Pinot Gris et Riesling, issu de vignes de 45 ans sur la commune de Bennwihr, sur sols d'alluvions du quartenaire. Elevage sur lies fines pendant 11 mois. Arômes de coing, melon, et petites fleurs sauvages. Vin de grande texture, qui allie richesse et plenitude, profondeur, et épices. Extrêmement captivant.",
-          "price": "39,25$",
+          "price": "39.25$",
           "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
           "link": "http://SAQ.com",
           "producer": "Vignoble du Rêveur",
@@ -1335,6 +1335,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Alsace Blanc 'Singulier' is a beautifully crafted wine, blending Pinot Gris and Riesling with captivating aromas of quince, melon, and wildflowers, offering a rich and textured experience."
+    "summary": "Alsace Blanc 'Singulier' is a uniquely crafted wine, blending Pinot Gris and Riesling with captivating aromas of quince, melon, and wildflowers, offering a rich texture and depth that enchants the senses."
   }
 ]
