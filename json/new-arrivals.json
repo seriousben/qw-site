@@ -4,7 +4,7 @@
     "blockId": "file-2025-08-14-info-symbiose-0.html",
     "createdAt": "2025-08-14T00:00:00.000Z",
     "name": "Petit-Chablis",
-    "description": "Petit-Chablis 2023\nDomaine de Pisse-Loup\nChardonnay\nBourgogne — France",
+    "description": "Chardonnay\n<strong>Bourgogne — France</strong>",
     "price": "28,80 $",
     "image_url": "https://www.saq.com/media/catalog/product/1/3/13232599-1_1698334383.png",
     "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1174944&idl=2658&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=ZiPPTePmVnAcMegUQDM5WhfTCN2n3sEbdoYzUoUq3jA",
@@ -12,7 +12,7 @@
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Petit-Chablis",
-      "description": "Petit-Chablis 2023\nDomaine de Pisse-Loup\nChardonnay\nBourgogne — France",
+      "description": "Chardonnay\n<strong>Bourgogne — France</strong>",
       "price": "28,80 $",
       "image_url": "https://www.saq.com/media/catalog/product/1/3/13232599-1_1698334383.png",
       "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1174944&idl=2658&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=ZiPPTePmVnAcMegUQDM5WhfTCN2n3sEbdoYzUoUq3jA",
@@ -28,7 +28,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "Petit-Chablis",
-          "description": "Petit-Chablis 2023\nDomaine de Pisse-Loup\nChardonnay\nBourgogne — France",
+          "description": "Chardonnay\n<strong>Bourgogne — France</strong>",
           "price": "28,80 $",
           "image_url": "https://www.saq.com/media/catalog/product/1/3/13232599-1_1698334383.png",
           "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1174944&idl=2658&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=ZiPPTePmVnAcMegUQDM5WhfTCN2n3sEbdoYzUoUq3jA",
@@ -51,7 +51,7 @@
     "blockId": "file-2025-08-14-info-symbiose-0.html",
     "createdAt": "2025-08-14T00:00:00.000Z",
     "name": "Delmoro Valencia",
-    "description": "Delmoro Valencia 2023\nLa Comarcal\nGrenache, Syrah\nCôte Méditerranéenne — Espagne",
+    "description": "Grenache, Syrah\n<strong>Côte Méditerranéenne — Espagne</strong>",
     "price": "21,50 $",
     "image_url": "https://www.saq.com/media/catalog/product/1/4/14791851-1_1700151784.png",
     "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1174944&idl=3167&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=CXHJH0GmvPu4SgpaF-3JU3P21J-ASFPB_VZZmimIslY",
@@ -59,7 +59,7 @@
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Delmoro Valencia",
-      "description": "Delmoro Valencia 2023\nLa Comarcal\nGrenache, Syrah\nCôte Méditerranéenne — Espagne",
+      "description": "Grenache, Syrah\n<strong>Côte Méditerranéenne — Espagne</strong>",
       "price": "21,50 $",
       "image_url": "https://www.saq.com/media/catalog/product/1/4/14791851-1_1700151784.png",
       "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1174944&idl=3167&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=CXHJH0GmvPu4SgpaF-3JU3P21J-ASFPB_VZZmimIslY",
@@ -76,7 +76,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "Delmoro Valencia",
-          "description": "Delmoro Valencia 2023\nLa Comarcal\nGrenache, Syrah\nCôte Méditerranéenne — Espagne",
+          "description": "Grenache, Syrah\n<strong>Côte Méditerranéenne — Espagne</strong>",
           "price": "21,50 $",
           "image_url": "https://www.saq.com/media/catalog/product/1/4/14791851-1_1700151784.png",
           "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1174944&idl=3167&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=CXHJH0GmvPu4SgpaF-3JU3P21J-ASFPB_VZZmimIslY",
@@ -137,7 +137,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ulls de Mel blanc 2022 is a vibrant and sunny white, delightfully dry yet subtly honeyed, balancing salinity and minerality to captivate from the first sip. This versatile wine effortlessly transitions from aperitif to meal, making it a beloved choice in Quebec."
+    "summary": "Ulls de Mel blanc 2022 is a vibrant and sunny white wine, dry yet gently sweetened with a hint of honey that softens its salinity and minerality, captivating from the very first sip."
   },
   {
     "id": "file-2025-08-14-le-vin-dans-les-voiles-0.html-bonka",
@@ -181,7 +181,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Bonka is a refreshing and indulgent sparkling wine, effervescent with notes of red fruits and rhubarb, perfectly balanced with a hint of minerality. Its fine, energetic bubbles turn an ordinary Tuesday into a celebration."
+    "summary": "Bonka is a refreshing and dry sparkling wine that delights with vibrant notes of red fruits and rhubarb, its fine bubbles turning any ordinary Tuesday into a celebration."
   },
   {
     "id": "file-2025-08-14-le-vin-dans-les-voiles-0.html-ronds-rouges-2023",
@@ -225,7 +225,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ronds Rouges 2023 is a light, fresh, and tangy red that melts hearts with its notes of cherries and pomegranate, complemented by subtle bitterness. This vibrant wine, with its fine tannins, is best enjoyed chilled alongside a charcuterie board or a herbed tomato salad."
+    "summary": "Ronds Rouges 2023 is a light, fresh, and tangy red that melts hearts with its notes of cherries and pomegranate, offering a fluid and vibrant experience with a lovely tannic grain."
   },
   {
     "id": "file-2025-08-14-le-vin-dans-les-voiles-0.html-chacoli-negro-2022",
@@ -269,7 +269,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Chacoli Negro 2022 is a bold sparkling red with rich dark fruit flavors and soft tannins, perfect for messy dishes. Serve it chilled alongside ribs, smash burgers, or chorizo pizza for a feast that elevates any gathering."
+    "summary": "Chacoli Negro 2022 is a bold sparkling red with rich dark fruit flavors and soft tannins, perfect for pairing with finger-licking dishes like ribs and chorizo pizza."
   },
   {
     "id": "file-2025-08-14-le-vin-dans-les-voiles-0.html-pet-nat-blanc-2022",
@@ -313,7 +313,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Pet Nat blanc 2022 sets the tone with its precise bubbles and refreshing tension, showcasing white fruit aromas with a floral touch—pure German brilliance. Best enjoyed chilled with crusty bread, cheeses, or a crisp asparagus salad."
+    "summary": "Pet Nat blanc 2022 showcases precise bubbles and refreshing tension, with white fruit aromas accented by floral notes, embodying the best of German effervescence."
   },
   {
     "id": "file-2025-08-14-le-vin-dans-les-voiles-0.html-deferlante-orangee-2024",
@@ -357,7 +357,351 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Déferlante orangée 2024 is a pastel peach rosé that turns spontaneous gatherings into memorable moments, with aromas of white-fleshed fruits and a hint of tangy sweetness. Its vibrant palate and slight effervescence make it the perfect party companion."
+    "summary": "Déferlante orangée 2024 is a pastel peach rosé that elevates any impromptu gathering with its white fruit aromas and vibrant palate, making it a perfect party companion."
+  },
+  {
+    "id": "file-2025-08-14-rezin-0.html-pierre-gimonnet-champagne-cuis-1er-cru-blanc-de-bl",
+    "blockId": "file-2025-08-14-rezin-0.html",
+    "createdAt": "2025-08-14T00:00:00.000Z",
+    "name": "PIERRE GIMONNET CHAMPAGNE CUIS 1ER CRU BLANC DE BLANC",
+    "description": "« Les chardonnays soulèvent leurs fruités, tel un voile aérien sous la voûte d’un palais déjà captivé par leur ruissellement respectif, alliant frivolité à des flaveurs plus tenaces de pomme, de poire et d’épices qui en soulignent rapidement la profondeur. Il en résulte une bulle de caractère, au dosage ajusté, de belle longueur.» Jean Aubry",
+    "price": "93,75 $",
+    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/ac950e07-fbf9-b6f1-1839-6cb3484a0a1b.png",
+    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=51ac55e0c6&e=c11422f941",
+    "agence": "réZin",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "PIERRE GIMONNET CHAMPAGNE CUIS 1ER CRU BLANC DE BLANC",
+      "description": "« Les chardonnays soulèvent leurs fruités, tel un voile aérien sous la voûte d’un palais déjà captivé par leur ruissellement respectif, alliant frivolité à des flaveurs plus tenaces de pomme, de poire et d’épices qui en soulignent rapidement la profondeur. Il en résulte une bulle de caractère, au dosage ajusté, de belle longueur.» Jean Aubry",
+      "price": "93,75 $",
+      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/ac950e07-fbf9-b6f1-1839-6cb3484a0a1b.png",
+      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=51ac55e0c6&e=c11422f941",
+      "producer": "Pierre Gimonnet",
+      "region": null,
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "PIERRE GIMONNET CHAMPAGNE CUIS 1ER CRU BLANC DE BLANC",
+          "description": "« Les chardonnays soulèvent leurs fruités, tel un voile aérien sous la voûte d’un palais déjà captivé par leur ruissellement respectif, alliant frivolité à des flaveurs plus tenaces de pomme, de poire et d’épices qui en soulignent rapidement la profondeur. Il en résulte une bulle de caractère, au dosage ajusté, de belle longueur.» Jean Aubry",
+          "price": "93,75 $",
+          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/ac950e07-fbf9-b6f1-1839-6cb3484a0a1b.png",
+          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=51ac55e0c6&e=c11422f941",
+          "producer": "Pierre Gimonnet",
+          "region": null,
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "PIERRE GIMONNET CHAMPAGNE CUIS 1ER CRU BLANC DE BLANC reveals a captivating interplay of fruity Chardonnay notes with enduring flavors of apple, pear, and spices, resulting in a characterful bubble with impressive length."
+  },
+  {
+    "id": "file-2025-08-14-rezin-0.html-feudo-montoni-sicilia-nero-davola-lagnusa-2022",
+    "blockId": "file-2025-08-14-rezin-0.html",
+    "createdAt": "2025-08-14T00:00:00.000Z",
+    "name": "FEUDO MONTONI SICILIA NERO D'AVOLA LAGNUSA - 2022",
+    "description": "« Longtemps sous-estimés pour leur style plus délicat que les vins siciliens traditionnels, puissants et à la robe pourpre profonde, les vins de Montoni ont trouvé leur public grâce à Fabio Sireci. Dans les années 90, il a sillonné l'Italie puis l'Europe du Nord pour faire découvrir ce style plus léger, des vins élégants de l'Etna. Melissa Muller, restauratrice new-yorkaise, de souche sicilienne et très familière avec l’ile, à la recherche d’un vin Sicilien pour accompagner les plats servis dans son restaurant Elio, se rendit à Feudo Montoni en 2014. Séduite par l'approche respectueuse de la nature et l'agriculture biologique du domaine, elle vendit ses restaurants en 2016 pour s'installer définitivement à Montoni avec Fabio Sireci.»",
+    "price": "28,85 $",
+    "image_url": null,
+    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=11bbb681da&e=c11422f941",
+    "agence": "réZin",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "FEUDO MONTONI SICILIA NERO D'AVOLA LAGNUSA - 2022",
+      "description": "« Longtemps sous-estimés pour leur style plus délicat que les vins siciliens traditionnels, puissants et à la robe pourpre profonde, les vins de Montoni ont trouvé leur public grâce à Fabio Sireci. Dans les années 90, il a sillonné l'Italie puis l'Europe du Nord pour faire découvrir ce style plus léger, des vins élégants de l'Etna. Melissa Muller, restauratrice new-yorkaise, de souche sicilienne et très familière avec l’ile, à la recherche d’un vin Sicilien pour accompagner les plats servis dans son restaurant Elio, se rendit à Feudo Montoni en 2014. Séduite par l'approche respectueuse de la nature et l'agriculture biologique du domaine, elle vendit ses restaurants en 2016 pour s'installer définitivement à Montoni avec Fabio Sireci.»",
+      "price": "28,85 $",
+      "image_url": null,
+      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=11bbb681da&e=c11422f941",
+      "producer": "Feudo Montoni",
+      "region": "Sicilia",
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "FEUDO MONTONI SICILIA NERO D'AVOLA LAGNUSA - 2022",
+          "description": "« Longtemps sous-estimés pour leur style plus délicat que les vins siciliens traditionnels, puissants et à la robe pourpre profonde, les vins de Montoni ont trouvé leur public grâce à Fabio Sireci. Dans les années 90, il a sillonné l'Italie puis l'Europe du Nord pour faire découvrir ce style plus léger, des vins élégants de l'Etna. Melissa Muller, restauratrice new-yorkaise, de souche sicilienne et très familière avec l’ile, à la recherche d’un vin Sicilien pour accompagner les plats servis dans son restaurant Elio, se rendit à Feudo Montoni en 2014. Séduite par l'approche respectueuse de la nature et l'agriculture biologique du domaine, elle vendit ses restaurants en 2016 pour s'installer définitivement à Montoni avec Fabio Sireci.»",
+          "price": "28,85 $",
+          "image_url": null,
+          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=11bbb681da&e=c11422f941",
+          "producer": "Feudo Montoni",
+          "region": "Sicilia",
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "FEUDO MONTONI SICILIA NERO D'AVOLA LAGNUSA - 2022 showcases the elegance of Sicilian wines, previously underestimated, now celebrated for their delicate style and organic cultivation, embodying the essence of Etna."
+  },
+  {
+    "id": "file-2025-08-14-rezin-0.html-chenin-blanc-2024",
+    "blockId": "file-2025-08-14-rezin-0.html",
+    "createdAt": "2025-08-14T00:00:00.000Z",
+    "name": "CHENIN BLANC - 2024",
+    "description": "« Oh que c’est du beau chenin que cette cuvée de l’hémisphère sud! Parfums invitants rappelant la cire chaude, la citronnelle, la pomme bien mûre, le miel... La bouche est sphérique, huileuse, pénétrante et la finale est fraîche ainsi que bien persistante. Tout ça pour seulement 20$? Tout à fait! On pourra même oser l’oublier encore 2 ou 3 ans en cave.» Philippe Lapeyrie (Sur le millésime 2021)",
+    "price": "22,30 $",
+    "image_url": null,
+    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=f464ab287f&e=c11422f941",
+    "agence": "réZin",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "CHENIN BLANC - 2024",
+      "description": "« Oh que c’est du beau chenin que cette cuvée de l’hémisphère sud! Parfums invitants rappelant la cire chaude, la citronnelle, la pomme bien mûre, le miel... La bouche est sphérique, huileuse, pénétrante et la finale est fraîche ainsi que bien persistante. Tout ça pour seulement 20$? Tout à fait! On pourra même oser l’oublier encore 2 ou 3 ans en cave.» Philippe Lapeyrie (Sur le millésime 2021)",
+      "price": "22,30 $",
+      "image_url": null,
+      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=f464ab287f&e=c11422f941",
+      "producer": "Beaumont Wines",
+      "region": "Afrique du Sud",
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "CHENIN BLANC - 2024",
+          "description": "« Oh que c’est du beau chenin que cette cuvée de l’hémisphère sud! Parfums invitants rappelant la cire chaude, la citronnelle, la pomme bien mûre, le miel... La bouche est sphérique, huileuse, pénétrante et la finale est fraîche ainsi que bien persistante. Tout ça pour seulement 20$? Tout à fait! On pourra même oser l’oublier encore 2 ou 3 ans en cave.» Philippe Lapeyrie (Sur le millésime 2021)",
+          "price": "22,30 $",
+          "image_url": null,
+          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=f464ab287f&e=c11422f941",
+          "producer": "Beaumont Wines",
+          "region": "Afrique du Sud",
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "CHENIN BLANC - 2024 is a stunning expression of Chenin from the Southern Hemisphere, with inviting aromas of warm wax, lemongrass, and ripe apple, offering a spherical and persistent finish at an exceptional value."
+  },
+  {
+    "id": "file-2025-08-14-rezin-0.html-costieres-de-nimes-terre-dargence-2022",
+    "blockId": "file-2025-08-14-rezin-0.html",
+    "createdAt": "2025-08-14T00:00:00.000Z",
+    "name": "COSTIÈRES-DE-NÎMES TERRE D'ARGENCE - 2022",
+    "description": "« Le domaine d'Anne et François Collard est une institution des Costières de Nîmes, et à liste titre. Non seulement leurs vins sont impeccables à tous les échelons, mais ils offrent un excellent rapport qualité-prix-plaisir. [...] Fruit d'une sélection de vieilles vignes de syrah et de grenache, fermentés et élevés en cuves pour les deux tiers. La couleur est sombre, les parfums aussi, marqués par la prune, la camerise, l'olive noire. En bouche, du volume , une assise solide, des notes d'épices qui se juxtaposent au fruit, et une sensation somme toute assez fraîche. »",
+    "price": "27,60 $",
+    "image_url": null,
+    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=9f0484ad42&e=c11422f941",
+    "agence": "réZin",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "COSTIÈRES-DE-NÎMES TERRE D'ARGENCE - 2022",
+      "description": "« Le domaine d'Anne et François Collard est une institution des Costières de Nîmes, et à liste titre. Non seulement leurs vins sont impeccables à tous les échelons, mais ils offrent un excellent rapport qualité-prix-plaisir. [...] Fruit d'une sélection de vieilles vignes de syrah et de grenache, fermentés et élevés en cuves pour les deux tiers. La couleur est sombre, les parfums aussi, marqués par la prune, la camerise, l'olive noire. En bouche, du volume , une assise solide, des notes d'épices qui se juxtaposent au fruit, et une sensation somme toute assez fraîche. »",
+      "price": "27,60 $",
+      "image_url": null,
+      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=9f0484ad42&e=c11422f941",
+      "producer": "Château Mourgues du Grès",
+      "region": "Costières de Nîmes",
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "COSTIÈRES-DE-NÎMES TERRE D'ARGENCE - 2022",
+          "description": "« Le domaine d'Anne et François Collard est une institution des Costières de Nîmes, et à liste titre. Non seulement leurs vins sont impeccables à tous les échelons, mais ils offrent un excellent rapport qualité-prix-plaisir. [...] Fruit d'une sélection de vieilles vignes de syrah et de grenache, fermentés et élevés en cuves pour les deux tiers. La couleur est sombre, les parfums aussi, marqués par la prune, la camerise, l'olive noire. En bouche, du volume , une assise solide, des notes d'épices qui se juxtaposent au fruit, et une sensation somme toute assez fraîche. »",
+          "price": "27,60 $",
+          "image_url": null,
+          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=9f0484ad42&e=c11422f941",
+          "producer": "Château Mourgues du Grès",
+          "region": "Costières de Nîmes",
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "COSTIÈRES-DE-NÎMES TERRE D'ARGENCE - 2022 is a dark and aromatic blend of old-vine Syrah and Grenache, offering a solid structure with notes of plum, black olive, and spices, all while maintaining a refreshing finish."
+  },
+  {
+    "id": "file-2025-08-14-vin-dame-jeanne-0.html-vignoble-du-reveur-alsace-blanc-pierres-sauvages",
+    "blockId": "file-2025-08-14-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-14T00:00:00.000Z",
+    "name": "VIGNOBLE DU RÊVEUR Alsace Blanc 'Pierres Sauvages'",
+    "description": "Hommage aux Pinots d'Alsace! Blanc sec de Pinot Noir, Pinot Blanc, Pinot Gris, tous complantés sur un terroir d'alluvions du quartenaire à Bennwihr. Presse directe, élevage en foudre sur lies fines. Un vin sec qui se révèle en douceur; une expression caillouteuse, magnifiquement aromatique sur le petrichor, le poivre blanc, et les petites baies sauvages. Pure et suave, un blanc qui coule dangereusement facilement! Un régal avec une poêlée de champignons sauvages ou encore des crustacés grillés.",
+    "price": "27.35$",
+    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+    "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=b87345e78e&e=345e10d07b",
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "VIGNOBLE DU RÊVEUR Alsace Blanc 'Pierres Sauvages'",
+      "description": "Hommage aux Pinots d'Alsace! Blanc sec de Pinot Noir, Pinot Blanc, Pinot Gris, tous complantés sur un terroir d'alluvions du quartenaire à Bennwihr. Presse directe, élevage en foudre sur lies fines. Un vin sec qui se révèle en douceur; une expression caillouteuse, magnifiquement aromatique sur le petrichor, le poivre blanc, et les petites baies sauvages. Pure et suave, un blanc qui coule dangereusement facilement! Un régal avec une poêlée de champignons sauvages ou encore des crustacés grillés.",
+      "price": "27.35$",
+      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+      "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=b87345e78e&e=345e10d07b",
+      "producer": "VIGNOBLE DU RÊVEUR",
+      "region": "Alsace",
+      "vintage": "2023",
+      "grape_varieties": [
+        "Pinot Noir",
+        "Pinot Blanc",
+        "Pinot Gris"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "VIGNOBLE DU RÊVEUR Alsace Blanc 'Pierres Sauvages'",
+          "description": "Hommage aux Pinots d'Alsace! Blanc sec de Pinot Noir, Pinot Blanc, Pinot Gris, tous complantés sur un terroir d'alluvions du quartenaire à Bennwihr. Presse directe, élevage en foudre sur lies fines. Un vin sec qui se révèle en douceur; une expression caillouteuse, magnifiquement aromatique sur le petrichor, le poivre blanc, et les petites baies sauvages. Pure et suave, un blanc qui coule dangereusement facilement! Un régal avec une poêlée de champignons sauvages ou encore des crustacés grillés.",
+          "price": "27.35$",
+          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+          "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=b87345e78e&e=345e10d07b",
+          "producer": "VIGNOBLE DU RÊVEUR",
+          "region": "Alsace",
+          "vintage": "2023",
+          "grape_varieties": [
+            "Pinot Noir",
+            "Pinot Blanc",
+            "Pinot Gris"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "VIGNOBLE DU RÊVEUR Alsace Blanc 'Pierres Sauvages' is a tribute to Alsace Pinots, revealing a smooth, dry expression with aromatic notes of petrichor, white pepper, and wild berries, flowing effortlessly in the glass."
+  },
+  {
+    "id": "file-2025-08-14-vin-dame-jeanne-0.html-domaine-marcel-deiss-alsace-blanc-zellenberg",
+    "blockId": "file-2025-08-14-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-14T00:00:00.000Z",
+    "name": "DOMAINE MARCEL DEISS Alsace Blanc 'Zellenberg'",
+    "description": "L'une des perles du vignoble d'Alsace, en bordure de la Route des Vins, entre Riquewihr (1km) et Ribeauvillé (3km), village pittoresque d'environ 400 habitants, juché sur sa colline en plein vignoble. Zellenberg allie charme et douceur de vivre avec ses maisons anciennes, ses petites rues étroites, ses fraîches fontaines. Ce vin provient d'une parcelle complantée de Riesling, Auxerrois, Pinot Blanc, Pinot Gris, et Pinot Noir située sur le finage de Zellenberg, à 290 m d'altitude (sur les lieu-dits Graffenreben et Ritterpfad). Presse directe de tous les cépages, élevage en foudre sur lies fines. Le substrat géologique mêlant des Marnes, une épaisseur importante de conglomérats côtiers calcaires et quelques apports cristallins quaternaires, confère un profil très aromatique, des couleurs fraiches et printanières, un touché de bouche sec, vertical, fin, et très élégant, une texture serrée et beaucoup d’éclat.",
+    "price": "37.75$",
+    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+    "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=c584c26632&e=345e10d07b",
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "DOMAINE MARCEL DEISS Alsace Blanc 'Zellenberg'",
+      "description": "L'une des perles du vignoble d'Alsace, en bordure de la Route des Vins, entre Riquewihr (1km) et Ribeauvillé (3km), village pittoresque d'environ 400 habitants, juché sur sa colline en plein vignoble. Zellenberg allie charme et douceur de vivre avec ses maisons anciennes, ses petites rues étroites, ses fraîches fontaines. Ce vin provient d'une parcelle complantée de Riesling, Auxerrois, Pinot Blanc, Pinot Gris, et Pinot Noir située sur le finage de Zellenberg, à 290 m d'altitude (sur les lieu-dits Graffenreben et Ritterpfad). Presse directe de tous les cépages, élevage en foudre sur lies fines. Le substrat géologique mêlant des Marnes, une épaisseur importante de conglomérats côtiers calcaires et quelques apports cristallins quaternaires, confère un profil très aromatique, des couleurs fraiches et printanières, un touché de bouche sec, vertical, fin, et très élégant, une texture serrée et beaucoup d’éclat.",
+      "price": "37.75$",
+      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+      "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=c584c26632&e=345e10d07b",
+      "producer": "DOMAINE MARCEL DEISS",
+      "region": "Alsace",
+      "vintage": "2023",
+      "grape_varieties": [
+        "Riesling",
+        "Auxerrois",
+        "Pinot Blanc",
+        "Pinot Gris",
+        "Pinot Noir"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "DOMAINE MARCEL DEISS Alsace Blanc 'Zellenberg'",
+          "description": "L'une des perles du vignoble d'Alsace, en bordure de la Route des Vins, entre Riquewihr (1km) et Ribeauvillé (3km), village pittoresque d'environ 400 habitants, juché sur sa colline en plein vignoble. Zellenberg allie charme et douceur de vivre avec ses maisons anciennes, ses petites rues étroites, ses fraîches fontaines. Ce vin provient d'une parcelle complantée de Riesling, Auxerrois, Pinot Blanc, Pinot Gris, et Pinot Noir située sur le finage de Zellenberg, à 290 m d'altitude (sur les lieu-dits Graffenreben et Ritterpfad). Presse directe de tous les cépages, élevage en foudre sur lies fines. Le substrat géologique mêlant des Marnes, une épaisseur importante de conglomérats côtiers calcaires et quelques apports cristallins quaternaires, confère un profil très aromatique, des couleurs fraiches et printanières, un touché de bouche sec, vertical, fin, et très élégant, une texture serrée et beaucoup d’éclat.",
+          "price": "37.75$",
+          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+          "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=c584c26632&e=345e10d07b",
+          "producer": "DOMAINE MARCEL DEISS",
+          "region": "Alsace",
+          "vintage": "2023",
+          "grape_varieties": [
+            "Riesling",
+            "Auxerrois",
+            "Pinot Blanc",
+            "Pinot Gris",
+            "Pinot Noir"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "DOMAINE MARCEL DEISS Alsace Blanc 'Zellenberg' is a gem from Alsace, showcasing a blend of Riesling, Auxerrois, and Pinots, with a fresh, elegant profile and a vibrant texture that reflects its unique terroir."
+  },
+  {
+    "id": "file-2025-08-14-vin-dame-jeanne-0.html-monte-bernardi-1l-rosso-fiasco",
+    "blockId": "file-2025-08-14-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-14T00:00:00.000Z",
+    "name": "MONTE BERNARDI 1L Rosso, 'Fiasco!'",
+    "description": "Une célébration de l'Italie ! Assemblage improbable et délicieux. Enfin un BON vin de table qui évoque la trattoria du coin et les longues soirées al fresco. Tous les raisins sont certifiés BIO, sélectionnés par le plus grand soin par Michael Schmeltzer et son équipe. Sangiovese, Malvasia Nera et Canaiolo de Toscane. Montepulciano de Le Marche. Frappato, Nerello Mascalese et Nero D'Avola de Sicile. Élevage en cuve béton et mise en bouteille en 'fiasco' d'un litre ! Ce rouge charmant regorge de fruits rouges juteux et d'une abondance d'épices italiennes. On sort le BBQ!",
+    "price": "28.30$",
+    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+    "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=abd1448718&e=345e10d07b",
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "MONTE BERNARDI 1L Rosso, 'Fiasco!'",
+      "description": "Une célébration de l'Italie ! Assemblage improbable et délicieux. Enfin un BON vin de table qui évoque la trattoria du coin et les longues soirées al fresco. Tous les raisins sont certifiés BIO, sélectionnés par le plus grand soin par Michael Schmeltzer et son équipe. Sangiovese, Malvasia Nera et Canaiolo de Toscane. Montepulciano de Le Marche. Frappato, Nerello Mascalese et Nero D'Avola de Sicile. Élevage en cuve béton et mise en bouteille en 'fiasco' d'un litre ! Ce rouge charmant regorge de fruits rouges juteux et d'une abondance d'épices italiennes. On sort le BBQ!",
+      "price": "28.30$",
+      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+      "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=abd1448718&e=345e10d07b",
+      "producer": "MONTE BERNARDI",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": [
+        "Sangiovese",
+        "Malvasia Nera",
+        "Canaiolo",
+        "Montepulciano",
+        "Frappato",
+        "Nerello Mascalese",
+        "Nero D'Avola"
+      ],
+      "alcohol_content": null,
+      "volume": "1L",
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "MONTE BERNARDI 1L Rosso, 'Fiasco!'",
+          "description": "Une célébration de l'Italie ! Assemblage improbable et délicieux. Enfin un BON vin de table qui évoque la trattoria du coin et les longues soirées al fresco. Tous les raisins sont certifiés BIO, sélectionnés par le plus grand soin par Michael Schmeltzer et son équipe. Sangiovese, Malvasia Nera et Canaiolo de Toscane. Montepulciano de Le Marche. Frappato, Nerello Mascalese et Nero D'Avola de Sicile. Élevage en cuve béton et mise en bouteille en 'fiasco' d'un litre ! Ce rouge charmant regorge de fruits rouges juteux et d'une abondance d'épices italiennes. On sort le BBQ!",
+          "price": "28.30$",
+          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+          "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=abd1448718&e=345e10d07b",
+          "producer": "MONTE BERNARDI",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": [
+            "Sangiovese",
+            "Malvasia Nera",
+            "Canaiolo",
+            "Montepulciano",
+            "Frappato",
+            "Nerello Mascalese",
+            "Nero D'Avola"
+          ],
+          "alcohol_content": null,
+          "volume": "1L",
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "MONTE BERNARDI 1L Rosso, 'Fiasco!' is a delightful celebration of Italy, blending organic Sangiovese, Malvasia Nera, and more, bursting with juicy red fruit and Italian spices, perfect for al fresco dining."
   },
   {
     "id": "file-2025-08-13-planvin-0.html-la-part-du-colibri-folle-blanche-2024",
@@ -404,7 +748,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "La Part du Colibri Folle Blanche 2024 is a pale green-tinged white from 40-year-old vines, showcasing a fresh and nervy character with beautiful tension and subtle mineral notes."
   },
   {
     "id": "file-2025-08-13-planvin-0.html-la-part-du-colibri-gamay-2024",
@@ -451,7 +796,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "La Part du Colibri Gamay 2024 is a vibrant expression of Gamay from 30-35-year-old vines, showcasing a fresh and juicy palate with bright fruit, rooted in volcanic gabbro soil."
   },
   {
     "id": "file-2025-08-12-domaine-du-nival-0.html-caisse-dautomne-millesime-2024",
@@ -470,7 +816,7 @@
       "price": "206,00$",
       "image_url": "https://cdn.shopify.com/shopify-email/rcpxixmohcua4qwks961cfvi4scp.png?width=960&height=960&crop=center_legacy",
       "link": "https://www.nival.ca/_t/c/v3/AAD7LDNQd2KlphbnSNOd5WaPr1n5H5mBQ8Vgpcmfg2FviXbhP7B6G9h3PnEsI0xt_b3YckDLtUYSZ2fuFKrfkVE_lLmOVAa1b2OsjlODPKrZuyDA6HdZc1uY_Z0jboq3WzSDO4voW9HKCAWVnnlZ1NSxDFOoE9cDeMgRYpX-VAahozy3XowE9XWoO-qREkeBC3aLEsLqXgl_-JUecwL-HgPeRyKGaJ_Qr73zogsI0lrw18gdThSvaUPPB9upxaG7VykL7ZkXe7IRC6SBWeDHAQy9EJevCAlbGpOhZutSiQf08UIXzFQh75bahezfW7uL9xEu18HEP4Y824ZuL-FANMF_bMAzWKZgsZtGZ8FUYaN6bFPuwPPmzjYE_DEcXbS0ZtZ7s19wyBrn6uic0N2_wyOHs3JcOyXS2_CcDdg2bXH7AMfsjF3l0tY-NryHwqi0F1egXAbVMCpwCfZun6DbCKrJz-nAQHFE5TfyYxJW7lDCLgv7mZcOZyJ3Xndg3WOxysrrzqoLZanK_JUyS4aTFp45-swb_973VIDuY6C_dL_NjxBaeomMHcC6699QS7KSwiYFQumULll-zF-kT7BH_s4=",
-      "producer": null,
+      "producer": "Domaine du Nival",
       "region": null,
       "vintage": "2024",
       "grape_varieties": null,
@@ -484,7 +830,7 @@
           "price": "206,00$",
           "image_url": "https://cdn.shopify.com/shopify-email/rcpxixmohcua4qwks961cfvi4scp.png?width=960&height=960&crop=center_legacy",
           "link": "https://www.nival.ca/_t/c/v3/AAD7LDNQd2KlphbnSNOd5WaPr1n5H5mBQ8Vgpcmfg2FviXbhP7B6G9h3PnEsI0xt_b3YckDLtUYSZ2fuFKrfkVE_lLmOVAa1b2OsjlODPKrZuyDA6HdZc1uY_Z0jboq3WzSDO4voW9HKCAWVnnlZ1NSxDFOoE9cDeMgRYpX-VAahozy3XowE9XWoO-qREkeBC3aLEsLqXgl_-JUecwL-HgPeRyKGaJ_Qr73zogsI0lrw18gdThSvaUPPB9upxaG7VykL7ZkXe7IRC6SBWeDHAQy9EJevCAlbGpOhZutSiQf08UIXzFQh75bahezfW7uL9xEu18HEP4Y824ZuL-FANMF_bMAzWKZgsZtGZ8FUYaN6bFPuwPPmzjYE_DEcXbS0ZtZ7s19wyBrn6uic0N2_wyOHs3JcOyXS2_CcDdg2bXH7AMfsjF3l0tY-NryHwqi0F1egXAbVMCpwCfZun6DbCKrJz-nAQHFE5TfyYxJW7lDCLgv7mZcOZyJ3Xndg3WOxysrrzqoLZanK_JUyS4aTFp45-swb_973VIDuY6C_dL_NjxBaeomMHcC6699QS7KSwiYFQumULll-zF-kT7BH_s4=",
-          "producer": null,
+          "producer": "Domaine du Nival",
           "region": null,
           "vintage": "2024",
           "grape_varieties": null,
@@ -494,7 +840,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "Caisse d'automne - Millésime 2024 offers the best of both worlds with a mixed case featuring four bottles of Matière à discussion 2024 and two bottles of Un de ces quatre 2024, available in limited quantity."
   },
   {
     "id": "file-2025-08-12-domaine-du-nival-0.html-matiere-a-discussion-2024",
@@ -513,7 +860,7 @@
       "price": "32,50$",
       "image_url": "https://cdn.shopify.com/shopify-email/5lx7rtg2qdxj5qf4fncjkf6vrmls.png?width=960&height=960&crop=center_legacy",
       "link": "https://www.nival.ca/_t/c/v3/AADofZ5k0rnOasBRg-fRZ3MYPlVEMFM8FgsZG94Z12vch82WTJ8ebAHv4W7hT_wieRPW3HuC-y2NWZeuLpjpGTrNyzCjQ0TJ9JKpii88IlT2O_dJskNqgSBktrfP9yyCsnuNbEP4W7LvYMr5qhtT7W9GtIu-XJlGDJRELuNB-_SB0ZsBqeW_J8rlziKsZ7_G-Hv3OP9vTFltnSasohYWkL561nueS739SMPBVR21Vr-Os8EQeUx4FmopC_EzZfz9H-o6zAI6SErP1UfHVOJAHDa9UCcRxL71VvBm4NTV6i2Gl5vpFiuCQAycY5Ad8S9Eggel2679pmGbMLaUPTs9A7576JgbENVcOioe1VxVEG_Wy86DJdDzqbAq_msxOCbK97i1sWmmG3L8iO4ANSryg7zRA9WGfLS6dX3lch7kPPrH7SlVg7VvZz2NjjdmNtSlPNziDnHPS72AwJp7vG2QqmFzMN6mG7_P49pu97lN32s0Q1K8ZrgblU_zVh-cQN0Fis0SxqxK-eEWkSauYK_ztnI5jScQt36RTbAJZxfGzvHoCQyxn-6cAaYTHWixK5A3O4w0ldoaXMcz1A12",
-      "producer": null,
+      "producer": "Domaine du Nival",
       "region": null,
       "vintage": "2024",
       "grape_varieties": null,
@@ -527,7 +874,7 @@
           "price": "32,50$",
           "image_url": "https://cdn.shopify.com/shopify-email/5lx7rtg2qdxj5qf4fncjkf6vrmls.png?width=960&height=960&crop=center_legacy",
           "link": "https://www.nival.ca/_t/c/v3/AADofZ5k0rnOasBRg-fRZ3MYPlVEMFM8FgsZG94Z12vch82WTJ8ebAHv4W7hT_wieRPW3HuC-y2NWZeuLpjpGTrNyzCjQ0TJ9JKpii88IlT2O_dJskNqgSBktrfP9yyCsnuNbEP4W7LvYMr5qhtT7W9GtIu-XJlGDJRELuNB-_SB0ZsBqeW_J8rlziKsZ7_G-Hv3OP9vTFltnSasohYWkL561nueS739SMPBVR21Vr-Os8EQeUx4FmopC_EzZfz9H-o6zAI6SErP1UfHVOJAHDa9UCcRxL71VvBm4NTV6i2Gl5vpFiuCQAycY5Ad8S9Eggel2679pmGbMLaUPTs9A7576JgbENVcOioe1VxVEG_Wy86DJdDzqbAq_msxOCbK97i1sWmmG3L8iO4ANSryg7zRA9WGfLS6dX3lch7kPPrH7SlVg7VvZz2NjjdmNtSlPNziDnHPS72AwJp7vG2QqmFzMN6mG7_P49pu97lN32s0Q1K8ZrgblU_zVh-cQN0Fis0SxqxK-eEWkSauYK_ztnI5jScQt36RTbAJZxfGzvHoCQyxn-6cAaYTHWixK5A3O4w0ldoaXMcz1A12",
-          "producer": null,
+          "producer": "Domaine du Nival",
           "region": null,
           "vintage": "2024",
           "grape_varieties": null,
@@ -538,7 +885,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Matière à discussion 2024 continues to evolve with finesse and precision, showcasing the best of Vidal with expressive aromas of pears, floral notes, and citrus. This fresh and crunchy wine offers beautiful amplitude, best served chilled, and promises delightful evolution with age."
+    "summary": "Matière à discussion 2024 continues to impress with its elegance and precision, offering expressive notes of pear, floral hints, and citrus, with a fresh and ample palate that evolves beautifully with age."
   },
   {
     "id": "file-2025-08-12-domaine-du-nival-0.html-un-de-ces-quatre-2024",
@@ -557,7 +904,7 @@
       "price": "38,00$",
       "image_url": "https://cdn.shopify.com/shopify-email/yjhjhvhova6and561wrjonmey16g.png?width=960&height=960&crop=center_legacy",
       "link": "https://www.nival.ca/_t/c/v3/AAA5e6pQLIL-pdE5PWJUoOQIbli7xKQYMoK4RRv9STjUoa7F9alYioLxiN5qzqbIWJPvZiX85OKFnce-umkmNH0zS2ioBn-IeEM4vDZtODxmRh4GN1COburg6Kl5vrEmvh-vUZKsDNC61_CCkrrgH3D6I6X_tpz0KZF46WBSWdWiJBXPYHUtJJzOQ86iNARQelu8EirMMZyUj-EmJEwcM5DrzhSk56VNNTFmSJyeD1N7OuU3Dw_m4Hz2rwFx0MkUECLbrwT3X8a5fWmCEB29p3OBnMFU5fI-dahsBcrQ3vKFKEPMfhhJsspSa70uLLNfKtwUkoJf35S4VTTsmv4htJnZxMunlz8T0qV4dp28fuy3FdOtJjs8TKqtXpmI2jiUp7FXgFwLx7fuZOnpKktqRnVy0iWxfT6ENWHi5h8lxuebyllqZpQBiFkNA2fiXkJhVxHxfvZOalkZ55qZ4rxv9vSY69M3WYZ2s3u-faSUrKF7zXxD2xp5M9XSvKX6Mqom1-1ChnL7S4bPN5l26FTRcT2KEokvWm_BQSwCpjpJJiL7md-WsI15oJtKk-5DJPYzUedYYpO4Pdc=",
-      "producer": null,
+      "producer": "Domaine du Nival",
       "region": null,
       "vintage": "2024",
       "grape_varieties": null,
@@ -571,7 +918,7 @@
           "price": "38,00$",
           "image_url": "https://cdn.shopify.com/shopify-email/yjhjhvhova6and561wrjonmey16g.png?width=960&height=960&crop=center_legacy",
           "link": "https://www.nival.ca/_t/c/v3/AAA5e6pQLIL-pdE5PWJUoOQIbli7xKQYMoK4RRv9STjUoa7F9alYioLxiN5qzqbIWJPvZiX85OKFnce-umkmNH0zS2ioBn-IeEM4vDZtODxmRh4GN1COburg6Kl5vrEmvh-vUZKsDNC61_CCkrrgH3D6I6X_tpz0KZF46WBSWdWiJBXPYHUtJJzOQ86iNARQelu8EirMMZyUj-EmJEwcM5DrzhSk56VNNTFmSJyeD1N7OuU3Dw_m4Hz2rwFx0MkUECLbrwT3X8a5fWmCEB29p3OBnMFU5fI-dahsBcrQ3vKFKEPMfhhJsspSa70uLLNfKtwUkoJf35S4VTTsmv4htJnZxMunlz8T0qV4dp28fuy3FdOtJjs8TKqtXpmI2jiUp7FXgFwLx7fuZOnpKktqRnVy0iWxfT6ENWHi5h8lxuebyllqZpQBiFkNA2fiXkJhVxHxfvZOalkZ55qZ4rxv9vSY69M3WYZ2s3u-faSUrKF7zXxD2xp5M9XSvKX6Mqom1-1ChnL7S4bPN5l26FTRcT2KEokvWm_BQSwCpjpJJiL7md-WsI15oJtKk-5DJPYzUedYYpO4Pdc=",
-          "producer": null,
+          "producer": "Domaine du Nival",
           "region": null,
           "vintage": "2024",
           "grape_varieties": null,
@@ -582,7 +929,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Un de ces quatre 2024 showcases the exceptional quality of Gamaret, with a concentrated profile resulting from a warm, dry September. This vintage offers deep aromas of ripe fruit and enticing spicy notes, with a dense, ample palate and well-integrated tannins that promise to impress."
+    "summary": "Un de ces quatre 2024 showcases the concentrated power of Gamaret, with deep, ripe fruit and enchanting spicy notes, offering a dense and ample palate with beautifully integrated tannins."
   },
   {
     "id": "file-2025-08-09-le-vin-dans-les-voiles-0.html-lapostrophe-2024",
@@ -626,14 +973,14 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "L'Apostrophe 2024 is an author-driven rosé that captures the freshness of clear Provençal mornings, with juicy cranberry notes and a hint of white pepper. This dry, vibrant, and elegant wine shines at picnics, brunches, or casual gatherings, like a ray of sunshine in your glass."
+    "summary": "L'Apostrophe 2024 is an author-driven rosé that captures the freshness of clear Provence mornings, with juicy cranberry notes and a hint of white pepper, radiating elegance and vibrancy."
   },
   {
     "id": "file-2025-08-09-le-vin-dans-les-voiles-0.html-la-mariole-2022",
     "blockId": "file-2025-08-09-le-vin-dans-les-voiles-0.html",
     "createdAt": "2025-08-09T00:00:00.000Z",
     "name": "La Mariole 2022",
-    "description": "(Attention, la nouvelle étiquette ici n'a pas été mise à jour sur SAQ.com) Un rouge méditerranéen qui a du mordant. Fruits noirs bien mûrs, un soupçon de cuir, un poil d’épices… c’est solaire et sans détour. Servi rafraîchi, il flirte entre la tendresse et le tempérament, parfait pour des côtes levées caramélisées, un burger costaud ou même une pizza au feu de bois. Un vin qui a l’air d’un dur, mais qui fond en bouche.",
+    "description": "Un rouge méditerranéen qui a du mordant. Fruits noirs bien mûrs, un soupçon de cuir, un poil d’épices… c’est solaire et sans détour. Servi rafraîchi, il flirte entre la tendresse et le tempérament, parfait pour des côtes levées caramélisées, un burger costaud ou même une pizza au feu de bois. Un vin qui a l’air d’un dur, mais qui fond en bouche.",
     "price": "24.70$",
     "image_url": null,
     "link": "http://SAQ.com",
@@ -641,7 +988,7 @@
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "La Mariole 2022",
-      "description": "(Attention, la nouvelle étiquette ici n'a pas été mise à jour sur SAQ.com) Un rouge méditerranéen qui a du mordant. Fruits noirs bien mûrs, un soupçon de cuir, un poil d’épices… c’est solaire et sans détour. Servi rafraîchi, il flirte entre la tendresse et le tempérament, parfait pour des côtes levées caramélisées, un burger costaud ou même une pizza au feu de bois. Un vin qui a l’air d’un dur, mais qui fond en bouche.",
+      "description": "Un rouge méditerranéen qui a du mordant. Fruits noirs bien mûrs, un soupçon de cuir, un poil d’épices… c’est solaire et sans détour. Servi rafraîchi, il flirte entre la tendresse et le tempérament, parfait pour des côtes levées caramélisées, un burger costaud ou même une pizza au feu de bois. Un vin qui a l’air d’un dur, mais qui fond en bouche.",
       "price": "24.70$",
       "image_url": null,
       "link": "http://SAQ.com",
@@ -655,7 +1002,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "La Mariole 2022",
-          "description": "(Attention, la nouvelle étiquette ici n'a pas été mise à jour sur SAQ.com) Un rouge méditerranéen qui a du mordant. Fruits noirs bien mûrs, un soupçon de cuir, un poil d’épices… c’est solaire et sans détour. Servi rafraîchi, il flirte entre la tendresse et le tempérament, parfait pour des côtes levées caramélisées, un burger costaud ou même une pizza au feu de bois. Un vin qui a l’air d’un dur, mais qui fond en bouche.",
+          "description": "Un rouge méditerranéen qui a du mordant. Fruits noirs bien mûrs, un soupçon de cuir, un poil d’épices… c’est solaire et sans détour. Servi rafraîchi, il flirte entre la tendresse et le tempérament, parfait pour des côtes levées caramélisées, un burger costaud ou même une pizza au feu de bois. Un vin qui a l’air d’un dur, mais qui fond en bouche.",
           "price": "24.70$",
           "image_url": null,
           "link": "http://SAQ.com",
@@ -670,358 +1017,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Mariole 2022 is a bold Mediterranean red with ripe dark fruit, a hint of leather, and a touch of spice, embodying a sunny and straightforward character. Served chilled, it balances tenderness and temperament, making it ideal for caramelized ribs, hearty burgers, or wood-fired pizza."
-  },
-  {
-    "id": "file-2025-08-08-noble-selection-0.html-spumante-brut-2024",
-    "blockId": "file-2025-08-08-noble-selection-0.html",
-    "createdAt": "2025-08-08T00:00:00.000Z",
-    "name": "Spumante Brut 2024",
-    "description": "Cette cuvée est élaborée selon la méthode Charmat (aussi appelée méthode Martinotti), idéale pour préserver fraîcheur et arômes fruités. La première fermentation se déroule en cuves inox à température contrôlée, avec des levures sélectionnées. Puis débute une seconde fermentation en autoclave à environ 15–16 °C pendant environ 30 jours, ce qui crée un perlage fin et persistant, caractéristique de ce type de spumante. Après fermentation, le vin est stabilisé par froid, filtré, puis mis en bouteille sous pression, sans vieillissement en fût.",
-    "price": "15,80$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-spumante-brut-2024.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9e97f2d320&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Spumante Brut 2024",
-      "description": "Cette cuvée est élaborée selon la méthode Charmat (aussi appelée méthode Martinotti), idéale pour préserver fraîcheur et arômes fruités. La première fermentation se déroule en cuves inox à température contrôlée, avec des levures sélectionnées. Puis débute une seconde fermentation en autoclave à environ 15–16 °C pendant environ 30 jours, ce qui crée un perlage fin et persistant, caractéristique de ce type de spumante. Après fermentation, le vin est stabilisé par froid, filtré, puis mis en bouteille sous pression, sans vieillissement en fût.",
-      "price": "15,80$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-spumante-brut-2024.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9e97f2d320&e=2c9a262afa",
-      "producer": "BOTTEGA",
-      "region": "Vénétie",
-      "vintage": "2024",
-      "grape_varieties": [
-        "Glera",
-        "Chardonnay",
-        "Pinot Grigio"
-      ],
-      "alcohol_content": "11%",
-      "volume": "750ml",
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Spumante Brut 2024",
-          "description": "Cette cuvée est élaborée selon la méthode Charmat (aussi appelée méthode Martinotti), idéale pour préserver fraîcheur et arômes fruités. La première fermentation se déroule en cuves inox à température contrôlée, avec des levures sélectionnées. Puis débute une seconde fermentation en autoclave à environ 15–16 °C pendant environ 30 jours, ce qui crée un perlage fin et persistant, caractéristique de ce type de spumante. Après fermentation, le vin est stabilisé par froid, filtré, puis mis en bouteille sous pression, sans vieillissement en fût.",
-          "price": "15,80$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-spumante-brut-2024.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=9e97f2d320&e=2c9a262afa",
-          "producer": "BOTTEGA",
-          "region": "Vénétie",
-          "vintage": "2024",
-          "grape_varieties": [
-            "Glera",
-            "Chardonnay",
-            "Pinot Grigio"
-          ],
-          "alcohol_content": "11%",
-          "volume": "750ml",
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-08-noble-selection-0.html-bourgogne-chardonnay-2023",
-    "blockId": "file-2025-08-08-noble-selection-0.html",
-    "createdAt": "2025-08-08T00:00:00.000Z",
-    "name": "Bourgogne Chardonnay 2023",
-    "description": null,
-    "price": "26,70$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bourgogne-chardonnay-2022.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=1633764adb&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Bourgogne Chardonnay 2023",
-      "description": null,
-      "price": "26,70$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bourgogne-chardonnay-2022.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=1633764adb&e=2c9a262afa",
-      "producer": "JEAN-MARC BROCARD",
-      "region": null,
-      "vintage": "2023",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Bourgogne Chardonnay 2023",
-          "description": null,
-          "price": "26,70$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bourgogne-chardonnay-2022.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=1633764adb&e=2c9a262afa",
-          "producer": "JEAN-MARC BROCARD",
-          "region": null,
-          "vintage": "2023",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-08-noble-selection-0.html-le-prieure-corbieres-2023",
-    "blockId": "file-2025-08-08-noble-selection-0.html",
-    "createdAt": "2025-08-08T00:00:00.000Z",
-    "name": "Le Prieuré Corbières 2023",
-    "description": null,
-    "price": "18,25$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-de-vaugelas-le-prieur---corbi--res.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=acbf1f750f&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Le Prieuré Corbières 2023",
-      "description": null,
-      "price": "18,25$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-de-vaugelas-le-prieur---corbi--res.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=acbf1f750f&e=2c9a262afa",
-      "producer": "BONFILS - CHÂTEAU VAUGELAS",
-      "region": null,
-      "vintage": "2023",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Le Prieuré Corbières 2023",
-          "description": null,
-          "price": "18,25$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-de-vaugelas-le-prieur---corbi--res.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=acbf1f750f&e=2c9a262afa",
-          "producer": "BONFILS - CHÂTEAU VAUGELAS",
-          "region": null,
-          "vintage": "2023",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-08-noble-selection-0.html-alentejo-rouge-2023",
-    "blockId": "file-2025-08-08-noble-selection-0.html",
-    "createdAt": "2025-08-08T00:00:00.000Z",
-    "name": "Alentejo rouge 2023",
-    "description": "Vendanges manuelles, transportées directement au chai pour l'égrappage. La fermentation a lieu en cuve inox avec levures indigènes et avec les peaux jusqu'à 5 jours après la fermentation alcoolique. Fermentation malolactique complétée en cuve avant que le vin soit soutiré en barrique de chêne. Situées à 300 mètres d'altitude, ces parcelles sont composées de sol granitique à haute teneur en argile et sable.",
-    "price": "21,15$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_coelheiros-alentejo.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=1e7430617d&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Alentejo rouge 2023",
-      "description": "Vendanges manuelles, transportées directement au chai pour l'égrappage. La fermentation a lieu en cuve inox avec levures indigènes et avec les peaux jusqu'à 5 jours après la fermentation alcoolique. Fermentation malolactique complétée en cuve avant que le vin soit soutiré en barrique de chêne. Situées à 300 mètres d'altitude, ces parcelles sont composées de sol granitique à haute teneur en argile et sable.",
-      "price": "21,15$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_coelheiros-alentejo.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=1e7430617d&e=2c9a262afa",
-      "producer": "HERDADE DE COELHEIROS",
-      "region": "Alentejo, Portugal",
-      "vintage": "2023",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Alentejo rouge 2023",
-          "description": "Vendanges manuelles, transportées directement au chai pour l'égrappage. La fermentation a lieu en cuve inox avec levures indigènes et avec les peaux jusqu'à 5 jours après la fermentation alcoolique. Fermentation malolactique complétée en cuve avant que le vin soit soutiré en barrique de chêne. Situées à 300 mètres d'altitude, ces parcelles sont composées de sol granitique à haute teneur en argile et sable.",
-          "price": "21,15$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_coelheiros-alentejo.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=1e7430617d&e=2c9a262afa",
-          "producer": "HERDADE DE COELHEIROS",
-          "region": "Alentejo, Portugal",
-          "vintage": "2023",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-08-noble-selection-0.html-vision-gruner-veltliner-2024",
-    "blockId": "file-2025-08-08-noble-selection-0.html",
-    "createdAt": "2025-08-08T00:00:00.000Z",
-    "name": "Vision Grüner Veltliner 2024",
-    "description": null,
-    "price": "19,65$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_vision-huber.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ad589abf9d&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Vision Grüner Veltliner 2024",
-      "description": null,
-      "price": "19,65$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_vision-huber.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ad589abf9d&e=2c9a262afa",
-      "producer": "HUBER",
-      "region": null,
-      "vintage": "2024",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Vision Grüner Veltliner 2024",
-          "description": null,
-          "price": "19,65$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_vision-huber.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ad589abf9d&e=2c9a262afa",
-          "producer": "HUBER",
-          "region": null,
-          "vintage": "2024",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-08-noble-selection-0.html-soave-classico-2024",
-    "blockId": "file-2025-08-08-noble-selection-0.html",
-    "createdAt": "2025-08-08T00:00:00.000Z",
-    "name": "Soave Classico 2024",
-    "description": null,
-    "price": "22,35$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_pieropan-soave-classico-2023.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ccdf61f51d&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Soave Classico 2024",
-      "description": null,
-      "price": "22,35$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_pieropan-soave-classico-2023.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ccdf61f51d&e=2c9a262afa",
-      "producer": "Pieropan",
-      "region": null,
-      "vintage": "2024",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Soave Classico 2024",
-          "description": null,
-          "price": "22,35$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_pieropan-soave-classico-2023.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ccdf61f51d&e=2c9a262afa",
-          "producer": "Pieropan",
-          "region": null,
-          "vintage": "2024",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-08-noble-selection-0.html-chianti-classico-2022",
-    "blockId": "file-2025-08-08-noble-selection-0.html",
-    "createdAt": "2025-08-08T00:00:00.000Z",
-    "name": "Chianti Classico 2022",
-    "description": null,
-    "price": "21,50$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_san-felice-chianti-classico-copie.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ad85c571f3&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Chianti Classico 2022",
-      "description": null,
-      "price": "21,50$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_san-felice-chianti-classico-copie.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ad85c571f3&e=2c9a262afa",
-      "producer": "SAN FELICE",
-      "region": null,
-      "vintage": "2022",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Chianti Classico 2022",
-          "description": null,
-          "price": "21,50$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_san-felice-chianti-classico-copie.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ad85c571f3&e=2c9a262afa",
-          "producer": "SAN FELICE",
-          "region": null,
-          "vintage": "2022",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-08-noble-selection-0.html-maison-les-alexandrins-crozes-hermitage-2022",
-    "blockId": "file-2025-08-08-noble-selection-0.html",
-    "createdAt": "2025-08-08T00:00:00.000Z",
-    "name": "Maison les Alexandrins Crozes-Hermitage 2022",
-    "description": null,
-    "price": "29,90$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_crozes_hermitage_rouge_1641571440_retina.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=be4430132a&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Maison les Alexandrins Crozes-Hermitage 2022",
-      "description": null,
-      "price": "29,90$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_crozes_hermitage_rouge_1641571440_retina.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=be4430132a&e=2c9a262afa",
-      "producer": "LES ALEXANDRINS",
-      "region": null,
-      "vintage": "2022",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Maison les Alexandrins Crozes-Hermitage 2022",
-          "description": null,
-          "price": "29,90$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_crozes_hermitage_rouge_1641571440_retina.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=be4430132a&e=2c9a262afa",
-          "producer": "LES ALEXANDRINS",
-          "region": null,
-          "vintage": "2022",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
+    "summary": "La Mariole 2022 is a Mediterranean red with bold ripe black fruit, a hint of leather, and spices, striking a balance between tenderness and temperament, ideal for hearty dishes."
   }
 ]
