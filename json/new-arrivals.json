@@ -1,10 +1,942 @@
 [
   {
+    "id": "file-2025-08-15-noble-selection-0.html-soif-blanc-2023",
+    "blockId": "file-2025-08-15-noble-selection-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Soif Blanc 2023",
+    "description": "Le millésime 2023 a été vinifié en pressurage direct, avec des levures indigènes et sans ajout d’intrants. La fermentation s’est faite naturellement en cuve inox pour préserver la fraîcheur et le profil aromatique du vin. Aucun élevage sous bois, et très peu ou pas de soufre à la mise en bouteille afin de conserver un vin pur, vivant et digeste.",
+    "price": "24,20$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_soif-blanc.jpg",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=3eda6663a8&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Soif Blanc 2023",
+      "description": "Le millésime 2023 a été vinifié en pressurage direct, avec des levures indigènes et sans ajout d’intrants. La fermentation s’est faite naturellement en cuve inox pour préserver la fraîcheur et le profil aromatique du vin. Aucun élevage sous bois, et très peu ou pas de soufre à la mise en bouteille afin de conserver un vin pur, vivant et digeste.",
+      "price": "24,20$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_soif-blanc.jpg",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=3eda6663a8&e=2c9a262afa",
+      "producer": "LE LOUP BLANC",
+      "region": "Languedoc-Roussillon",
+      "vintage": "2023",
+      "grape_varieties": [
+        "Grenache gris",
+        "Grenache Blanc",
+        "Terret",
+        "Vermentino",
+        "Macabeu"
+      ],
+      "alcohol_content": "12%",
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Soif Blanc 2023",
+          "description": "Le millésime 2023 a été vinifié en pressurage direct, avec des levures indigènes et sans ajout d’intrants. La fermentation s’est faite naturellement en cuve inox pour préserver la fraîcheur et le profil aromatique du vin. Aucun élevage sous bois, et très peu ou pas de soufre à la mise en bouteille afin de conserver un vin pur, vivant et digeste.",
+          "price": "24,20$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_soif-blanc.jpg",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=3eda6663a8&e=2c9a262afa",
+          "producer": "LE LOUP BLANC",
+          "region": "Languedoc-Roussillon",
+          "vintage": "2023",
+          "grape_varieties": [
+            "Grenache gris",
+            "Grenache Blanc",
+            "Terret",
+            "Vermentino",
+            "Macabeu"
+          ],
+          "alcohol_content": "12%",
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Soif Blanc 2023 is a pure expression of nature, crafted with indigenous yeasts and minimal intervention, showcasing vibrant freshness and aromatic finesse without the influence of oak or added sulfites."
+  },
+  {
+    "id": "file-2025-08-15-noble-selection-0.html-pour-ma-gueule-pet-nat-2021",
+    "blockId": "file-2025-08-15-noble-selection-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Pour Ma Gueule Pet Nat 2021",
+    "description": "Élaborée selon la méthode ancestrale, cette cuvée pétillante se distingue par sa naturalité. Contrairement à la méthode traditionnelle, aucun sucre n’est ajouté pour la prise de mousse, et aucune liqueur d’expédition n’intervient au dégorgement.",
+    "price": "26,70$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_pmg-pet-nat-2021.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4dbb995c13&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Pour Ma Gueule Pet Nat 2021",
+      "description": "Élaborée selon la méthode ancestrale, cette cuvée pétillante se distingue par sa naturalité. Contrairement à la méthode traditionnelle, aucun sucre n’est ajouté pour la prise de mousse, et aucune liqueur d’expédition n’intervient au dégorgement.",
+      "price": "26,70$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_pmg-pet-nat-2021.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4dbb995c13&e=2c9a262afa",
+      "producer": "DOMAINE FOUET",
+      "region": "Vallée de la Loire",
+      "vintage": "2021",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Pour Ma Gueule Pet Nat 2021",
+          "description": "Élaborée selon la méthode ancestrale, cette cuvée pétillante se distingue par sa naturalité. Contrairement à la méthode traditionnelle, aucun sucre n’est ajouté pour la prise de mousse, et aucune liqueur d’expédition n’intervient au dégorgement.",
+          "price": "26,70$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_pmg-pet-nat-2021.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4dbb995c13&e=2c9a262afa",
+          "producer": "DOMAINE FOUET",
+          "region": "Vallée de la Loire",
+          "vintage": "2021",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Pour Ma Gueule Pet Nat 2021 is a naturally sparkling wine crafted using ancestral methods, celebrating its authenticity with no added sugars or liqueurs, resulting in a pure and lively effervescence."
+  },
+  {
+    "id": "file-2025-08-15-noble-selection-0.html-baglio-di-grisi-grillo-sicilia-2023",
+    "blockId": "file-2025-08-15-noble-selection-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Baglio di Grisi Grillo Sicilia 2023",
+    "description": null,
+    "price": "18,75$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_baglio-di-grisi-grillo-2023.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=d8e967e375&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Baglio di Grisi Grillo Sicilia 2023",
+      "description": null,
+      "price": "18,75$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_baglio-di-grisi-grillo-2023.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=d8e967e375&e=2c9a262afa",
+      "producer": "BAGLIO DI GRISI",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Baglio di Grisi Grillo Sicilia 2023",
+          "description": null,
+          "price": "18,75$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_baglio-di-grisi-grillo-2023.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=d8e967e375&e=2c9a262afa",
+          "producer": "BAGLIO DI GRISI",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-15-noble-selection-0.html-basa-rueda-2023",
+    "blockId": "file-2025-08-15-noble-selection-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Basa Rueda 2023",
+    "description": null,
+    "price": "19,65$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_telmo-rodriguez-basa-rueda-2022-copie.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=0a0545383d&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Basa Rueda 2023",
+      "description": null,
+      "price": "19,65$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_telmo-rodriguez-basa-rueda-2022-copie.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=0a0545383d&e=2c9a262afa",
+      "producer": "COMPAÑIA DE VINOS TELMO RODRIGUEZ",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Basa Rueda 2023",
+          "description": null,
+          "price": "19,65$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_telmo-rodriguez-basa-rueda-2022-copie.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=0a0545383d&e=2c9a262afa",
+          "producer": "COMPAÑIA DE VINOS TELMO RODRIGUEZ",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-15-noble-selection-0.html-terres-destandon-2024",
+    "blockId": "file-2025-08-15-noble-selection-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Terres d'Estandon 2024",
+    "description": null,
+    "price": "20,30$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_terres-d-estandon.jpg",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=03390397a9&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Terres d'Estandon 2024",
+      "description": null,
+      "price": "20,30$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_terres-d-estandon.jpg",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=03390397a9&e=2c9a262afa",
+      "producer": "ESTANDON",
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Terres d'Estandon 2024",
+          "description": null,
+          "price": "20,30$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_terres-d-estandon.jpg",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=03390397a9&e=2c9a262afa",
+          "producer": "ESTANDON",
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-15-noble-selection-0.html-ruberpan-2021",
+    "blockId": "file-2025-08-15-noble-selection-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Ruberpan 2021",
+    "description": null,
+    "price": "30,50$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_pieropan-ruberpan-2021.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=21510eb149&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Ruberpan 2021",
+      "description": null,
+      "price": "30,50$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_pieropan-ruberpan-2021.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=21510eb149&e=2c9a262afa",
+      "producer": "Pieropan",
+      "region": null,
+      "vintage": "2021",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Ruberpan 2021",
+          "description": null,
+          "price": "30,50$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_pieropan-ruberpan-2021.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=21510eb149&e=2c9a262afa",
+          "producer": "Pieropan",
+          "region": null,
+          "vintage": "2021",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-15-vin-dame-jeanne-0.html-bourgogne-blanc-2023",
+    "blockId": "file-2025-08-15-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Bourgogne Blanc, 2023",
+    "description": "Un Bourgogne exceptionnel, aux rendements infimes. Le Bourgogne Blanc affiche une concentration et une intensité de saveurs hors-norme, plus proche d’un Meursault de haut vol que d’un simple régional… Un vin sans fard et sans artifice, au jus séveux et expressif. Une superbe composition, à l'équilibre souverain et la persistance phénoménale.",
+    "price": "79.50$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Bourgogne Blanc, 2023",
+      "description": "Un Bourgogne exceptionnel, aux rendements infimes. Le Bourgogne Blanc affiche une concentration et une intensité de saveurs hors-norme, plus proche d’un Meursault de haut vol que d’un simple régional… Un vin sans fard et sans artifice, au jus séveux et expressif. Une superbe composition, à l'équilibre souverain et la persistance phénoménale.",
+      "price": "79.50$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Vincent Dancer",
+      "region": "Bourgogne",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Bourgogne Blanc, 2023",
+          "description": "Un Bourgogne exceptionnel, aux rendements infimes. Le Bourgogne Blanc affiche une concentration et une intensité de saveurs hors-norme, plus proche d’un Meursault de haut vol que d’un simple régional… Un vin sans fard et sans artifice, au jus séveux et expressif. Une superbe composition, à l'équilibre souverain et la persistance phénoménale.",
+          "price": "79.50$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Vincent Dancer",
+          "region": "Bourgogne",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Bourgogne Blanc 2023 is an exceptional wine with remarkable concentration and intensity, reminiscent of a high-end Meursault, showcasing an expressive and unadulterated juice with phenomenal persistence."
+  },
+  {
+    "id": "file-2025-08-15-vin-dame-jeanne-0.html-hautes-cotes-de-beaune-blanc-2023",
+    "blockId": "file-2025-08-15-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Hautes Côtes de Beaune Blanc, 2023",
+    "description": "Une nouvelle cuvée depuis 2021 venue des hauteurs de Nantoux, où la vigne est plantée au cœur d’un écosystème de prairie calcaire, de bois, de haies protectrices et d’arbres fruitiers. Ce millésime rayonne d’un éclat exceptionnel entre densité rocheuse, fraîcheur florale et citronnée, chair juteuse des fruits plus vrais que nature. Un coup de maître !",
+    "price": "98$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Hautes Côtes de Beaune Blanc, 2023",
+      "description": "Une nouvelle cuvée depuis 2021 venue des hauteurs de Nantoux, où la vigne est plantée au cœur d’un écosystème de prairie calcaire, de bois, de haies protectrices et d’arbres fruitiers. Ce millésime rayonne d’un éclat exceptionnel entre densité rocheuse, fraîcheur florale et citronnée, chair juteuse des fruits plus vrais que nature. Un coup de maître !",
+      "price": "98$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Vincent Dancer",
+      "region": "Hautes Côtes de Beaune",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Hautes Côtes de Beaune Blanc, 2023",
+          "description": "Une nouvelle cuvée depuis 2021 venue des hauteurs de Nantoux, où la vigne est plantée au cœur d’un écosystème de prairie calcaire, de bois, de haies protectrices et d’arbres fruitiers. Ce millésime rayonne d’un éclat exceptionnel entre densité rocheuse, fraîcheur florale et citronnée, chair juteuse des fruits plus vrais que nature. Un coup de maître !",
+          "price": "98$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Vincent Dancer",
+          "region": "Hautes Côtes de Beaune",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Hautes Côtes de Beaune Blanc 2023 shines with exceptional brilliance, blending rocky density with floral and citrus freshness, and the juicy flesh of authentic fruits, embodying a masterful expression of its terroir."
+  },
+  {
+    "id": "file-2025-08-15-vin-dame-jeanne-0.html-chassagne-montrachet-2023",
+    "blockId": "file-2025-08-15-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Chassagne Montrachet, 2023",
+    "description": "Avec ce village des climats des Voillenots et de La Bergerie, juste en dessous des premiers crus, le domaine nous montre l’étendue de son talent : par la complexité de ses arômes, son intensité et son extraordinaire sapidité en bouche, nul doute, qu’à l’aveugle, nous l’aurions pris pour un premier cru !",
+    "price": "153.75$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Chassagne Montrachet, 2023",
+      "description": "Avec ce village des climats des Voillenots et de La Bergerie, juste en dessous des premiers crus, le domaine nous montre l’étendue de son talent : par la complexité de ses arômes, son intensité et son extraordinaire sapidité en bouche, nul doute, qu’à l’aveugle, nous l’aurions pris pour un premier cru !",
+      "price": "153.75$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Vincent Dancer",
+      "region": "Chassagne Montrachet",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Chassagne Montrachet, 2023",
+          "description": "Avec ce village des climats des Voillenots et de La Bergerie, juste en dessous des premiers crus, le domaine nous montre l’étendue de son talent : par la complexité de ses arômes, son intensité et son extraordinaire sapidité en bouche, nul doute, qu’à l’aveugle, nous l’aurions pris pour un premier cru !",
+          "price": "153.75$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Vincent Dancer",
+          "region": "Chassagne Montrachet",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Chassagne Montrachet 2023 reveals the estate's remarkable talent through its complex aromas and extraordinary sapidity, easily mistaken for a premier cru in a blind tasting."
+  },
+  {
+    "id": "file-2025-08-15-vin-dame-jeanne-0.html-meursault-les-corbins-2023",
+    "blockId": "file-2025-08-15-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Meursault 'Les Corbins', 2023",
+    "description": "Les Corbins se nichent au nord-est du finage, en limite des Volnay Santenots. Entre muguet, citron confit et amande grillée, particulièrement juteux et croquant en bouche, ce Meursault bénéficiera d'un peu de temps pour dévoiler sa belle complexité. A la fois volumineux, riche et gracile, il vibre sans jamais faiblir. Superbe.",
+    "price": "153.75$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Meursault 'Les Corbins', 2023",
+      "description": "Les Corbins se nichent au nord-est du finage, en limite des Volnay Santenots. Entre muguet, citron confit et amande grillée, particulièrement juteux et croquant en bouche, ce Meursault bénéficiera d'un peu de temps pour dévoiler sa belle complexité. A la fois volumineux, riche et gracile, il vibre sans jamais faiblir. Superbe.",
+      "price": "153.75$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Vincent Dancer",
+      "region": "Meursault",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Meursault 'Les Corbins', 2023",
+          "description": "Les Corbins se nichent au nord-est du finage, en limite des Volnay Santenots. Entre muguet, citron confit et amande grillée, particulièrement juteux et croquant en bouche, ce Meursault bénéficiera d'un peu de temps pour dévoiler sa belle complexité. A la fois volumineux, riche et gracile, il vibre sans jamais faiblir. Superbe.",
+          "price": "153.75$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Vincent Dancer",
+          "region": "Meursault",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Meursault 'Les Corbins' 2023 is a captivating wine with notes of lily of the valley, candied lemon, and roasted almond, offering a juicy and crunchy mouthfeel that promises to reveal its complexity with time."
+  },
+  {
+    "id": "file-2025-08-15-vin-dame-jeanne-0.html-meursault-les-grands-charrons-2023",
+    "blockId": "file-2025-08-15-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Meursault 'Les Grands Charrons', 2023",
+    "description": "Ample mais fuselé et tendu, à la fois enveloppant dans ses saveurs de poire et de prune jaune juteuses, mais toujours soutenu par une arête saline parfaitement définie et la tension acidulée du citron confit, le vin dépose son empreinte sur une finale accrocheuse, marquée par le calcaire. Gourmand, élancé et pénétrant : un grand vin sur un grand terroir.",
+    "price": "209.50$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Meursault 'Les Grands Charrons', 2023",
+      "description": "Ample mais fuselé et tendu, à la fois enveloppant dans ses saveurs de poire et de prune jaune juteuses, mais toujours soutenu par une arête saline parfaitement définie et la tension acidulée du citron confit, le vin dépose son empreinte sur une finale accrocheuse, marquée par le calcaire. Gourmand, élancé et pénétrant : un grand vin sur un grand terroir.",
+      "price": "209.50$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Vincent Dancer",
+      "region": "Meursault",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Meursault 'Les Grands Charrons', 2023",
+          "description": "Ample mais fuselé et tendu, à la fois enveloppant dans ses saveurs de poire et de prune jaune juteuses, mais toujours soutenu par une arête saline parfaitement définie et la tension acidulée du citron confit, le vin dépose son empreinte sur une finale accrocheuse, marquée par le calcaire. Gourmand, élancé et pénétrant : un grand vin sur un grand terroir.",
+          "price": "209.50$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Vincent Dancer",
+          "region": "Meursault",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Meursault 'Les Grands Charrons' 2023 is a generous yet taut wine, enveloping with juicy pear and yellow plum flavors, underpinned by a defined saline edge and a zesty lemon acidity, leaving a memorable mineral finish."
+  },
+  {
+    "id": "file-2025-08-15-vin-dame-jeanne-0.html-chassagne-montrachet-1er-cru-morgeot-2023",
+    "blockId": "file-2025-08-15-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Chassagne Montrachet 1er cru 'Morgeot', 2023",
+    "description": "Replantée en 2013 à haute densité (20 000 pieds par hectare), cette parcelle de Morgeot donne aujourd’hui un vin à l’intensité, la concentration et la profondeur incroyables. Un sommet de classe naturelle, de sensualité, de percussion pierreuse et empyreumatique signée d’un vigneron iconique de la Côte de Beaune. Impressionnant.",
+    "price": "302.25$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Chassagne Montrachet 1er cru 'Morgeot', 2023",
+      "description": "Replantée en 2013 à haute densité (20 000 pieds par hectare), cette parcelle de Morgeot donne aujourd’hui un vin à l’intensité, la concentration et la profondeur incroyables. Un sommet de classe naturelle, de sensualité, de percussion pierreuse et empyreumatique signée d’un vigneron iconique de la Côte de Beaune. Impressionnant.",
+      "price": "302.25$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Vincent Dancer",
+      "region": "Chassagne Montrachet 1er cru",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Chassagne Montrachet 1er cru 'Morgeot', 2023",
+          "description": "Replantée en 2013 à haute densité (20 000 pieds par hectare), cette parcelle de Morgeot donne aujourd’hui un vin à l’intensité, la concentration et la profondeur incroyables. Un sommet de classe naturelle, de sensualité, de percussion pierreuse et empyreumatique signée d’un vigneron iconique de la Côte de Beaune. Impressionnant.",
+          "price": "302.25$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Vincent Dancer",
+          "region": "Chassagne Montrachet 1er cru",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Chassagne Montrachet 1er cru 'Morgeot' 2023 showcases incredible intensity and depth, a pinnacle of natural class and sensuality, crafted by an iconic winemaker from the Côte de Beaune."
+  },
+  {
+    "id": "file-2025-08-15-vin-dame-jeanne-0.html-chassagne-montrachet-1er-cru-tete-du-clos-2023",
+    "blockId": "file-2025-08-15-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Chassagne Montrachet 1er cru 'Tête du Clos', 2023",
+    "description": "Pièce-maîtresse de cet impressionnant millésime, 'Tête du Clos' est issu d'un petit clos enclavé dans les Morgeots, au sud de la Romanée. Toujours récolté en dernier, avec une végétation lente et une trame fraiche et racée. Densité de matière, complexité florale, énergie du citron confit et empreinte saline et verticale : un parfait cocktail qui permettra à ce vin d’évoluer magnifiquement.",
+    "price": "339.50$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Chassagne Montrachet 1er cru 'Tête du Clos', 2023",
+      "description": "Pièce-maîtresse de cet impressionnant millésime, 'Tête du Clos' est issu d'un petit clos enclavé dans les Morgeots, au sud de la Romanée. Toujours récolté en dernier, avec une végétation lente et une trame fraiche et racée. Densité de matière, complexité florale, énergie du citron confit et empreinte saline et verticale : un parfait cocktail qui permettra à ce vin d’évoluer magnifiquement.",
+      "price": "339.50$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Vincent Dancer",
+      "region": "Chassagne Montrachet 1er cru",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Chassagne Montrachet 1er cru 'Tête du Clos', 2023",
+          "description": "Pièce-maîtresse de cet impressionnant millésime, 'Tête du Clos' est issu d'un petit clos enclavé dans les Morgeots, au sud de la Romanée. Toujours récolté en dernier, avec une végétation lente et une trame fraiche et racée. Densité de matière, complexité florale, énergie du citron confit et empreinte saline et verticale : un parfait cocktail qui permettra à ce vin d’évoluer magnifiquement.",
+          "price": "339.50$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Vincent Dancer",
+          "region": "Chassagne Montrachet 1er cru",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Chassagne Montrachet 1er cru 'Tête du Clos' 2023 is a masterpiece of the vintage, offering a dense and complex floral profile with zesty lemon energy and a vertical saline imprint, promising magnificent evolution."
+  },
+  {
+    "id": "file-2025-08-15-vin-dame-jeanne-0.html-chassagne-montrachet-1er-cru-la-romanee-2023",
+    "blockId": "file-2025-08-15-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Chassagne Montrachet 1er cru 'La Romanée', 2023",
+    "description": "Une 'Romanée' dense et élégante, d’une admirable sophistication aromatique. Toujours la parcelle la plus précoce, généreuse, démonstrative. Ici, tout est harmonieux, tout est pur et lumineux : les fleurs viennent de s’ouvrir, le fruit resplendit, l’empreinte du sol scintille. Quelle finale ! Quel souffle ! Un immense Chassagne-Montrachet au fort potentiel de garde.",
+    "price": "376.50$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Chassagne Montrachet 1er cru 'La Romanée', 2023",
+      "description": "Une 'Romanée' dense et élégante, d’une admirable sophistication aromatique. Toujours la parcelle la plus précoce, généreuse, démonstrative. Ici, tout est harmonieux, tout est pur et lumineux : les fleurs viennent de s’ouvrir, le fruit resplendit, l’empreinte du sol scintille. Quelle finale ! Quel souffle ! Un immense Chassagne-Montrachet au fort potentiel de garde.",
+      "price": "376.50$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Vincent Dancer",
+      "region": "Chassagne Montrachet 1er cru",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Chassagne Montrachet 1er cru 'La Romanée', 2023",
+          "description": "Une 'Romanée' dense et élégante, d’une admirable sophistication aromatique. Toujours la parcelle la plus précoce, généreuse, démonstrative. Ici, tout est harmonieux, tout est pur et lumineux : les fleurs viennent de s’ouvrir, le fruit resplendit, l’empreinte du sol scintille. Quelle finale ! Quel souffle ! Un immense Chassagne-Montrachet au fort potentiel de garde.",
+          "price": "376.50$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Vincent Dancer",
+          "region": "Chassagne Montrachet 1er cru",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Chassagne Montrachet 1er cru 'La Romanée' 2023 is a dense and elegant wine with remarkable aromatic sophistication, harmoniously showcasing blooming flowers and radiant fruit, culminating in a breathtaking finish with great aging potential."
+  },
+  {
+    "id": "file-2025-08-15-vin-dame-jeanne-0.html-meursault-1er-cru-les-perrieres-2023",
+    "blockId": "file-2025-08-15-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Meursault 1er cru 'Les Perrières'', 2023",
+    "description": "Monument de finesse, de pureté et d’intensité, ce Meursault 'Les Perrières' figure incontestablement parmi les plus belles réussites de 2023 dans ce prestigieux 1er cru. Depuis 2019, changement de conduite de la vigne totale, maintenant en Echalas. Incroyable de voir cette vigne en hauteur, bourrée de biodiversité. Floral, pierreux et épicé, séveux et complexe, il vous invite à méditer sur la magie d'une rencontre entre un beau raisin, un grand terroir et un vigneron inspiré. Exceptionnel.",
+    "price": "618$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Meursault 1er cru 'Les Perrières'', 2023",
+      "description": "Monument de finesse, de pureté et d’intensité, ce Meursault 'Les Perrières' figure incontestablement parmi les plus belles réussites de 2023 dans ce prestigieux 1er cru. Depuis 2019, changement de conduite de la vigne totale, maintenant en Echalas. Incroyable de voir cette vigne en hauteur, bourrée de biodiversité. Floral, pierreux et épicé, séveux et complexe, il vous invite à méditer sur la magie d'une rencontre entre un beau raisin, un grand terroir et un vigneron inspiré. Exceptionnel.",
+      "price": "618$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Vincent Dancer",
+      "region": "Meursault 1er cru",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Meursault 1er cru 'Les Perrières'', 2023",
+          "description": "Monument de finesse, de pureté et d’intensité, ce Meursault 'Les Perrières' figure incontestablement parmi les plus belles réussites de 2023 dans ce prestigieux 1er cru. Depuis 2019, changement de conduite de la vigne totale, maintenant en Echalas. Incroyable de voir cette vigne en hauteur, bourrée de biodiversité. Floral, pierreux et épicé, séveux et complexe, il vous invite à méditer sur la magie d'une rencontre entre un beau raisin, un grand terroir et un vigneron inspiré. Exceptionnel.",
+          "price": "618$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Vincent Dancer",
+          "region": "Meursault 1er cru",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Meursault 1er cru 'Les Perrières' 2023 stands as a monument of finesse and purity, inviting contemplation with its floral, stony, and spicy complexity, a true testament to the magic of exceptional terroir and inspired winemaking."
+  },
+  {
+    "id": "file-2025-08-15-vin-dame-jeanne-0.html-chevalier-montrachet-grand-cru-2023",
+    "blockId": "file-2025-08-15-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Chevalier Montrachet Grand Cru, 2023",
+    "description": "Introuvable et totalement culte : voici le joyau ultime signé Domaine Vincent Dancer. Depuis 2019, changement de conduite de la vigne totale, maintenant en Echalas. Biodiversité et beauté dans ce Grand Cru mythique. Quintessence d’un style tout en pureté, en vitalité et en profondeur, ce Chevalier-Montrachet offre déjà une aromatique poétique et rafraîchissante et une incroyable intensité de saveurs en bouche. Un monument de grâce et d’énergie étincelante, à attendre quelques années en cave.",
+    "price": "1,754.25$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Chevalier Montrachet Grand Cru, 2023",
+      "description": "Introuvable et totalement culte : voici le joyau ultime signé Domaine Vincent Dancer. Depuis 2019, changement de conduite de la vigne totale, maintenant en Echalas. Biodiversité et beauté dans ce Grand Cru mythique. Quintessence d’un style tout en pureté, en vitalité et en profondeur, ce Chevalier-Montrachet offre déjà une aromatique poétique et rafraîchissante et une incroyable intensité de saveurs en bouche. Un monument de grâce et d’énergie étincelante, à attendre quelques années en cave.",
+      "price": "1,754.25$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Vincent Dancer",
+      "region": "Chevalier Montrachet Grand Cru",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Chevalier Montrachet Grand Cru, 2023",
+          "description": "Introuvable et totalement culte : voici le joyau ultime signé Domaine Vincent Dancer. Depuis 2019, changement de conduite de la vigne totale, maintenant en Echalas. Biodiversité et beauté dans ce Grand Cru mythique. Quintessence d’un style tout en pureté, en vitalité et en profondeur, ce Chevalier-Montrachet offre déjà une aromatique poétique et rafraîchissante et une incroyable intensité de saveurs en bouche. Un monument de grâce et d’énergie étincelante, à attendre quelques années en cave.",
+          "price": "1,754.25$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Vincent Dancer",
+          "region": "Chevalier Montrachet Grand Cru",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Chevalier Montrachet Grand Cru 2023 is the ultimate jewel of Domaine Vincent Dancer, embodying purity, vitality, and depth, with a poetic and refreshing aromatic profile that promises incredible flavor intensity and sparkling energy."
+  },
+  {
+    "id": "file-2025-08-15-vin-dame-jeanne-0.html-bourgogne-rouge-2023",
+    "blockId": "file-2025-08-15-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Bourgogne Rouge, 2023",
+    "description": "Issu du lieu-dit 'La Taupe', collé sur Pommard. Un Bourgogne Rouge peu extrait, avec pour but de faire plaisir et de révéler un fruit pur et joyeux. Mission accomplie !",
+    "price": "79.50$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Bourgogne Rouge, 2023",
+      "description": "Issu du lieu-dit 'La Taupe', collé sur Pommard. Un Bourgogne Rouge peu extrait, avec pour but de faire plaisir et de révéler un fruit pur et joyeux. Mission accomplie !",
+      "price": "79.50$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Vincent Dancer",
+      "region": "Bourgogne",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Bourgogne Rouge, 2023",
+          "description": "Issu du lieu-dit 'La Taupe', collé sur Pommard. Un Bourgogne Rouge peu extrait, avec pour but de faire plaisir et de révéler un fruit pur et joyeux. Mission accomplie !",
+          "price": "79.50$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Vincent Dancer",
+          "region": "Bourgogne",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Bourgogne Rouge 2023, sourced from 'La Taupe' near Pommard, delights with its joyful and pure fruit expression, achieving its mission of pleasure without excessive extraction."
+  },
+  {
+    "id": "file-2025-08-15-vin-dame-jeanne-0.html-hautes-cotes-de-beaune-rouge-2023",
+    "blockId": "file-2025-08-15-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Hautes Côtes de Beaune Rouge, 2023",
+    "description": "Une nouvelle cuvée depuis 2021 venue des hauteurs de Nantoux, où la vigne est plantée au cœur d’un écosystème de prairie calcaire, de bois, de haies protectrices et d’arbres fruitiers. Un rouge d'un grand éclat, entre densité rocheuse, fraîcheur, chair délicate et parfum enivrant.",
+    "price": "98$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Hautes Côtes de Beaune Rouge, 2023",
+      "description": "Une nouvelle cuvée depuis 2021 venue des hauteurs de Nantoux, où la vigne est plantée au cœur d’un écosystème de prairie calcaire, de bois, de haies protectrices et d’arbres fruitiers. Un rouge d'un grand éclat, entre densité rocheuse, fraîcheur, chair délicate et parfum enivrant.",
+      "price": "98$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Vincent Dancer",
+      "region": "Hautes Côtes de Beaune",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Hautes Côtes de Beaune Rouge, 2023",
+          "description": "Une nouvelle cuvée depuis 2021 venue des hauteurs de Nantoux, où la vigne est plantée au cœur d’un écosystème de prairie calcaire, de bois, de haies protectrices et d’arbres fruitiers. Un rouge d'un grand éclat, entre densité rocheuse, fraîcheur, chair délicate et parfum enivrant.",
+          "price": "98$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Vincent Dancer",
+          "region": "Hautes Côtes de Beaune",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Hautes Côtes de Beaune Rouge 2023 shines with vibrant brilliance, balancing rocky density with delicate flesh and intoxicating aromas, a true reflection of its unique ecosystem."
+  },
+  {
+    "id": "file-2025-08-15-vin-dame-jeanne-0.html-pommard-les-perrieres-2023",
+    "blockId": "file-2025-08-15-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Pommard 'Les Perrières', 2023",
+    "description": "En se dirigeant vers le sud sur la D974, 'Les Perrières' se trouve sous le célèbre 'Clos des Epeneaux' et est le premier vignoble de Pommard sur la droite après avoir quitté la commune de Beaune. Les Dancers exploitent près d'un hectare ici, planté en 2012. Les rendements y sont très faibles afin d'obtenir la profondeur de texture et la séduction que l'on trouve ici en abondance.",
+    "price": "135.25$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Pommard 'Les Perrières', 2023",
+      "description": "En se dirigeant vers le sud sur la D974, 'Les Perrières' se trouve sous le célèbre 'Clos des Epeneaux' et est le premier vignoble de Pommard sur la droite après avoir quitté la commune de Beaune. Les Dancers exploitent près d'un hectare ici, planté en 2012. Les rendements y sont très faibles afin d'obtenir la profondeur de texture et la séduction que l'on trouve ici en abondance.",
+      "price": "135.25$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Vincent Dancer",
+      "region": "Pommard",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Pommard 'Les Perrières', 2023",
+          "description": "En se dirigeant vers le sud sur la D974, 'Les Perrières' se trouve sous le célèbre 'Clos des Epeneaux' et est le premier vignoble de Pommard sur la droite après avoir quitté la commune de Beaune. Les Dancers exploitent près d'un hectare ici, planté en 2012. Les rendements y sont très faibles afin d'obtenir la profondeur de texture et la séduction que l'on trouve ici en abondance.",
+          "price": "135.25$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Vincent Dancer",
+          "region": "Pommard",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Pommard 'Les Perrières' 2023, situated just below the renowned 'Clos des Epeneaux', offers a seductive depth of texture and abundance, crafted from low yields to enhance its captivating character."
+  },
+  {
+    "id": "file-2025-08-15-vin-dame-jeanne-0.html-chassagne-montrachet-rouge-1er-cru-morgeot-2023",
+    "blockId": "file-2025-08-15-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Chassagne Montrachet Rouge 1er cru 'Morgeot', 2023",
+    "description": "Grand chouchou, ce Chassagne Rouge! Une rareté aujourd'hui sur ce cru largement replanté en Chardonnay, les Pinot Noirs ici se réjouissent des terres profondes aux argiles rouges et fragments de roches calcaires. Une expression authentique, complexe, et vibrante. Un vin marquant, inoubliable par la transparence ses terroirs. IYKYK!",
+    "price": "302.25$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Chassagne Montrachet Rouge 1er cru 'Morgeot', 2023",
+      "description": "Grand chouchou, ce Chassagne Rouge! Une rareté aujourd'hui sur ce cru largement replanté en Chardonnay, les Pinot Noirs ici se réjouissent des terres profondes aux argiles rouges et fragments de roches calcaires. Une expression authentique, complexe, et vibrante. Un vin marquant, inoubliable par la transparence ses terroirs. IYKYK!",
+      "price": "302.25$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Vincent Dancer",
+      "region": "Chassagne Montrachet Rouge 1er cru",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Chassagne Montrachet Rouge 1er cru 'Morgeot', 2023",
+          "description": "Grand chouchou, ce Chassagne Rouge! Une rareté aujourd'hui sur ce cru largement replanté en Chardonnay, les Pinot Noirs ici se réjouissent des terres profondes aux argiles rouges et fragments de roches calcaires. Une expression authentique, complexe, et vibrante. Un vin marquant, inoubliable par la transparence ses terroirs. IYKYK!",
+          "price": "302.25$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Vincent Dancer",
+          "region": "Chassagne Montrachet Rouge 1er cru",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Chassagne Montrachet Rouge 1er cru 'Morgeot' 2023 is a rare gem, showcasing authentic and vibrant complexity from deep red clay soils, making it a memorable expression of its terroir."
+  },
+  {
+    "id": "file-2025-08-15-vin-dame-jeanne-0.html-pommard-1er-cru-les-pezerolles-2023",
+    "blockId": "file-2025-08-15-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "name": "Pommard 1er cru 'Les Pézerolles', 2023",
+    "description": "'Les Pézerolles' est situé just au dessus du 'Clos des Epeneaux' et 'Les Petits Epenots', un des Premiers Crus les plus haut en altitude sur Pommard. Souvent, ce cru est comparé aux meilleurs terroirs de Volnay, car il livre systématiquement finesse et noblesse. La parcelle travaillée par la famille Dancer est toute petite, une magnifique vieille vigne plantée en 1978. Un vin d'un croquant aérien, aux notes de zestes d'agrumes et de douces épices, avec un touché de bouche charmant, élancé, et très fin. La finale est particulièrement impressionnante, longue et saline.",
+    "price": "376.50$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Pommard 1er cru 'Les Pézerolles', 2023",
+      "description": "'Les Pézerolles' est situé just au dessus du 'Clos des Epeneaux' et 'Les Petits Epenots', un des Premiers Crus les plus haut en altitude sur Pommard. Souvent, ce cru est comparé aux meilleurs terroirs de Volnay, car il livre systématiquement finesse et noblesse. La parcelle travaillée par la famille Dancer est toute petite, une magnifique vieille vigne plantée en 1978. Un vin d'un croquant aérien, aux notes de zestes d'agrumes et de douces épices, avec un touché de bouche charmant, élancé, et très fin. La finale est particulièrement impressionnante, longue et saline.",
+      "price": "376.50$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Vincent Dancer",
+      "region": "Pommard 1er cru",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Pommard 1er cru 'Les Pézerolles', 2023",
+          "description": "'Les Pézerolles' est situé just au dessus du 'Clos des Epeneaux' et 'Les Petits Epenots', un des Premiers Crus les plus haut en altitude sur Pommard. Souvent, ce cru est comparé aux meilleurs terroirs de Volnay, car il livre systématiquement finesse et noblesse. La parcelle travaillée par la famille Dancer est toute petite, une magnifique vieille vigne plantée en 1978. Un vin d'un croquant aérien, aux notes de zestes d'agrumes et de douces épices, avec un touché de bouche charmant, élancé, et très fin. La finale est particulièrement impressionnante, longue et saline.",
+          "price": "376.50$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Vincent Dancer",
+          "region": "Pommard 1er cru",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Pommard 1er cru 'Les Pézerolles' 2023, perched above 'Clos des Epeneaux', delivers an airy crunch with citrus zest and gentle spices, showcasing finesse and nobility in a charmingly elegant finish."
+  },
+  {
     "id": "file-2025-08-14-info-symbiose-0.html-petit-chablis",
     "blockId": "file-2025-08-14-info-symbiose-0.html",
     "createdAt": "2025-08-14T00:00:00.000Z",
     "name": "Petit-Chablis",
-    "description": "Chardonnay\n<strong>Bourgogne — France</strong>",
+    "description": "Petit-Chablis 2023\nDomaine de Pisse-Loup\nChardonnay\nBourgogne — France",
     "price": "28,80 $",
     "image_url": "https://www.saq.com/media/catalog/product/1/3/13232599-1_1698334383.png",
     "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1174944&idl=2658&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=ZiPPTePmVnAcMegUQDM5WhfTCN2n3sEbdoYzUoUq3jA",
@@ -12,12 +944,12 @@
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Petit-Chablis",
-      "description": "Chardonnay\n<strong>Bourgogne — France</strong>",
+      "description": "Petit-Chablis 2023\nDomaine de Pisse-Loup\nChardonnay\nBourgogne — France",
       "price": "28,80 $",
       "image_url": "https://www.saq.com/media/catalog/product/1/3/13232599-1_1698334383.png",
       "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1174944&idl=2658&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=ZiPPTePmVnAcMegUQDM5WhfTCN2n3sEbdoYzUoUq3jA",
       "producer": "Domaine de Pisse-Loup",
-      "region": "Bourgogne",
+      "region": "Bourgogne — France",
       "vintage": "2023",
       "grape_varieties": [
         "Chardonnay"
@@ -28,12 +960,12 @@
       "all_occurrences_raw_data": [
         {
           "name": "Petit-Chablis",
-          "description": "Chardonnay\n<strong>Bourgogne — France</strong>",
+          "description": "Petit-Chablis 2023\nDomaine de Pisse-Loup\nChardonnay\nBourgogne — France",
           "price": "28,80 $",
           "image_url": "https://www.saq.com/media/catalog/product/1/3/13232599-1_1698334383.png",
           "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1174944&idl=2658&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=ZiPPTePmVnAcMegUQDM5WhfTCN2n3sEbdoYzUoUq3jA",
           "producer": "Domaine de Pisse-Loup",
-          "region": "Bourgogne",
+          "region": "Bourgogne — France",
           "vintage": "2023",
           "grape_varieties": [
             "Chardonnay"
@@ -51,7 +983,7 @@
     "blockId": "file-2025-08-14-info-symbiose-0.html",
     "createdAt": "2025-08-14T00:00:00.000Z",
     "name": "Delmoro Valencia",
-    "description": "Grenache, Syrah\n<strong>Côte Méditerranéenne — Espagne</strong>",
+    "description": "Delmoro Valencia 2023\nLa Comarcal\nGrenache, Syrah\nCôte Méditerranéenne — Espagne",
     "price": "21,50 $",
     "image_url": "https://www.saq.com/media/catalog/product/1/4/14791851-1_1700151784.png",
     "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1174944&idl=3167&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=CXHJH0GmvPu4SgpaF-3JU3P21J-ASFPB_VZZmimIslY",
@@ -59,12 +991,12 @@
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Delmoro Valencia",
-      "description": "Grenache, Syrah\n<strong>Côte Méditerranéenne — Espagne</strong>",
+      "description": "Delmoro Valencia 2023\nLa Comarcal\nGrenache, Syrah\nCôte Méditerranéenne — Espagne",
       "price": "21,50 $",
       "image_url": "https://www.saq.com/media/catalog/product/1/4/14791851-1_1700151784.png",
       "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1174944&idl=3167&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=CXHJH0GmvPu4SgpaF-3JU3P21J-ASFPB_VZZmimIslY",
       "producer": "La Comarcal",
-      "region": "Côte Méditerranéenne",
+      "region": "Côte Méditerranéenne — Espagne",
       "vintage": "2023",
       "grape_varieties": [
         "Grenache",
@@ -76,12 +1008,12 @@
       "all_occurrences_raw_data": [
         {
           "name": "Delmoro Valencia",
-          "description": "Grenache, Syrah\n<strong>Côte Méditerranéenne — Espagne</strong>",
+          "description": "Delmoro Valencia 2023\nLa Comarcal\nGrenache, Syrah\nCôte Méditerranéenne — Espagne",
           "price": "21,50 $",
           "image_url": "https://www.saq.com/media/catalog/product/1/4/14791851-1_1700151784.png",
           "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1174944&idl=3167&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=CXHJH0GmvPu4SgpaF-3JU3P21J-ASFPB_VZZmimIslY",
           "producer": "La Comarcal",
-          "region": "Côte Méditerranéenne",
+          "region": "Côte Méditerranéenne — Espagne",
           "vintage": "2023",
           "grape_varieties": [
             "Grenache",
@@ -137,7 +1069,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ulls de Mel blanc 2022 is a vibrant and sunny white wine, dry yet gently sweetened with a hint of honey that softens its salinity and minerality, captivating from the very first sip."
+    "summary": "Ulls de Mel blanc 2022 is a vibrant and sunny white wine with a hint of honey that softens its salinity and minerality, making it irresistibly appealing from the first sip, perfect for seafood and light salads."
   },
   {
     "id": "file-2025-08-14-le-vin-dans-les-voiles-0.html-bonka",
@@ -181,7 +1113,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Bonka is a refreshing and dry sparkling wine that delights with vibrant notes of red fruits and rhubarb, its fine bubbles turning any ordinary Tuesday into a celebration."
+    "summary": "Bonka is the crowd-pleaser, a dry and refreshing sparkling wine bursting with red fruit and rhubarb notes, its fine bubbles turning an ordinary Tuesday into a celebration."
   },
   {
     "id": "file-2025-08-14-le-vin-dans-les-voiles-0.html-ronds-rouges-2023",
@@ -225,7 +1157,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ronds Rouges 2023 is a light, fresh, and tangy red that melts hearts with its notes of cherries and pomegranate, offering a fluid and vibrant experience with a lovely tannic grain."
+    "summary": "Ronds Rouges 2023 is a light, fresh, and tangy red that captivates with cherry and pomegranate notes, fluid and vibrant with a lovely tannic grain, perfect for summer gatherings."
   },
   {
     "id": "file-2025-08-14-le-vin-dans-les-voiles-0.html-chacoli-negro-2022",
@@ -269,7 +1201,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Chacoli Negro 2022 is a bold sparkling red with rich dark fruit flavors and soft tannins, perfect for pairing with finger-licking dishes like ribs and chorizo pizza."
+    "summary": "Chacoli Negro 2022 is a bold sparkling red with ripe dark fruits and soft tannins, perfect for messy finger foods like ribs and smash burgers, transforming any gathering into a feast."
   },
   {
     "id": "file-2025-08-14-le-vin-dans-les-voiles-0.html-pet-nat-blanc-2022",
@@ -313,7 +1245,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Pet Nat blanc 2022 showcases precise bubbles and refreshing tension, with white fruit aromas accented by floral notes, embodying the best of German effervescence."
+    "summary": "Pet Nat blanc 2022 sets the tone with precise bubbles and refreshing tension, featuring white fruit aromas accented by floral notes, perfect for pairing with crusty bread and fresh salads."
   },
   {
     "id": "file-2025-08-14-le-vin-dans-les-voiles-0.html-deferlante-orangee-2024",
@@ -357,7 +1289,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Déferlante orangée 2024 is a pastel peach rosé that elevates any impromptu gathering with its white fruit aromas and vibrant palate, making it a perfect party companion."
+    "summary": "Déferlante orangée 2024 is a pastel peach rosé that turns any impromptu gathering into a memorable occasion, with white fruit aromas and a vibrant, slightly effervescent palate that invites celebration."
   },
   {
     "id": "file-2025-08-14-rezin-0.html-pierre-gimonnet-champagne-cuis-1er-cru-blanc-de-bl",
@@ -401,7 +1333,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "PIERRE GIMONNET CHAMPAGNE CUIS 1ER CRU BLANC DE BLANC reveals a captivating interplay of fruity Chardonnay notes with enduring flavors of apple, pear, and spices, resulting in a characterful bubble with impressive length."
+    "summary": "PIERRE GIMONNET Champagne Cuis 1er Cru Blanc de Blanc captivates with its airy fruitiness, blending frivolity with persistent notes of apple, pear, and spices, resulting in a characterful bubble of remarkable length."
   },
   {
     "id": "file-2025-08-14-rezin-0.html-feudo-montoni-sicilia-nero-davola-lagnusa-2022",
@@ -445,7 +1377,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "FEUDO MONTONI SICILIA NERO D'AVOLA LAGNUSA - 2022 showcases the elegance of Sicilian wines, previously underestimated, now celebrated for their delicate style and organic cultivation, embodying the essence of Etna."
+    "summary": "FEUDO MONTONI Sicilia Nero d'Avola Lagnusa 2022 is a refined and elegant expression of Sicily, showcasing a lighter style that captivates wine lovers, thanks to the respectful approach to nature and organic farming at Feudo Montoni."
   },
   {
     "id": "file-2025-08-14-rezin-0.html-chenin-blanc-2024",
@@ -489,14 +1421,14 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "CHENIN BLANC - 2024 is a stunning expression of Chenin from the Southern Hemisphere, with inviting aromas of warm wax, lemongrass, and ripe apple, offering a spherical and persistent finish at an exceptional value."
+    "summary": "CHENIN BLANC 2024 is a beautiful expression from the southern hemisphere, inviting with aromas of warm wax, lemongrass, ripe apple, and honey, offering a spherical and oily mouthfeel with a fresh, persistent finish."
   },
   {
     "id": "file-2025-08-14-rezin-0.html-costieres-de-nimes-terre-dargence-2022",
     "blockId": "file-2025-08-14-rezin-0.html",
     "createdAt": "2025-08-14T00:00:00.000Z",
     "name": "COSTIÈRES-DE-NÎMES TERRE D'ARGENCE - 2022",
-    "description": "« Le domaine d'Anne et François Collard est une institution des Costières de Nîmes, et à liste titre. Non seulement leurs vins sont impeccables à tous les échelons, mais ils offrent un excellent rapport qualité-prix-plaisir. [...] Fruit d'une sélection de vieilles vignes de syrah et de grenache, fermentés et élevés en cuves pour les deux tiers. La couleur est sombre, les parfums aussi, marqués par la prune, la camerise, l'olive noire. En bouche, du volume , une assise solide, des notes d'épices qui se juxtaposent au fruit, et une sensation somme toute assez fraîche. »",
+    "description": "« Le domaine d'Anne et François Collard est une institution des Costières de Nîmes, et à liste titre. Non seulement leurs vins sont impeccables à tous les échelons, mais ils offrent un excellent rapport qualité-prix-plaisir. [...] Fruit d'une sélection de vieilles vignes de syrah et de grenache, fermentés et élevés en cuves pour les deux tiers. La couleur est sombre, les parfums aussi, marqués par la prune, la camerise, l'olive noire. En bouche, du volume , une assise solide, des notes d'épices qui se juxtaposent au fruit, et une sensation somme toute assez fraîche. » Nadia Fournier (Sur le millésime 2020)",
     "price": "27,60 $",
     "image_url": null,
     "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=9f0484ad42&e=c11422f941",
@@ -504,28 +1436,34 @@
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "COSTIÈRES-DE-NÎMES TERRE D'ARGENCE - 2022",
-      "description": "« Le domaine d'Anne et François Collard est une institution des Costières de Nîmes, et à liste titre. Non seulement leurs vins sont impeccables à tous les échelons, mais ils offrent un excellent rapport qualité-prix-plaisir. [...] Fruit d'une sélection de vieilles vignes de syrah et de grenache, fermentés et élevés en cuves pour les deux tiers. La couleur est sombre, les parfums aussi, marqués par la prune, la camerise, l'olive noire. En bouche, du volume , une assise solide, des notes d'épices qui se juxtaposent au fruit, et une sensation somme toute assez fraîche. »",
+      "description": "« Le domaine d'Anne et François Collard est une institution des Costières de Nîmes, et à liste titre. Non seulement leurs vins sont impeccables à tous les échelons, mais ils offrent un excellent rapport qualité-prix-plaisir. [...] Fruit d'une sélection de vieilles vignes de syrah et de grenache, fermentés et élevés en cuves pour les deux tiers. La couleur est sombre, les parfums aussi, marqués par la prune, la camerise, l'olive noire. En bouche, du volume , une assise solide, des notes d'épices qui se juxtaposent au fruit, et une sensation somme toute assez fraîche. » Nadia Fournier (Sur le millésime 2020)",
       "price": "27,60 $",
       "image_url": null,
       "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=9f0484ad42&e=c11422f941",
       "producer": "Château Mourgues du Grès",
       "region": "Costières de Nîmes",
       "vintage": "2022",
-      "grape_varieties": null,
+      "grape_varieties": [
+        "Syrah",
+        "Grenache"
+      ],
       "alcohol_content": null,
       "volume": null,
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
           "name": "COSTIÈRES-DE-NÎMES TERRE D'ARGENCE - 2022",
-          "description": "« Le domaine d'Anne et François Collard est une institution des Costières de Nîmes, et à liste titre. Non seulement leurs vins sont impeccables à tous les échelons, mais ils offrent un excellent rapport qualité-prix-plaisir. [...] Fruit d'une sélection de vieilles vignes de syrah et de grenache, fermentés et élevés en cuves pour les deux tiers. La couleur est sombre, les parfums aussi, marqués par la prune, la camerise, l'olive noire. En bouche, du volume , une assise solide, des notes d'épices qui se juxtaposent au fruit, et une sensation somme toute assez fraîche. »",
+          "description": "« Le domaine d'Anne et François Collard est une institution des Costières de Nîmes, et à liste titre. Non seulement leurs vins sont impeccables à tous les échelons, mais ils offrent un excellent rapport qualité-prix-plaisir. [...] Fruit d'une sélection de vieilles vignes de syrah et de grenache, fermentés et élevés en cuves pour les deux tiers. La couleur est sombre, les parfums aussi, marqués par la prune, la camerise, l'olive noire. En bouche, du volume , une assise solide, des notes d'épices qui se juxtaposent au fruit, et une sensation somme toute assez fraîche. » Nadia Fournier (Sur le millésime 2020)",
           "price": "27,60 $",
           "image_url": null,
           "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=9f0484ad42&e=c11422f941",
           "producer": "Château Mourgues du Grès",
           "region": "Costières de Nîmes",
           "vintage": "2022",
-          "grape_varieties": null,
+          "grape_varieties": [
+            "Syrah",
+            "Grenache"
+          ],
           "alcohol_content": null,
           "volume": null,
           "disponibilite": "SAQ"
@@ -533,7 +1471,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "COSTIÈRES-DE-NÎMES TERRE D'ARGENCE - 2022 is a dark and aromatic blend of old-vine Syrah and Grenache, offering a solid structure with notes of plum, black olive, and spices, all while maintaining a refreshing finish."
+    "summary": "COSTIÈRES-DE-NÎMES Terre d'Argence 2022 is a remarkable blend of old-vine Syrah and Grenache, showcasing dark colors and aromas of plum, honeysuckle, and black olive, with a solid structure and refreshing spice notes."
   },
   {
     "id": "file-2025-08-14-vin-dame-jeanne-0.html-vignoble-du-reveur-alsace-blanc-pierres-sauvages",
@@ -585,7 +1523,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "VIGNOBLE DU RÊVEUR Alsace Blanc 'Pierres Sauvages' is a tribute to Alsace Pinots, revealing a smooth, dry expression with aromatic notes of petrichor, white pepper, and wild berries, flowing effortlessly in the glass."
+    "summary": "VIGNOBLE DU RÊVEUR Alsace Blanc 'Pierres Sauvages' is a tribute to Alsace Pinots, showcasing a beautifully aromatic, stony expression with notes of petrichor, white pepper, and wild berries, flowing effortlessly on the palate."
   },
   {
     "id": "file-2025-08-14-vin-dame-jeanne-0.html-domaine-marcel-deiss-alsace-blanc-zellenberg",
@@ -641,7 +1579,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "DOMAINE MARCEL DEISS Alsace Blanc 'Zellenberg' is a gem from Alsace, showcasing a blend of Riesling, Auxerrois, and Pinots, with a fresh, elegant profile and a vibrant texture that reflects its unique terroir."
+    "summary": "DOMAINE MARCEL DEISS Alsace Blanc 'Zellenberg' is a gem from Alsace, offering a fresh and aromatic profile with a fine, vertical texture, crafted from a blend of noble varietals grown in a picturesque terroir."
   },
   {
     "id": "file-2025-08-14-vin-dame-jeanne-0.html-monte-bernardi-1l-rosso-fiasco",
@@ -653,7 +1591,7 @@
     "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
     "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=abd1448718&e=345e10d07b",
     "agence": "Vin Dame-Jeanne",
-    "disponibilite": "SAQ",
+    "disponibilite": null,
     "raw_data": {
       "name": "MONTE BERNARDI 1L Rosso, 'Fiasco!'",
       "description": "Une célébration de l'Italie ! Assemblage improbable et délicieux. Enfin un BON vin de table qui évoque la trattoria du coin et les longues soirées al fresco. Tous les raisins sont certifiés BIO, sélectionnés par le plus grand soin par Michael Schmeltzer et son équipe. Sangiovese, Malvasia Nera et Canaiolo de Toscane. Montepulciano de Le Marche. Frappato, Nerello Mascalese et Nero D'Avola de Sicile. Élevage en cuve béton et mise en bouteille en 'fiasco' d'un litre ! Ce rouge charmant regorge de fruits rouges juteux et d'une abondance d'épices italiennes. On sort le BBQ!",
@@ -674,7 +1612,7 @@
       ],
       "alcohol_content": null,
       "volume": "1L",
-      "disponibilite": "SAQ",
+      "disponibilite": null,
       "all_occurrences_raw_data": [
         {
           "name": "MONTE BERNARDI 1L Rosso, 'Fiasco!'",
@@ -696,12 +1634,12 @@
           ],
           "alcohol_content": null,
           "volume": "1L",
-          "disponibilite": "SAQ"
+          "disponibilite": null
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "MONTE BERNARDI 1L Rosso, 'Fiasco!' is a delightful celebration of Italy, blending organic Sangiovese, Malvasia Nera, and more, bursting with juicy red fruit and Italian spices, perfect for al fresco dining."
+    "summary": "MONTE BERNARDI 1L Rosso 'Fiasco!' is a delightful celebration of Italy, a charming table wine bursting with juicy red fruits and Italian spices, perfect for al fresco dining and BBQ gatherings."
   },
   {
     "id": "file-2025-08-13-planvin-0.html-la-part-du-colibri-folle-blanche-2024",
@@ -749,7 +1687,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Part du Colibri Folle Blanche 2024 is a pale green-tinged white from 40-year-old vines, showcasing a fresh and nervy character with beautiful tension and subtle mineral notes."
+    "summary": "La Part du Colibri Folle Blanche 2024 is a pale green-tinged white from 40-year-old vines, showcasing a fresh and nervy profile with beautiful tension and delicate mineral notes."
   },
   {
     "id": "file-2025-08-13-planvin-0.html-la-part-du-colibri-gamay-2024",
@@ -797,7 +1735,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Part du Colibri Gamay 2024 is a vibrant expression of Gamay from 30-35-year-old vines, showcasing a fresh and juicy palate with bright fruit, rooted in volcanic gabbro soil."
+    "summary": "La Part du Colibri Gamay 2024 is a vibrant expression of Gamay from 30 to 35-year-old vines, offering a fresh and juicy palate with bright fruit, a stunning example of Loire's terroir."
   },
   {
     "id": "file-2025-08-12-domaine-du-nival-0.html-caisse-dautomne-millesime-2024",
@@ -841,7 +1779,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Caisse d'automne - Millésime 2024 offers the best of both worlds with a mixed case featuring four bottles of Matière à discussion 2024 and two bottles of Un de ces quatre 2024, available in limited quantity."
+    "summary": "Caisse d'automne 2024 offers the best of both worlds with a mixed case featuring four bottles of Matière à discussion and two bottles of Un de ces quatre, perfect for discovering two standout cuvées in one purchase."
   },
   {
     "id": "file-2025-08-12-domaine-du-nival-0.html-matiere-a-discussion-2024",
@@ -885,7 +1823,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Matière à discussion 2024 continues to impress with its elegance and precision, offering expressive notes of pear, floral hints, and citrus, with a fresh and ample palate that evolves beautifully with age."
+    "summary": "Matière à discussion 2024 continues to evolve in finesse and precision, offering an elegant expression of Vidal with charming pear, floral, and citrus notes, inviting patience for a beautifully complex evolution in the cellar."
   },
   {
     "id": "file-2025-08-12-domaine-du-nival-0.html-un-de-ces-quatre-2024",
@@ -929,94 +1867,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Un de ces quatre 2024 showcases the concentrated power of Gamaret, with deep, ripe fruit and enchanting spicy notes, offering a dense and ample palate with beautifully integrated tannins."
-  },
-  {
-    "id": "file-2025-08-09-le-vin-dans-les-voiles-0.html-lapostrophe-2024",
-    "blockId": "file-2025-08-09-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-08-09T00:00:00.000Z",
-    "name": "L'Apostrophe 2024",
-    "description": "Un rosé d’auteur, pas d’opérette. Il a la fraîcheur des matins clairs en Provence, les notes acidulées d’une poignée de canneberges bien juteuses, un peu de poivre blanc, un clin d’œil de garrigue. Ça s’ouvre en grand sur un pique-nique improvisé, un brunch ensoleillé ou une partie de cartes au camping. C’est sec, vibrant, élégant. Comme un rayon de lumière dans ton verre.",
-    "price": "27.50$",
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/42704e18-1dba-490d-97bd-1753d86f1fb5.png",
-    "link": null,
-    "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "L'Apostrophe 2024",
-      "description": "Un rosé d’auteur, pas d’opérette. Il a la fraîcheur des matins clairs en Provence, les notes acidulées d’une poignée de canneberges bien juteuses, un peu de poivre blanc, un clin d’œil de garrigue. Ça s’ouvre en grand sur un pique-nique improvisé, un brunch ensoleillé ou une partie de cartes au camping. C’est sec, vibrant, élégant. Comme un rayon de lumière dans ton verre.",
-      "price": "27.50$",
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/42704e18-1dba-490d-97bd-1753d86f1fb5.png",
-      "link": null,
-      "producer": "Domaine Les Terres Promises",
-      "region": "Provence",
-      "vintage": "2024",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "L'Apostrophe 2024",
-          "description": "Un rosé d’auteur, pas d’opérette. Il a la fraîcheur des matins clairs en Provence, les notes acidulées d’une poignée de canneberges bien juteuses, un peu de poivre blanc, un clin d’œil de garrigue. Ça s’ouvre en grand sur un pique-nique improvisé, un brunch ensoleillé ou une partie de cartes au camping. C’est sec, vibrant, élégant. Comme un rayon de lumière dans ton verre.",
-          "price": "27.50$",
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/42704e18-1dba-490d-97bd-1753d86f1fb5.png",
-          "link": null,
-          "producer": "Domaine Les Terres Promises",
-          "region": "Provence",
-          "vintage": "2024",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "L'Apostrophe 2024 is an author-driven rosé that captures the freshness of clear Provence mornings, with juicy cranberry notes and a hint of white pepper, radiating elegance and vibrancy."
-  },
-  {
-    "id": "file-2025-08-09-le-vin-dans-les-voiles-0.html-la-mariole-2022",
-    "blockId": "file-2025-08-09-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-08-09T00:00:00.000Z",
-    "name": "La Mariole 2022",
-    "description": "Un rouge méditerranéen qui a du mordant. Fruits noirs bien mûrs, un soupçon de cuir, un poil d’épices… c’est solaire et sans détour. Servi rafraîchi, il flirte entre la tendresse et le tempérament, parfait pour des côtes levées caramélisées, un burger costaud ou même une pizza au feu de bois. Un vin qui a l’air d’un dur, mais qui fond en bouche.",
-    "price": "24.70$",
-    "image_url": null,
-    "link": "http://SAQ.com",
-    "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "La Mariole 2022",
-      "description": "Un rouge méditerranéen qui a du mordant. Fruits noirs bien mûrs, un soupçon de cuir, un poil d’épices… c’est solaire et sans détour. Servi rafraîchi, il flirte entre la tendresse et le tempérament, parfait pour des côtes levées caramélisées, un burger costaud ou même une pizza au feu de bois. Un vin qui a l’air d’un dur, mais qui fond en bouche.",
-      "price": "24.70$",
-      "image_url": null,
-      "link": "http://SAQ.com",
-      "producer": "Domaine Ledogar",
-      "region": null,
-      "vintage": "2022",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "La Mariole 2022",
-          "description": "Un rouge méditerranéen qui a du mordant. Fruits noirs bien mûrs, un soupçon de cuir, un poil d’épices… c’est solaire et sans détour. Servi rafraîchi, il flirte entre la tendresse et le tempérament, parfait pour des côtes levées caramélisées, un burger costaud ou même une pizza au feu de bois. Un vin qui a l’air d’un dur, mais qui fond en bouche.",
-          "price": "24.70$",
-          "image_url": null,
-          "link": "http://SAQ.com",
-          "producer": "Domaine Ledogar",
-          "region": null,
-          "vintage": "2022",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "La Mariole 2022 is a Mediterranean red with bold ripe black fruit, a hint of leather, and spices, striking a balance between tenderness and temperament, ideal for hearty dishes."
+    "summary": "Un de ces quatre 2024 showcases the concentrated power of Gamaret, with a deep nose of ripe fruit and enticing spicy notes, delivering a dense and ample mouthfeel with already softened tannins, promising to surprise and delight."
   }
 ]
