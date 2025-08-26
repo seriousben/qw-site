@@ -1,5 +1,105 @@
 [
   {
+    "id": "file-2025-08-26-planvin-0.html-gargante-2022",
+    "blockId": "file-2025-08-26-planvin-0.html",
+    "createdAt": "2025-08-26T00:00:00.000Z",
+    "name": "Gargànte 2022",
+    "description": "Une bulle de soif, sur lie, refermentée en bouteille. 100 % garganega, vinifiée spontanément en cuve inox. Élevage d’environ 5 mois sur lies en cuves béton. La prise de mousse se fait naturellement en bouteille, par ajout de moût de garganega passerillé. Robe jaune paille, mousse généreuse. La bouche est fraîche, ample, portée par une trame minérale et une sapidité vibrante qui appelle la prochaine gorgée. Gargànte, c’est un vin sincère, immédiat, pensé pour la buvabilité.",
+    "price": "32,46 $",
+    "image_url": null,
+    "link": null,
+    "agence": "Planvin",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Gargànte 2022",
+      "description": "Une bulle de soif, sur lie, refermentée en bouteille. 100 % garganega, vinifiée spontanément en cuve inox. Élevage d’environ 5 mois sur lies en cuves béton. La prise de mousse se fait naturellement en bouteille, par ajout de moût de garganega passerillé. Robe jaune paille, mousse généreuse. La bouche est fraîche, ample, portée par une trame minérale et une sapidité vibrante qui appelle la prochaine gorgée. Gargànte, c’est un vin sincère, immédiat, pensé pour la buvabilité.",
+      "price": "32,46 $",
+      "image_url": null,
+      "link": null,
+      "producer": "Nevio Scala",
+      "region": "IGT Veneto",
+      "vintage": "2022",
+      "grape_varieties": [
+        "garganega"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Gargànte 2022",
+          "description": "Une bulle de soif, sur lie, refermentée en bouteille. 100 % garganega, vinifiée spontanément en cuve inox. Élevage d’environ 5 mois sur lies en cuves béton. La prise de mousse se fait naturellement en bouteille, par ajout de moût de garganega passerillé. Robe jaune paille, mousse généreuse. La bouche est fraîche, ample, portée par une trame minérale et une sapidité vibrante qui appelle la prochaine gorgée. Gargànte, c’est un vin sincère, immédiat, pensé pour la buvabilité.",
+          "price": "32,46 $",
+          "image_url": null,
+          "link": null,
+          "producer": "Nevio Scala",
+          "region": "IGT Veneto",
+          "vintage": "2022",
+          "grape_varieties": [
+            "garganega"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Gargànte 2022 is a refreshing sparkling wine made entirely from Garganega, showcasing a generous mousse and vibrant minerality, inviting you to savor each sip with its delightful freshness and ample character."
+  },
+  {
+    "id": "file-2025-08-26-planvin-0.html-blanko",
+    "blockId": "file-2025-08-26-planvin-0.html",
+    "createdAt": "2025-08-26T00:00:00.000Z",
+    "name": "Blanko",
+    "description": "Assemblage de garganega, malvasia istriana et moscato bianco issus de jeunes vignes. Ce vin est vinifié avec une courte macération pelliculaire et élevé uniquement en cuve béton. Le nez révèle des notes délicates de zeste de citron et de fleurs blanches. La bouche est vive et florale, offre une texture légère et désaltérante qui glisse toute seule sans jamais tomber dans l’excès.",
+    "price": "28,97 $",
+    "image_url": null,
+    "link": null,
+    "agence": "Planvin",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Blanko",
+      "description": "Assemblage de garganega, malvasia istriana et moscato bianco issus de jeunes vignes. Ce vin est vinifié avec une courte macération pelliculaire et élevé uniquement en cuve béton. Le nez révèle des notes délicates de zeste de citron et de fleurs blanches. La bouche est vive et florale, offre une texture légère et désaltérante qui glisse toute seule sans jamais tomber dans l’excès.",
+      "price": "28,97 $",
+      "image_url": null,
+      "link": null,
+      "producer": "Nevio Scala",
+      "region": "VDT",
+      "vintage": null,
+      "grape_varieties": [
+        "garganega",
+        "malvasia istriana",
+        "moscato bianco"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Blanko",
+          "description": "Assemblage de garganega, malvasia istriana et moscato bianco issus de jeunes vignes. Ce vin est vinifié avec une courte macération pelliculaire et élevé uniquement en cuve béton. Le nez révèle des notes délicates de zeste de citron et de fleurs blanches. La bouche est vive et florale, offre une texture légère et désaltérante qui glisse toute seule sans jamais tomber dans l’excès.",
+          "price": "28,97 $",
+          "image_url": null,
+          "link": null,
+          "producer": "Nevio Scala",
+          "region": "VDT",
+          "vintage": null,
+          "grape_varieties": [
+            "garganega",
+            "malvasia istriana",
+            "moscato bianco"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Blanko is a youthful blend of Garganega, Malvasia Istriana, and Moscato Bianco, exuding delicate notes of lemon zest and white flowers, with a vibrant and refreshing palate that glides effortlessly, showcasing its light and floral character."
+  },
+  {
     "id": "file-2025-08-25-vin-dame-jeanne-0.html-savigny-les-beaune-1er-cru-les-lavieres-2020",
     "blockId": "file-2025-08-25-vin-dame-jeanne-0.html",
     "createdAt": "2025-08-25T00:00:00.000Z",
@@ -45,7 +145,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "This exquisite Savigny-les-Beaune 1er cru ‘Les Lavières’ 2020 showcases the elegance of old-vine Pinot Noir, meticulously crafted through gentle extraction and aged for 18 months in fine Burgundy barrels, promising both immediate pleasure and long-term aging potential."
+    "summary": "The Savigny-les-Beaune 1er cru ‘Les Lavières’ 2020 is a distinguished Pinot Noir, crafted from 1954 massal selection, offering a refined expression of its terroir with elegant extraction and 18 months of aging in French oak, perfect for both immediate enjoyment and long-term cellaring."
   },
   {
     "id": "file-2025-08-22-noble-selection-0.html-chateau-bouscaut-graves-de-bouscaut-2020",
@@ -97,7 +197,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Château Bouscaut 2020 embodies a harmonious blend of tradition and modernity, with hand-harvested grapes undergoing meticulous vinification and 14 months of aging in French oak, resulting in a wine of remarkable structure and aromatic purity."
+    "summary": "Château Bouscaut 2020 embodies a meticulous blend of tradition and modernity, with hand-harvested grapes undergoing controlled fermentation and 14 months of aging in French oak, resulting in a structured and complex wine that maintains its natural balance and aromatic purity."
   },
   {
     "id": "file-2025-08-22-noble-selection-0.html-tradition-rasteau-2021",
@@ -109,7 +209,7 @@
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_rhon--a-rasteau-tradition-copie_2.png",
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=95835fae98&e=2c9a262afa",
     "agence": "Noble Sélection",
-    "disponibilite": null,
+    "disponibilite": "SAQ",
     "raw_data": {
       "name": "Tradition Rasteau 2021",
       "description": "Entre chaleur et sécheresse, les conditions climatiques ont encore été difficiles pour le millésime 2021. Mais grâce à une capacité d’adaptation exceptionnelle des vignes et un engagement fort des artisans vignerons du domaine, ce millésime s’annonce très qualitatif.",
@@ -122,7 +222,7 @@
       "grape_varieties": null,
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": null,
+      "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
           "name": "Tradition Rasteau 2021",
@@ -136,19 +236,18 @@
           "grape_varieties": null,
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": null
+          "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
-    },
-    "summary": "Despite the challenging climate of 2021, Tradition Rasteau reveals the resilience of its vines and the dedication of its winemakers, promising a vintage of exceptional quality and character."
+    }
   },
   {
     "id": "file-2025-08-22-noble-selection-0.html-jeio-valdobbiadene-prosecco-superiore",
     "blockId": "file-2025-08-22-noble-selection-0.html",
     "createdAt": "2025-08-22T00:00:00.000Z",
     "name": "Jeio Valdobbiadene Prosecco Superiore",
-    "description": "",
+    "description": null,
     "price": "22,70$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bisol-jeio-conegliano-valdobbiadene-prosecco-superiore-brut-copie.png",
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=54e131cb63&e=2c9a262afa",
@@ -156,7 +255,7 @@
     "disponibilite": null,
     "raw_data": {
       "name": "Jeio Valdobbiadene Prosecco Superiore",
-      "description": "",
+      "description": null,
       "price": "22,70$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bisol-jeio-conegliano-valdobbiadene-prosecco-superiore-brut-copie.png",
       "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=54e131cb63&e=2c9a262afa",
@@ -170,7 +269,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "Jeio Valdobbiadene Prosecco Superiore",
-          "description": "",
+          "description": null,
           "price": "22,70$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bisol-jeio-conegliano-valdobbiadene-prosecco-superiore-brut-copie.png",
           "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=54e131cb63&e=2c9a262afa",
@@ -191,7 +290,7 @@
     "blockId": "file-2025-08-22-noble-selection-0.html",
     "createdAt": "2025-08-22T00:00:00.000Z",
     "name": "The Barnstormer 2021",
-    "description": "",
+    "description": null,
     "price": "26,55$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_alpha-domus-the-barnstormer-13353251-1_1589488813_2_1755798018.png",
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ce1c0826b3&e=2c9a262afa",
@@ -199,7 +298,7 @@
     "disponibilite": null,
     "raw_data": {
       "name": "The Barnstormer 2021",
-      "description": "",
+      "description": null,
       "price": "26,55$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_alpha-domus-the-barnstormer-13353251-1_1589488813_2_1755798018.png",
       "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ce1c0826b3&e=2c9a262afa",
@@ -213,7 +312,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "The Barnstormer 2021",
-          "description": "",
+          "description": null,
           "price": "26,55$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_alpha-domus-the-barnstormer-13353251-1_1589488813_2_1755798018.png",
           "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ce1c0826b3&e=2c9a262afa",
@@ -270,15 +369,14 @@
         }
       ],
       "agence_was_defaulted": false
-    },
-    "summary": "Château Livran 2019 presents a refined expression of Médoc, crafted from carefully selected grapes and aged for 12 months in partially new French oak barrels, delivering a wine of depth and elegance."
+    }
   },
   {
     "id": "file-2025-08-22-noble-selection-0.html-spumante-brut-millesimato-2024",
     "blockId": "file-2025-08-22-noble-selection-0.html",
     "createdAt": "2025-08-22T00:00:00.000Z",
     "name": "Spumante Brut Millesimato 2024",
-    "description": "",
+    "description": null,
     "price": "15,80$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-spumante-brut-2024.png",
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6743a6aaca&e=2c9a262afa",
@@ -286,7 +384,7 @@
     "disponibilite": null,
     "raw_data": {
       "name": "Spumante Brut Millesimato 2024",
-      "description": "",
+      "description": null,
       "price": "15,80$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-spumante-brut-2024.png",
       "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6743a6aaca&e=2c9a262afa",
@@ -300,7 +398,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "Spumante Brut Millesimato 2024",
-          "description": "",
+          "description": null,
           "price": "15,80$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-spumante-brut-2024.png",
           "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6743a6aaca&e=2c9a262afa",
@@ -321,7 +419,7 @@
     "blockId": "file-2025-08-22-noble-selection-0.html",
     "createdAt": "2025-08-22T00:00:00.000Z",
     "name": "Pinot Gris 2023",
-    "description": "",
+    "description": null,
     "price": "23,75$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_paxton-pinot-gris-2023.png",
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f6b90f6919&e=2c9a262afa",
@@ -329,7 +427,7 @@
     "disponibilite": null,
     "raw_data": {
       "name": "Pinot Gris 2023",
-      "description": "",
+      "description": null,
       "price": "23,75$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_paxton-pinot-gris-2023.png",
       "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f6b90f6919&e=2c9a262afa",
@@ -343,7 +441,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "Pinot Gris 2023",
-          "description": "",
+          "description": null,
           "price": "23,75$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_paxton-pinot-gris-2023.png",
           "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f6b90f6919&e=2c9a262afa",
@@ -364,7 +462,7 @@
     "blockId": "file-2025-08-22-noble-selection-0.html",
     "createdAt": "2025-08-22T00:00:00.000Z",
     "name": "Terres d'Estandon 2024",
-    "description": "",
+    "description": null,
     "price": "20,30$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_terres-d-estandon.jpg",
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=dc1253bd48&e=2c9a262afa",
@@ -372,7 +470,7 @@
     "disponibilite": null,
     "raw_data": {
       "name": "Terres d'Estandon 2024",
-      "description": "",
+      "description": null,
       "price": "20,30$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_terres-d-estandon.jpg",
       "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=dc1253bd48&e=2c9a262afa",
@@ -386,7 +484,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "Terres d'Estandon 2024",
-          "description": "",
+          "description": null,
           "price": "20,30$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_terres-d-estandon.jpg",
           "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=dc1253bd48&e=2c9a262afa",
@@ -407,7 +505,7 @@
     "blockId": "file-2025-08-22-noble-selection-0.html",
     "createdAt": "2025-08-22T00:00:00.000Z",
     "name": "Maison les Alexandrins Crozes-Hermitage 2022",
-    "description": "",
+    "description": null,
     "price": "29,90$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_crozes_hermitage_rouge_1641571440_retina.png",
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6d8743c296&e=2c9a262afa",
@@ -415,7 +513,7 @@
     "disponibilite": null,
     "raw_data": {
       "name": "Maison les Alexandrins Crozes-Hermitage 2022",
-      "description": "",
+      "description": null,
       "price": "29,90$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_crozes_hermitage_rouge_1641571440_retina.png",
       "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6d8743c296&e=2c9a262afa",
@@ -429,7 +527,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "Maison les Alexandrins Crozes-Hermitage 2022",
-          "description": "",
+          "description": null,
           "price": "29,90$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_crozes_hermitage_rouge_1641571440_retina.png",
           "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6d8743c296&e=2c9a262afa",
@@ -654,7 +752,7 @@
       "region": "Loire",
       "vintage": "2023",
       "grape_varieties": [
-        "Sauvignon Blanc"
+        "sauvignon blanc"
       ],
       "alcohol_content": null,
       "volume": "750ml",
@@ -670,7 +768,7 @@
           "region": "Loire",
           "vintage": "2023",
           "grape_varieties": [
-            "Sauvignon Blanc"
+            "sauvignon blanc"
           ],
           "alcohol_content": null,
           "volume": "750ml",
@@ -679,7 +777,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "TOURAINE L'ARPENT DES VAUDONS is a beautifully crafted Sauvignon from a family estate, offering vibrant notes of lemon, orange blossom, and honey, with a silky texture and fine acidity that echoes the elegance of a fine Sancerre."
+    "summary": "TOURAINE L'ARPENT DES VAUDONS is a beautifully crafted Sauvignon from a family estate, exhibiting rounded vigor with enticing aromas of lemon, orange blossom, and honey, complemented by a silky texture and fine acidity, making it an exceptional value among Loire wines."
   },
   {
     "id": "file-2025-08-21-rezin-0.html-cahors-solis",
@@ -687,7 +785,7 @@
     "createdAt": "2025-08-21T00:00:00.000Z",
     "name": "CAHORS SOLIS",
     "description": "C’est en 1999 que Catherine Maisonneuve et Matthieu Cosse s’installent sur les coteaux de Lacapelle-Cabanac, le long du Lot. Leur but : élaborer à partir d’un grand cépage, le malbec, sur un grand terroir, Cahors, des vins empreints de finesse et d’élégance, à la fois structurés, profonds et digestes. Méticuleux et passionnés, ils travaillent avec respect de la biodiversité et de l’intégrité des sols. Le vin se fait surtout à la vigne dont le travail est assuré en biodynamie depuis les débuts.",
-    "price": "18,80$",
+    "price": "18,80$ la bouteille de 500ml",
     "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/f4dab28d-8306-4fac-329a-99f8cf835056.png",
     "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=0db3ae918a&e=c11422f941",
     "agence": "réZin",
@@ -695,14 +793,14 @@
     "raw_data": {
       "name": "CAHORS SOLIS",
       "description": "C’est en 1999 que Catherine Maisonneuve et Matthieu Cosse s’installent sur les coteaux de Lacapelle-Cabanac, le long du Lot. Leur but : élaborer à partir d’un grand cépage, le malbec, sur un grand terroir, Cahors, des vins empreints de finesse et d’élégance, à la fois structurés, profonds et digestes. Méticuleux et passionnés, ils travaillent avec respect de la biodiversité et de l’intégrité des sols. Le vin se fait surtout à la vigne dont le travail est assuré en biodynamie depuis les débuts.",
-      "price": "18,80$",
+      "price": "18,80$ la bouteille de 500ml",
       "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/f4dab28d-8306-4fac-329a-99f8cf835056.png",
       "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=0db3ae918a&e=c11422f941",
       "producer": "COSSE-MAISONNEUVE",
       "region": "Cahors",
       "vintage": "2019",
       "grape_varieties": [
-        "Malbec"
+        "malbec"
       ],
       "alcohol_content": null,
       "volume": "500ml",
@@ -711,14 +809,14 @@
         {
           "name": "CAHORS SOLIS",
           "description": "C’est en 1999 que Catherine Maisonneuve et Matthieu Cosse s’installent sur les coteaux de Lacapelle-Cabanac, le long du Lot. Leur but : élaborer à partir d’un grand cépage, le malbec, sur un grand terroir, Cahors, des vins empreints de finesse et d’élégance, à la fois structurés, profonds et digestes. Méticuleux et passionnés, ils travaillent avec respect de la biodiversité et de l’intégrité des sols. Le vin se fait surtout à la vigne dont le travail est assuré en biodynamie depuis les débuts.",
-          "price": "18,80$",
+          "price": "18,80$ la bouteille de 500ml",
           "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/f4dab28d-8306-4fac-329a-99f8cf835056.png",
           "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=0db3ae918a&e=c11422f941",
           "producer": "COSSE-MAISONNEUVE",
           "region": "Cahors",
           "vintage": "2019",
           "grape_varieties": [
-            "Malbec"
+            "malbec"
           ],
           "alcohol_content": null,
           "volume": "500ml",
@@ -727,6 +825,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "CAHORS SOLIS reflects the artistry of Catherine Maisonneuve and Matthieu Cosse, who craft elegant and structured Malbec wines from the renowned Cahors terroir, all while honoring biodiversity and biodynamic practices."
+    "summary": "CAHORS SOLIS is a testament to the artistry of Catherine Maisonneuve and Matthieu Cosse, who craft elegant and structured Malbec wines from the renowned Cahors terroir, embodying finesse and a deep respect for biodiversity through biodynamic practices."
   }
 ]
