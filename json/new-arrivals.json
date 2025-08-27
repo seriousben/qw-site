@@ -45,7 +45,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Gargànte 2022 is a refreshing sparkling wine made entirely from Garganega, showcasing a generous mousse and vibrant minerality, inviting you to savor each sip with its delightful freshness and ample character."
+    "summary": "Gargànte 2022 is a refreshing sparkling wine crafted from 100% Garganega, showcasing a vibrant yellow hue and generous bubbles. Its lively palate, enriched by a mineral backbone and delightful sapidity, invites you to savor each sip."
   },
   {
     "id": "file-2025-08-26-planvin-0.html-blanko",
@@ -97,7 +97,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Blanko is a youthful blend of Garganega, Malvasia Istriana, and Moscato Bianco, exuding delicate notes of lemon zest and white flowers, with a vibrant and refreshing palate that glides effortlessly, showcasing its light and floral character."
+    "summary": "Blanko is a delightful blend of Garganega, Malvasia Istriana, and Moscato Bianco, offering delicate aromas of lemon zest and white flowers. Its vibrant, floral palate is refreshingly light, gliding effortlessly with each sip."
   },
   {
     "id": "file-2025-08-25-vin-dame-jeanne-0.html-savigny-les-beaune-1er-cru-les-lavieres-2020",
@@ -105,7 +105,7 @@
     "createdAt": "2025-08-25T00:00:00.000Z",
     "name": "Savigny-les-Beaune 1er cru ‘Les Lavières’, 2020",
     "description": "Vignes sur la commune de Savigny-Lès-Beaune, à mi-coteaux, orientation Sud-Sud-Est. Sols à dominante argilo-calcaire posés sur un sous-sol composé de lavières. Pinot Noir issu d’une sélection massale plantée en 1954. Vinification en grappes entières : encuvage en cuve bois tronconique. Vinification sur l'extraction douce, grâce à des remontages et pigeages légers. Macération totale de 2 à 3 semaines. Élevage de 18 mois en pièces bourguignonnes. Grand Pinot Noir de table, et de garde !",
-    "price": "179,37$",
+    "price": "Particulier 179.37 | Restaurant 149.66",
     "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
     "link": null,
     "agence": "Vin Dame-Jeanne",
@@ -113,7 +113,7 @@
     "raw_data": {
       "name": "Savigny-les-Beaune 1er cru ‘Les Lavières’, 2020",
       "description": "Vignes sur la commune de Savigny-Lès-Beaune, à mi-coteaux, orientation Sud-Sud-Est. Sols à dominante argilo-calcaire posés sur un sous-sol composé de lavières. Pinot Noir issu d’une sélection massale plantée en 1954. Vinification en grappes entières : encuvage en cuve bois tronconique. Vinification sur l'extraction douce, grâce à des remontages et pigeages légers. Macération totale de 2 à 3 semaines. Élevage de 18 mois en pièces bourguignonnes. Grand Pinot Noir de table, et de garde !",
-      "price": "179,37$",
+      "price": "Particulier 179.37 | Restaurant 149.66",
       "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
       "link": null,
       "producer": "Athénais de Béru",
@@ -129,7 +129,7 @@
         {
           "name": "Savigny-les-Beaune 1er cru ‘Les Lavières’, 2020",
           "description": "Vignes sur la commune de Savigny-Lès-Beaune, à mi-coteaux, orientation Sud-Sud-Est. Sols à dominante argilo-calcaire posés sur un sous-sol composé de lavières. Pinot Noir issu d’une sélection massale plantée en 1954. Vinification en grappes entières : encuvage en cuve bois tronconique. Vinification sur l'extraction douce, grâce à des remontages et pigeages légers. Macération totale de 2 à 3 semaines. Élevage de 18 mois en pièces bourguignonnes. Grand Pinot Noir de table, et de garde !",
-          "price": "179,37$",
+          "price": "Particulier 179.37 | Restaurant 149.66",
           "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
           "link": null,
           "producer": "Athénais de Béru",
@@ -145,7 +145,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "The Savigny-les-Beaune 1er cru ‘Les Lavières’ 2020 is a distinguished Pinot Noir, crafted from 1954 massal selection, offering a refined expression of its terroir with elegant extraction and 18 months of aging in French oak, perfect for both immediate enjoyment and long-term cellaring."
+    "summary": "The Savigny-les-Beaune 1er cru ‘Les Lavières’ 2020 is a distinguished Pinot Noir, meticulously vinified from massal selections planted in 1954. With 18 months of aging in Burgundy barrels, it embodies elegance and depth, perfect for both immediate enjoyment and aging."
   },
   {
     "id": "file-2025-08-22-noble-selection-0.html-chateau-bouscaut-graves-de-bouscaut-2020",
@@ -157,7 +157,7 @@
     "image_url": "https://mcusercontent.com/3cbe129d9fba7fd6a0d135511/images/534dae7a-1d9c-4eaf-8cbc-c98a4b00c640.jpg",
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f346259345&e=2c9a262afa",
     "agence": "Noble Sélection",
-    "disponibilite": null,
+    "disponibilite": "SAQ",
     "raw_data": {
       "name": "Château Bouscaut, Graves de Bouscaut 2020",
       "description": "La vinification du Graves de Bouscaut 2020 s’appuie sur un savoir-faire rigoureux alliant tradition et modernité. Les vendanges sont manuelles, garantissant une sélection optimale des raisins. Après un éraflage délicat, les fermentations alcoolique et malolactique se déroulent en cuves inox à température contrôlée, préservant la fraîcheur et la pureté des arômes. L’élevage s’étend sur 14 mois en barriques de chêne français et en cuves de béton, conférant au vin structure et complexité tout en respectant son équilibre naturel.",
@@ -174,7 +174,7 @@
       ],
       "alcohol_content": "14%",
       "volume": "750ml",
-      "disponibilite": null,
+      "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
           "name": "Château Bouscaut, Graves de Bouscaut 2020",
@@ -192,12 +192,12 @@
           ],
           "alcohol_content": "14%",
           "volume": "750ml",
-          "disponibilite": null
+          "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Château Bouscaut 2020 embodies a meticulous blend of tradition and modernity, with hand-harvested grapes undergoing controlled fermentation and 14 months of aging in French oak, resulting in a structured and complex wine that maintains its natural balance and aromatic purity."
+    "summary": "Château Bouscaut 2020 is a masterful blend of tradition and modernity, featuring hand-harvested grapes and carefully controlled fermentations. With 14 months of aging in French oak barrels, it reveals a structured complexity while maintaining its natural balance."
   },
   {
     "id": "file-2025-08-22-noble-selection-0.html-tradition-rasteau-2021",
@@ -206,7 +206,7 @@
     "name": "Tradition Rasteau 2021",
     "description": "Entre chaleur et sécheresse, les conditions climatiques ont encore été difficiles pour le millésime 2021. Mais grâce à une capacité d’adaptation exceptionnelle des vignes et un engagement fort des artisans vignerons du domaine, ce millésime s’annonce très qualitatif.",
     "price": "20,65$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_rhon--a-rasteau-tradition-copie_2.png",
+    "image_url": null,
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=95835fae98&e=2c9a262afa",
     "agence": "Noble Sélection",
     "disponibilite": "SAQ",
@@ -214,7 +214,7 @@
       "name": "Tradition Rasteau 2021",
       "description": "Entre chaleur et sécheresse, les conditions climatiques ont encore été difficiles pour le millésime 2021. Mais grâce à une capacité d’adaptation exceptionnelle des vignes et un engagement fort des artisans vignerons du domaine, ce millésime s’annonce très qualitatif.",
       "price": "20,65$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_rhon--a-rasteau-tradition-copie_2.png",
+      "image_url": null,
       "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=95835fae98&e=2c9a262afa",
       "producer": "ORTAS CAVE DE RASTEAU",
       "region": "Vallée du Rhône",
@@ -228,7 +228,7 @@
           "name": "Tradition Rasteau 2021",
           "description": "Entre chaleur et sécheresse, les conditions climatiques ont encore été difficiles pour le millésime 2021. Mais grâce à une capacité d’adaptation exceptionnelle des vignes et un engagement fort des artisans vignerons du domaine, ce millésime s’annonce très qualitatif.",
           "price": "20,65$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_rhon--a-rasteau-tradition-copie_2.png",
+          "image_url": null,
           "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=95835fae98&e=2c9a262afa",
           "producer": "ORTAS CAVE DE RASTEAU",
           "region": "Vallée du Rhône",
@@ -345,7 +345,7 @@
       "price": "27,60$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_ch--teau-livran-m--doc-2018-copie.png",
       "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=e7eb8308fc&e=2c9a262afa",
-      "producer": "Médoc",
+      "producer": null,
       "region": "Bordeaux",
       "vintage": "2019",
       "grape_varieties": null,
@@ -359,7 +359,7 @@
           "price": "27,60$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_ch--teau-livran-m--doc-2018-copie.png",
           "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=e7eb8308fc&e=2c9a262afa",
-          "producer": "Médoc",
+          "producer": null,
           "region": "Bordeaux",
           "vintage": "2019",
           "grape_varieties": null,
@@ -369,7 +369,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "Médoc Château Livran 2019 is crafted from meticulously selected grapes, vinified in temperature-controlled stainless steel and concrete tanks, followed by 12 months of aging in partially new French oak barrels, ensuring a refined character."
   },
   {
     "id": "file-2025-08-22-noble-selection-0.html-spumante-brut-millesimato-2024",
@@ -732,10 +733,10 @@
     }
   },
   {
-    "id": "file-2025-08-21-rezin-0.html-touraine-larpent-des-vaudons",
+    "id": "file-2025-08-21-rezin-0.html-touraine-larpent-des-vaudons-2023",
     "blockId": "file-2025-08-21-rezin-0.html",
     "createdAt": "2025-08-21T00:00:00.000Z",
-    "name": "TOURAINE L'ARPENT DES VAUDONS",
+    "name": "TOURAINE L'ARPENT DES VAUDONS - 2023",
     "description": "Un très joli sauvignon de la Loire provenant d’une exploitation familiale d’environ 35 hectares. Des vignes de 10 à 60 ans exposées sud-sud-est, sur des sols argilocalcaires. On devine un sauvignon aux angles arrondis qui ne manque pas de vigueur pour autant. Jolis parfums de citron, de fleur d’oranger, de miel et d’herbe. En bouche, le vin montre une texture soyeuse, de l’énergie et une fine acidité qui rappelle un bon sancerre. Bonne persistance en finale. Pas le plus complexe, mais d’une impeccable finesse d’exécution qui en fait l’un des meilleurs sauvignons à une vingtaine de dollars à la SAQ.",
     "price": "23,75 $",
     "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/1a10e035-6c23-3493-ca38-63915b91a180.png",
@@ -743,7 +744,7 @@
     "agence": "réZin",
     "disponibilite": "SAQ",
     "raw_data": {
-      "name": "TOURAINE L'ARPENT DES VAUDONS",
+      "name": "TOURAINE L'ARPENT DES VAUDONS - 2023",
       "description": "Un très joli sauvignon de la Loire provenant d’une exploitation familiale d’environ 35 hectares. Des vignes de 10 à 60 ans exposées sud-sud-est, sur des sols argilocalcaires. On devine un sauvignon aux angles arrondis qui ne manque pas de vigueur pour autant. Jolis parfums de citron, de fleur d’oranger, de miel et d’herbe. En bouche, le vin montre une texture soyeuse, de l’énergie et une fine acidité qui rappelle un bon sancerre. Bonne persistance en finale. Pas le plus complexe, mais d’une impeccable finesse d’exécution qui en fait l’un des meilleurs sauvignons à une vingtaine de dollars à la SAQ.",
       "price": "23,75 $",
       "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/1a10e035-6c23-3493-ca38-63915b91a180.png",
@@ -752,14 +753,14 @@
       "region": "Loire",
       "vintage": "2023",
       "grape_varieties": [
-        "sauvignon blanc"
+        "Sauvignon Blanc"
       ],
       "alcohol_content": null,
       "volume": "750ml",
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
-          "name": "TOURAINE L'ARPENT DES VAUDONS",
+          "name": "TOURAINE L'ARPENT DES VAUDONS - 2023",
           "description": "Un très joli sauvignon de la Loire provenant d’une exploitation familiale d’environ 35 hectares. Des vignes de 10 à 60 ans exposées sud-sud-est, sur des sols argilocalcaires. On devine un sauvignon aux angles arrondis qui ne manque pas de vigueur pour autant. Jolis parfums de citron, de fleur d’oranger, de miel et d’herbe. En bouche, le vin montre une texture soyeuse, de l’énergie et une fine acidité qui rappelle un bon sancerre. Bonne persistance en finale. Pas le plus complexe, mais d’une impeccable finesse d’exécution qui en fait l’un des meilleurs sauvignons à une vingtaine de dollars à la SAQ.",
           "price": "23,75 $",
           "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/1a10e035-6c23-3493-ca38-63915b91a180.png",
@@ -768,7 +769,7 @@
           "region": "Loire",
           "vintage": "2023",
           "grape_varieties": [
-            "sauvignon blanc"
+            "Sauvignon Blanc"
           ],
           "alcohol_content": null,
           "volume": "750ml",
@@ -777,46 +778,46 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "TOURAINE L'ARPENT DES VAUDONS is a beautifully crafted Sauvignon from a family estate, exhibiting rounded vigor with enticing aromas of lemon, orange blossom, and honey, complemented by a silky texture and fine acidity, making it an exceptional value among Loire wines."
+    "summary": "TOURAINE L'ARPENT DES VAUDONS 2023 is a charming Sauvignon from a family estate, exuding rounded vigor with enticing aromas of lemon, orange blossom, honey, and herbs. Its silky texture and vibrant acidity evoke a fine Sancerre, offering remarkable finesse at an accessible price."
   },
   {
-    "id": "file-2025-08-21-rezin-0.html-cahors-solis",
+    "id": "file-2025-08-21-rezin-0.html-cahors-solis-2019",
     "blockId": "file-2025-08-21-rezin-0.html",
     "createdAt": "2025-08-21T00:00:00.000Z",
-    "name": "CAHORS SOLIS",
+    "name": "CAHORS SOLIS - 2019",
     "description": "C’est en 1999 que Catherine Maisonneuve et Matthieu Cosse s’installent sur les coteaux de Lacapelle-Cabanac, le long du Lot. Leur but : élaborer à partir d’un grand cépage, le malbec, sur un grand terroir, Cahors, des vins empreints de finesse et d’élégance, à la fois structurés, profonds et digestes. Méticuleux et passionnés, ils travaillent avec respect de la biodiversité et de l’intégrité des sols. Le vin se fait surtout à la vigne dont le travail est assuré en biodynamie depuis les débuts.",
-    "price": "18,80$ la bouteille de 500ml",
+    "price": "18,80$",
     "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/f4dab28d-8306-4fac-329a-99f8cf835056.png",
     "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=0db3ae918a&e=c11422f941",
     "agence": "réZin",
     "disponibilite": "Importation Privée",
     "raw_data": {
-      "name": "CAHORS SOLIS",
+      "name": "CAHORS SOLIS - 2019",
       "description": "C’est en 1999 que Catherine Maisonneuve et Matthieu Cosse s’installent sur les coteaux de Lacapelle-Cabanac, le long du Lot. Leur but : élaborer à partir d’un grand cépage, le malbec, sur un grand terroir, Cahors, des vins empreints de finesse et d’élégance, à la fois structurés, profonds et digestes. Méticuleux et passionnés, ils travaillent avec respect de la biodiversité et de l’intégrité des sols. Le vin se fait surtout à la vigne dont le travail est assuré en biodynamie depuis les débuts.",
-      "price": "18,80$ la bouteille de 500ml",
+      "price": "18,80$",
       "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/f4dab28d-8306-4fac-329a-99f8cf835056.png",
       "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=0db3ae918a&e=c11422f941",
       "producer": "COSSE-MAISONNEUVE",
       "region": "Cahors",
       "vintage": "2019",
       "grape_varieties": [
-        "malbec"
+        "Malbec"
       ],
       "alcohol_content": null,
       "volume": "500ml",
       "disponibilite": "Importation Privée",
       "all_occurrences_raw_data": [
         {
-          "name": "CAHORS SOLIS",
+          "name": "CAHORS SOLIS - 2019",
           "description": "C’est en 1999 que Catherine Maisonneuve et Matthieu Cosse s’installent sur les coteaux de Lacapelle-Cabanac, le long du Lot. Leur but : élaborer à partir d’un grand cépage, le malbec, sur un grand terroir, Cahors, des vins empreints de finesse et d’élégance, à la fois structurés, profonds et digestes. Méticuleux et passionnés, ils travaillent avec respect de la biodiversité et de l’intégrité des sols. Le vin se fait surtout à la vigne dont le travail est assuré en biodynamie depuis les débuts.",
-          "price": "18,80$ la bouteille de 500ml",
+          "price": "18,80$",
           "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/f4dab28d-8306-4fac-329a-99f8cf835056.png",
           "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=0db3ae918a&e=c11422f941",
           "producer": "COSSE-MAISONNEUVE",
           "region": "Cahors",
           "vintage": "2019",
           "grape_varieties": [
-            "malbec"
+            "Malbec"
           ],
           "alcohol_content": null,
           "volume": "500ml",
@@ -825,6 +826,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "CAHORS SOLIS is a testament to the artistry of Catherine Maisonneuve and Matthieu Cosse, who craft elegant and structured Malbec wines from the renowned Cahors terroir, embodying finesse and a deep respect for biodiversity through biodynamic practices."
+    "summary": "CAHORS SOLIS 2019 is a testament to the artistry of Catherine Maisonneuve and Matthieu Cosse, who cultivate Malbec on the prestigious terroirs of Cahors with finesse and elegance. Their biodynamic practices ensure a wine that is both structured and digestible, reflecting a deep respect for biodiversity."
   }
 ]
