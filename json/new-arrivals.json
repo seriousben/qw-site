@@ -1,5 +1,99 @@
 [
   {
+    "id": "file-2025-08-28-le-vin-dans-les-voiles-0.html-chateau-de-lavernette",
+    "blockId": "file-2025-08-28-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-08-28T00:00:00.000Z",
+    "name": "Château de Lavernette",
+    "description": "Au sud de la Bourgogne, à la frontière du Mâconnais et du Beaujolais, le Château de Lavernette cultive la vigne depuis treize générations. Propriété familiale depuis 1596, le domaine compte 13 hectares menés en agriculture biologique et biodynamique (certifications AB et Demeter). Depuis 2007, Xavier de Boissieu et son épouse Kerrie perpétuent la tradition avec un style droit, précis et élégant. Leurs vins – gamay et chardonnay sur sols granitiques et calcaires – expriment avec justesse le terroir, offrant profondeur et belle capacité de garde. Cuvées nettes, tendues et vibrantes : parfaites pour les grandes tables et les amateurs en quête de vins authentiques et d’appellations de caractère. Une adresse discrète mais incontournable pour les connaisseurs.",
+    "price": null,
+    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/8ae2f6fb-89d9-40b3-97df-1ecfd670cefa.png",
+    "link": "https://ctrk.klclick.com/l/01K3R9MXTA87J45RTRTBQJCKEV_18",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Château de Lavernette",
+      "description": "Au sud de la Bourgogne, à la frontière du Mâconnais et du Beaujolais, le Château de Lavernette cultive la vigne depuis treize générations. Propriété familiale depuis 1596, le domaine compte 13 hectares menés en agriculture biologique et biodynamique (certifications AB et Demeter). Depuis 2007, Xavier de Boissieu et son épouse Kerrie perpétuent la tradition avec un style droit, précis et élégant. Leurs vins – gamay et chardonnay sur sols granitiques et calcaires – expriment avec justesse le terroir, offrant profondeur et belle capacité de garde. Cuvées nettes, tendues et vibrantes : parfaites pour les grandes tables et les amateurs en quête de vins authentiques et d’appellations de caractère. Une adresse discrète mais incontournable pour les connaisseurs.",
+      "price": null,
+      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/8ae2f6fb-89d9-40b3-97df-1ecfd670cefa.png",
+      "link": "https://ctrk.klclick.com/l/01K3R9MXTA87J45RTRTBQJCKEV_18",
+      "producer": "Château de Lavernette",
+      "region": "Bourgogne",
+      "vintage": null,
+      "grape_varieties": [
+        "gamay",
+        "chardonnay"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Château de Lavernette",
+          "description": "Au sud de la Bourgogne, à la frontière du Mâconnais et du Beaujolais, le Château de Lavernette cultive la vigne depuis treize générations. Propriété familiale depuis 1596, le domaine compte 13 hectares menés en agriculture biologique et biodynamique (certifications AB et Demeter). Depuis 2007, Xavier de Boissieu et son épouse Kerrie perpétuent la tradition avec un style droit, précis et élégant. Leurs vins – gamay et chardonnay sur sols granitiques et calcaires – expriment avec justesse le terroir, offrant profondeur et belle capacité de garde. Cuvées nettes, tendues et vibrantes : parfaites pour les grandes tables et les amateurs en quête de vins authentiques et d’appellations de caractère. Une adresse discrète mais incontournable pour les connaisseurs.",
+          "price": null,
+          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/8ae2f6fb-89d9-40b3-97df-1ecfd670cefa.png",
+          "link": "https://ctrk.klclick.com/l/01K3R9MXTA87J45RTRTBQJCKEV_18",
+          "producer": "Château de Lavernette",
+          "region": "Bourgogne",
+          "vintage": null,
+          "grape_varieties": [
+            "gamay",
+            "chardonnay"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Château de Lavernette, a family estate since 1596, elegantly showcases Gamay and Chardonnay from granitic and limestone soils, delivering vibrant cuvées that reflect the terroir's depth and authenticity. With a commitment to organic and biodynamic practices, this hidden gem is a must-visit for discerning wine lovers."
+  },
+  {
+    "id": "file-2025-08-27-vin-dame-jeanne-0.html-champagne-ludes-1er-cru-reflet-dantan-brut",
+    "blockId": "file-2025-08-27-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-27T00:00:00.000Z",
+    "name": "Champagne, Ludes 1er cru 'Reflet d'Antan', Brut",
+    "description": "Réserve perpétuelle issue de Pierre Bérêche, transmise et mis en bouteille par Jean-Pierre Bérêche depuis 1990. Cette cuvée est le reflet du Champagne d’Antan. La famille Bérêche a souhaité protéger cette cuvée avec un format magnum, le contenant idéal et sans concession. 36 mois sur lattes. De cette cuvée se dégage des arômes mâtures et complexes de fruits confits, nougat, génoise. Nous sommes également sur des arômes tertiaires avec des notes de sous-bois et des épices. La bouche est équilibrée et assise, consistance de velours, presque chaude. Finale très longue, délicatement crayeuse et saline. L'effet magnum tiré liège boucle la boucle sur cette cuvée hautement gastronomique, poussant l'effet umami encore plus loin, et ouvrant des clés aromatiques complexes et étagées. Du grand, grand art !!",
+    "price": "1,255.50$",
+    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+    "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=60ffac18ce&e=345e10d07b",
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Champagne, Ludes 1er cru 'Reflet d'Antan', Brut",
+      "description": "Réserve perpétuelle issue de Pierre Bérêche, transmise et mis en bouteille par Jean-Pierre Bérêche depuis 1990. Cette cuvée est le reflet du Champagne d’Antan. La famille Bérêche a souhaité protéger cette cuvée avec un format magnum, le contenant idéal et sans concession. 36 mois sur lattes. De cette cuvée se dégage des arômes mâtures et complexes de fruits confits, nougat, génoise. Nous sommes également sur des arômes tertiaires avec des notes de sous-bois et des épices. La bouche est équilibrée et assise, consistance de velours, presque chaude. Finale très longue, délicatement crayeuse et saline. L'effet magnum tiré liège boucle la boucle sur cette cuvée hautement gastronomique, poussant l'effet umami encore plus loin, et ouvrant des clés aromatiques complexes et étagées. Du grand, grand art !!",
+      "price": "1,255.50$",
+      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+      "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=60ffac18ce&e=345e10d07b",
+      "producer": "Pierre Bérêche",
+      "region": "Ludes 1er cru",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": "1500ml",
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Champagne, Ludes 1er cru 'Reflet d'Antan', Brut",
+          "description": "Réserve perpétuelle issue de Pierre Bérêche, transmise et mis en bouteille par Jean-Pierre Bérêche depuis 1990. Cette cuvée est le reflet du Champagne d’Antan. La famille Bérêche a souhaité protéger cette cuvée avec un format magnum, le contenant idéal et sans concession. 36 mois sur lattes. De cette cuvée se dégage des arômes mâtures et complexes de fruits confits, nougat, génoise. Nous sommes également sur des arômes tertiaires avec des notes de sous-bois et des épices. La bouche est équilibrée et assise, consistance de velours, presque chaude. Finale très longue, délicatement crayeuse et saline. L'effet magnum tiré liège boucle la boucle sur cette cuvée hautement gastronomique, poussant l'effet umami encore plus loin, et ouvrant des clés aromatiques complexes et étagées. Du grand, grand art !!",
+          "price": "1,255.50$",
+          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+          "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=60ffac18ce&e=345e10d07b",
+          "producer": "Pierre Bérêche",
+          "region": "Ludes 1er cru",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": "1500ml",
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Champagne 'Reflet d'Antan' from Ludes 1er Cru, aged for 36 months in magnum, reveals a tapestry of mature aromas including candied fruits, nougat, and earthy spices, culminating in a velvety, long-lasting finish that is both chalky and saline. This exquisite cuvée captures the essence of traditional Champagne with a gastronomic flair."
+  },
+  {
     "id": "file-2025-08-26-planvin-0.html-gargante-2022",
     "blockId": "file-2025-08-26-planvin-0.html",
     "createdAt": "2025-08-26T00:00:00.000Z",
@@ -7,7 +101,7 @@
     "description": "Une bulle de soif, sur lie, refermentée en bouteille. 100 % garganega, vinifiée spontanément en cuve inox. Élevage d’environ 5 mois sur lies en cuves béton. La prise de mousse se fait naturellement en bouteille, par ajout de moût de garganega passerillé. Robe jaune paille, mousse généreuse. La bouche est fraîche, ample, portée par une trame minérale et une sapidité vibrante qui appelle la prochaine gorgée. Gargànte, c’est un vin sincère, immédiat, pensé pour la buvabilité.",
     "price": "32,46 $",
     "image_url": null,
-    "link": null,
+    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=294e8c0a64&e=bc0729f8df",
     "agence": "Planvin",
     "disponibilite": "SAQ",
     "raw_data": {
@@ -15,7 +109,7 @@
       "description": "Une bulle de soif, sur lie, refermentée en bouteille. 100 % garganega, vinifiée spontanément en cuve inox. Élevage d’environ 5 mois sur lies en cuves béton. La prise de mousse se fait naturellement en bouteille, par ajout de moût de garganega passerillé. Robe jaune paille, mousse généreuse. La bouche est fraîche, ample, portée par une trame minérale et une sapidité vibrante qui appelle la prochaine gorgée. Gargànte, c’est un vin sincère, immédiat, pensé pour la buvabilité.",
       "price": "32,46 $",
       "image_url": null,
-      "link": null,
+      "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=294e8c0a64&e=bc0729f8df",
       "producer": "Nevio Scala",
       "region": "IGT Veneto",
       "vintage": "2022",
@@ -31,7 +125,7 @@
           "description": "Une bulle de soif, sur lie, refermentée en bouteille. 100 % garganega, vinifiée spontanément en cuve inox. Élevage d’environ 5 mois sur lies en cuves béton. La prise de mousse se fait naturellement en bouteille, par ajout de moût de garganega passerillé. Robe jaune paille, mousse généreuse. La bouche est fraîche, ample, portée par une trame minérale et une sapidité vibrante qui appelle la prochaine gorgée. Gargànte, c’est un vin sincère, immédiat, pensé pour la buvabilité.",
           "price": "32,46 $",
           "image_url": null,
-          "link": null,
+          "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=294e8c0a64&e=bc0729f8df",
           "producer": "Nevio Scala",
           "region": "IGT Veneto",
           "vintage": "2022",
@@ -45,7 +139,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Gargànte 2022 is a refreshing sparkling wine crafted from 100% Garganega, showcasing a vibrant yellow hue and generous bubbles. Its lively palate, enriched by a mineral backbone and delightful sapidity, invites you to savor each sip."
+    "summary": "Gargànte 2022, a refreshing sparkling wine made from 100% Garganega, boasts a generous mousse and a vibrant, mineral-driven palate that invites another sip. With its sincere character and lively freshness, this wine is crafted for pure enjoyment."
   },
   {
     "id": "file-2025-08-26-planvin-0.html-blanko",
@@ -57,7 +151,7 @@
     "image_url": null,
     "link": null,
     "agence": "Planvin",
-    "disponibilite": "SAQ",
+    "disponibilite": null,
     "raw_data": {
       "name": "Blanko",
       "description": "Assemblage de garganega, malvasia istriana et moscato bianco issus de jeunes vignes. Ce vin est vinifié avec une courte macération pelliculaire et élevé uniquement en cuve béton. Le nez révèle des notes délicates de zeste de citron et de fleurs blanches. La bouche est vive et florale, offre une texture légère et désaltérante qui glisse toute seule sans jamais tomber dans l’excès.",
@@ -74,7 +168,7 @@
       ],
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": "SAQ",
+      "disponibilite": null,
       "all_occurrences_raw_data": [
         {
           "name": "Blanko",
@@ -92,12 +186,12 @@
           ],
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": "SAQ"
+          "disponibilite": null
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Blanko is a delightful blend of Garganega, Malvasia Istriana, and Moscato Bianco, offering delicate aromas of lemon zest and white flowers. Its vibrant, floral palate is refreshingly light, gliding effortlessly with each sip."
+    "summary": "Blanko, a delicate blend of Garganega, Malvasia Istriana, and Moscato Bianco, enchants with its fragrant notes of lemon zest and white flowers. This lively, floral wine offers a refreshing, light texture that glides effortlessly across the palate."
   },
   {
     "id": "file-2025-08-25-vin-dame-jeanne-0.html-savigny-les-beaune-1er-cru-les-lavieres-2020",
@@ -105,7 +199,7 @@
     "createdAt": "2025-08-25T00:00:00.000Z",
     "name": "Savigny-les-Beaune 1er cru ‘Les Lavières’, 2020",
     "description": "Vignes sur la commune de Savigny-Lès-Beaune, à mi-coteaux, orientation Sud-Sud-Est. Sols à dominante argilo-calcaire posés sur un sous-sol composé de lavières. Pinot Noir issu d’une sélection massale plantée en 1954. Vinification en grappes entières : encuvage en cuve bois tronconique. Vinification sur l'extraction douce, grâce à des remontages et pigeages légers. Macération totale de 2 à 3 semaines. Élevage de 18 mois en pièces bourguignonnes. Grand Pinot Noir de table, et de garde !",
-    "price": "Particulier 179.37 | Restaurant 149.66",
+    "price": "179,37$",
     "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
     "link": null,
     "agence": "Vin Dame-Jeanne",
@@ -113,7 +207,7 @@
     "raw_data": {
       "name": "Savigny-les-Beaune 1er cru ‘Les Lavières’, 2020",
       "description": "Vignes sur la commune de Savigny-Lès-Beaune, à mi-coteaux, orientation Sud-Sud-Est. Sols à dominante argilo-calcaire posés sur un sous-sol composé de lavières. Pinot Noir issu d’une sélection massale plantée en 1954. Vinification en grappes entières : encuvage en cuve bois tronconique. Vinification sur l'extraction douce, grâce à des remontages et pigeages légers. Macération totale de 2 à 3 semaines. Élevage de 18 mois en pièces bourguignonnes. Grand Pinot Noir de table, et de garde !",
-      "price": "Particulier 179.37 | Restaurant 149.66",
+      "price": "179,37$",
       "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
       "link": null,
       "producer": "Athénais de Béru",
@@ -129,7 +223,7 @@
         {
           "name": "Savigny-les-Beaune 1er cru ‘Les Lavières’, 2020",
           "description": "Vignes sur la commune de Savigny-Lès-Beaune, à mi-coteaux, orientation Sud-Sud-Est. Sols à dominante argilo-calcaire posés sur un sous-sol composé de lavières. Pinot Noir issu d’une sélection massale plantée en 1954. Vinification en grappes entières : encuvage en cuve bois tronconique. Vinification sur l'extraction douce, grâce à des remontages et pigeages légers. Macération totale de 2 à 3 semaines. Élevage de 18 mois en pièces bourguignonnes. Grand Pinot Noir de table, et de garde !",
-          "price": "Particulier 179.37 | Restaurant 149.66",
+          "price": "179,37$",
           "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
           "link": null,
           "producer": "Athénais de Béru",
@@ -145,7 +239,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "The Savigny-les-Beaune 1er cru ‘Les Lavières’ 2020 is a distinguished Pinot Noir, meticulously vinified from massal selections planted in 1954. With 18 months of aging in Burgundy barrels, it embodies elegance and depth, perfect for both immediate enjoyment and aging."
+    "summary": "Savigny-les-Beaune 1er cru ‘Les Lavières’ 2020, crafted from massal selection Pinot Noir planted in 1954, showcases a delicate extraction process and 18 months of aging in fine Burgundy barrels, resulting in a refined wine with exceptional aging potential and elegance."
   },
   {
     "id": "file-2025-08-22-noble-selection-0.html-chateau-bouscaut-graves-de-bouscaut-2020",
@@ -157,7 +251,7 @@
     "image_url": "https://mcusercontent.com/3cbe129d9fba7fd6a0d135511/images/534dae7a-1d9c-4eaf-8cbc-c98a4b00c640.jpg",
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f346259345&e=2c9a262afa",
     "agence": "Noble Sélection",
-    "disponibilite": "SAQ",
+    "disponibilite": null,
     "raw_data": {
       "name": "Château Bouscaut, Graves de Bouscaut 2020",
       "description": "La vinification du Graves de Bouscaut 2020 s’appuie sur un savoir-faire rigoureux alliant tradition et modernité. Les vendanges sont manuelles, garantissant une sélection optimale des raisins. Après un éraflage délicat, les fermentations alcoolique et malolactique se déroulent en cuves inox à température contrôlée, préservant la fraîcheur et la pureté des arômes. L’élevage s’étend sur 14 mois en barriques de chêne français et en cuves de béton, conférant au vin structure et complexité tout en respectant son équilibre naturel.",
@@ -174,7 +268,7 @@
       ],
       "alcohol_content": "14%",
       "volume": "750ml",
-      "disponibilite": "SAQ",
+      "disponibilite": null,
       "all_occurrences_raw_data": [
         {
           "name": "Château Bouscaut, Graves de Bouscaut 2020",
@@ -192,12 +286,12 @@
           ],
           "alcohol_content": "14%",
           "volume": "750ml",
-          "disponibilite": "SAQ"
+          "disponibilite": null
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Château Bouscaut 2020 is a masterful blend of tradition and modernity, featuring hand-harvested grapes and carefully controlled fermentations. With 14 months of aging in French oak barrels, it reveals a structured complexity while maintaining its natural balance."
+    "summary": "Château Bouscaut 2020 exemplifies a harmonious blend of tradition and modernity, with hand-harvested grapes fermented in temperature-controlled stainless steel to preserve aromatic purity. Aged for 14 months in French oak barrels and concrete, this wine offers a refined structure and complexity while maintaining its natural balance."
   },
   {
     "id": "file-2025-08-22-noble-selection-0.html-tradition-rasteau-2021",
@@ -206,15 +300,15 @@
     "name": "Tradition Rasteau 2021",
     "description": "Entre chaleur et sécheresse, les conditions climatiques ont encore été difficiles pour le millésime 2021. Mais grâce à une capacité d’adaptation exceptionnelle des vignes et un engagement fort des artisans vignerons du domaine, ce millésime s’annonce très qualitatif.",
     "price": "20,65$",
-    "image_url": null,
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_rhon--a-rasteau-tradition-copie_2.png",
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=95835fae98&e=2c9a262afa",
     "agence": "Noble Sélection",
-    "disponibilite": "SAQ",
+    "disponibilite": null,
     "raw_data": {
       "name": "Tradition Rasteau 2021",
       "description": "Entre chaleur et sécheresse, les conditions climatiques ont encore été difficiles pour le millésime 2021. Mais grâce à une capacité d’adaptation exceptionnelle des vignes et un engagement fort des artisans vignerons du domaine, ce millésime s’annonce très qualitatif.",
       "price": "20,65$",
-      "image_url": null,
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_rhon--a-rasteau-tradition-copie_2.png",
       "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=95835fae98&e=2c9a262afa",
       "producer": "ORTAS CAVE DE RASTEAU",
       "region": "Vallée du Rhône",
@@ -222,13 +316,13 @@
       "grape_varieties": null,
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": "SAQ",
+      "disponibilite": null,
       "all_occurrences_raw_data": [
         {
           "name": "Tradition Rasteau 2021",
           "description": "Entre chaleur et sécheresse, les conditions climatiques ont encore été difficiles pour le millésime 2021. Mais grâce à une capacité d’adaptation exceptionnelle des vignes et un engagement fort des artisans vignerons du domaine, ce millésime s’annonce très qualitatif.",
           "price": "20,65$",
-          "image_url": null,
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_rhon--a-rasteau-tradition-copie_2.png",
           "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=95835fae98&e=2c9a262afa",
           "producer": "ORTAS CAVE DE RASTEAU",
           "region": "Vallée du Rhône",
@@ -236,7 +330,7 @@
           "grape_varieties": null,
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": "SAQ"
+          "disponibilite": null
         }
       ],
       "agence_was_defaulted": false
@@ -345,7 +439,7 @@
       "price": "27,60$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_ch--teau-livran-m--doc-2018-copie.png",
       "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=e7eb8308fc&e=2c9a262afa",
-      "producer": null,
+      "producer": "Médoc",
       "region": "Bordeaux",
       "vintage": "2019",
       "grape_varieties": null,
@@ -359,7 +453,7 @@
           "price": "27,60$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_ch--teau-livran-m--doc-2018-copie.png",
           "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=e7eb8308fc&e=2c9a262afa",
-          "producer": null,
+          "producer": "Médoc",
           "region": "Bordeaux",
           "vintage": "2019",
           "grape_varieties": null,
@@ -370,7 +464,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Médoc Château Livran 2019 is crafted from meticulously selected grapes, vinified in temperature-controlled stainless steel and concrete tanks, followed by 12 months of aging in partially new French oak barrels, ensuring a refined character."
+    "summary": "Médoc Château Livran 2019, meticulously harvested and vinified in temperature-controlled stainless steel and concrete, undergoes 12 months of aging in half-new French oak barrels, resulting in a polished and expressive wine."
   },
   {
     "id": "file-2025-08-22-noble-selection-0.html-spumante-brut-millesimato-2024",
@@ -543,289 +637,5 @@
       ],
       "agence_was_defaulted": false
     }
-  },
-  {
-    "id": "file-2025-08-21-info-symbiose-0.html-letoile-les-hauts-de-montangis",
-    "blockId": "file-2025-08-21-info-symbiose-0.html",
-    "createdAt": "2025-08-21T00:00:00.000Z",
-    "name": "L'Étoile Les Hauts de Montangis",
-    "description": "Un vin d'une grande pureté et harmonie, conservant une excellente fraîcheur, avec une maturité et un degré d'alcool bien maîtrisés.",
-    "price": "57,00 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/5/15467498-1_1753384384.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1182487&idl=8356&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=RewH5U98r8U5K8wTzyGdbaU9xFZe-cE2yKpE7XSSVmU",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "L'Étoile Les Hauts de Montangis",
-      "description": "Un vin d'une grande pureté et harmonie, conservant une excellente fraîcheur, avec une maturité et un degré d'alcool bien maîtrisés.",
-      "price": "57,00 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/5/15467498-1_1753384384.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1182487&idl=8356&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=RewH5U98r8U5K8wTzyGdbaU9xFZe-cE2yKpE7XSSVmU",
-      "producer": "Domaine de Montbourgeau",
-      "region": "Jura — France",
-      "vintage": "2022",
-      "grape_varieties": [
-        "Chardonnay"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "L'Étoile Les Hauts de Montangis",
-          "description": "Un vin d'une grande pureté et harmonie, conservant une excellente fraîcheur, avec une maturité et un degré d'alcool bien maîtrisés.",
-          "price": "57,00 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/5/15467498-1_1753384384.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1182487&idl=8356&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=RewH5U98r8U5K8wTzyGdbaU9xFZe-cE2yKpE7XSSVmU",
-          "producer": "Domaine de Montbourgeau",
-          "region": "Jura — France",
-          "vintage": "2022",
-          "grape_varieties": [
-            "Chardonnay"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-21-info-symbiose-0.html-pinot-gris-fromenteau",
-    "blockId": "file-2025-08-21-info-symbiose-0.html",
-    "createdAt": "2025-08-21T00:00:00.000Z",
-    "name": "Pinot Gris Fromenteau",
-    "description": null,
-    "price": "40,25 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/3/13200600-1_1716490683.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1182487&idl=2685&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=pFWCTMR4w4nD5yUHFVzV-TrrC6yT3CSk73ON0Yrgav4",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Pinot Gris Fromenteau",
-      "description": null,
-      "price": "40,25 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/3/13200600-1_1716490683.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1182487&idl=2685&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=pFWCTMR4w4nD5yUHFVzV-TrrC6yT3CSk73ON0Yrgav4",
-      "producer": "Josmeyer",
-      "region": "Alsace — France",
-      "vintage": "2020",
-      "grape_varieties": [
-        "Pinot gris"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Pinot Gris Fromenteau",
-          "description": null,
-          "price": "40,25 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/3/13200600-1_1716490683.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1182487&idl=2685&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=pFWCTMR4w4nD5yUHFVzV-TrrC6yT3CSk73ON0Yrgav4",
-          "producer": "Josmeyer",
-          "region": "Alsace — France",
-          "vintage": "2020",
-          "grape_varieties": [
-            "Pinot gris"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-21-info-symbiose-0.html-chinon-les-galets",
-    "blockId": "file-2025-08-21-info-symbiose-0.html",
-    "createdAt": "2025-08-21T00:00:00.000Z",
-    "name": "Chinon Les Galets",
-    "description": null,
-    "price": "25,55 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/4/14044240-1_1582056314.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1182487&idl=5178&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=1nlAYxe6zHNjIvgnbbYlLFvoP0gSjxnwiVkCvcuUv9s",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Chinon Les Galets",
-      "description": null,
-      "price": "25,55 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/4/14044240-1_1582056314.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1182487&idl=5178&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=1nlAYxe6zHNjIvgnbbYlLFvoP0gSjxnwiVkCvcuUv9s",
-      "producer": "La Bonnelière",
-      "region": "Loire — France",
-      "vintage": "2024",
-      "grape_varieties": [
-        "Cabernet franc"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Chinon Les Galets",
-          "description": null,
-          "price": "25,55 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/4/14044240-1_1582056314.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1182487&idl=5178&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=1nlAYxe6zHNjIvgnbbYlLFvoP0gSjxnwiVkCvcuUv9s",
-          "producer": "La Bonnelière",
-          "region": "Loire — France",
-          "vintage": "2024",
-          "grape_varieties": [
-            "Cabernet franc"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-21-info-symbiose-0.html-la-grande-piece",
-    "blockId": "file-2025-08-21-info-symbiose-0.html",
-    "createdAt": "2025-08-21T00:00:00.000Z",
-    "name": "La Grande Pièce",
-    "description": null,
-    "price": "26,10 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/5/15296019-1_1712260085.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1182487&idl=6652&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=MlAgZzy2vgKXvwulwyvwOJSAnIijjCLEIIx5mUo_YFo",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "La Grande Pièce",
-      "description": null,
-      "price": "26,10 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/5/15296019-1_1712260085.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1182487&idl=6652&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=MlAgZzy2vgKXvwulwyvwOJSAnIijjCLEIIx5mUo_YFo",
-      "producer": "Stéphane Orieux",
-      "region": "Loire — France",
-      "vintage": "2023",
-      "grape_varieties": [
-        "Melon de Bourgogne (Muscadet)"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "La Grande Pièce",
-          "description": null,
-          "price": "26,10 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/5/15296019-1_1712260085.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1182487&idl=6652&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=MlAgZzy2vgKXvwulwyvwOJSAnIijjCLEIIx5mUo_YFo",
-          "producer": "Stéphane Orieux",
-          "region": "Loire — France",
-          "vintage": "2023",
-          "grape_varieties": [
-            "Melon de Bourgogne (Muscadet)"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-21-rezin-0.html-touraine-larpent-des-vaudons-2023",
-    "blockId": "file-2025-08-21-rezin-0.html",
-    "createdAt": "2025-08-21T00:00:00.000Z",
-    "name": "TOURAINE L'ARPENT DES VAUDONS - 2023",
-    "description": "Un très joli sauvignon de la Loire provenant d’une exploitation familiale d’environ 35 hectares. Des vignes de 10 à 60 ans exposées sud-sud-est, sur des sols argilocalcaires. On devine un sauvignon aux angles arrondis qui ne manque pas de vigueur pour autant. Jolis parfums de citron, de fleur d’oranger, de miel et d’herbe. En bouche, le vin montre une texture soyeuse, de l’énergie et une fine acidité qui rappelle un bon sancerre. Bonne persistance en finale. Pas le plus complexe, mais d’une impeccable finesse d’exécution qui en fait l’un des meilleurs sauvignons à une vingtaine de dollars à la SAQ.",
-    "price": "23,75 $",
-    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/1a10e035-6c23-3493-ca38-63915b91a180.png",
-    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=32221a90ba&e=c11422f941",
-    "agence": "réZin",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "TOURAINE L'ARPENT DES VAUDONS - 2023",
-      "description": "Un très joli sauvignon de la Loire provenant d’une exploitation familiale d’environ 35 hectares. Des vignes de 10 à 60 ans exposées sud-sud-est, sur des sols argilocalcaires. On devine un sauvignon aux angles arrondis qui ne manque pas de vigueur pour autant. Jolis parfums de citron, de fleur d’oranger, de miel et d’herbe. En bouche, le vin montre une texture soyeuse, de l’énergie et une fine acidité qui rappelle un bon sancerre. Bonne persistance en finale. Pas le plus complexe, mais d’une impeccable finesse d’exécution qui en fait l’un des meilleurs sauvignons à une vingtaine de dollars à la SAQ.",
-      "price": "23,75 $",
-      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/1a10e035-6c23-3493-ca38-63915b91a180.png",
-      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=32221a90ba&e=c11422f941",
-      "producer": "JEAN-FRANÇOIS MÉRIEAU",
-      "region": "Loire",
-      "vintage": "2023",
-      "grape_varieties": [
-        "Sauvignon Blanc"
-      ],
-      "alcohol_content": null,
-      "volume": "750ml",
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "TOURAINE L'ARPENT DES VAUDONS - 2023",
-          "description": "Un très joli sauvignon de la Loire provenant d’une exploitation familiale d’environ 35 hectares. Des vignes de 10 à 60 ans exposées sud-sud-est, sur des sols argilocalcaires. On devine un sauvignon aux angles arrondis qui ne manque pas de vigueur pour autant. Jolis parfums de citron, de fleur d’oranger, de miel et d’herbe. En bouche, le vin montre une texture soyeuse, de l’énergie et une fine acidité qui rappelle un bon sancerre. Bonne persistance en finale. Pas le plus complexe, mais d’une impeccable finesse d’exécution qui en fait l’un des meilleurs sauvignons à une vingtaine de dollars à la SAQ.",
-          "price": "23,75 $",
-          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/1a10e035-6c23-3493-ca38-63915b91a180.png",
-          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=32221a90ba&e=c11422f941",
-          "producer": "JEAN-FRANÇOIS MÉRIEAU",
-          "region": "Loire",
-          "vintage": "2023",
-          "grape_varieties": [
-            "Sauvignon Blanc"
-          ],
-          "alcohol_content": null,
-          "volume": "750ml",
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "TOURAINE L'ARPENT DES VAUDONS 2023 is a charming Sauvignon from a family estate, exuding rounded vigor with enticing aromas of lemon, orange blossom, honey, and herbs. Its silky texture and vibrant acidity evoke a fine Sancerre, offering remarkable finesse at an accessible price."
-  },
-  {
-    "id": "file-2025-08-21-rezin-0.html-cahors-solis-2019",
-    "blockId": "file-2025-08-21-rezin-0.html",
-    "createdAt": "2025-08-21T00:00:00.000Z",
-    "name": "CAHORS SOLIS - 2019",
-    "description": "C’est en 1999 que Catherine Maisonneuve et Matthieu Cosse s’installent sur les coteaux de Lacapelle-Cabanac, le long du Lot. Leur but : élaborer à partir d’un grand cépage, le malbec, sur un grand terroir, Cahors, des vins empreints de finesse et d’élégance, à la fois structurés, profonds et digestes. Méticuleux et passionnés, ils travaillent avec respect de la biodiversité et de l’intégrité des sols. Le vin se fait surtout à la vigne dont le travail est assuré en biodynamie depuis les débuts.",
-    "price": "18,80$",
-    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/f4dab28d-8306-4fac-329a-99f8cf835056.png",
-    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=0db3ae918a&e=c11422f941",
-    "agence": "réZin",
-    "disponibilite": "Importation Privée",
-    "raw_data": {
-      "name": "CAHORS SOLIS - 2019",
-      "description": "C’est en 1999 que Catherine Maisonneuve et Matthieu Cosse s’installent sur les coteaux de Lacapelle-Cabanac, le long du Lot. Leur but : élaborer à partir d’un grand cépage, le malbec, sur un grand terroir, Cahors, des vins empreints de finesse et d’élégance, à la fois structurés, profonds et digestes. Méticuleux et passionnés, ils travaillent avec respect de la biodiversité et de l’intégrité des sols. Le vin se fait surtout à la vigne dont le travail est assuré en biodynamie depuis les débuts.",
-      "price": "18,80$",
-      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/f4dab28d-8306-4fac-329a-99f8cf835056.png",
-      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=0db3ae918a&e=c11422f941",
-      "producer": "COSSE-MAISONNEUVE",
-      "region": "Cahors",
-      "vintage": "2019",
-      "grape_varieties": [
-        "Malbec"
-      ],
-      "alcohol_content": null,
-      "volume": "500ml",
-      "disponibilite": "Importation Privée",
-      "all_occurrences_raw_data": [
-        {
-          "name": "CAHORS SOLIS - 2019",
-          "description": "C’est en 1999 que Catherine Maisonneuve et Matthieu Cosse s’installent sur les coteaux de Lacapelle-Cabanac, le long du Lot. Leur but : élaborer à partir d’un grand cépage, le malbec, sur un grand terroir, Cahors, des vins empreints de finesse et d’élégance, à la fois structurés, profonds et digestes. Méticuleux et passionnés, ils travaillent avec respect de la biodiversité et de l’intégrité des sols. Le vin se fait surtout à la vigne dont le travail est assuré en biodynamie depuis les débuts.",
-          "price": "18,80$",
-          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/f4dab28d-8306-4fac-329a-99f8cf835056.png",
-          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=0db3ae918a&e=c11422f941",
-          "producer": "COSSE-MAISONNEUVE",
-          "region": "Cahors",
-          "vintage": "2019",
-          "grape_varieties": [
-            "Malbec"
-          ],
-          "alcohol_content": null,
-          "volume": "500ml",
-          "disponibilite": "Importation Privée"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "CAHORS SOLIS 2019 is a testament to the artistry of Catherine Maisonneuve and Matthieu Cosse, who cultivate Malbec on the prestigious terroirs of Cahors with finesse and elegance. Their biodynamic practices ensure a wine that is both structured and digestible, reflecting a deep respect for biodiversity."
   }
 ]
