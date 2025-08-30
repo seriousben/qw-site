@@ -1,5 +1,491 @@
 [
   {
+    "id": "file-2025-08-29-noble-selection-0.html-pirate-of-cocoa-hill-2022",
+    "blockId": "file-2025-08-29-noble-selection-0.html",
+    "createdAt": "2025-08-29T00:00:00.000Z",
+    "name": "Pirate of Cocoa Hill 2022",
+    "description": "The Cocoa Hill Red 2022 est issu de vignes cultivées sur les sols granitiques décomposés de Cocoa Hill, une colline nichée au cœur des replis de la montagne de Stellenbosch. Les vignes bénéficient d'une grande exposition au soleil, ce qui permet aux raisins d'atteindre leur plein potentiel et de faire ressortir la richesse aromatique de chacun des cépages.",
+    "price": "16,40$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_dornier-face-croped.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5f06566fcb&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Pirate of Cocoa Hill 2022",
+      "description": "The Cocoa Hill Red 2022 est issu de vignes cultivées sur les sols granitiques décomposés de Cocoa Hill, une colline nichée au cœur des replis de la montagne de Stellenbosch. Les vignes bénéficient d'une grande exposition au soleil, ce qui permet aux raisins d'atteindre leur plein potentiel et de faire ressortir la richesse aromatique de chacun des cépages.",
+      "price": "16,40$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_dornier-face-croped.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5f06566fcb&e=2c9a262afa",
+      "producer": "Dornier",
+      "region": "Western Cape",
+      "vintage": "2022",
+      "grape_varieties": [
+        "Shiraz",
+        "Merlot",
+        "Cabernet Franc",
+        "Tempranillo"
+      ],
+      "alcohol_content": "14%",
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Pirate of Cocoa Hill 2022",
+          "description": "The Cocoa Hill Red 2022 est issu de vignes cultivées sur les sols granitiques décomposés de Cocoa Hill, une colline nichée au cœur des replis de la montagne de Stellenbosch. Les vignes bénéficient d'une grande exposition au soleil, ce qui permet aux raisins d'atteindre leur plein potentiel et de faire ressortir la richesse aromatique de chacun des cépages.",
+          "price": "16,40$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_dornier-face-croped.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5f06566fcb&e=2c9a262afa",
+          "producer": "Dornier",
+          "region": "Western Cape",
+          "vintage": "2022",
+          "grape_varieties": [
+            "Shiraz",
+            "Merlot",
+            "Cabernet Franc",
+            "Tempranillo"
+          ],
+          "alcohol_content": "14%",
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Cocoa Hill Red 2022, crafted from sun-kissed vines on decomposed granite soils, embodies the rich aromatic potential of Stellenbosch's terroir, delivering a captivating blend of character and elegance."
+  },
+  {
+    "id": "file-2025-08-29-noble-selection-0.html-bottega-white-gold",
+    "blockId": "file-2025-08-29-noble-selection-0.html",
+    "createdAt": "2025-08-29T00:00:00.000Z",
+    "name": "Bottega White Gold",
+    "description": null,
+    "price": "31,00$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_13106568-1_1581313820.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=02c5b91fc6&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Bottega White Gold",
+      "description": null,
+      "price": "31,00$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_13106568-1_1581313820.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=02c5b91fc6&e=2c9a262afa",
+      "producer": "Bottega",
+      "region": null,
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Bottega White Gold",
+          "description": null,
+          "price": "31,00$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_13106568-1_1581313820.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=02c5b91fc6&e=2c9a262afa",
+          "producer": "Bottega",
+          "region": null,
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-29-noble-selection-0.html-okendo-txakolina-astobiza-2022",
+    "blockId": "file-2025-08-29-noble-selection-0.html",
+    "createdAt": "2025-08-29T00:00:00.000Z",
+    "name": "Okendo Txakolina Astobiza 2022",
+    "description": null,
+    "price": "22,50$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_astobiza-14250756-1_1578554716.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fbd5b0f155&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Okendo Txakolina Astobiza 2022",
+      "description": null,
+      "price": "22,50$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_astobiza-14250756-1_1578554716.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fbd5b0f155&e=2c9a262afa",
+      "producer": "Astobiza",
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Okendo Txakolina Astobiza 2022",
+          "description": null,
+          "price": "22,50$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_astobiza-14250756-1_1578554716.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fbd5b0f155&e=2c9a262afa",
+          "producer": "Astobiza",
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-29-noble-selection-0.html-alba-de-vetus-rias-baixas-2024",
+    "blockId": "file-2025-08-29-noble-selection-0.html",
+    "createdAt": "2025-08-29T00:00:00.000Z",
+    "name": "Alba de Vetus Rias Baixas 2024",
+    "description": null,
+    "price": "25,85$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_image1_75.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=58bca3bd29&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Alba de Vetus Rias Baixas 2024",
+      "description": null,
+      "price": "25,85$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_image1_75.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=58bca3bd29&e=2c9a262afa",
+      "producer": "Vetus",
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Alba de Vetus Rias Baixas 2024",
+          "description": null,
+          "price": "25,85$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_image1_75.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=58bca3bd29&e=2c9a262afa",
+          "producer": "Vetus",
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-29-noble-selection-0.html-mas-elena-2020",
+    "blockId": "file-2025-08-29-noble-selection-0.html",
+    "createdAt": "2025-08-29T00:00:00.000Z",
+    "name": "Mas Elena 2020",
+    "description": null,
+    "price": "21,95$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_mas-elena-2-copie.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ca01cc88b9&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Mas Elena 2020",
+      "description": null,
+      "price": "21,95$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_mas-elena-2-copie.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ca01cc88b9&e=2c9a262afa",
+      "producer": "Parés Baltà",
+      "region": null,
+      "vintage": "2020",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Mas Elena 2020",
+          "description": null,
+          "price": "21,95$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_mas-elena-2-copie.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ca01cc88b9&e=2c9a262afa",
+          "producer": "Parés Baltà",
+          "region": null,
+          "vintage": "2020",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-29-noble-selection-0.html-montresor-satinato-soave-biologico-2023",
+    "blockId": "file-2025-08-29-noble-selection-0.html",
+    "createdAt": "2025-08-29T00:00:00.000Z",
+    "name": "Montresor Satinato Soave Biologico 2023",
+    "description": null,
+    "price": "19,95$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_satinato-montresor-.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f1da17d0b8&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Montresor Satinato Soave Biologico 2023",
+      "description": null,
+      "price": "19,95$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_satinato-montresor-.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f1da17d0b8&e=2c9a262afa",
+      "producer": "Montresor",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Montresor Satinato Soave Biologico 2023",
+          "description": null,
+          "price": "19,95$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_satinato-montresor-.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f1da17d0b8&e=2c9a262afa",
+          "producer": "Montresor",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-29-noble-selection-0.html-bourgogne-chardonnay-2023",
+    "blockId": "file-2025-08-29-noble-selection-0.html",
+    "createdAt": "2025-08-29T00:00:00.000Z",
+    "name": "Bourgogne Chardonnay 2023",
+    "description": null,
+    "price": "26,70$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_jean-marc-brocard-bourgogne-chardonnay_2.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=604a0b6dec&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Bourgogne Chardonnay 2023",
+      "description": null,
+      "price": "26,70$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_jean-marc-brocard-bourgogne-chardonnay_2.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=604a0b6dec&e=2c9a262afa",
+      "producer": "Jean-Marc Brocard",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Bourgogne Chardonnay 2023",
+          "description": null,
+          "price": "26,70$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_jean-marc-brocard-bourgogne-chardonnay_2.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=604a0b6dec&e=2c9a262afa",
+          "producer": "Jean-Marc Brocard",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-29-noble-selection-0.html-organic-dao-2019",
+    "blockId": "file-2025-08-29-noble-selection-0.html",
+    "createdAt": "2025-08-29T00:00:00.000Z",
+    "name": "Organic Dão 2019",
+    "description": null,
+    "price": "18,90$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cabriz-organic-daoe-2019.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=bc42eec73d&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Organic Dão 2019",
+      "description": null,
+      "price": "18,90$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cabriz-organic-daoe-2019.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=bc42eec73d&e=2c9a262afa",
+      "producer": "Global Wines",
+      "region": null,
+      "vintage": "2019",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Organic Dão 2019",
+          "description": null,
+          "price": "18,90$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cabriz-organic-daoe-2019.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=bc42eec73d&e=2c9a262afa",
+          "producer": "Global Wines",
+          "region": null,
+          "vintage": "2019",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-29-noble-selection-0.html-cascina-valle-asinari-ciuchino-2022",
+    "blockId": "file-2025-08-29-noble-selection-0.html",
+    "createdAt": "2025-08-29T00:00:00.000Z",
+    "name": "Cascina Valle Asinari Ciuchino 2022",
+    "description": null,
+    "price": "24,55$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cascina-asinari-ciuchino_4.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=cbf62c67cc&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Cascina Valle Asinari Ciuchino 2022",
+      "description": null,
+      "price": "24,55$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cascina-asinari-ciuchino_4.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=cbf62c67cc&e=2c9a262afa",
+      "producer": "Cascina Valle Asinari",
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Cascina Valle Asinari Ciuchino 2022",
+          "description": null,
+          "price": "24,55$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cascina-asinari-ciuchino_4.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=cbf62c67cc&e=2c9a262afa",
+          "producer": "Cascina Valle Asinari",
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-08-29-vin-dame-jeanne-0.html-riesling-cote-de-rouffach",
+    "blockId": "file-2025-08-29-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-29T00:00:00.000Z",
+    "name": "Riesling 'Cote de Rouffach'",
+    "description": "Depuis 2005, l'appellation Côte de Rouffach est reconnue pour son caractère unique. Délicat, sec, et soyeux, le Riesling 2023 est issu de vignes de 45 ans en biodynamie sur argiles et calcaires jaunes. 18 mois d'élevage sur lies fines. Complètement sec, tendu, et salivant. Quelle belle bouteille!",
+    "price": "35.25$",
+    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+    "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=3af50f4aa7&e=345e10d07b",
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Riesling 'Cote de Rouffach'",
+      "description": "Depuis 2005, l'appellation Côte de Rouffach est reconnue pour son caractère unique. Délicat, sec, et soyeux, le Riesling 2023 est issu de vignes de 45 ans en biodynamie sur argiles et calcaires jaunes. 18 mois d'élevage sur lies fines. Complètement sec, tendu, et salivant. Quelle belle bouteille!",
+      "price": "35.25$",
+      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+      "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=3af50f4aa7&e=345e10d07b",
+      "producer": "Véronique et Thomas Muré",
+      "region": "Côte de Rouffach",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Riesling 'Cote de Rouffach'",
+          "description": "Depuis 2005, l'appellation Côte de Rouffach est reconnue pour son caractère unique. Délicat, sec, et soyeux, le Riesling 2023 est issu de vignes de 45 ans en biodynamie sur argiles et calcaires jaunes. 18 mois d'élevage sur lies fines. Complètement sec, tendu, et salivant. Quelle belle bouteille!",
+          "price": "35.25$",
+          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+          "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=3af50f4aa7&e=345e10d07b",
+          "producer": "Véronique et Thomas Muré",
+          "region": "Côte de Rouffach",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "The 2023 Riesling from Côte de Rouffach, a biodynamic gem aged on fine lees, showcases a delicate, dry, and silky profile, revealing the unique character of its 45-year-old vines with every sip."
+  },
+  {
+    "id": "file-2025-08-29-vin-dame-jeanne-0.html-riesling-grand-cru-vorbourg-clos-saint-landelin",
+    "blockId": "file-2025-08-29-vin-dame-jeanne-0.html",
+    "createdAt": "2025-08-29T00:00:00.000Z",
+    "name": "Riesling, Grand Cru Vorbourg, Clos Saint Landelin",
+    "description": "L'emblématique Clos Saint Landelin, Monopole familial chez Muré, constitue l'extrémité sud du Grand Cru Vorbourg, exposé plein sud avec des vents du nord-ouest. Vignes de 50 ans plantées en haute-densité, sur pentes abruptes en terrasses, sur des sols marno-calcaires avec beaucoup de cailloux. Puissance surprenante ici, vif, avec une grande sensation crayeuse. Riesling de gastronomie, hyper sec et citronné, concentré et chargé de matière. Potentiel de garde énorme.",
+    "price": "66.50$",
+    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+    "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=acaaffb31f&e=345e10d07b",
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Riesling, Grand Cru Vorbourg, Clos Saint Landelin",
+      "description": "L'emblématique Clos Saint Landelin, Monopole familial chez Muré, constitue l'extrémité sud du Grand Cru Vorbourg, exposé plein sud avec des vents du nord-ouest. Vignes de 50 ans plantées en haute-densité, sur pentes abruptes en terrasses, sur des sols marno-calcaires avec beaucoup de cailloux. Puissance surprenante ici, vif, avec une grande sensation crayeuse. Riesling de gastronomie, hyper sec et citronné, concentré et chargé de matière. Potentiel de garde énorme.",
+      "price": "66.50$",
+      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+      "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=acaaffb31f&e=345e10d07b",
+      "producer": "Véronique et Thomas Muré",
+      "region": "Grand Cru Vorbourg",
+      "vintage": "2020",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Riesling, Grand Cru Vorbourg, Clos Saint Landelin",
+          "description": "L'emblématique Clos Saint Landelin, Monopole familial chez Muré, constitue l'extrémité sud du Grand Cru Vorbourg, exposé plein sud avec des vents du nord-ouest. Vignes de 50 ans plantées en haute-densité, sur pentes abruptes en terrasses, sur des sols marno-calcaires avec beaucoup de cailloux. Puissance surprenante ici, vif, avec une grande sensation crayeuse. Riesling de gastronomie, hyper sec et citronné, concentré et chargé de matière. Potentiel de garde énorme.",
+          "price": "66.50$",
+          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+          "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=acaaffb31f&e=345e10d07b",
+          "producer": "Véronique et Thomas Muré",
+          "region": "Grand Cru Vorbourg",
+          "vintage": "2020",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "The Grand Cru Vorbourg Riesling from Clos Saint Landelin, with its 50-year-old high-density vines, delivers a surprising power and vibrant minerality, showcasing a hyper-dry, lemony character that promises exceptional aging potential."
+  },
+  {
     "id": "file-2025-08-28-bambara-selection-0.html-pastis-de-la-plaine",
     "blockId": "file-2025-08-28-bambara-selection-0.html",
     "createdAt": "2025-08-28T00:00:00.000Z",
@@ -41,7 +527,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Découvrez le Pastis de la Plaine, le premier pastis bio qui incarne l'artisanat marseillais avec des ingrédients soigneusement sélectionnés, dont le fenouil de Provence, apportant une fraîcheur et une personnalité unique. Son équilibre parfait entre l'anis étoilé, la réglisse et le fenouil en fait un apéritif méditerranéen incontournable, à savourer avec des amis au soleil."
+    "summary": "Introducing Pastis de la Plaine, the first organic pastis crafted with conviction and artisanal integrity, featuring a unique blend of star anise, licorice, and a refreshing hint of Provençal fennel, embodying the spirit of Marseille in every sip."
   },
   {
     "id": "file-2025-08-28-bambara-selection-0.html-gulfi-valcanzjria-2023",
@@ -91,14 +577,14 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Valcanzjria de Gulfi, un assemblage exquis de chardonnay et de carricante, révèle des arômes de pomme, melon et fruits tropicaux, soutenus par des notes d'amande et de miel. Sa fraîcheur et son équilibre entre richesse fruitée et salinité en font un vin blanc d'une élégance rare, parfait pour accompagner des mets de la mer."
+    "summary": "Valcanzjria, Gulfi's first white wine at SAQ, masterfully blends Chardonnay and indigenous Carricante, revealing a harmonious profile of apple, melon, and delicate tropical fruits, with a saline finish that celebrates the purity of its terroir."
   },
   {
     "id": "file-2025-08-28-bambara-selection-0.html-paso-a-paso-criollas-clarete-2024",
     "blockId": "file-2025-08-28-bambara-selection-0.html",
     "createdAt": "2025-08-28T00:00:00.000Z",
     "name": "Paso a Paso, Criollas Clarete 2024",
-    "description": "Un vin unique à découvrir, en exclusivité SAQ.com dès maintenant!! Découvrez le Clarete de Paso a Paso, une nouvelle expression du Clarete, ce vin argentin entre un rosé et un rouge léger, typique et rafraîchissant, élaboré à partir de cépages autochtones Criollas! Ce vin est l'incarnation parfaite du style authentique et traditionnel apprécié par plusieurs générations d'Argentins dans leur vie quotidienne. Ce Clarete, majoritairement composé de Criolla rouge avec une touche de Criolla blanc, est issu de vieilles vignes de 80 ans cultivées sans pesticides dans un sol argileux profond. Le pressurage doux préserve l'intégrité des baies, suivi d'une fermentation spontanée en cuves inox avec des levures indigènes. Une petite partie subit une fermentation malolactique. Sans ajout de sulfites ni filtration, ce vin n'est pas vieilli en fûts de bois pour conserver sa fraîcheur caractéristique, offrant un Clarete doux et facile à boire. Les notes de dégustation révèlent un vin sur le fruit, avec des arômes floraux et minéraux. En bouche, il se distingue par sa superbe fraîcheur, une acidité équilibrée et une belle intensité. À servir bien frais, ce vin unique est idéal pour être savouré au bord de la piscine par une journée ensoleillée! Il s'accorde parfaitement avec une salade de roquette, de la betterave, avec des poissons ainsi qu'avec des fruits de mer et une paella. Une superbe découverte au prix doux!!",
+    "description": "Un vin unique à découvrir, en exclusivité SAQ.com dès maintenant!! Découvrez le Clarete de Paso a Paso, une nouvelle expression du Clarete, ce vin argentin entre un rosé et un rouge léger, typique et rafraîchissant, élaboré à partir de cépages autochtones Criollas! Ce vin est l'incarnation parfaite du style authentique et traditionnel apprécié par plusieurs générations d'Argentins dans leur vie quotidienne. Ce Clarete, majoritairement composé de Criolla rouge avec une touche de Criolla blanc, est issu de vieilles vignes de 80 ans cultivées sans pesticides dans un sol argileux profond. Le pressurage doux préserve l'intégrité des baies, suivi d'une fermentation spontanée en cuves inox avec des levures indigènes. Une petite partie subit une fermentation malolactique. Sans ajout de sulfites ni filtration, ce vin n'est pas vieilli en fûts de bois pour conserver sa fraîcheur caractéristique, offrant un Clarete doux et facile à boire. Les notes de dégustation révèlent un vin sur le fruit, avec des arômes floraux et minéraux. En bouche, il se distingue par sa superbe fraîcheur, une acidité équilibrée et une belle intensité. À servir bien frais, ce vin unique est idéal pour être savouré au bord de la piscine par une journée ensoleillée! Il s'accorde parfaitement avec une salade de roquette, de la betterave, avec des poissons ainsi qu'avec des fruits de mer et une paella. Une superbe découverte au prix doux!! Dans la presse!🌟 Vin de la semaine, La Presse (29/07/2023)",
     "price": "20,05 $",
     "image_url": null,
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=6c7d679ff0&e=a09c2580fc",
@@ -106,7 +592,7 @@
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Paso a Paso, Criollas Clarete 2024",
-      "description": "Un vin unique à découvrir, en exclusivité SAQ.com dès maintenant!! Découvrez le Clarete de Paso a Paso, une nouvelle expression du Clarete, ce vin argentin entre un rosé et un rouge léger, typique et rafraîchissant, élaboré à partir de cépages autochtones Criollas! Ce vin est l'incarnation parfaite du style authentique et traditionnel apprécié par plusieurs générations d'Argentins dans leur vie quotidienne. Ce Clarete, majoritairement composé de Criolla rouge avec une touche de Criolla blanc, est issu de vieilles vignes de 80 ans cultivées sans pesticides dans un sol argileux profond. Le pressurage doux préserve l'intégrité des baies, suivi d'une fermentation spontanée en cuves inox avec des levures indigènes. Une petite partie subit une fermentation malolactique. Sans ajout de sulfites ni filtration, ce vin n'est pas vieilli en fûts de bois pour conserver sa fraîcheur caractéristique, offrant un Clarete doux et facile à boire. Les notes de dégustation révèlent un vin sur le fruit, avec des arômes floraux et minéraux. En bouche, il se distingue par sa superbe fraîcheur, une acidité équilibrée et une belle intensité. À servir bien frais, ce vin unique est idéal pour être savouré au bord de la piscine par une journée ensoleillée! Il s'accorde parfaitement avec une salade de roquette, de la betterave, avec des poissons ainsi qu'avec des fruits de mer et une paella. Une superbe découverte au prix doux!!",
+      "description": "Un vin unique à découvrir, en exclusivité SAQ.com dès maintenant!! Découvrez le Clarete de Paso a Paso, une nouvelle expression du Clarete, ce vin argentin entre un rosé et un rouge léger, typique et rafraîchissant, élaboré à partir de cépages autochtones Criollas! Ce vin est l'incarnation parfaite du style authentique et traditionnel apprécié par plusieurs générations d'Argentins dans leur vie quotidienne. Ce Clarete, majoritairement composé de Criolla rouge avec une touche de Criolla blanc, est issu de vieilles vignes de 80 ans cultivées sans pesticides dans un sol argileux profond. Le pressurage doux préserve l'intégrité des baies, suivi d'une fermentation spontanée en cuves inox avec des levures indigènes. Une petite partie subit une fermentation malolactique. Sans ajout de sulfites ni filtration, ce vin n'est pas vieilli en fûts de bois pour conserver sa fraîcheur caractéristique, offrant un Clarete doux et facile à boire. Les notes de dégustation révèlent un vin sur le fruit, avec des arômes floraux et minéraux. En bouche, il se distingue par sa superbe fraîcheur, une acidité équilibrée et une belle intensité. À servir bien frais, ce vin unique est idéal pour être savouré au bord de la piscine par une journée ensoleillée! Il s'accorde parfaitement avec une salade de roquette, de la betterave, avec des poissons ainsi qu'avec des fruits de mer et une paella. Une superbe découverte au prix doux!! Dans la presse!🌟 Vin de la semaine, La Presse (29/07/2023)",
       "price": "20,05 $",
       "image_url": null,
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=6c7d679ff0&e=a09c2580fc",
@@ -123,7 +609,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "Paso a Paso, Criollas Clarete 2024",
-          "description": "Un vin unique à découvrir, en exclusivité SAQ.com dès maintenant!! Découvrez le Clarete de Paso a Paso, une nouvelle expression du Clarete, ce vin argentin entre un rosé et un rouge léger, typique et rafraîchissant, élaboré à partir de cépages autochtones Criollas! Ce vin est l'incarnation parfaite du style authentique et traditionnel apprécié par plusieurs générations d'Argentins dans leur vie quotidienne. Ce Clarete, majoritairement composé de Criolla rouge avec une touche de Criolla blanc, est issu de vieilles vignes de 80 ans cultivées sans pesticides dans un sol argileux profond. Le pressurage doux préserve l'intégrité des baies, suivi d'une fermentation spontanée en cuves inox avec des levures indigènes. Une petite partie subit une fermentation malolactique. Sans ajout de sulfites ni filtration, ce vin n'est pas vieilli en fûts de bois pour conserver sa fraîcheur caractéristique, offrant un Clarete doux et facile à boire. Les notes de dégustation révèlent un vin sur le fruit, avec des arômes floraux et minéraux. En bouche, il se distingue par sa superbe fraîcheur, une acidité équilibrée et une belle intensité. À servir bien frais, ce vin unique est idéal pour être savouré au bord de la piscine par une journée ensoleillée! Il s'accorde parfaitement avec une salade de roquette, de la betterave, avec des poissons ainsi qu'avec des fruits de mer et une paella. Une superbe découverte au prix doux!!",
+          "description": "Un vin unique à découvrir, en exclusivité SAQ.com dès maintenant!! Découvrez le Clarete de Paso a Paso, une nouvelle expression du Clarete, ce vin argentin entre un rosé et un rouge léger, typique et rafraîchissant, élaboré à partir de cépages autochtones Criollas! Ce vin est l'incarnation parfaite du style authentique et traditionnel apprécié par plusieurs générations d'Argentins dans leur vie quotidienne. Ce Clarete, majoritairement composé de Criolla rouge avec une touche de Criolla blanc, est issu de vieilles vignes de 80 ans cultivées sans pesticides dans un sol argileux profond. Le pressurage doux préserve l'intégrité des baies, suivi d'une fermentation spontanée en cuves inox avec des levures indigènes. Une petite partie subit une fermentation malolactique. Sans ajout de sulfites ni filtration, ce vin n'est pas vieilli en fûts de bois pour conserver sa fraîcheur caractéristique, offrant un Clarete doux et facile à boire. Les notes de dégustation révèlent un vin sur le fruit, avec des arômes floraux et minéraux. En bouche, il se distingue par sa superbe fraîcheur, une acidité équilibrée et une belle intensité. À servir bien frais, ce vin unique est idéal pour être savouré au bord de la piscine par une journée ensoleillée! Il s'accorde parfaitement avec une salade de roquette, de la betterave, avec des poissons ainsi qu'avec des fruits de mer et une paella. Une superbe découverte au prix doux!! Dans la presse!🌟 Vin de la semaine, La Presse (29/07/2023)",
           "price": "20,05 $",
           "image_url": null,
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=6c7d679ff0&e=a09c2580fc",
@@ -141,14 +627,14 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Clarete de Paso a Paso, un vin argentin entre rosé et rouge léger, est élaboré à partir de vieilles vignes de Criollas, offrant une fraîcheur éclatante et des arômes floraux et minéraux. Avec son équilibre parfait et sa buvabilité, il est le compagnon idéal des journées ensoleillées au bord de la piscine."
+    "summary": "Paso a Paso's Clarete, a refreshing Argentine wine blending Criolla red and white grapes from 80-year-old vines, offers a delightful balance of fruitiness and floral notes, perfect for sunny days by the pool."
   },
   {
     "id": "file-2025-08-28-bambara-selection-0.html-xavier-gerard-saint-joseph-le-blanchard-2023",
     "blockId": "file-2025-08-28-bambara-selection-0.html",
     "createdAt": "2025-08-28T00:00:00.000Z",
     "name": "Xavier Gérard, Saint-Joseph Le Blanchard 2023",
-    "description": "Enfin de retour, sur un très grand millésime!! Un patrimoine précieux et l’excellence du Rhône! Vigneron emblématique du Rhône Nord, Xavier Gérard a hérité de son père un domaine exceptionnel, s'étendant de la Côte Rôtie au Condrieu, jusqu'au Saint-Joseph. Dans ces vignobles où les pentes raides imposent un travail manuel, Xavier cultive la vigne avec un souci du détail hors pair, dans le respect des traditions et de l'environnement. Le Saint-Joseph Rouge Le Blanchard provient d'un tout petit vignoble unique au terroir exceptionnel à Chavanay, au sud de Condrieu. La fermentation spontanée et l'élevage en vieux fûts demi-muids sont au cœur de la méthode de Xavier Gérard. Cette approche permet aux vins de développer une profondeur et une complexité qui reflètent fidèlement la qualité de leur terroir. Ce Saint-Joseph dévoile une robe rouge profonde, où des notes de fruits noirs se mêlent à des notes épicées et florales, soutenues par une structure délicate et une acidité bien équilibrée. Le Blanchard se distingue par son style unique, alliant fraicheur, une belle minéralité et des arômes floraux et de baies, dans une expression plus raffinée que le Saint-Joseph typique. Sa finale est à la fois élégante et persistante. Ce vin se marie parfaitement avec une variété de plats, des viandes rouges aux gibiers, et les fromages affinés. Il peut également accompagner des mets épicés ou des options végétariennes élaborées. Ce vin est une véritable célébration du Rhône Nord, un reflet du savoir-faire et de la passion de Xavier Gérard, marquant l'union entre tradition et modernité! Une grande cuvée disponible en quantités très limitées!",
+    "description": "Enfin de retour, sur un très grand millésime!! Un patrimoine précieux et l’excellence du Rhône! Vigneron emblématique du Rhône Nord, Xavier Gérard a hérité de son père un domaine exceptionnel, s'étendant de la Côte Rôtie au Condrieu, jusqu'au Saint-Joseph. Dans ces vignobles où les pentes raides imposent un travail manuel, Xavier cultive la vigne avec un souci du détail hors pair, dans le respect des traditions et de l'environnement. Le Saint-Joseph Rouge Le Blanchard provient d'un tout petit vignoble unique au terroir exceptionnel à Chavanay, au sud de Condrieu. La fermentation spontanée et l'élevage en vieux fûts demi-muids sont au cœur de la méthode de Xavier Gérard. Cette approche permet aux vins de développer une profondeur et une complexité qui reflètent fidèlement la qualité de leur terroir. Ce Saint-Joseph dévoile une robe rouge profonde, où des notes de fruits noirs se mêlent à des notes épicées et florales, soutenues par une structure délicate et une acidité bien équilibrée. Le Blanchard se distingue par son style unique, alliant fraicheur, une belle minéralité et des arômes floraux et de baies, dans une expression plus raffinée que le Saint-Joseph typique. Sa finale est à la fois élégante et persistante. Ce vin se marie parfaitement avec une variété de plats, des viandes rouges aux gibiers, et les fromages affinés. Il peut également accompagner des mets épicés ou des options végétariennes élaborées. Ce vin est une véritable célébration du Rhône Nord, un reflet du savoir-faire et de la passion de Xavier Gérard, marquant l'union entre tradition et modernité! Une grande cuvée disponible en quantités très limitées! Dans la presse!🌟 94 points, Decanter (millésime 2020)",
     "price": "63,00 $",
     "image_url": null,
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=b7336dab38&e=a09c2580fc",
@@ -156,7 +642,7 @@
     "disponibilite": null,
     "raw_data": {
       "name": "Xavier Gérard, Saint-Joseph Le Blanchard 2023",
-      "description": "Enfin de retour, sur un très grand millésime!! Un patrimoine précieux et l’excellence du Rhône! Vigneron emblématique du Rhône Nord, Xavier Gérard a hérité de son père un domaine exceptionnel, s'étendant de la Côte Rôtie au Condrieu, jusqu'au Saint-Joseph. Dans ces vignobles où les pentes raides imposent un travail manuel, Xavier cultive la vigne avec un souci du détail hors pair, dans le respect des traditions et de l'environnement. Le Saint-Joseph Rouge Le Blanchard provient d'un tout petit vignoble unique au terroir exceptionnel à Chavanay, au sud de Condrieu. La fermentation spontanée et l'élevage en vieux fûts demi-muids sont au cœur de la méthode de Xavier Gérard. Cette approche permet aux vins de développer une profondeur et une complexité qui reflètent fidèlement la qualité de leur terroir. Ce Saint-Joseph dévoile une robe rouge profonde, où des notes de fruits noirs se mêlent à des notes épicées et florales, soutenues par une structure délicate et une acidité bien équilibrée. Le Blanchard se distingue par son style unique, alliant fraicheur, une belle minéralité et des arômes floraux et de baies, dans une expression plus raffinée que le Saint-Joseph typique. Sa finale est à la fois élégante et persistante. Ce vin se marie parfaitement avec une variété de plats, des viandes rouges aux gibiers, et les fromages affinés. Il peut également accompagner des mets épicés ou des options végétariennes élaborées. Ce vin est une véritable célébration du Rhône Nord, un reflet du savoir-faire et de la passion de Xavier Gérard, marquant l'union entre tradition et modernité! Une grande cuvée disponible en quantités très limitées!",
+      "description": "Enfin de retour, sur un très grand millésime!! Un patrimoine précieux et l’excellence du Rhône! Vigneron emblématique du Rhône Nord, Xavier Gérard a hérité de son père un domaine exceptionnel, s'étendant de la Côte Rôtie au Condrieu, jusqu'au Saint-Joseph. Dans ces vignobles où les pentes raides imposent un travail manuel, Xavier cultive la vigne avec un souci du détail hors pair, dans le respect des traditions et de l'environnement. Le Saint-Joseph Rouge Le Blanchard provient d'un tout petit vignoble unique au terroir exceptionnel à Chavanay, au sud de Condrieu. La fermentation spontanée et l'élevage en vieux fûts demi-muids sont au cœur de la méthode de Xavier Gérard. Cette approche permet aux vins de développer une profondeur et une complexité qui reflètent fidèlement la qualité de leur terroir. Ce Saint-Joseph dévoile une robe rouge profonde, où des notes de fruits noirs se mêlent à des notes épicées et florales, soutenues par une structure délicate et une acidité bien équilibrée. Le Blanchard se distingue par son style unique, alliant fraicheur, une belle minéralité et des arômes floraux et de baies, dans une expression plus raffinée que le Saint-Joseph typique. Sa finale est à la fois élégante et persistante. Ce vin se marie parfaitement avec une variété de plats, des viandes rouges aux gibiers, et les fromages affinés. Il peut également accompagner des mets épicés ou des options végétariennes élaborées. Ce vin est une véritable célébration du Rhône Nord, un reflet du savoir-faire et de la passion de Xavier Gérard, marquant l'union entre tradition et modernité! Une grande cuvée disponible en quantités très limitées! Dans la presse!🌟 94 points, Decanter (millésime 2020)",
       "price": "63,00 $",
       "image_url": null,
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=b7336dab38&e=a09c2580fc",
@@ -170,7 +656,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "Xavier Gérard, Saint-Joseph Le Blanchard 2023",
-          "description": "Enfin de retour, sur un très grand millésime!! Un patrimoine précieux et l’excellence du Rhône! Vigneron emblématique du Rhône Nord, Xavier Gérard a hérité de son père un domaine exceptionnel, s'étendant de la Côte Rôtie au Condrieu, jusqu'au Saint-Joseph. Dans ces vignobles où les pentes raides imposent un travail manuel, Xavier cultive la vigne avec un souci du détail hors pair, dans le respect des traditions et de l'environnement. Le Saint-Joseph Rouge Le Blanchard provient d'un tout petit vignoble unique au terroir exceptionnel à Chavanay, au sud de Condrieu. La fermentation spontanée et l'élevage en vieux fûts demi-muids sont au cœur de la méthode de Xavier Gérard. Cette approche permet aux vins de développer une profondeur et une complexité qui reflètent fidèlement la qualité de leur terroir. Ce Saint-Joseph dévoile une robe rouge profonde, où des notes de fruits noirs se mêlent à des notes épicées et florales, soutenues par une structure délicate et une acidité bien équilibrée. Le Blanchard se distingue par son style unique, alliant fraicheur, une belle minéralité et des arômes floraux et de baies, dans une expression plus raffinée que le Saint-Joseph typique. Sa finale est à la fois élégante et persistante. Ce vin se marie parfaitement avec une variété de plats, des viandes rouges aux gibiers, et les fromages affinés. Il peut également accompagner des mets épicés ou des options végétariennes élaborées. Ce vin est une véritable célébration du Rhône Nord, un reflet du savoir-faire et de la passion de Xavier Gérard, marquant l'union entre tradition et modernité! Une grande cuvée disponible en quantités très limitées!",
+          "description": "Enfin de retour, sur un très grand millésime!! Un patrimoine précieux et l’excellence du Rhône! Vigneron emblématique du Rhône Nord, Xavier Gérard a hérité de son père un domaine exceptionnel, s'étendant de la Côte Rôtie au Condrieu, jusqu'au Saint-Joseph. Dans ces vignobles où les pentes raides imposent un travail manuel, Xavier cultive la vigne avec un souci du détail hors pair, dans le respect des traditions et de l'environnement. Le Saint-Joseph Rouge Le Blanchard provient d'un tout petit vignoble unique au terroir exceptionnel à Chavanay, au sud de Condrieu. La fermentation spontanée et l'élevage en vieux fûts demi-muids sont au cœur de la méthode de Xavier Gérard. Cette approche permet aux vins de développer une profondeur et une complexité qui reflètent fidèlement la qualité de leur terroir. Ce Saint-Joseph dévoile une robe rouge profonde, où des notes de fruits noirs se mêlent à des notes épicées et florales, soutenues par une structure délicate et une acidité bien équilibrée. Le Blanchard se distingue par son style unique, alliant fraicheur, une belle minéralité et des arômes floraux et de baies, dans une expression plus raffinée que le Saint-Joseph typique. Sa finale est à la fois élégante et persistante. Ce vin se marie parfaitement avec une variété de plats, des viandes rouges aux gibiers, et les fromages affinés. Il peut également accompagner des mets épicés ou des options végétariennes élaborées. Ce vin est une véritable célébration du Rhône Nord, un reflet du savoir-faire et de la passion de Xavier Gérard, marquant l'union entre tradition et modernité! Une grande cuvée disponible en quantités très limitées! Dans la presse!🌟 94 points, Decanter (millésime 2020)",
           "price": "63,00 $",
           "image_url": null,
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=b7336dab38&e=a09c2580fc",
@@ -185,7 +671,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Saint-Joseph Rouge Le Blanchard de Xavier Gérard est une cuvée exceptionnelle, révélant des arômes de fruits noirs, d'épices et de fleurs, soutenue par une structure délicate et une minéralité raffinée. Ce vin incarne l'excellence du Rhône Nord, alliant tradition et modernité, avec une finale élégante et persistante."
+    "summary": "Saint-Joseph Rouge Le Blanchard, crafted by the esteemed Xavier Gérard, showcases a deep ruby hue and an intricate bouquet of black fruits, spices, and florals, embodying the perfect balance of freshness and minerality, with a refined finish that celebrates the essence of the Northern Rhône."
   },
   {
     "id": "file-2025-08-28-info-symbiose-0.html-zarate",
@@ -329,7 +815,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Château de Lavernette, un domaine familial cultivant la vigne depuis 1596, produit des vins de gamay et chardonnay en agriculture biologique, révélant la profondeur et l'élégance de leur terroir. Avec des cuvées vibrantes et authentiques, ce domaine est une adresse incontournable pour les amateurs de vins de caractère."
+    "summary": "Château de Lavernette, a family estate since 1596, produces elegant Gamay and Chardonnay wines that reflect the unique terroir of southern Burgundy, showcasing depth and vibrancy that appeal to discerning palates."
   },
   {
     "id": "file-2025-08-28-rezin-0.html-chorey",
@@ -373,7 +859,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Chorey, un pinot de Bourgogne classique, séduit par sa fraîcheur et son élégance, avec des arômes de fruits rouges et des notes florales délicates. Parfaitement équilibré, il est un compagnon charmeur pour des grillades de volaille."
+    "summary": "This elegant Chorey Pinot Noir, fresh and fruity with delicate floral notes, embodies classic Burgundy charm, offering a delightful drinking experience that pairs beautifully with grilled poultry."
   },
   {
     "id": "file-2025-08-28-rezin-0.html-morgon",
@@ -417,7 +903,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Morgon de la famille Foillard, un vin d'élite du Beaujolais, offre un profil naturel captivant avec des arômes de cerises, d'eucalyptus et de réglisse. En bouche, sa texture dodue et son acidité énergique en font un choix parfait pour l'apéritif, à savourer seul ou avec une planche de charcuteries."
+    "summary": "Foillard's Morgon, a Beaujolais elite, captivates with its alluring aromas of cherries, eucalyptus, and wet stone, delivering a juicy palate with vibrant acidity and a lingering finish, perfect for casual sipping or pairing with charcuterie."
   },
   {
     "id": "file-2025-08-28-rezin-0.html-manzanilla-sanlucar-de-barrameda-en-rama",
@@ -461,14 +947,14 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Manzanilla Sanlucar de Barrameda en Rama d'Emilio Lustau, issue d'assemblages de vieux xérès, offre une complexité et une finesse remarquables, accentuées par des conditions climatiques idéales. Sa fraîcheur unique et sa texture en bouche en font un choix exquis pour les amateurs de xérès."
+    "summary": "Lustau's Manzanilla Sanlucar de Barrameda en Rama, crafted from a blend of very old sherries, offers a unique freshness and refined texture, reflecting the exceptional climate and traditional expertise of Jerez."
   },
   {
     "id": "file-2025-08-27-vin-dame-jeanne-0.html-champagne-ludes-1er-cru-reflet-dantan-brut",
     "blockId": "file-2025-08-27-vin-dame-jeanne-0.html",
     "createdAt": "2025-08-27T00:00:00.000Z",
     "name": "Champagne, Ludes 1er cru 'Reflet d'Antan', Brut",
-    "description": "Réserve perpétuelle issue de Pierre Bérêche, transmise et mis en bouteille par Jean-Pierre Bérêche depuis 1990. Cette cuvée est le reflet du Champagne d’Antan. La famille Bérêche a souhaité protéger cette cuvée avec un format magnum, le contenant idéal et sans concession. 36 mois sur lattes. De cette cuvée se dégage des arômes matures et complexes de fruits confits, nougat, génoise. Nous sommes également sur des arômes tertiaires avec des notes de sous-bois et des épices. La bouche est équilibrée et assise, consistance de velours, presque chaude. Finale très longue, délicatement crayeuse et saline. L'effet magnum tiré liège boucle la boucle sur cette cuvée hautement gastronomique, poussant l'effet umami encore plus loin, et ouvrant des clés aromatiques complexes et étagées. Du grand, grand art !!",
+    "description": "Réserve perpétuelle issue de Pierre Bérêche, transmise et mis en bouteille par Jean-Pierre Bérêche depuis 1990. Cette cuvée est le reflet du Champagne d’Antan. La famille Bérêche a souhaité protéger cette cuvée avec un format magnum, le contenant idéal et sans concession. 36 mois sur lattes. De cette cuvée se dégage des arômes mâtures et complexes de fruits confits, nougat, génoise. Nous sommes également sur des arômes tertiaires avec des notes de sous-bois et des épices. La bouche est équilibrée et assise, consistance de velours, presque chaude. Finale très longue, délicatement crayeuse et saline. L'effet magnum tiré liège boucle la boucle sur cette cuvée hautement gastronomique, poussant l'effet umami encore plus loin, et ouvrant des clés aromatiques complexes et étagées. Du grand, grand art !!",
     "price": "1,255.50$",
     "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
     "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=60ffac18ce&e=345e10d07b",
@@ -476,11 +962,11 @@
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Champagne, Ludes 1er cru 'Reflet d'Antan', Brut",
-      "description": "Réserve perpétuelle issue de Pierre Bérêche, transmise et mis en bouteille par Jean-Pierre Bérêche depuis 1990. Cette cuvée est le reflet du Champagne d’Antan. La famille Bérêche a souhaité protéger cette cuvée avec un format magnum, le contenant idéal et sans concession. 36 mois sur lattes. De cette cuvée se dégage des arômes matures et complexes de fruits confits, nougat, génoise. Nous sommes également sur des arômes tertiaires avec des notes de sous-bois et des épices. La bouche est équilibrée et assise, consistance de velours, presque chaude. Finale très longue, délicatement crayeuse et saline. L'effet magnum tiré liège boucle la boucle sur cette cuvée hautement gastronomique, poussant l'effet umami encore plus loin, et ouvrant des clés aromatiques complexes et étagées. Du grand, grand art !!",
+      "description": "Réserve perpétuelle issue de Pierre Bérêche, transmise et mis en bouteille par Jean-Pierre Bérêche depuis 1990. Cette cuvée est le reflet du Champagne d’Antan. La famille Bérêche a souhaité protéger cette cuvée avec un format magnum, le contenant idéal et sans concession. 36 mois sur lattes. De cette cuvée se dégage des arômes mâtures et complexes de fruits confits, nougat, génoise. Nous sommes également sur des arômes tertiaires avec des notes de sous-bois et des épices. La bouche est équilibrée et assise, consistance de velours, presque chaude. Finale très longue, délicatement crayeuse et saline. L'effet magnum tiré liège boucle la boucle sur cette cuvée hautement gastronomique, poussant l'effet umami encore plus loin, et ouvrant des clés aromatiques complexes et étagées. Du grand, grand art !!",
       "price": "1,255.50$",
       "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
       "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=60ffac18ce&e=345e10d07b",
-      "producer": "Pierre Bérêche",
+      "producer": "Bérêche",
       "region": "Ludes 1er cru",
       "vintage": null,
       "grape_varieties": null,
@@ -490,11 +976,11 @@
       "all_occurrences_raw_data": [
         {
           "name": "Champagne, Ludes 1er cru 'Reflet d'Antan', Brut",
-          "description": "Réserve perpétuelle issue de Pierre Bérêche, transmise et mis en bouteille par Jean-Pierre Bérêche depuis 1990. Cette cuvée est le reflet du Champagne d’Antan. La famille Bérêche a souhaité protéger cette cuvée avec un format magnum, le contenant idéal et sans concession. 36 mois sur lattes. De cette cuvée se dégage des arômes matures et complexes de fruits confits, nougat, génoise. Nous sommes également sur des arômes tertiaires avec des notes de sous-bois et des épices. La bouche est équilibrée et assise, consistance de velours, presque chaude. Finale très longue, délicatement crayeuse et saline. L'effet magnum tiré liège boucle la boucle sur cette cuvée hautement gastronomique, poussant l'effet umami encore plus loin, et ouvrant des clés aromatiques complexes et étagées. Du grand, grand art !!",
+          "description": "Réserve perpétuelle issue de Pierre Bérêche, transmise et mis en bouteille par Jean-Pierre Bérêche depuis 1990. Cette cuvée est le reflet du Champagne d’Antan. La famille Bérêche a souhaité protéger cette cuvée avec un format magnum, le contenant idéal et sans concession. 36 mois sur lattes. De cette cuvée se dégage des arômes mâtures et complexes de fruits confits, nougat, génoise. Nous sommes également sur des arômes tertiaires avec des notes de sous-bois et des épices. La bouche est équilibrée et assise, consistance de velours, presque chaude. Finale très longue, délicatement crayeuse et saline. L'effet magnum tiré liège boucle la boucle sur cette cuvée hautement gastronomique, poussant l'effet umami encore plus loin, et ouvrant des clés aromatiques complexes et étagées. Du grand, grand art !!",
           "price": "1,255.50$",
           "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
           "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=60ffac18ce&e=345e10d07b",
-          "producer": "Pierre Bérêche",
+          "producer": "Bérêche",
           "region": "Ludes 1er cru",
           "vintage": null,
           "grape_varieties": null,
@@ -505,7 +991,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Champagne Ludes 1er cru 'Reflet d'Antan' de Pierre Bérêche, élevé 36 mois sur lattes, révèle des arômes complexes de fruits confits et d'épices, avec une texture veloutée et une finale longue et saline. Ce magnum, symbole d'excellence, offre une expérience gastronomique inégalée."
+    "summary": "Bérêche's 'Reflet d'Antan' Brut Champagne, a magnum reserve aged for 36 months, reveals mature aromas of candied fruits and nougat, with a velvety mouthfeel and a long, saline finish that epitomizes gastronomic excellence."
   },
   {
     "id": "file-2025-08-26-planvin-0.html-gargante-2022",
@@ -515,7 +1001,7 @@
     "description": "Une bulle de soif, sur lie, refermentée en bouteille. 100 % garganega, vinifiée spontanément en cuve inox. Élevage d’environ 5 mois sur lies en cuves béton. La prise de mousse se fait naturellement en bouteille, par ajout de moût de garganega passerillé. Robe jaune paille, mousse généreuse. La bouche est fraîche, ample, portée par une trame minérale et une sapidité vibrante qui appelle la prochaine gorgée. Gargànte, c’est un vin sincère, immédiat, pensé pour la buvabilité.",
     "price": "32,46 $",
     "image_url": null,
-    "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=294e8c0a64&e=bc0729f8df",
+    "link": null,
     "agence": "Planvin",
     "disponibilite": "SAQ",
     "raw_data": {
@@ -523,7 +1009,7 @@
       "description": "Une bulle de soif, sur lie, refermentée en bouteille. 100 % garganega, vinifiée spontanément en cuve inox. Élevage d’environ 5 mois sur lies en cuves béton. La prise de mousse se fait naturellement en bouteille, par ajout de moût de garganega passerillé. Robe jaune paille, mousse généreuse. La bouche est fraîche, ample, portée par une trame minérale et une sapidité vibrante qui appelle la prochaine gorgée. Gargànte, c’est un vin sincère, immédiat, pensé pour la buvabilité.",
       "price": "32,46 $",
       "image_url": null,
-      "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=294e8c0a64&e=bc0729f8df",
+      "link": null,
       "producer": "Nevio Scala",
       "region": "IGT Veneto",
       "vintage": "2022",
@@ -539,7 +1025,7 @@
           "description": "Une bulle de soif, sur lie, refermentée en bouteille. 100 % garganega, vinifiée spontanément en cuve inox. Élevage d’environ 5 mois sur lies en cuves béton. La prise de mousse se fait naturellement en bouteille, par ajout de moût de garganega passerillé. Robe jaune paille, mousse généreuse. La bouche est fraîche, ample, portée par une trame minérale et une sapidité vibrante qui appelle la prochaine gorgée. Gargànte, c’est un vin sincère, immédiat, pensé pour la buvabilité.",
           "price": "32,46 $",
           "image_url": null,
-          "link": "https://planvin.us15.list-manage.com/track/click?u=bcc803c4eada215e47355c036&id=294e8c0a64&e=bc0729f8df",
+          "link": null,
           "producer": "Nevio Scala",
           "region": "IGT Veneto",
           "vintage": "2022",
@@ -553,7 +1039,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Gargànte, un vin pétillant 100% garganega, se distingue par sa fraîcheur et sa mousse généreuse, offrant une expérience de dégustation vibrante et désaltérante. Élaboré sur lies, il incarne la buvabilité avec une trame minérale qui invite à la prochaine gorgée."
+    "summary": "Gargànte, a refreshing sparkling wine crafted from 100% Garganega, enchants with its generous mousse and vibrant minerality, offering a delightful sip that beckons for more."
   },
   {
     "id": "file-2025-08-26-planvin-0.html-blanko",
@@ -565,7 +1051,7 @@
     "image_url": null,
     "link": null,
     "agence": "Planvin",
-    "disponibilite": null,
+    "disponibilite": "SAQ",
     "raw_data": {
       "name": "Blanko",
       "description": "Assemblage de garganega, malvasia istriana et moscato bianco issus de jeunes vignes. Ce vin est vinifié avec une courte macération pelliculaire et élevé uniquement en cuve béton. Le nez révèle des notes délicates de zeste de citron et de fleurs blanches. La bouche est vive et florale, offre une texture légère et désaltérante qui glisse toute seule sans jamais tomber dans l’excès.",
@@ -582,7 +1068,7 @@
       ],
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": null,
+      "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
           "name": "Blanko",
@@ -600,12 +1086,12 @@
           ],
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": null
+          "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Blanko, un assemblage de garganega, malvasia istriana et moscato bianco, dévoile des arômes délicats de citron et de fleurs blanches. Sa bouche vive et florale, avec une texture légère, en fait un vin désaltérant et accessible, parfait pour toute occasion."
+    "summary": "This delightful blend of Garganega, Malvasia Istriana, and Moscato Bianco presents delicate lemon zest and white flower aromas, with a lively, floral palate that refreshes without overwhelming."
   },
   {
     "id": "file-2025-08-25-vin-dame-jeanne-0.html-savigny-les-beaune-1er-cru-les-lavieres-2020",
@@ -653,6 +1139,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Savigny-les-Beaune 1er cru ‘Les Lavières’ 2020, issu de vignes anciennes et vinifié avec soin, offre un Pinot Noir d'une grande finesse, révélant des arômes complexes et une structure élégante. Ce vin de table, parfait pour la garde, incarne l'excellence bourguignonne."
+    "summary": "Savigny-les-Beaune 1er cru ‘Les Lavières’ 2020, a meticulously crafted Pinot Noir from 1954 massal selection, showcases a refined balance of elegance and depth, promising both immediate enjoyment and aging potential."
   }
 ]
