@@ -41,7 +41,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Mariole 2022 enchante avec ses arômes de fruits noirs, une subtile touche de cuir et une finale poivrée, offrant une expérience gustative audacieuse et ensoleillée, idéale pour des moments conviviaux."
+    "summary": "La Mariole 2022 enchante avec ses arômes ensoleillés de fruits noirs, une subtile touche de cuir et une finale poivrée, promettant une expérience gustative audacieuse et mémorable."
   },
   {
     "id": "file-2025-08-30-le-vin-dans-les-voiles-0.html-excomungado-2021",
@@ -85,7 +85,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Excomungado 2021, un rouge du Douro sans fût, révèle une fraîcheur et un croquant irrésistibles, tout en offrant une concentration légère et fluide, idéal pour des repas festifs et partagés."
+    "summary": "Excomungado 2021, un Douro innovant, révèle une fraîcheur irrésistible grâce à son élevage en cuve inox, offrant une légèreté et une fluidité qui séduisent lors des repas festifs."
   },
   {
     "id": "file-2025-08-30-le-vin-dans-les-voiles-0.html-livia-2022",
@@ -129,7 +129,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Livia 2022, un Muscat de Samos, allie profondeur et élégance dans une expérience gustative salin et minérale, avec une finale gourmande qui s'épanouit après carafage, parfait pour des repas conviviaux."
+    "summary": "Livia 2022, un Muscat de Samos, allie profondeur et élégance, offrant une expérience gustative longue et gourmande, idéale pour des repas conviviaux et raffinés."
   },
   {
     "id": "file-2025-08-30-le-vin-dans-les-voiles-0.html-chablis-2022",
@@ -173,7 +173,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Chablis Duplessis 2022, issu de parcelles privilégiées, incarne l’élégance bourguignonne avec ses notes florales et minérales, promettant une belle garde et une harmonie parfaite avec les fruits de mer."
+    "summary": "Chablis Duplessis 2022, issu de parcelles prestigieuses, incarne l’élégance bourguignonne avec ses notes florales et minérales, promettant une expérience raffinée à chaque gorgée."
   },
   {
     "id": "file-2025-08-29-noble-selection-0.html-pirate-of-cocoa-hill-2022",
@@ -185,7 +185,7 @@
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_dornier-face-croped.png",
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5f06566fcb&e=2c9a262afa",
     "agence": "Noble Sélection",
-    "disponibilite": "SAQ",
+    "disponibilite": null,
     "raw_data": {
       "name": "Pirate of Cocoa Hill 2022",
       "description": "The Cocoa Hill Red 2022 est issu de vignes cultivées sur les sols granitiques décomposés de Cocoa Hill, une colline nichée au cœur des replis de la montagne de Stellenbosch. Les vignes bénéficient d'une grande exposition au soleil, ce qui permet aux raisins d'atteindre leur plein potentiel et de faire ressortir la richesse aromatique de chacun des cépages.",
@@ -203,7 +203,7 @@
       ],
       "alcohol_content": "14%",
       "volume": null,
-      "disponibilite": "SAQ",
+      "disponibilite": null,
       "all_occurrences_raw_data": [
         {
           "name": "Pirate of Cocoa Hill 2022",
@@ -222,11 +222,12 @@
           ],
           "alcohol_content": "14%",
           "volume": null,
-          "disponibilite": "SAQ"
+          "disponibilite": null
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "Cocoa Hill Red 2022, cultivé sur des sols granitiques ensoleillés, révèle une richesse aromatique exceptionnelle, reflet du terroir unique de Stellenbosch."
   },
   {
     "id": "file-2025-08-29-noble-selection-0.html-bottega-white-gold",
@@ -613,7 +614,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "Riesling 2023 de Côte de Rouffach, délicat et soyeux, se distingue par sa tension et sa salinité, offrant une expérience biodynamique unique et raffinée."
   },
   {
     "id": "file-2025-08-29-vin-dame-jeanne-0.html-riesling-grand-cru-vorbourg-clos-saint-landelin",
@@ -657,7 +659,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Clos Saint Landelin, un Riesling du Grand Cru Vorbourg, se distingue par sa puissance, sa vivacité et sa minéralité crayeuse, offrant une expérience gastronomique hyper sèche et citronnée avec un potentiel de garde impressionnant."
+    "summary": "Le Riesling du Clos Saint Landelin, issu de vignes de 50 ans sur des pentes abruptes, offre une puissance surprenante et une minéralité crayeuse, promettant une expérience gastronomique exceptionnelle."
   },
   {
     "id": "file-2025-08-28-bambara-selection-0.html-pastis-de-la-plaine",
@@ -701,7 +703,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Pastis de la Plaine, premier pastis bio, incarne l'artisanat marseillais avec des ingrédients soigneusement sélectionnés, offrant une expérience aromatique unique grâce à l'anis, la réglisse et le fenouil de Provence, parfait pour des moments conviviaux."
+    "summary": "Le Pastis de la Plaine, premier pastis bio, incarne l'artisanat marseillais avec ses ingrédients soigneusement sélectionnés, offrant une expérience aromatique unique et méditerranéenne."
   },
   {
     "id": "file-2025-08-28-bambara-selection-0.html-gulfi-valcanzjria-2023",
@@ -710,7 +712,7 @@
     "name": "Gulfi, Valcanzjria 2023",
     "description": "Valcanzjria, le premier vin blanc de Gulfi à la SAQ, est enfin de retour! Valcanjzria est un assemblage de chardonnay et de carricante, ce dernier étant un cépage autochtone à la Sicile. Situé à 400 mètres d’altitude sur des sols calcaires, le vignoble biologique et non irrigué subit de grandes variations climatiques entre le jour et la nuit ce qui encourage le développement optimal des arômes et le maintien d’un taux d’acidité élevé. Le chardonnay donne une richesse aromatique au vin et apporte de la rondeur et le carricante apporte une belle acidité et de la complexité; il est en quelque sorte la colonne vertébrale qui permet au vin d’évoluer au fil du temps et de conserver sa fraîcheur et son intensité aromatique. Cette cuvée dévoile un profil aromatique de pomme, melon et fruits tropicaux délicats, auquel se greffent l’amande et le miel. En bouche, le vin dévoile toute sa personnalité avec un équilibre remarquable entre la richesse du fruit et la matière saline. Le vin ne fait aucun passage en bois afin de laisser transparaître toute la pureté des cépages et du terroir. Cette cuvée s'accordera parfaitement aux crustacés tels que le crabe et les crevettes, au poisson, au risotto et aux plats frais de légumes! Santé!",
     "price": "31,00 $",
-    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/80ca3898-6fea-54cc-1dda-38926a79bca2.jpg",
+    "image_url": null,
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=45a309f128&e=a09c2580fc",
     "agence": "Bambara Selection",
     "disponibilite": "SAQ",
@@ -718,7 +720,7 @@
       "name": "Gulfi, Valcanzjria 2023",
       "description": "Valcanzjria, le premier vin blanc de Gulfi à la SAQ, est enfin de retour! Valcanjzria est un assemblage de chardonnay et de carricante, ce dernier étant un cépage autochtone à la Sicile. Situé à 400 mètres d’altitude sur des sols calcaires, le vignoble biologique et non irrigué subit de grandes variations climatiques entre le jour et la nuit ce qui encourage le développement optimal des arômes et le maintien d’un taux d’acidité élevé. Le chardonnay donne une richesse aromatique au vin et apporte de la rondeur et le carricante apporte une belle acidité et de la complexité; il est en quelque sorte la colonne vertébrale qui permet au vin d’évoluer au fil du temps et de conserver sa fraîcheur et son intensité aromatique. Cette cuvée dévoile un profil aromatique de pomme, melon et fruits tropicaux délicats, auquel se greffent l’amande et le miel. En bouche, le vin dévoile toute sa personnalité avec un équilibre remarquable entre la richesse du fruit et la matière saline. Le vin ne fait aucun passage en bois afin de laisser transparaître toute la pureté des cépages et du terroir. Cette cuvée s'accordera parfaitement aux crustacés tels que le crabe et les crevettes, au poisson, au risotto et aux plats frais de légumes! Santé!",
       "price": "31,00 $",
-      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/80ca3898-6fea-54cc-1dda-38926a79bca2.jpg",
+      "image_url": null,
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=45a309f128&e=a09c2580fc",
       "producer": "Gulfi",
       "region": "Sicile",
@@ -735,7 +737,7 @@
           "name": "Gulfi, Valcanzjria 2023",
           "description": "Valcanzjria, le premier vin blanc de Gulfi à la SAQ, est enfin de retour! Valcanjzria est un assemblage de chardonnay et de carricante, ce dernier étant un cépage autochtone à la Sicile. Situé à 400 mètres d’altitude sur des sols calcaires, le vignoble biologique et non irrigué subit de grandes variations climatiques entre le jour et la nuit ce qui encourage le développement optimal des arômes et le maintien d’un taux d’acidité élevé. Le chardonnay donne une richesse aromatique au vin et apporte de la rondeur et le carricante apporte une belle acidité et de la complexité; il est en quelque sorte la colonne vertébrale qui permet au vin d’évoluer au fil du temps et de conserver sa fraîcheur et son intensité aromatique. Cette cuvée dévoile un profil aromatique de pomme, melon et fruits tropicaux délicats, auquel se greffent l’amande et le miel. En bouche, le vin dévoile toute sa personnalité avec un équilibre remarquable entre la richesse du fruit et la matière saline. Le vin ne fait aucun passage en bois afin de laisser transparaître toute la pureté des cépages et du terroir. Cette cuvée s'accordera parfaitement aux crustacés tels que le crabe et les crevettes, au poisson, au risotto et aux plats frais de légumes! Santé!",
           "price": "31,00 $",
-          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/80ca3898-6fea-54cc-1dda-38926a79bca2.jpg",
+          "image_url": null,
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=45a309f128&e=a09c2580fc",
           "producer": "Gulfi",
           "region": "Sicile",
@@ -751,24 +753,24 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Valcanzjria, un assemblage de Chardonnay et de Carricante, révèle une richesse aromatique de fruits tropicaux et d'amande, avec une belle acidité saline, offrant une pureté exceptionnelle sans passage en bois, parfait pour accompagner les fruits de mer."
+    "summary": "Valcanzjria, un assemblage de Chardonnay et Carricante, révèle une complexité aromatique de fruits frais et une belle salinité, incarnant la pureté du terroir sicilien sans passage en bois."
   },
   {
     "id": "file-2025-08-28-bambara-selection-0.html-paso-a-paso-criollas-clarete-2024",
     "blockId": "file-2025-08-28-bambara-selection-0.html",
     "createdAt": "2025-08-28T00:00:00.000Z",
     "name": "Paso a Paso, Criollas Clarete 2024",
-    "description": "Un vin unique à découvrir, en exclusivité SAQ.com dès maintenant!! Découvrez le Clarete de Paso a Paso, une nouvelle expression du Clarete, ce vin argentin entre un rosé et un rouge léger, typique et rafraîchissant, élaboré à partir de cépages autochtones Criollas! Ce vin est l'incarnation parfaite du style authentique et traditionnel apprécié par plusieurs générations d'Argentins dans leur vie quotidienne. Ce Clarete, majoritairement composé de Criolla rouge avec une touche de Criolla blanc, est issu de vieilles vignes de 80 ans cultivées sans pesticides dans un sol argileux profond. Le pressurage doux préserve l'intégrité des baies, suivi d'une fermentation spontanée en cuves inox avec des levures indigènes. Une petite partie subit une fermentation malolactique. Sans ajout de sulfites ni filtration, ce vin n'est pas vieilli en fûts de bois pour conserver sa fraîcheur caractéristique, offrant un Clarete doux et facile à boire. Les notes de dégustation révèlent un vin sur le fruit, avec des arômes floraux et minéraux. En bouche, il se distingue par sa superbe fraîcheur, une acidité équilibrée et une belle intensité. À servir bien frais, ce vin unique est idéal pour être savouré au bord de la piscine par une journée ensoleillée! Il s'accorde parfaitement avec une salade de roquette, de la betterave, avec des poissons ainsi qu'avec des fruits de mer et une paella. Une superbe découverte au prix doux!! Dans la presse!🌟 Vin de la semaine, La Presse (29/07/2023)",
+    "description": "Un vin unique à découvrir, en exclusivité SAQ.com dès maintenant!! Découvrez le Clarete de Paso a Paso, une nouvelle expression du Clarete, ce vin argentin entre un rosé et un rouge léger, typique et rafraîchissant, élaboré à partir de cépages autochtones Criollas! Ce vin est l'incarnation parfaite du style authentique et traditionnel apprécié par plusieurs générations d'Argentins dans leur vie quotidienne. Ce Clarete, majoritairement composé de Criolla rouge avec une touche de Criolla blanc, est issu de vieilles vignes de 80 ans cultivées sans pesticides dans un sol argileux profond. Le pressurage doux préserve l'intégrité des baies, suivi d'une fermentation spontanée en cuves inox avec des levures indigènes. Une petite partie subit une fermentation malolactique. Sans ajout de sulfites ni filtration, ce vin n'est pas vieilli en fûts de bois pour conserver sa fraîcheur caractéristique, offrant un Clarete doux et facile à boire. Les notes de dégustation révèlent un vin sur le fruit, avec des arômes floraux et minéraux. En bouche, il se distingue par sa superbe fraîcheur, une acidité équilibrée et une belle intensité. À servir bien frais, ce vin unique est idéal pour être savouré au bord de la piscine par une journée ensoleillée! Il s'accorde parfaitement avec une salade de roquette, de la betterave, avec des poissons ainsi qu'avec des fruits de mer et une paella. Une superbe découverte au prix doux!!",
     "price": "20,05 $",
-    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/bdf7c577-715c-fe72-7254-8ad8586a0e69.png",
+    "image_url": null,
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=6c7d679ff0&e=a09c2580fc",
     "agence": "Bambara Selection",
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Paso a Paso, Criollas Clarete 2024",
-      "description": "Un vin unique à découvrir, en exclusivité SAQ.com dès maintenant!! Découvrez le Clarete de Paso a Paso, une nouvelle expression du Clarete, ce vin argentin entre un rosé et un rouge léger, typique et rafraîchissant, élaboré à partir de cépages autochtones Criollas! Ce vin est l'incarnation parfaite du style authentique et traditionnel apprécié par plusieurs générations d'Argentins dans leur vie quotidienne. Ce Clarete, majoritairement composé de Criolla rouge avec une touche de Criolla blanc, est issu de vieilles vignes de 80 ans cultivées sans pesticides dans un sol argileux profond. Le pressurage doux préserve l'intégrité des baies, suivi d'une fermentation spontanée en cuves inox avec des levures indigènes. Une petite partie subit une fermentation malolactique. Sans ajout de sulfites ni filtration, ce vin n'est pas vieilli en fûts de bois pour conserver sa fraîcheur caractéristique, offrant un Clarete doux et facile à boire. Les notes de dégustation révèlent un vin sur le fruit, avec des arômes floraux et minéraux. En bouche, il se distingue par sa superbe fraîcheur, une acidité équilibrée et une belle intensité. À servir bien frais, ce vin unique est idéal pour être savouré au bord de la piscine par une journée ensoleillée! Il s'accorde parfaitement avec une salade de roquette, de la betterave, avec des poissons ainsi qu'avec des fruits de mer et une paella. Une superbe découverte au prix doux!! Dans la presse!🌟 Vin de la semaine, La Presse (29/07/2023)",
+      "description": "Un vin unique à découvrir, en exclusivité SAQ.com dès maintenant!! Découvrez le Clarete de Paso a Paso, une nouvelle expression du Clarete, ce vin argentin entre un rosé et un rouge léger, typique et rafraîchissant, élaboré à partir de cépages autochtones Criollas! Ce vin est l'incarnation parfaite du style authentique et traditionnel apprécié par plusieurs générations d'Argentins dans leur vie quotidienne. Ce Clarete, majoritairement composé de Criolla rouge avec une touche de Criolla blanc, est issu de vieilles vignes de 80 ans cultivées sans pesticides dans un sol argileux profond. Le pressurage doux préserve l'intégrité des baies, suivi d'une fermentation spontanée en cuves inox avec des levures indigènes. Une petite partie subit une fermentation malolactique. Sans ajout de sulfites ni filtration, ce vin n'est pas vieilli en fûts de bois pour conserver sa fraîcheur caractéristique, offrant un Clarete doux et facile à boire. Les notes de dégustation révèlent un vin sur le fruit, avec des arômes floraux et minéraux. En bouche, il se distingue par sa superbe fraîcheur, une acidité équilibrée et une belle intensité. À servir bien frais, ce vin unique est idéal pour être savouré au bord de la piscine par une journée ensoleillée! Il s'accorde parfaitement avec une salade de roquette, de la betterave, avec des poissons ainsi qu'avec des fruits de mer et une paella. Une superbe découverte au prix doux!!",
       "price": "20,05 $",
-      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/bdf7c577-715c-fe72-7254-8ad8586a0e69.png",
+      "image_url": null,
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=6c7d679ff0&e=a09c2580fc",
       "producer": "Paso a Paso",
       "region": "Argentine",
@@ -783,9 +785,9 @@
       "all_occurrences_raw_data": [
         {
           "name": "Paso a Paso, Criollas Clarete 2024",
-          "description": "Un vin unique à découvrir, en exclusivité SAQ.com dès maintenant!! Découvrez le Clarete de Paso a Paso, une nouvelle expression du Clarete, ce vin argentin entre un rosé et un rouge léger, typique et rafraîchissant, élaboré à partir de cépages autochtones Criollas! Ce vin est l'incarnation parfaite du style authentique et traditionnel apprécié par plusieurs générations d'Argentins dans leur vie quotidienne. Ce Clarete, majoritairement composé de Criolla rouge avec une touche de Criolla blanc, est issu de vieilles vignes de 80 ans cultivées sans pesticides dans un sol argileux profond. Le pressurage doux préserve l'intégrité des baies, suivi d'une fermentation spontanée en cuves inox avec des levures indigènes. Une petite partie subit une fermentation malolactique. Sans ajout de sulfites ni filtration, ce vin n'est pas vieilli en fûts de bois pour conserver sa fraîcheur caractéristique, offrant un Clarete doux et facile à boire. Les notes de dégustation révèlent un vin sur le fruit, avec des arômes floraux et minéraux. En bouche, il se distingue par sa superbe fraîcheur, une acidité équilibrée et une belle intensité. À servir bien frais, ce vin unique est idéal pour être savouré au bord de la piscine par une journée ensoleillée! Il s'accorde parfaitement avec une salade de roquette, de la betterave, avec des poissons ainsi qu'avec des fruits de mer et une paella. Une superbe découverte au prix doux!! Dans la presse!🌟 Vin de la semaine, La Presse (29/07/2023)",
+          "description": "Un vin unique à découvrir, en exclusivité SAQ.com dès maintenant!! Découvrez le Clarete de Paso a Paso, une nouvelle expression du Clarete, ce vin argentin entre un rosé et un rouge léger, typique et rafraîchissant, élaboré à partir de cépages autochtones Criollas! Ce vin est l'incarnation parfaite du style authentique et traditionnel apprécié par plusieurs générations d'Argentins dans leur vie quotidienne. Ce Clarete, majoritairement composé de Criolla rouge avec une touche de Criolla blanc, est issu de vieilles vignes de 80 ans cultivées sans pesticides dans un sol argileux profond. Le pressurage doux préserve l'intégrité des baies, suivi d'une fermentation spontanée en cuves inox avec des levures indigènes. Une petite partie subit une fermentation malolactique. Sans ajout de sulfites ni filtration, ce vin n'est pas vieilli en fûts de bois pour conserver sa fraîcheur caractéristique, offrant un Clarete doux et facile à boire. Les notes de dégustation révèlent un vin sur le fruit, avec des arômes floraux et minéraux. En bouche, il se distingue par sa superbe fraîcheur, une acidité équilibrée et une belle intensité. À servir bien frais, ce vin unique est idéal pour être savouré au bord de la piscine par une journée ensoleillée! Il s'accorde parfaitement avec une salade de roquette, de la betterave, avec des poissons ainsi qu'avec des fruits de mer et une paella. Une superbe découverte au prix doux!!",
           "price": "20,05 $",
-          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/bdf7c577-715c-fe72-7254-8ad8586a0e69.png",
+          "image_url": null,
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=6c7d679ff0&e=a09c2580fc",
           "producer": "Paso a Paso",
           "region": "Argentine",
@@ -801,24 +803,24 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Clarete de Paso a Paso, un vin argentin entre rosé et rouge léger, séduit par sa fraîcheur et ses arômes floraux, issu de vieilles vignes cultivées sans pesticides, parfait pour les journées ensoleillées au bord de la piscine."
+    "summary": "Le Clarete de Paso a Paso, un vin argentin entre rosé et rouge, offre une fraîcheur éclatante et des arômes floraux, incarnant l’authenticité et la tradition des cépages Criollas."
   },
   {
     "id": "file-2025-08-28-bambara-selection-0.html-xavier-gerard-saint-joseph-le-blanchard-2023",
     "blockId": "file-2025-08-28-bambara-selection-0.html",
     "createdAt": "2025-08-28T00:00:00.000Z",
     "name": "Xavier Gérard, Saint-Joseph Le Blanchard 2023",
-    "description": "Enfin de retour, sur un très grand millésime!! Un patrimoine précieux et l’excellence du Rhône! Vigneron emblématique du Rhône Nord, Xavier Gérard a hérité de son père un domaine exceptionnel, s'étendant de la Côte Rôtie au Condrieu, jusqu'au Saint-Joseph. Dans ces vignobles où les pentes raides imposent un travail manuel, Xavier cultive la vigne avec un souci du détail hors pair, dans le respect des traditions et de l'environnement. Le Saint-Joseph Rouge Le Blanchard provient d'un tout petit vignoble unique au terroir exceptionnel à Chavanay, au sud de Condrieu. La fermentation spontanée et l'élevage en vieux fûts demi-muids sont au cœur de la méthode de Xavier Gérard. Cette approche permet aux vins de développer une profondeur et une complexité qui reflètent fidèlement la qualité de leur terroir. Ce Saint-Joseph dévoile une robe rouge profonde, où des notes de fruits noirs se mêlent à des notes épicées et florales, soutenues par une structure délicate et une acidité bien équilibrée. Le Blanchard se distingue par son style unique, alliant fraicheur, une belle minéralité et des arômes floraux et de baies, dans une expression plus raffinée que le Saint-Joseph typique. Sa finale est à la fois élégante et persistante. Ce vin se marie parfaitement avec une variété de plats, des viandes rouges aux gibiers, et les fromages affinés. Il peut également accompagner des mets épicés ou des options végétariennes élaborées. Ce vin est une véritable célébration du Rhône Nord, un reflet du savoir-faire et de la passion de Xavier Gérard, marquant l'union entre tradition et modernité! Une grande cuvée disponible en quantités très limitées! Dans la presse!🌟 94 points, Decanter (millésime 2020)",
+    "description": "Enfin de retour, sur un très grand millésime!! Un patrimoine précieux et l’excellence du Rhône! Vigneron emblématique du Rhône Nord, Xavier Gérard a hérité de son père un domaine exceptionnel, s'étendant de la Côte Rôtie au Condrieu, jusqu'au Saint-Joseph. Dans ces vignobles où les pentes raides imposent un travail manuel, Xavier cultive la vigne avec un souci du détail hors pair, dans le respect des traditions et de l'environnement. Le Saint-Joseph Rouge Le Blanchard provient d'un tout petit vignoble unique au terroir exceptionnel à Chavanay, au sud de Condrieu. La fermentation spontanée et l'élevage en vieux fûts demi-muids sont au cœur de la méthode de Xavier Gérard. Cette approche permet aux vins de développer une profondeur et une complexité qui reflètent fidèlement la qualité de leur terroir. Ce Saint-Joseph dévoile une robe rouge profonde, où des notes de fruits noirs se mêlent à des notes épicées et florales, soutenues par une structure délicate et une acidité bien équilibrée. Le Blanchard se distingue par son style unique, alliant fraicheur, une belle minéralité et des arômes floraux et de baies, dans une expression plus raffinée que le Saint-Joseph typique. Sa finale est à la fois élégante et persistante. Ce vin se marie parfaitement avec une variété de plats, des viandes rouges aux gibiers, et les fromages affinés. Il peut également accompagner des mets épicés ou des options végétariennes élaborées. Ce vin est une véritable célébration du Rhône Nord, un reflet du savoir-faire et de la passion de Xavier Gérard, marquant l'union entre tradition et modernité! Une grande cuvée disponible en quantités très limitées!",
     "price": "63,00 $",
-    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/c7e19344-b14f-6757-1e98-9d09fe7b0a78.png",
+    "image_url": null,
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=b7336dab38&e=a09c2580fc",
     "agence": "Bambara Selection",
     "disponibilite": null,
     "raw_data": {
       "name": "Xavier Gérard, Saint-Joseph Le Blanchard 2023",
-      "description": "Enfin de retour, sur un très grand millésime!! Un patrimoine précieux et l’excellence du Rhône! Vigneron emblématique du Rhône Nord, Xavier Gérard a hérité de son père un domaine exceptionnel, s'étendant de la Côte Rôtie au Condrieu, jusqu'au Saint-Joseph. Dans ces vignobles où les pentes raides imposent un travail manuel, Xavier cultive la vigne avec un souci du détail hors pair, dans le respect des traditions et de l'environnement. Le Saint-Joseph Rouge Le Blanchard provient d'un tout petit vignoble unique au terroir exceptionnel à Chavanay, au sud de Condrieu. La fermentation spontanée et l'élevage en vieux fûts demi-muids sont au cœur de la méthode de Xavier Gérard. Cette approche permet aux vins de développer une profondeur et une complexité qui reflètent fidèlement la qualité de leur terroir. Ce Saint-Joseph dévoile une robe rouge profonde, où des notes de fruits noirs se mêlent à des notes épicées et florales, soutenues par une structure délicate et une acidité bien équilibrée. Le Blanchard se distingue par son style unique, alliant fraicheur, une belle minéralité et des arômes floraux et de baies, dans une expression plus raffinée que le Saint-Joseph typique. Sa finale est à la fois élégante et persistante. Ce vin se marie parfaitement avec une variété de plats, des viandes rouges aux gibiers, et les fromages affinés. Il peut également accompagner des mets épicés ou des options végétariennes élaborées. Ce vin est une véritable célébration du Rhône Nord, un reflet du savoir-faire et de la passion de Xavier Gérard, marquant l'union entre tradition et modernité! Une grande cuvée disponible en quantités très limitées! Dans la presse!🌟 94 points, Decanter (millésime 2020)",
+      "description": "Enfin de retour, sur un très grand millésime!! Un patrimoine précieux et l’excellence du Rhône! Vigneron emblématique du Rhône Nord, Xavier Gérard a hérité de son père un domaine exceptionnel, s'étendant de la Côte Rôtie au Condrieu, jusqu'au Saint-Joseph. Dans ces vignobles où les pentes raides imposent un travail manuel, Xavier cultive la vigne avec un souci du détail hors pair, dans le respect des traditions et de l'environnement. Le Saint-Joseph Rouge Le Blanchard provient d'un tout petit vignoble unique au terroir exceptionnel à Chavanay, au sud de Condrieu. La fermentation spontanée et l'élevage en vieux fûts demi-muids sont au cœur de la méthode de Xavier Gérard. Cette approche permet aux vins de développer une profondeur et une complexité qui reflètent fidèlement la qualité de leur terroir. Ce Saint-Joseph dévoile une robe rouge profonde, où des notes de fruits noirs se mêlent à des notes épicées et florales, soutenues par une structure délicate et une acidité bien équilibrée. Le Blanchard se distingue par son style unique, alliant fraicheur, une belle minéralité et des arômes floraux et de baies, dans une expression plus raffinée que le Saint-Joseph typique. Sa finale est à la fois élégante et persistante. Ce vin se marie parfaitement avec une variété de plats, des viandes rouges aux gibiers, et les fromages affinés. Il peut également accompagner des mets épicés ou des options végétariennes élaborées. Ce vin est une véritable célébration du Rhône Nord, un reflet du savoir-faire et de la passion de Xavier Gérard, marquant l'union entre tradition et modernité! Une grande cuvée disponible en quantités très limitées!",
       "price": "63,00 $",
-      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/c7e19344-b14f-6757-1e98-9d09fe7b0a78.png",
+      "image_url": null,
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=b7336dab38&e=a09c2580fc",
       "producer": "Xavier Gérard",
       "region": "Rhône",
@@ -830,9 +832,9 @@
       "all_occurrences_raw_data": [
         {
           "name": "Xavier Gérard, Saint-Joseph Le Blanchard 2023",
-          "description": "Enfin de retour, sur un très grand millésime!! Un patrimoine précieux et l’excellence du Rhône! Vigneron emblématique du Rhône Nord, Xavier Gérard a hérité de son père un domaine exceptionnel, s'étendant de la Côte Rôtie au Condrieu, jusqu'au Saint-Joseph. Dans ces vignobles où les pentes raides imposent un travail manuel, Xavier cultive la vigne avec un souci du détail hors pair, dans le respect des traditions et de l'environnement. Le Saint-Joseph Rouge Le Blanchard provient d'un tout petit vignoble unique au terroir exceptionnel à Chavanay, au sud de Condrieu. La fermentation spontanée et l'élevage en vieux fûts demi-muids sont au cœur de la méthode de Xavier Gérard. Cette approche permet aux vins de développer une profondeur et une complexité qui reflètent fidèlement la qualité de leur terroir. Ce Saint-Joseph dévoile une robe rouge profonde, où des notes de fruits noirs se mêlent à des notes épicées et florales, soutenues par une structure délicate et une acidité bien équilibrée. Le Blanchard se distingue par son style unique, alliant fraicheur, une belle minéralité et des arômes floraux et de baies, dans une expression plus raffinée que le Saint-Joseph typique. Sa finale est à la fois élégante et persistante. Ce vin se marie parfaitement avec une variété de plats, des viandes rouges aux gibiers, et les fromages affinés. Il peut également accompagner des mets épicés ou des options végétariennes élaborées. Ce vin est une véritable célébration du Rhône Nord, un reflet du savoir-faire et de la passion de Xavier Gérard, marquant l'union entre tradition et modernité! Une grande cuvée disponible en quantités très limitées! Dans la presse!🌟 94 points, Decanter (millésime 2020)",
+          "description": "Enfin de retour, sur un très grand millésime!! Un patrimoine précieux et l’excellence du Rhône! Vigneron emblématique du Rhône Nord, Xavier Gérard a hérité de son père un domaine exceptionnel, s'étendant de la Côte Rôtie au Condrieu, jusqu'au Saint-Joseph. Dans ces vignobles où les pentes raides imposent un travail manuel, Xavier cultive la vigne avec un souci du détail hors pair, dans le respect des traditions et de l'environnement. Le Saint-Joseph Rouge Le Blanchard provient d'un tout petit vignoble unique au terroir exceptionnel à Chavanay, au sud de Condrieu. La fermentation spontanée et l'élevage en vieux fûts demi-muids sont au cœur de la méthode de Xavier Gérard. Cette approche permet aux vins de développer une profondeur et une complexité qui reflètent fidèlement la qualité de leur terroir. Ce Saint-Joseph dévoile une robe rouge profonde, où des notes de fruits noirs se mêlent à des notes épicées et florales, soutenues par une structure délicate et une acidité bien équilibrée. Le Blanchard se distingue par son style unique, alliant fraicheur, une belle minéralité et des arômes floraux et de baies, dans une expression plus raffinée que le Saint-Joseph typique. Sa finale est à la fois élégante et persistante. Ce vin se marie parfaitement avec une variété de plats, des viandes rouges aux gibiers, et les fromages affinés. Il peut également accompagner des mets épicés ou des options végétariennes élaborées. Ce vin est une véritable célébration du Rhône Nord, un reflet du savoir-faire et de la passion de Xavier Gérard, marquant l'union entre tradition et modernité! Une grande cuvée disponible en quantités très limitées!",
           "price": "63,00 $",
-          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/c7e19344-b14f-6757-1e98-9d09fe7b0a78.png",
+          "image_url": null,
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=b7336dab38&e=a09c2580fc",
           "producer": "Xavier Gérard",
           "region": "Rhône",
@@ -845,7 +847,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Saint-Joseph Rouge Le Blanchard, un chef-d'œuvre de Xavier Gérard, allie profondeur et élégance avec ses notes de fruits noirs et d'épices, offrant une minéralité raffinée et une finale persistante, véritable hommage au terroir du Rhône Nord."
+    "summary": "Saint-Joseph Rouge Le Blanchard, un chef-d'œuvre de Xavier Gérard, allie profondeur, fraîcheur et minéralité, offrant une expérience raffinée et élégante, reflet du terroir du Rhône Nord."
   },
   {
     "id": "file-2025-08-28-info-symbiose-0.html-zarate",
@@ -989,7 +991,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Château de Lavernette, un domaine familial en Bourgogne, cultive des vins authentiques en biodynamie, révélant la profondeur et l'élégance de ses terroirs granitiques et calcaires, parfaits pour les amateurs de caractère."
+    "summary": "Le Château de Lavernette, un domaine familial historique, offre des cuvées de Gamay et Chardonnay qui expriment avec précision le terroir bourguignon, alliant profondeur et élégance."
   },
   {
     "id": "file-2025-08-28-rezin-0.html-chorey",
@@ -998,7 +1000,7 @@
     "name": "Chorey",
     "description": "« Ce beau pinot de Bourgogne s’avère frais, fruité et très élégant. Élaboré dans un style classique, cet excellent Chorey plaira aux amateurs de Bourgogne aux allures davantage traditionnelles. Son nez dégage des arômes de fruits rouges, rehaussés de notes légèrement florales. Plus frais que mûr, ce très beau pinot se veut charmeur et particulièrement facile à boire. Servez ce Bourgogne moyennement corsé et équilibré, avec des grillades de volaille. Un peu cher vous direz, mais que voulez-vous, c’est la Bourgogne ! »",
     "price": null,
-    "image_url": null,
+    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/5120f82e-0f9a-0320-1a13-20414331080d.png",
     "link": null,
     "agence": "réZin",
     "disponibilite": null,
@@ -1006,7 +1008,7 @@
       "name": "Chorey",
       "description": "« Ce beau pinot de Bourgogne s’avère frais, fruité et très élégant. Élaboré dans un style classique, cet excellent Chorey plaira aux amateurs de Bourgogne aux allures davantage traditionnelles. Son nez dégage des arômes de fruits rouges, rehaussés de notes légèrement florales. Plus frais que mûr, ce très beau pinot se veut charmeur et particulièrement facile à boire. Servez ce Bourgogne moyennement corsé et équilibré, avec des grillades de volaille. Un peu cher vous direz, mais que voulez-vous, c’est la Bourgogne ! »",
       "price": null,
-      "image_url": null,
+      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/5120f82e-0f9a-0320-1a13-20414331080d.png",
       "link": null,
       "producer": null,
       "region": null,
@@ -1020,7 +1022,7 @@
           "name": "Chorey",
           "description": "« Ce beau pinot de Bourgogne s’avère frais, fruité et très élégant. Élaboré dans un style classique, cet excellent Chorey plaira aux amateurs de Bourgogne aux allures davantage traditionnelles. Son nez dégage des arômes de fruits rouges, rehaussés de notes légèrement florales. Plus frais que mûr, ce très beau pinot se veut charmeur et particulièrement facile à boire. Servez ce Bourgogne moyennement corsé et équilibré, avec des grillades de volaille. Un peu cher vous direz, mais que voulez-vous, c’est la Bourgogne ! »",
           "price": null,
-          "image_url": null,
+          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/5120f82e-0f9a-0320-1a13-20414331080d.png",
           "link": null,
           "producer": null,
           "region": null,
@@ -1032,7 +1034,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "Chorey, un Pinot de Bourgogne classique, séduit par sa fraîcheur et son élégance, avec des arômes de fruits rouges et une touche florale, parfait pour accompagner des grillades délicates."
   },
   {
     "id": "file-2025-08-28-rezin-0.html-morgon",
@@ -1076,7 +1079,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Morgon de la famille Foillard, un vin d'élite du Beaujolais, offre un profil naturel avec des arômes de cerises et d'eucalyptus, alliant fruité dodu et acidité énergique pour une expérience de dégustation réjouissante."
+    "summary": "Morgon de la famille Foillard, un vin d'élite du Beaujolais, offre un profil naturel séduisant avec des arômes de cerises et d'eucalyptus, promettant une expérience fruitée et gourmande."
   },
   {
     "id": "file-2025-08-28-rezin-0.html-manzanilla-sanlucar-de-barrameda-en-rama",
@@ -1120,14 +1123,14 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Manzanilla Sanlucar de Barrameda en Rama de Lustau, issue de vieux xérès, offre une complexité et une finesse remarquables, révélant une fraîcheur unique et une texture en bouche captivante, reflet des conditions climatiques de Sanlúcar."
+    "summary": "La Manzanilla Sanlucar de Barrameda en Rama de Lustau, issue d'assemblages de vieux xérès, offre une fraîcheur unique et une texture raffinée, reflet de l'excellence de Jerez."
   },
   {
     "id": "file-2025-08-27-vin-dame-jeanne-0.html-champagne-ludes-1er-cru-reflet-dantan-brut",
     "blockId": "file-2025-08-27-vin-dame-jeanne-0.html",
     "createdAt": "2025-08-27T00:00:00.000Z",
     "name": "Champagne, Ludes 1er cru 'Reflet d'Antan', Brut",
-    "description": "Réserve perpétuelle issue de Pierre Bérêche, transmise et mis en bouteille par Jean-Pierre Bérêche depuis 1990. Cette cuvée est le reflet du Champagne d’Antan. La famille Bérêche a souhaité protéger cette cuvée avec un format magnum, le contenant idéal et sans concession. 36 mois sur lattes. De cette cuvée se dégage des arômes mâtures et complexes de fruits confits, nougat, génoise. Nous sommes également sur des arômes tertiaires avec des notes de sous-bois et des épices. La bouche est équilibrée et assise, consistance de velours, presque chaude. Finale très longue, délicatement crayeuse et saline. L'effet magnum tiré liège boucle la boucle sur cette cuvée hautement gastronomique, poussant l'effet umami encore plus loin, et ouvrant des clés aromatiques complexes et étagées. Du grand, grand art !!",
+    "description": "Réserve perpétuelle issue de Pierre Bérêche, transmise et mis en bouteille par Jean-Pierre Bérêche depuis 1990. Cette cuvée est le reflet du Champagne d’Antan. La famille Bérêche a souhaité protéger cette cuvée avec un format magnum, le contenant idéal et sans concession. 36 mois sur lattes. De cette cuvée se dégage des arômes matures et complexes de fruits confits, nougat, génoise. Nous sommes également sur des arômes tertiaires avec des notes de sous-bois et des épices. La bouche est équilibrée et assise, consistance de velours, presque chaude. Finale très longue, délicatement crayeuse et saline. L'effet magnum tiré liège boucle la boucle sur cette cuvée hautement gastronomique, poussant l'effet umami encore plus loin, et ouvrant des clés aromatiques complexes et étagées. Du grand, grand art !!",
     "price": "1,255.50$",
     "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
     "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=60ffac18ce&e=345e10d07b",
@@ -1135,7 +1138,7 @@
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Champagne, Ludes 1er cru 'Reflet d'Antan', Brut",
-      "description": "Réserve perpétuelle issue de Pierre Bérêche, transmise et mis en bouteille par Jean-Pierre Bérêche depuis 1990. Cette cuvée est le reflet du Champagne d’Antan. La famille Bérêche a souhaité protéger cette cuvée avec un format magnum, le contenant idéal et sans concession. 36 mois sur lattes. De cette cuvée se dégage des arômes mâtures et complexes de fruits confits, nougat, génoise. Nous sommes également sur des arômes tertiaires avec des notes de sous-bois et des épices. La bouche est équilibrée et assise, consistance de velours, presque chaude. Finale très longue, délicatement crayeuse et saline. L'effet magnum tiré liège boucle la boucle sur cette cuvée hautement gastronomique, poussant l'effet umami encore plus loin, et ouvrant des clés aromatiques complexes et étagées. Du grand, grand art !!",
+      "description": "Réserve perpétuelle issue de Pierre Bérêche, transmise et mis en bouteille par Jean-Pierre Bérêche depuis 1990. Cette cuvée est le reflet du Champagne d’Antan. La famille Bérêche a souhaité protéger cette cuvée avec un format magnum, le contenant idéal et sans concession. 36 mois sur lattes. De cette cuvée se dégage des arômes matures et complexes de fruits confits, nougat, génoise. Nous sommes également sur des arômes tertiaires avec des notes de sous-bois et des épices. La bouche est équilibrée et assise, consistance de velours, presque chaude. Finale très longue, délicatement crayeuse et saline. L'effet magnum tiré liège boucle la boucle sur cette cuvée hautement gastronomique, poussant l'effet umami encore plus loin, et ouvrant des clés aromatiques complexes et étagées. Du grand, grand art !!",
       "price": "1,255.50$",
       "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
       "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=60ffac18ce&e=345e10d07b",
@@ -1149,7 +1152,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "Champagne, Ludes 1er cru 'Reflet d'Antan', Brut",
-          "description": "Réserve perpétuelle issue de Pierre Bérêche, transmise et mis en bouteille par Jean-Pierre Bérêche depuis 1990. Cette cuvée est le reflet du Champagne d’Antan. La famille Bérêche a souhaité protéger cette cuvée avec un format magnum, le contenant idéal et sans concession. 36 mois sur lattes. De cette cuvée se dégage des arômes mâtures et complexes de fruits confits, nougat, génoise. Nous sommes également sur des arômes tertiaires avec des notes de sous-bois et des épices. La bouche est équilibrée et assise, consistance de velours, presque chaude. Finale très longue, délicatement crayeuse et saline. L'effet magnum tiré liège boucle la boucle sur cette cuvée hautement gastronomique, poussant l'effet umami encore plus loin, et ouvrant des clés aromatiques complexes et étagées. Du grand, grand art !!",
+          "description": "Réserve perpétuelle issue de Pierre Bérêche, transmise et mis en bouteille par Jean-Pierre Bérêche depuis 1990. Cette cuvée est le reflet du Champagne d’Antan. La famille Bérêche a souhaité protéger cette cuvée avec un format magnum, le contenant idéal et sans concession. 36 mois sur lattes. De cette cuvée se dégage des arômes matures et complexes de fruits confits, nougat, génoise. Nous sommes également sur des arômes tertiaires avec des notes de sous-bois et des épices. La bouche est équilibrée et assise, consistance de velours, presque chaude. Finale très longue, délicatement crayeuse et saline. L'effet magnum tiré liège boucle la boucle sur cette cuvée hautement gastronomique, poussant l'effet umami encore plus loin, et ouvrant des clés aromatiques complexes et étagées. Du grand, grand art !!",
           "price": "1,255.50$",
           "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
           "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=60ffac18ce&e=345e10d07b",
@@ -1164,104 +1167,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La cuvée 'Reflet d'Antan' de Pierre Bérêche, en format magnum, incarne l'élégance du Champagne d'antan avec ses arômes complexes de fruits confits et d'épices, offrant une bouche veloutée et une finale longue et saline, un véritable chef-d'œuvre gastronomique."
-  },
-  {
-    "id": "file-2025-08-26-planvin-0.html-gargante-2022",
-    "blockId": "file-2025-08-26-planvin-0.html",
-    "createdAt": "2025-08-26T00:00:00.000Z",
-    "name": "Gargànte 2022",
-    "description": "Une bulle de soif, sur lie, refermentée en bouteille. 100 % garganega, vinifiée spontanément en cuve inox. Élevage d’environ 5 mois sur lies en cuves béton. La prise de mousse se fait naturellement en bouteille, par ajout de moût de garganega passerillé. Robe jaune paille, mousse généreuse. La bouche est fraîche, ample, portée par une trame minérale et une sapidité vibrante qui appelle la prochaine gorgée. Gargànte, c’est un vin sincère, immédiat, pensé pour la buvabilité.",
-    "price": "32,46 $",
-    "image_url": null,
-    "link": null,
-    "agence": "Planvin",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Gargànte 2022",
-      "description": "Une bulle de soif, sur lie, refermentée en bouteille. 100 % garganega, vinifiée spontanément en cuve inox. Élevage d’environ 5 mois sur lies en cuves béton. La prise de mousse se fait naturellement en bouteille, par ajout de moût de garganega passerillé. Robe jaune paille, mousse généreuse. La bouche est fraîche, ample, portée par une trame minérale et une sapidité vibrante qui appelle la prochaine gorgée. Gargànte, c’est un vin sincère, immédiat, pensé pour la buvabilité.",
-      "price": "32,46 $",
-      "image_url": null,
-      "link": null,
-      "producer": "Nevio Scala",
-      "region": "IGT Veneto",
-      "vintage": "2022",
-      "grape_varieties": [
-        "garganega"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Gargànte 2022",
-          "description": "Une bulle de soif, sur lie, refermentée en bouteille. 100 % garganega, vinifiée spontanément en cuve inox. Élevage d’environ 5 mois sur lies en cuves béton. La prise de mousse se fait naturellement en bouteille, par ajout de moût de garganega passerillé. Robe jaune paille, mousse généreuse. La bouche est fraîche, ample, portée par une trame minérale et une sapidité vibrante qui appelle la prochaine gorgée. Gargànte, c’est un vin sincère, immédiat, pensé pour la buvabilité.",
-          "price": "32,46 $",
-          "image_url": null,
-          "link": null,
-          "producer": "Nevio Scala",
-          "region": "IGT Veneto",
-          "vintage": "2022",
-          "grape_varieties": [
-            "garganega"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-26-planvin-0.html-blanko",
-    "blockId": "file-2025-08-26-planvin-0.html",
-    "createdAt": "2025-08-26T00:00:00.000Z",
-    "name": "Blanko",
-    "description": "Assemblage de garganega, malvasia istriana et moscato bianco issus de jeunes vignes. Ce vin est vinifié avec une courte macération pelliculaire et élevé uniquement en cuve béton. Le nez révèle des notes délicates de zeste de citron et de fleurs blanches. La bouche est vive et florale, offre une texture légère et désaltérante qui glisse toute seule sans jamais tomber dans l’excès.",
-    "price": "28,97 $",
-    "image_url": null,
-    "link": null,
-    "agence": "Planvin",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Blanko",
-      "description": "Assemblage de garganega, malvasia istriana et moscato bianco issus de jeunes vignes. Ce vin est vinifié avec une courte macération pelliculaire et élevé uniquement en cuve béton. Le nez révèle des notes délicates de zeste de citron et de fleurs blanches. La bouche est vive et florale, offre une texture légère et désaltérante qui glisse toute seule sans jamais tomber dans l’excès.",
-      "price": "28,97 $",
-      "image_url": null,
-      "link": null,
-      "producer": "Nevio Scala",
-      "region": "VDT",
-      "vintage": null,
-      "grape_varieties": [
-        "garganega",
-        "malvasia istriana",
-        "moscato bianco"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Blanko",
-          "description": "Assemblage de garganega, malvasia istriana et moscato bianco issus de jeunes vignes. Ce vin est vinifié avec une courte macération pelliculaire et élevé uniquement en cuve béton. Le nez révèle des notes délicates de zeste de citron et de fleurs blanches. La bouche est vive et florale, offre une texture légère et désaltérante qui glisse toute seule sans jamais tomber dans l’excès.",
-          "price": "28,97 $",
-          "image_url": null,
-          "link": null,
-          "producer": "Nevio Scala",
-          "region": "VDT",
-          "vintage": null,
-          "grape_varieties": [
-            "garganega",
-            "malvasia istriana",
-            "moscato bianco"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
+    "summary": "Champagne Ludes 1er cru 'Reflet d'Antan', en magnum, offre une expérience gastronomique avec ses arômes complexes de fruits confits et d'épices, promettant une finale longue et délicate."
   }
 ]
