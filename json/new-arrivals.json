@@ -1,5 +1,137 @@
 [
   {
+    "id": "file-2025-09-04-le-vin-dans-les-voiles-0.html-chablis-premier-cru-vaillons-2021",
+    "blockId": "file-2025-09-04-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-09-04T00:00:00.000Z",
+    "name": "Chablis Premier Cru Vaillons 2021",
+    "description": "Chablis rare, micro-lot d’exception : minéralité fossile, nez exotique, bouche ample. Séducteur discret à savourer maintenant ou à laisser révéler tout son charme dans quelques années.",
+    "price": "75.95$",
+    "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/chablis-premier-cru-vaillons-2021-domaine-gerard-duplessis-557954.jpg?v=1748151730",
+    "link": "https://ctrk.klclick.com/l/01K4AAFMCN4SW49B4109BZ238Z_12",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Chablis Premier Cru Vaillons 2021",
+      "description": "Chablis rare, micro-lot d’exception : minéralité fossile, nez exotique, bouche ample. Séducteur discret à savourer maintenant ou à laisser révéler tout son charme dans quelques années.",
+      "price": "75.95$",
+      "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/chablis-premier-cru-vaillons-2021-domaine-gerard-duplessis-557954.jpg?v=1748151730",
+      "link": "https://ctrk.klclick.com/l/01K4AAFMCN4SW49B4109BZ238Z_12",
+      "producer": null,
+      "region": null,
+      "vintage": "2021",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Chablis Premier Cru Vaillons 2021",
+          "description": "Chablis rare, micro-lot d’exception : minéralité fossile, nez exotique, bouche ample. Séducteur discret à savourer maintenant ou à laisser révéler tout son charme dans quelques années.",
+          "price": "75.95$",
+          "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/chablis-premier-cru-vaillons-2021-domaine-gerard-duplessis-557954.jpg?v=1748151730",
+          "link": "https://ctrk.klclick.com/l/01K4AAFMCN4SW49B4109BZ238Z_12",
+          "producer": null,
+          "region": null,
+          "vintage": "2021",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Le Chablis Premier Cru Vaillons 2021 est un micro-lot d'exception, alliant une minéralité fossile à des arômes exotiques et une bouche ample, séduisant dès à présent ou à savourer dans les années à venir."
+  },
+  {
+    "id": "file-2025-09-04-le-vin-dans-les-voiles-0.html-elemental-2022",
+    "blockId": "file-2025-09-04-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-09-04T00:00:00.000Z",
+    "name": "Elemental 2022",
+    "description": "Pétillant naturel catalan : vif, droit, salin et fruité. Parfait pour prolonger les soirées, éclater de rire et savourer chaque instant comme si le temps s’arrêtait.",
+    "price": "35.95$",
+    "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/elemental-2020-vinyes-singulars-295670.jpg?v=1719294996",
+    "link": "https://ctrk.klclick.com/l/01K4AAFMCN4SW49B4109BZ238Z_14",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Elemental 2022",
+      "description": "Pétillant naturel catalan : vif, droit, salin et fruité. Parfait pour prolonger les soirées, éclater de rire et savourer chaque instant comme si le temps s’arrêtait.",
+      "price": "35.95$",
+      "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/elemental-2020-vinyes-singulars-295670.jpg?v=1719294996",
+      "link": "https://ctrk.klclick.com/l/01K4AAFMCN4SW49B4109BZ238Z_14",
+      "producer": null,
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Elemental 2022",
+          "description": "Pétillant naturel catalan : vif, droit, salin et fruité. Parfait pour prolonger les soirées, éclater de rire et savourer chaque instant comme si le temps s’arrêtait.",
+          "price": "35.95$",
+          "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/elemental-2020-vinyes-singulars-295670.jpg?v=1719294996",
+          "link": "https://ctrk.klclick.com/l/01K4AAFMCN4SW49B4109BZ238Z_14",
+          "producer": null,
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Elemental 2022 est un pétillant naturel catalan, vif et salin, qui invite à prolonger les soirées avec sa fraîcheur fruitée et son esprit joyeux."
+  },
+  {
+    "id": "file-2025-09-04-le-vin-dans-les-voiles-0.html-o-passaro-solto-blanc-2024",
+    "blockId": "file-2025-09-04-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-09-04T00:00:00.000Z",
+    "name": "O Pàssaro Solto blanc 2024",
+    "description": "Direct du Portugal, sec et élégant, ce délicieux blanc libère fraîcheur et vivacité. Minéral et lumineux, parfait pour illuminer toutes occasions, toute l’année.",
+    "price": "22.95$",
+    "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/o-passaro-solto-blanc-quinta-vale-de-pios.jpg?v=1754931403",
+    "link": "https://ctrk.klclick.com/l/01K4AAFMCN4SW49B4109BZ238Z_16",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "O Pàssaro Solto blanc 2024",
+      "description": "Direct du Portugal, sec et élégant, ce délicieux blanc libère fraîcheur et vivacité. Minéral et lumineux, parfait pour illuminer toutes occasions, toute l’année.",
+      "price": "22.95$",
+      "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/o-passaro-solto-blanc-quinta-vale-de-pios.jpg?v=1754931403",
+      "link": "https://ctrk.klclick.com/l/01K4AAFMCN4SW49B4109BZ238Z_16",
+      "producer": null,
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "O Pàssaro Solto blanc 2024",
+          "description": "Direct du Portugal, sec et élégant, ce délicieux blanc libère fraîcheur et vivacité. Minéral et lumineux, parfait pour illuminer toutes occasions, toute l’année.",
+          "price": "22.95$",
+          "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/o-passaro-solto-blanc-quinta-vale-de-pios.jpg?v=1754931403",
+          "link": "https://ctrk.klclick.com/l/01K4AAFMCN4SW49B4109BZ238Z_16",
+          "producer": null,
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "O Pàssaro Solto blanc 2024, un vin portugais sec et élégant, offre une fraîcheur minérale et lumineuse, idéal pour élever chaque moment de l'année."
+  },
+  {
     "id": "file-2025-09-02-grand-cellier-0.html-taburno-falanghina-del-sannio-dop",
     "blockId": "file-2025-09-02-grand-cellier-0.html",
     "createdAt": "2025-09-02T00:00:00.000Z",
@@ -361,7 +493,7 @@
       "image_url": null,
       "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=29f3754321&e=6b5a89dd4d",
       "producer": null,
-      "region": null,
+      "region": "Italie",
       "vintage": null,
       "grape_varieties": null,
       "alcohol_content": null,
@@ -375,7 +507,7 @@
           "image_url": null,
           "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=29f3754321&e=6b5a89dd4d",
           "producer": null,
-          "region": null,
+          "region": "Italie",
           "vintage": null,
           "grape_varieties": null,
           "alcohol_content": null,
@@ -404,7 +536,7 @@
       "image_url": null,
       "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=e9410ea8b0&e=6b5a89dd4d",
       "producer": null,
-      "region": null,
+      "region": "Italie",
       "vintage": null,
       "grape_varieties": null,
       "alcohol_content": null,
@@ -418,7 +550,7 @@
           "image_url": null,
           "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=e9410ea8b0&e=6b5a89dd4d",
           "producer": null,
-          "region": null,
+          "region": "Italie",
           "vintage": null,
           "grape_varieties": null,
           "alcohol_content": null,
@@ -447,7 +579,7 @@
       "image_url": null,
       "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=d1bc9b8236&e=6b5a89dd4d",
       "producer": null,
-      "region": null,
+      "region": "France",
       "vintage": null,
       "grape_varieties": null,
       "alcohol_content": null,
@@ -461,7 +593,7 @@
           "image_url": null,
           "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=d1bc9b8236&e=6b5a89dd4d",
           "producer": null,
-          "region": null,
+          "region": "France",
           "vintage": null,
           "grape_varieties": null,
           "alcohol_content": null,
@@ -514,7 +646,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Mariole 2022, un rouge ensoleillé du sud, séduit par ses arômes de fruits noirs, une touche de cuir et une finale poivrée irrésistible, parfait pour accompagner des mets savoureux lors de moments conviviaux."
+    "summary": "La Mariole 2022 est un rouge ensoleillé du sud, révélant des arômes de fruits noirs, une touche de cuir et une finale poivrée, parfait pour accompagner des moments conviviaux autour d’un BBQ."
   },
   {
     "id": "file-2025-08-30-le-vin-dans-les-voiles-0.html-excomungado-2021",
@@ -558,7 +690,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Excomungado 2021 offre une expérience rafraîchissante du Douro, avec une concentration de saveurs et une légèreté séduisante, grâce à un élevage en cuve d'acier inoxydable qui préserve son croquant naturel."
+    "summary": "Excomungado 2021 du Douro se démarque par son élevage en cuve inox, offrant une fraîcheur et un croquant irrésistibles, tout en conservant une concentration légère et fluide, idéal pour les repas festifs à partager."
   },
   {
     "id": "file-2025-08-30-le-vin-dans-les-voiles-0.html-livia-2022",
@@ -602,7 +734,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Livia 2022, un blanc de Samos, allie profondeur et élégance avec ses notes de Muscat salin et minéral, offrant une finale gourmande qui se révèle pleinement après carafage, parfait pour des repas conviviaux."
+    "summary": "Livia 2022, un Muscat de Samos, séduit par sa profondeur, son élégance et sa finale gourmande, révélant toute sa complexité lorsqu'il est carafé, parfait pour des repas conviviaux et prolongés."
   },
   {
     "id": "file-2025-08-30-le-vin-dans-les-voiles-0.html-chablis-2022",
@@ -646,7 +778,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Chablis Duplessis 2022, issu de parcelles prestigieuses, incarne l’élégance bourguignonne avec ses notes florales et minérales, promettant un beau potentiel de garde et une harmonie parfaite avec les fruits de mer."
+    "summary": "Chablis Duplessis 2022, issu de parcelles face au Premier Cru Vaillons, est un vin floral et minéral, incarnant l'élégance bourguignonne avec un potentiel de garde remarquable, parfait pour les moments raffinés."
   },
   {
     "id": "file-2025-08-29-noble-selection-0.html-pirate-of-cocoa-hill-2022",
@@ -658,7 +790,7 @@
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_dornier-face-croped.png",
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5f06566fcb&e=2c9a262afa",
     "agence": "Noble Sélection",
-    "disponibilite": "SAQ",
+    "disponibilite": null,
     "raw_data": {
       "name": "Pirate of Cocoa Hill 2022",
       "description": "The Cocoa Hill Red 2022 est issu de vignes cultivées sur les sols granitiques décomposés de Cocoa Hill, une colline nichée au cœur des replis de la montagne de Stellenbosch. Les vignes bénéficient d'une grande exposition au soleil, ce qui permet aux raisins d'atteindre leur plein potentiel et de faire ressortir la richesse aromatique de chacun des cépages.",
@@ -676,7 +808,7 @@
       ],
       "alcohol_content": "14%",
       "volume": null,
-      "disponibilite": "SAQ",
+      "disponibilite": null,
       "all_occurrences_raw_data": [
         {
           "name": "Pirate of Cocoa Hill 2022",
@@ -695,12 +827,12 @@
           ],
           "alcohol_content": "14%",
           "volume": null,
-          "disponibilite": "SAQ"
+          "disponibilite": null
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Cocoa Hill Red 2022, cultivé sur des sols granitiques ensoleillés de Stellenbosch, révèle une richesse aromatique exceptionnelle, reflet du terroir unique et des cépages soigneusement sélectionnés."
+    "summary": "Pirate of Cocoa Hill 2022, cultivé sur les sols granitiques de Stellenbosch, révèle une richesse aromatique exceptionnelle grâce à l'exposition ensoleillée de ses vignes, offrant une expérience sensorielle unique."
   },
   {
     "id": "file-2025-08-29-noble-selection-0.html-bottega-white-gold",
@@ -1088,7 +1220,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Riesling 2023 de Côte de Rouffach, délicat et soyeux, révèle une belle tension et une salinité séduisante, issu de vignes biodynamiques de 45 ans et élevé sur lies fines pour une complexité remarquable."
+    "summary": "Le Riesling 2023 de Côte de Rouffach, délicat et soyeux, est issu de vignes biodynamiques de 45 ans, offrant une expérience complètement sèche, tendue et salivante, une véritable belle bouteille."
   },
   {
     "id": "file-2025-08-29-vin-dame-jeanne-0.html-riesling-grand-cru-vorbourg-clos-saint-landelin",
@@ -1132,470 +1264,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Riesling Grand Cru Vorbourg, Clos Saint Landelin, offre une puissance surprenante et une vivacité crayeuse, avec une concentration exceptionnelle et une acidité citronnée, promettant un potentiel de garde impressionnant."
-  },
-  {
-    "id": "file-2025-08-28-bambara-selection-0.html-pastis-de-la-plaine",
-    "blockId": "file-2025-08-28-bambara-selection-0.html",
-    "createdAt": "2025-08-28T00:00:00.000Z",
-    "name": "Pastis de la Plaine",
-    "description": "Jusqu’ici, nous avions proposé différents spiritueux artisanaux en importation privée. Aujourd’hui, une nouvelle étape s’ouvre avec la Distillerie de la Plaine : notre tout premier pastis, et pas n’importe lequel — le seul pastis bio sur les tablettes!!🌱 En exclusivité en ligne sur SAQ.com maintenant! Voici le tout premier pastis de notre gamme, et il porte haut les couleurs de Marseille! Conçu en petite série par Guillaume Strebler fondateur de la Distillerie de la Plaine, ce pastis est avant tout une histoire d’artisanat et de conviction. Pas d’artifice, pas de compromis : uniquement des ingrédients bio et des plantes sélectionnées à la mythique Herboristerie du Père Blaize, une véritable institution marseillaise depuis 1815. Le résultat est un pastis d’une qualité incomparable, qui sort clairement du lot! L’anis étoilé et la réglisse posent les bases, fidèles aux traditions, mais c’est le fenouil de Provence qui fait toute la différence. Une touche inattendue qui apporte fraîcheur, relief et une personnalité unique. Ce n’est ni un simple anisé, ni une copie des standards industriels : c’est un pastis radicalement marseillais, mais avec une signature audacieuse bien à lui. En bouche, on retrouve un équilibre parfait : l’intensité aromatique de l’anis, la rondeur de la réglisse, la vivacité du fenouil. La robe blanche une fois diluée annonce un profil fin, net et franc, qui séduit aussi bien les amoureux de longue date que les curieux prêts à redécouvrir l’anisé autrement. Un pastis de caractère, artisanal, biologique et méditerranéen. Conseil de service : versez une part de Pastis de la Plaine dans un grand verre, et ajoutez cinq parts d’eau et 2 glaçons. Rien de plus, rien de moins. L’authentique rituel marseillais! À déguster en apéritif bien sûr, mais aussi à table avec des poissons grillés, une cuisine méditerranéenne ensoleillée ou même quelques fromages frais. Sans oublier les moments conviviaux : au soleil, en jouant à la pétanque ou lors d’un dimanche entre amis au chalet – exactement comme il se doit à Marseille ! Une première qui ne laisse personne indifférent, et qui a tout pour devenir un nouveau classique! Attention, les quantités sont très limitées!! Santé!!",
-    "price": "67,75 $",
-    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/_compresseds/0bff07fa-e59d-3b48-47f6-33e91e4d7ff3.jpg",
-    "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=cd7bd0e3f7&e=a09c2580fc",
-    "agence": "Bambara Selection",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Pastis de la Plaine",
-      "description": "Jusqu’ici, nous avions proposé différents spiritueux artisanaux en importation privée. Aujourd’hui, une nouvelle étape s’ouvre avec la Distillerie de la Plaine : notre tout premier pastis, et pas n’importe lequel — le seul pastis bio sur les tablettes!!🌱 En exclusivité en ligne sur SAQ.com maintenant! Voici le tout premier pastis de notre gamme, et il porte haut les couleurs de Marseille! Conçu en petite série par Guillaume Strebler fondateur de la Distillerie de la Plaine, ce pastis est avant tout une histoire d’artisanat et de conviction. Pas d’artifice, pas de compromis : uniquement des ingrédients bio et des plantes sélectionnées à la mythique Herboristerie du Père Blaize, une véritable institution marseillaise depuis 1815. Le résultat est un pastis d’une qualité incomparable, qui sort clairement du lot! L’anis étoilé et la réglisse posent les bases, fidèles aux traditions, mais c’est le fenouil de Provence qui fait toute la différence. Une touche inattendue qui apporte fraîcheur, relief et une personnalité unique. Ce n’est ni un simple anisé, ni une copie des standards industriels : c’est un pastis radicalement marseillais, mais avec une signature audacieuse bien à lui. En bouche, on retrouve un équilibre parfait : l’intensité aromatique de l’anis, la rondeur de la réglisse, la vivacité du fenouil. La robe blanche une fois diluée annonce un profil fin, net et franc, qui séduit aussi bien les amoureux de longue date que les curieux prêts à redécouvrir l’anisé autrement. Un pastis de caractère, artisanal, biologique et méditerranéen. Conseil de service : versez une part de Pastis de la Plaine dans un grand verre, et ajoutez cinq parts d’eau et 2 glaçons. Rien de plus, rien de moins. L’authentique rituel marseillais! À déguster en apéritif bien sûr, mais aussi à table avec des poissons grillés, une cuisine méditerranéenne ensoleillée ou même quelques fromages frais. Sans oublier les moments conviviaux : au soleil, en jouant à la pétanque ou lors d’un dimanche entre amis au chalet – exactement comme il se doit à Marseille ! Une première qui ne laisse personne indifférent, et qui a tout pour devenir un nouveau classique! Attention, les quantités sont très limitées!! Santé!!",
-      "price": "67,75 $",
-      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/_compresseds/0bff07fa-e59d-3b48-47f6-33e91e4d7ff3.jpg",
-      "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=cd7bd0e3f7&e=a09c2580fc",
-      "producer": "Distillerie de la Plaine",
-      "region": "Marseille",
-      "vintage": null,
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Pastis de la Plaine",
-          "description": "Jusqu’ici, nous avions proposé différents spiritueux artisanaux en importation privée. Aujourd’hui, une nouvelle étape s’ouvre avec la Distillerie de la Plaine : notre tout premier pastis, et pas n’importe lequel — le seul pastis bio sur les tablettes!!🌱 En exclusivité en ligne sur SAQ.com maintenant! Voici le tout premier pastis de notre gamme, et il porte haut les couleurs de Marseille! Conçu en petite série par Guillaume Strebler fondateur de la Distillerie de la Plaine, ce pastis est avant tout une histoire d’artisanat et de conviction. Pas d’artifice, pas de compromis : uniquement des ingrédients bio et des plantes sélectionnées à la mythique Herboristerie du Père Blaize, une véritable institution marseillaise depuis 1815. Le résultat est un pastis d’une qualité incomparable, qui sort clairement du lot! L’anis étoilé et la réglisse posent les bases, fidèles aux traditions, mais c’est le fenouil de Provence qui fait toute la différence. Une touche inattendue qui apporte fraîcheur, relief et une personnalité unique. Ce n’est ni un simple anisé, ni une copie des standards industriels : c’est un pastis radicalement marseillais, mais avec une signature audacieuse bien à lui. En bouche, on retrouve un équilibre parfait : l’intensité aromatique de l’anis, la rondeur de la réglisse, la vivacité du fenouil. La robe blanche une fois diluée annonce un profil fin, net et franc, qui séduit aussi bien les amoureux de longue date que les curieux prêts à redécouvrir l’anisé autrement. Un pastis de caractère, artisanal, biologique et méditerranéen. Conseil de service : versez une part de Pastis de la Plaine dans un grand verre, et ajoutez cinq parts d’eau et 2 glaçons. Rien de plus, rien de moins. L’authentique rituel marseillais! À déguster en apéritif bien sûr, mais aussi à table avec des poissons grillés, une cuisine méditerranéenne ensoleillée ou même quelques fromages frais. Sans oublier les moments conviviaux : au soleil, en jouant à la pétanque ou lors d’un dimanche entre amis au chalet – exactement comme il se doit à Marseille ! Une première qui ne laisse personne indifférent, et qui a tout pour devenir un nouveau classique! Attention, les quantités sont très limitées!! Santé!!",
-          "price": "67,75 $",
-          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/_compresseds/0bff07fa-e59d-3b48-47f6-33e91e4d7ff3.jpg",
-          "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=cd7bd0e3f7&e=a09c2580fc",
-          "producer": "Distillerie de la Plaine",
-          "region": "Marseille",
-          "vintage": null,
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Pastis de la Plaine, premier pastis bio de Marseille, marie l’anis étoilé et la réglisse avec une touche de fenouil provençal, offrant une expérience artisanale unique et méditerranéenne, à savourer lors de moments conviviaux."
-  },
-  {
-    "id": "file-2025-08-28-bambara-selection-0.html-gulfi-valcanzjria-2023",
-    "blockId": "file-2025-08-28-bambara-selection-0.html",
-    "createdAt": "2025-08-28T00:00:00.000Z",
-    "name": "Gulfi, Valcanzjria 2023",
-    "description": "Valcanzjria, le premier vin blanc de Gulfi à la SAQ, est enfin de retour! Valcanjzria est un assemblage de chardonnay et de carricante, ce dernier étant un cépage autochtone à la Sicile. Situé à 400 mètres d’altitude sur des sols calcaires, le vignoble biologique et non irrigué subit de grandes variations climatiques entre le jour et la nuit ce qui encourage le développement optimal des arômes et le maintien d’un taux d’acidité élevé. Le chardonnay donne une richesse aromatique au vin et apporte de la rondeur et le carricante apporte une belle acidité et de la complexité; il est en quelque sorte la colonne vertébrale qui permet au vin d’évoluer au fil du temps et de conserver sa fraîcheur et son intensité aromatique. Cette cuvée dévoile un profil aromatique de pomme, melon et fruits tropicaux délicats, auquel se greffent l’amande et le miel. En bouche, le vin dévoile toute sa personnalité avec un équilibre remarquable entre la richesse du fruit et la matière saline. Le vin ne fait aucun passage en bois afin de laisser transparaître toute la pureté des cépages et du terroir. Cette cuvée s'accordera parfaitement aux crustacés tels que le crabe et les crevettes, au poisson, au risotto et aux plats frais de légumes! Santé!",
-    "price": "31,00 $",
-    "image_url": null,
-    "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=45a309f128&e=a09c2580fc",
-    "agence": "Bambara Selection",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Gulfi, Valcanzjria 2023",
-      "description": "Valcanzjria, le premier vin blanc de Gulfi à la SAQ, est enfin de retour! Valcanjzria est un assemblage de chardonnay et de carricante, ce dernier étant un cépage autochtone à la Sicile. Situé à 400 mètres d’altitude sur des sols calcaires, le vignoble biologique et non irrigué subit de grandes variations climatiques entre le jour et la nuit ce qui encourage le développement optimal des arômes et le maintien d’un taux d’acidité élevé. Le chardonnay donne une richesse aromatique au vin et apporte de la rondeur et le carricante apporte une belle acidité et de la complexité; il est en quelque sorte la colonne vertébrale qui permet au vin d’évoluer au fil du temps et de conserver sa fraîcheur et son intensité aromatique. Cette cuvée dévoile un profil aromatique de pomme, melon et fruits tropicaux délicats, auquel se greffent l’amande et le miel. En bouche, le vin dévoile toute sa personnalité avec un équilibre remarquable entre la richesse du fruit et la matière saline. Le vin ne fait aucun passage en bois afin de laisser transparaître toute la pureté des cépages et du terroir. Cette cuvée s'accordera parfaitement aux crustacés tels que le crabe et les crevettes, au poisson, au risotto et aux plats frais de légumes! Santé!",
-      "price": "31,00 $",
-      "image_url": null,
-      "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=45a309f128&e=a09c2580fc",
-      "producer": "Gulfi",
-      "region": "Sicile",
-      "vintage": "2023",
-      "grape_varieties": [
-        "Chardonnay",
-        "Carricante"
-      ],
-      "alcohol_content": "Biologique",
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Gulfi, Valcanzjria 2023",
-          "description": "Valcanzjria, le premier vin blanc de Gulfi à la SAQ, est enfin de retour! Valcanjzria est un assemblage de chardonnay et de carricante, ce dernier étant un cépage autochtone à la Sicile. Situé à 400 mètres d’altitude sur des sols calcaires, le vignoble biologique et non irrigué subit de grandes variations climatiques entre le jour et la nuit ce qui encourage le développement optimal des arômes et le maintien d’un taux d’acidité élevé. Le chardonnay donne une richesse aromatique au vin et apporte de la rondeur et le carricante apporte une belle acidité et de la complexité; il est en quelque sorte la colonne vertébrale qui permet au vin d’évoluer au fil du temps et de conserver sa fraîcheur et son intensité aromatique. Cette cuvée dévoile un profil aromatique de pomme, melon et fruits tropicaux délicats, auquel se greffent l’amande et le miel. En bouche, le vin dévoile toute sa personnalité avec un équilibre remarquable entre la richesse du fruit et la matière saline. Le vin ne fait aucun passage en bois afin de laisser transparaître toute la pureté des cépages et du terroir. Cette cuvée s'accordera parfaitement aux crustacés tels que le crabe et les crevettes, au poisson, au risotto et aux plats frais de légumes! Santé!",
-          "price": "31,00 $",
-          "image_url": null,
-          "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=45a309f128&e=a09c2580fc",
-          "producer": "Gulfi",
-          "region": "Sicile",
-          "vintage": "2023",
-          "grape_varieties": [
-            "Chardonnay",
-            "Carricante"
-          ],
-          "alcohol_content": "Biologique",
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Valcanzjria, un assemblage de Chardonnay et de Carricante, révèle un équilibre remarquable entre richesse aromatique et salinité, avec des notes de pomme, melon et fruits tropicaux, offrant une pureté exceptionnelle sans passage en bois."
-  },
-  {
-    "id": "file-2025-08-28-bambara-selection-0.html-paso-a-paso-criollas-clarete-2024",
-    "blockId": "file-2025-08-28-bambara-selection-0.html",
-    "createdAt": "2025-08-28T00:00:00.000Z",
-    "name": "Paso a Paso, Criollas Clarete 2024",
-    "description": "Un vin unique à découvrir, en exclusivité SAQ.com dès maintenant!! Découvrez le Clarete de Paso a Paso, une nouvelle expression du Clarete, ce vin argentin entre un rosé et un rouge léger, typique et rafraîchissant, élaboré à partir de cépages autochtones Criollas! Ce vin est l'incarnation parfaite du style authentique et traditionnel apprécié par plusieurs générations d'Argentins dans leur vie quotidienne. Ce Clarete, majoritairement composé de Criolla rouge avec une touche de Criolla blanc, est issu de vieilles vignes de 80 ans cultivées sans pesticides dans un sol argileux profond. Le pressurage doux préserve l'intégrité des baies, suivi d'une fermentation spontanée en cuves inox avec des levures indigènes. Une petite partie subit une fermentation malolactique. Sans ajout de sulfites ni filtration, ce vin n'est pas vieilli en fûts de bois pour conserver sa fraîcheur caractéristique, offrant un Clarete doux et facile à boire. Les notes de dégustation révèlent un vin sur le fruit, avec des arômes floraux et minéraux. En bouche, il se distingue par sa superbe fraîcheur, une acidité équilibrée et une belle intensité. À servir bien frais, ce vin unique est idéal pour être savouré au bord de la piscine par une journée ensoleillée! Il s'accorde parfaitement avec une salade de roquette, de la betterave, avec des poissons ainsi qu'avec des fruits de mer et une paella. Une superbe découverte au prix doux!! Dans la presse!🌟 Vin de la semaine, La Presse (29/07/2023)",
-    "price": "20,05 $",
-    "image_url": null,
-    "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=6c7d679ff0&e=a09c2580fc",
-    "agence": "Bambara Selection",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Paso a Paso, Criollas Clarete 2024",
-      "description": "Un vin unique à découvrir, en exclusivité SAQ.com dès maintenant!! Découvrez le Clarete de Paso a Paso, une nouvelle expression du Clarete, ce vin argentin entre un rosé et un rouge léger, typique et rafraîchissant, élaboré à partir de cépages autochtones Criollas! Ce vin est l'incarnation parfaite du style authentique et traditionnel apprécié par plusieurs générations d'Argentins dans leur vie quotidienne. Ce Clarete, majoritairement composé de Criolla rouge avec une touche de Criolla blanc, est issu de vieilles vignes de 80 ans cultivées sans pesticides dans un sol argileux profond. Le pressurage doux préserve l'intégrité des baies, suivi d'une fermentation spontanée en cuves inox avec des levures indigènes. Une petite partie subit une fermentation malolactique. Sans ajout de sulfites ni filtration, ce vin n'est pas vieilli en fûts de bois pour conserver sa fraîcheur caractéristique, offrant un Clarete doux et facile à boire. Les notes de dégustation révèlent un vin sur le fruit, avec des arômes floraux et minéraux. En bouche, il se distingue par sa superbe fraîcheur, une acidité équilibrée et une belle intensité. À servir bien frais, ce vin unique est idéal pour être savouré au bord de la piscine par une journée ensoleillée! Il s'accorde parfaitement avec une salade de roquette, de la betterave, avec des poissons ainsi qu'avec des fruits de mer et une paella. Une superbe découverte au prix doux!! Dans la presse!🌟 Vin de la semaine, La Presse (29/07/2023)",
-      "price": "20,05 $",
-      "image_url": null,
-      "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=6c7d679ff0&e=a09c2580fc",
-      "producer": "Paso a Paso",
-      "region": "Argentine",
-      "vintage": "2024",
-      "grape_varieties": [
-        "Criolla rouge",
-        "Criolla blanc"
-      ],
-      "alcohol_content": "Nature",
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Paso a Paso, Criollas Clarete 2024",
-          "description": "Un vin unique à découvrir, en exclusivité SAQ.com dès maintenant!! Découvrez le Clarete de Paso a Paso, une nouvelle expression du Clarete, ce vin argentin entre un rosé et un rouge léger, typique et rafraîchissant, élaboré à partir de cépages autochtones Criollas! Ce vin est l'incarnation parfaite du style authentique et traditionnel apprécié par plusieurs générations d'Argentins dans leur vie quotidienne. Ce Clarete, majoritairement composé de Criolla rouge avec une touche de Criolla blanc, est issu de vieilles vignes de 80 ans cultivées sans pesticides dans un sol argileux profond. Le pressurage doux préserve l'intégrité des baies, suivi d'une fermentation spontanée en cuves inox avec des levures indigènes. Une petite partie subit une fermentation malolactique. Sans ajout de sulfites ni filtration, ce vin n'est pas vieilli en fûts de bois pour conserver sa fraîcheur caractéristique, offrant un Clarete doux et facile à boire. Les notes de dégustation révèlent un vin sur le fruit, avec des arômes floraux et minéraux. En bouche, il se distingue par sa superbe fraîcheur, une acidité équilibrée et une belle intensité. À servir bien frais, ce vin unique est idéal pour être savouré au bord de la piscine par une journée ensoleillée! Il s'accorde parfaitement avec une salade de roquette, de la betterave, avec des poissons ainsi qu'avec des fruits de mer et une paella. Une superbe découverte au prix doux!! Dans la presse!🌟 Vin de la semaine, La Presse (29/07/2023)",
-          "price": "20,05 $",
-          "image_url": null,
-          "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=6c7d679ff0&e=a09c2580fc",
-          "producer": "Paso a Paso",
-          "region": "Argentine",
-          "vintage": "2024",
-          "grape_varieties": [
-            "Criolla rouge",
-            "Criolla blanc"
-          ],
-          "alcohol_content": "Nature",
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Clarete de Paso a Paso, un vin argentin entre rosé et rouge léger, offre une fraîcheur éclatante et des arômes floraux, élaboré à partir de vieilles vignes de Criollas, parfait pour les journées ensoleillées au bord de la piscine."
-  },
-  {
-    "id": "file-2025-08-28-bambara-selection-0.html-xavier-gerard-saint-joseph-le-blanchard-2023",
-    "blockId": "file-2025-08-28-bambara-selection-0.html",
-    "createdAt": "2025-08-28T00:00:00.000Z",
-    "name": "Xavier Gérard, Saint-Joseph Le Blanchard 2023",
-    "description": "Enfin de retour, sur un très grand millésime!! Un patrimoine précieux et l’excellence du Rhône! Vigneron emblématique du Rhône Nord, Xavier Gérard a hérité de son père un domaine exceptionnel, s'étendant de la Côte Rôtie au Condrieu, jusqu'au Saint-Joseph. Dans ces vignobles où les pentes raides imposent un travail manuel, Xavier cultive la vigne avec un souci du détail hors pair, dans le respect des traditions et de l'environnement. Le Saint-Joseph Rouge Le Blanchard provient d'un tout petit vignoble unique au terroir exceptionnel à Chavanay, au sud de Condrieu. La fermentation spontanée et l'élevage en vieux fûts demi-muids sont au cœur de la méthode de Xavier Gérard. Cette approche permet aux vins de développer une profondeur et une complexité qui reflètent fidèlement la qualité de leur terroir. Ce Saint-Joseph dévoile une robe rouge profonde, où des notes de fruits noirs se mêlent à des notes épicées et florales, soutenues par une structure délicate et une acidité bien équilibrée. Le Blanchard se distingue par son style unique, alliant fraicheur, une belle minéralité et des arômes floraux et de baies, dans une expression plus raffinée que le Saint-Joseph typique. Sa finale est à la fois élégante et persistante. Ce vin se marie parfaitement avec une variété de plats, des viandes rouges aux gibiers, et les fromages affinés. Il peut également accompagner des mets épicés ou des options végétariennes élaborées. Ce vin est une véritable célébration du Rhône Nord, un reflet du savoir-faire et de la passion de Xavier Gérard, marquant l'union entre tradition et modernité! Une grande cuvée disponible en quantités très limitées! Dans la presse!🌟 94 points, Decanter (millésime 2020)",
-    "price": "63,00 $",
-    "image_url": null,
-    "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=b7336dab38&e=a09c2580fc",
-    "agence": "Bambara Selection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Xavier Gérard, Saint-Joseph Le Blanchard 2023",
-      "description": "Enfin de retour, sur un très grand millésime!! Un patrimoine précieux et l’excellence du Rhône! Vigneron emblématique du Rhône Nord, Xavier Gérard a hérité de son père un domaine exceptionnel, s'étendant de la Côte Rôtie au Condrieu, jusqu'au Saint-Joseph. Dans ces vignobles où les pentes raides imposent un travail manuel, Xavier cultive la vigne avec un souci du détail hors pair, dans le respect des traditions et de l'environnement. Le Saint-Joseph Rouge Le Blanchard provient d'un tout petit vignoble unique au terroir exceptionnel à Chavanay, au sud de Condrieu. La fermentation spontanée et l'élevage en vieux fûts demi-muids sont au cœur de la méthode de Xavier Gérard. Cette approche permet aux vins de développer une profondeur et une complexité qui reflètent fidèlement la qualité de leur terroir. Ce Saint-Joseph dévoile une robe rouge profonde, où des notes de fruits noirs se mêlent à des notes épicées et florales, soutenues par une structure délicate et une acidité bien équilibrée. Le Blanchard se distingue par son style unique, alliant fraicheur, une belle minéralité et des arômes floraux et de baies, dans une expression plus raffinée que le Saint-Joseph typique. Sa finale est à la fois élégante et persistante. Ce vin se marie parfaitement avec une variété de plats, des viandes rouges aux gibiers, et les fromages affinés. Il peut également accompagner des mets épicés ou des options végétariennes élaborées. Ce vin est une véritable célébration du Rhône Nord, un reflet du savoir-faire et de la passion de Xavier Gérard, marquant l'union entre tradition et modernité! Une grande cuvée disponible en quantités très limitées! Dans la presse!🌟 94 points, Decanter (millésime 2020)",
-      "price": "63,00 $",
-      "image_url": null,
-      "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=b7336dab38&e=a09c2580fc",
-      "producer": "Xavier Gérard",
-      "region": "Rhône",
-      "vintage": "2023",
-      "grape_varieties": null,
-      "alcohol_content": "Biologique",
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Xavier Gérard, Saint-Joseph Le Blanchard 2023",
-          "description": "Enfin de retour, sur un très grand millésime!! Un patrimoine précieux et l’excellence du Rhône! Vigneron emblématique du Rhône Nord, Xavier Gérard a hérité de son père un domaine exceptionnel, s'étendant de la Côte Rôtie au Condrieu, jusqu'au Saint-Joseph. Dans ces vignobles où les pentes raides imposent un travail manuel, Xavier cultive la vigne avec un souci du détail hors pair, dans le respect des traditions et de l'environnement. Le Saint-Joseph Rouge Le Blanchard provient d'un tout petit vignoble unique au terroir exceptionnel à Chavanay, au sud de Condrieu. La fermentation spontanée et l'élevage en vieux fûts demi-muids sont au cœur de la méthode de Xavier Gérard. Cette approche permet aux vins de développer une profondeur et une complexité qui reflètent fidèlement la qualité de leur terroir. Ce Saint-Joseph dévoile une robe rouge profonde, où des notes de fruits noirs se mêlent à des notes épicées et florales, soutenues par une structure délicate et une acidité bien équilibrée. Le Blanchard se distingue par son style unique, alliant fraicheur, une belle minéralité et des arômes floraux et de baies, dans une expression plus raffinée que le Saint-Joseph typique. Sa finale est à la fois élégante et persistante. Ce vin se marie parfaitement avec une variété de plats, des viandes rouges aux gibiers, et les fromages affinés. Il peut également accompagner des mets épicés ou des options végétariennes élaborées. Ce vin est une véritable célébration du Rhône Nord, un reflet du savoir-faire et de la passion de Xavier Gérard, marquant l'union entre tradition et modernité! Une grande cuvée disponible en quantités très limitées! Dans la presse!🌟 94 points, Decanter (millésime 2020)",
-          "price": "63,00 $",
-          "image_url": null,
-          "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=b7336dab38&e=a09c2580fc",
-          "producer": "Xavier Gérard",
-          "region": "Rhône",
-          "vintage": "2023",
-          "grape_varieties": null,
-          "alcohol_content": "Biologique",
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Saint-Joseph Rouge Le Blanchard de Xavier Gérard, issu d'un vignoble exceptionnel, dévoile une profondeur et une complexité remarquables, avec des notes de fruits noirs et une finale élégante, célébrant l'excellence du Rhône Nord."
-  },
-  {
-    "id": "file-2025-08-28-info-symbiose-0.html-zarate",
-    "blockId": "file-2025-08-28-info-symbiose-0.html",
-    "createdAt": "2025-08-28T00:00:00.000Z",
-    "name": "Zarate",
-    "description": "Albarino\nL'Espagne Verte — Espagne",
-    "price": "27,75 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/3/13529202-1_1578537016.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1190290&idl=1525&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=6wOZAbKLmJhEAArVOtbSxx2YXi5Lx1oEi1O71URzQlQ",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Zarate",
-      "description": "Albarino\nL'Espagne Verte — Espagne",
-      "price": "27,75 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/3/13529202-1_1578537016.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1190290&idl=1525&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=6wOZAbKLmJhEAArVOtbSxx2YXi5Lx1oEi1O71URzQlQ",
-      "producer": "Eulogio Pomare",
-      "region": "L'Espagne Verte — Espagne",
-      "vintage": "2024",
-      "grape_varieties": [
-        "Albarino"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Zarate",
-          "description": "Albarino\nL'Espagne Verte — Espagne",
-          "price": "27,75 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/3/13529202-1_1578537016.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1190290&idl=1525&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=6wOZAbKLmJhEAArVOtbSxx2YXi5Lx1oEi1O71URzQlQ",
-          "producer": "Eulogio Pomare",
-          "region": "L'Espagne Verte — Espagne",
-          "vintage": "2024",
-          "grape_varieties": [
-            "Albarino"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-28-info-symbiose-0.html-arbois-terre-de-marne",
-    "blockId": "file-2025-08-28-info-symbiose-0.html",
-    "createdAt": "2025-08-28T00:00:00.000Z",
-    "name": "Arbois Terre de Marne",
-    "description": "Chardonnay\nJura — France",
-    "price": "29,05 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/4/14024644-1_1578549322.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1190290&idl=1775&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=Z4bdbqbYRRhkGpsXWLoH80odw8wuZuG7UZ0jvEL5Bfo",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Arbois Terre de Marne",
-      "description": "Chardonnay\nJura — France",
-      "price": "29,05 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/4/14024644-1_1578549322.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1190290&idl=1775&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=Z4bdbqbYRRhkGpsXWLoH80odw8wuZuG7UZ0jvEL5Bfo",
-      "producer": "Domaine Daniel Dugois",
-      "region": "Jura — France",
-      "vintage": "2023",
-      "grape_varieties": [
-        "Chardonnay"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Arbois Terre de Marne",
-          "description": "Chardonnay\nJura — France",
-          "price": "29,05 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/4/14024644-1_1578549322.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1190290&idl=1775&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=Z4bdbqbYRRhkGpsXWLoH80odw8wuZuG7UZ0jvEL5Bfo",
-          "producer": "Domaine Daniel Dugois",
-          "region": "Jura — France",
-          "vintage": "2023",
-          "grape_varieties": [
-            "Chardonnay"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-28-le-vin-dans-les-voiles-0.html-chateau-de-lavernette",
-    "blockId": "file-2025-08-28-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-08-28T00:00:00.000Z",
-    "name": "Château de Lavernette",
-    "description": "Au sud de la Bourgogne, à la frontière du Mâconnais et du Beaujolais, le Château de Lavernette cultive la vigne depuis treize générations. Propriété familiale depuis 1596, le domaine compte 13 hectares menés en agriculture biologique et biodynamique (certifications AB et Demeter). Depuis 2007, Xavier de Boissieu et son épouse Kerrie perpétuent la tradition avec un style droit, précis et élégant. Leurs vins – gamay et chardonnay sur sols granitiques et calcaires – expriment avec justesse le terroir, offrant profondeur et belle capacité de garde. Cuvées nettes, tendues et vibrantes : parfaites pour les grandes tables et les amateurs en quête de vins authentiques et d’appellations de caractère. Une adresse discrète mais incontournable pour les connaisseurs.",
-    "price": null,
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/8ae2f6fb-89d9-40b3-97df-1ecfd670cefa.png",
-    "link": "https://ctrk.klclick.com/l/01K3R9MXTA87J45RTRTBQJCKEV_18",
-    "agence": "Le vin dans les voiles",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Château de Lavernette",
-      "description": "Au sud de la Bourgogne, à la frontière du Mâconnais et du Beaujolais, le Château de Lavernette cultive la vigne depuis treize générations. Propriété familiale depuis 1596, le domaine compte 13 hectares menés en agriculture biologique et biodynamique (certifications AB et Demeter). Depuis 2007, Xavier de Boissieu et son épouse Kerrie perpétuent la tradition avec un style droit, précis et élégant. Leurs vins – gamay et chardonnay sur sols granitiques et calcaires – expriment avec justesse le terroir, offrant profondeur et belle capacité de garde. Cuvées nettes, tendues et vibrantes : parfaites pour les grandes tables et les amateurs en quête de vins authentiques et d’appellations de caractère. Une adresse discrète mais incontournable pour les connaisseurs.",
-      "price": null,
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/8ae2f6fb-89d9-40b3-97df-1ecfd670cefa.png",
-      "link": "https://ctrk.klclick.com/l/01K3R9MXTA87J45RTRTBQJCKEV_18",
-      "producer": "Château de Lavernette",
-      "region": "Bourgogne",
-      "vintage": null,
-      "grape_varieties": [
-        "gamay",
-        "chardonnay"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Château de Lavernette",
-          "description": "Au sud de la Bourgogne, à la frontière du Mâconnais et du Beaujolais, le Château de Lavernette cultive la vigne depuis treize générations. Propriété familiale depuis 1596, le domaine compte 13 hectares menés en agriculture biologique et biodynamique (certifications AB et Demeter). Depuis 2007, Xavier de Boissieu et son épouse Kerrie perpétuent la tradition avec un style droit, précis et élégant. Leurs vins – gamay et chardonnay sur sols granitiques et calcaires – expriment avec justesse le terroir, offrant profondeur et belle capacité de garde. Cuvées nettes, tendues et vibrantes : parfaites pour les grandes tables et les amateurs en quête de vins authentiques et d’appellations de caractère. Une adresse discrète mais incontournable pour les connaisseurs.",
-          "price": null,
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/8ae2f6fb-89d9-40b3-97df-1ecfd670cefa.png",
-          "link": "https://ctrk.klclick.com/l/01K3R9MXTA87J45RTRTBQJCKEV_18",
-          "producer": "Château de Lavernette",
-          "region": "Bourgogne",
-          "vintage": null,
-          "grape_varieties": [
-            "gamay",
-            "chardonnay"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Château de Lavernette, domaine familial cultivant la vigne depuis 1596, offre des cuvées de Gamay et Chardonnay en biodynamie, révélant un terroir authentique avec profondeur et élégance, parfaites pour les grandes occasions."
-  },
-  {
-    "id": "file-2025-08-28-rezin-0.html-chorey",
-    "blockId": "file-2025-08-28-rezin-0.html",
-    "createdAt": "2025-08-28T00:00:00.000Z",
-    "name": "Chorey",
-    "description": "« Ce beau pinot de Bourgogne s’avère frais, fruité et très élégant. Élaboré dans un style classique, cet excellent Chorey plaira aux amateurs de Bourgogne aux allures davantage traditionnelles. Son nez dégage des arômes de fruits rouges, rehaussés de notes légèrement florales. Plus frais que mûr, ce très beau pinot se veut charmeur et particulièrement facile à boire. Servez ce Bourgogne moyennement corsé et équilibré, avec des grillades de volaille. Un peu cher vous direz, mais que voulez-vous, c’est la Bourgogne ! »",
-    "price": null,
-    "image_url": null,
-    "link": null,
-    "agence": "réZin",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Chorey",
-      "description": "« Ce beau pinot de Bourgogne s’avère frais, fruité et très élégant. Élaboré dans un style classique, cet excellent Chorey plaira aux amateurs de Bourgogne aux allures davantage traditionnelles. Son nez dégage des arômes de fruits rouges, rehaussés de notes légèrement florales. Plus frais que mûr, ce très beau pinot se veut charmeur et particulièrement facile à boire. Servez ce Bourgogne moyennement corsé et équilibré, avec des grillades de volaille. Un peu cher vous direz, mais que voulez-vous, c’est la Bourgogne ! »",
-      "price": null,
-      "image_url": null,
-      "link": null,
-      "producer": null,
-      "region": null,
-      "vintage": null,
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Chorey",
-          "description": "« Ce beau pinot de Bourgogne s’avère frais, fruité et très élégant. Élaboré dans un style classique, cet excellent Chorey plaira aux amateurs de Bourgogne aux allures davantage traditionnelles. Son nez dégage des arômes de fruits rouges, rehaussés de notes légèrement florales. Plus frais que mûr, ce très beau pinot se veut charmeur et particulièrement facile à boire. Servez ce Bourgogne moyennement corsé et équilibré, avec des grillades de volaille. Un peu cher vous direz, mais que voulez-vous, c’est la Bourgogne ! »",
-          "price": null,
-          "image_url": null,
-          "link": null,
-          "producer": null,
-          "region": null,
-          "vintage": null,
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Ce Chorey, un pinot de Bourgogne classique, séduit par sa fraîcheur et son élégance, avec des arômes de fruits rouges et des notes florales, offrant une expérience de dégustation charmeuse et accessible."
-  },
-  {
-    "id": "file-2025-08-28-rezin-0.html-morgon",
-    "blockId": "file-2025-08-28-rezin-0.html",
-    "createdAt": "2025-08-28T00:00:00.000Z",
-    "name": "Morgon",
-    "description": "« La famille Foillard fait partie de l’élite du Beaujolais. Du vin générique aux grandes cuvées parcellaires, tout est simplement excellent. Après un millésime 2021 plus difficile (mais avec des vins d’une impressionnante qualité), nous sommes de retour sur des bases plus classiques. Un profil naturel parfaitement maîtrisé qui «morgonne» à fond avec des parfums affriolants de cerises, d’eucalyptus, de réglisse et de pierre mouillée. En bouche, on devine un fruité dodu, une acidité énergique, des tanins coulants et une longueur aromatique du plus bel effet. Indice de picolabilité élevé. Servir assez frais à l’apéro, seul ou avec une planche de charcuteries. Bonheur assuré..»",
-    "price": "38,25 $",
-    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/8fe1ee76-6a7e-996f-d568-413fa2e85781.png",
-    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=93b5c021ac&e=c11422f941",
-    "agence": "réZin",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Morgon",
-      "description": "« La famille Foillard fait partie de l’élite du Beaujolais. Du vin générique aux grandes cuvées parcellaires, tout est simplement excellent. Après un millésime 2021 plus difficile (mais avec des vins d’une impressionnante qualité), nous sommes de retour sur des bases plus classiques. Un profil naturel parfaitement maîtrisé qui «morgonne» à fond avec des parfums affriolants de cerises, d’eucalyptus, de réglisse et de pierre mouillée. En bouche, on devine un fruité dodu, une acidité énergique, des tanins coulants et une longueur aromatique du plus bel effet. Indice de picolabilité élevé. Servir assez frais à l’apéro, seul ou avec une planche de charcuteries. Bonheur assuré..»",
-      "price": "38,25 $",
-      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/8fe1ee76-6a7e-996f-d568-413fa2e85781.png",
-      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=93b5c021ac&e=c11422f941",
-      "producer": "JEAN FOILLARD",
-      "region": "Beaujolais",
-      "vintage": "2023",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Morgon",
-          "description": "« La famille Foillard fait partie de l’élite du Beaujolais. Du vin générique aux grandes cuvées parcellaires, tout est simplement excellent. Après un millésime 2021 plus difficile (mais avec des vins d’une impressionnante qualité), nous sommes de retour sur des bases plus classiques. Un profil naturel parfaitement maîtrisé qui «morgonne» à fond avec des parfums affriolants de cerises, d’eucalyptus, de réglisse et de pierre mouillée. En bouche, on devine un fruité dodu, une acidité énergique, des tanins coulants et une longueur aromatique du plus bel effet. Indice de picolabilité élevé. Servir assez frais à l’apéro, seul ou avec une planche de charcuteries. Bonheur assuré..»",
-          "price": "38,25 $",
-          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/8fe1ee76-6a7e-996f-d568-413fa2e85781.png",
-          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=93b5c021ac&e=c11422f941",
-          "producer": "JEAN FOILLARD",
-          "region": "Beaujolais",
-          "vintage": "2023",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Morgon de la famille Foillard, élite du Beaujolais, offre un profil naturel maîtrisé, avec des arômes de cerises et d’eucalyptus, un fruité dodu et une longueur aromatique impressionnante, parfait pour des moments de partage."
-  },
-  {
-    "id": "file-2025-08-28-rezin-0.html-manzanilla-sanlucar-de-barrameda-en-rama",
-    "blockId": "file-2025-08-28-rezin-0.html",
-    "createdAt": "2025-08-28T00:00:00.000Z",
-    "name": "Manzanilla Sanlucar de Barrameda en Rama",
-    "description": "Si Emilio Lustau est l'une des maisons de Jerez les plus appréciées, c'est sans aucun doute grâce à la qualité des sources d'approvisionnement en vendanges, moûts et vins. Cette très vieille entreprise a en effet débuté son opération en tant qu'Almacenista, c'est-à-dire en tant que petit éleveur de vin, ce qui lui permet aujourd'hui d'être en relation étroite avec les autres Almacenistas de la région. On trouve donc chez Lustau des vins issus d'assemblages de très vieux xérès provenant de différents Almacenistas. Cette proportion de vieux xérès permet d'obtenir complexité, race et finesse. À Sanlúcar, les conditions climatiques durant l’hiver ont été moins rigoureuses, avec un taux d’humidité élevé et une forte présence du vent de Poniente, ce qui a favorisé un voile de flor plus constant. Cela se reflète dans la fraîcheur unique et la texture en bouche de cette manzanilla.",
-    "price": "34,00 $",
-    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/8dbec78e-c824-5436-2f26-8d9e3de16a06.png",
-    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=890e7e4ac0&e=c11422f941",
-    "agence": "réZin",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Manzanilla Sanlucar de Barrameda en Rama",
-      "description": "Si Emilio Lustau est l'une des maisons de Jerez les plus appréciées, c'est sans aucun doute grâce à la qualité des sources d'approvisionnement en vendanges, moûts et vins. Cette très vieille entreprise a en effet débuté son opération en tant qu'Almacenista, c'est-à-dire en tant que petit éleveur de vin, ce qui lui permet aujourd'hui d'être en relation étroite avec les autres Almacenistas de la région. On trouve donc chez Lustau des vins issus d'assemblages de très vieux xérès provenant de différents Almacenistas. Cette proportion de vieux xérès permet d'obtenir complexité, race et finesse. À Sanlúcar, les conditions climatiques durant l’hiver ont été moins rigoureuses, avec un taux d’humidité élevé et une forte présence du vent de Poniente, ce qui a favorisé un voile de flor plus constant. Cela se reflète dans la fraîcheur unique et la texture en bouche de cette manzanilla.",
-      "price": "34,00 $",
-      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/8dbec78e-c824-5436-2f26-8d9e3de16a06.png",
-      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=890e7e4ac0&e=c11422f941",
-      "producer": "EMILIO LUSTAU",
-      "region": "Jerez",
-      "vintage": null,
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Manzanilla Sanlucar de Barrameda en Rama",
-          "description": "Si Emilio Lustau est l'une des maisons de Jerez les plus appréciées, c'est sans aucun doute grâce à la qualité des sources d'approvisionnement en vendanges, moûts et vins. Cette très vieille entreprise a en effet débuté son opération en tant qu'Almacenista, c'est-à-dire en tant que petit éleveur de vin, ce qui lui permet aujourd'hui d'être en relation étroite avec les autres Almacenistas de la région. On trouve donc chez Lustau des vins issus d'assemblages de très vieux xérès provenant de différents Almacenistas. Cette proportion de vieux xérès permet d'obtenir complexité, race et finesse. À Sanlúcar, les conditions climatiques durant l’hiver ont été moins rigoureuses, avec un taux d’humidité élevé et une forte présence du vent de Poniente, ce qui a favorisé un voile de flor plus constant. Cela se reflète dans la fraîcheur unique et la texture en bouche de cette manzanilla.",
-          "price": "34,00 $",
-          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/8dbec78e-c824-5436-2f26-8d9e3de16a06.png",
-          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=890e7e4ac0&e=c11422f941",
-          "producer": "EMILIO LUSTAU",
-          "region": "Jerez",
-          "vintage": null,
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "La Manzanilla Sanlucar de Barrameda en Rama d'Emilio Lustau, élaborée à partir de vieux xérès, offre une complexité et une finesse exceptionnelles, avec une fraîcheur unique et une texture en bouche qui séduira les amateurs de Jerez."
+    "summary": "Le Riesling du Grand Cru Vorbourg, Clos Saint Landelin, offre une puissance surprenante et une vivacité crayeuse, avec une concentration hyper sèche et citronnée, promettant un potentiel de garde exceptionnel."
   }
 ]
