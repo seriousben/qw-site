@@ -1,5 +1,639 @@
 [
   {
+    "id": "file-2025-09-05-info-symbiose-0.html-audace",
+    "blockId": "file-2025-09-05-info-symbiose-0.html",
+    "createdAt": "2025-09-05T00:00:00.000Z",
+    "name": "Audace",
+    "description": "Créé spécialement pour le Québec, ce nouveau projet Symbiose vous comblera ! Fruit d’une collaboration entre Symbiose et André Stentz et son fils Xavier, Audace est assemblage unique et exclusif. Dominé par le pinot blanc et soutenu par 20% de riesling, ce vin respire les fruits de verger au nez et séduit par sa bouche fraîche, équilibrée et d’une grande accessibilité. Issu d’un vignoble mené en bio depuis plus de 40 ans, avec des doses infimes de sulfites, voici l’Alsace… autrement. Parfait pour l’apéro, les ceviches et les poke bowls.",
+    "price": "27,00 $",
+    "image_url": "https://d5igp0q6f7oq9.cloudfront.net/cdn/ff/pB80kLlKXM2JU8xJUmbFie_i_XZ9KTmwuFBfgieybjU/1756925872/public/styles/product/public/products/audace.png?itok=ZY_w3FCj",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=8405&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=iDazBji7kzSCsJeWDfaUX2jn_RzrpmK244A5z-0TRYg",
+    "agence": "Info Symbiose",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Audace",
+      "description": "Créé spécialement pour le Québec, ce nouveau projet Symbiose vous comblera ! Fruit d’une collaboration entre Symbiose et André Stentz et son fils Xavier, Audace est assemblage unique et exclusif. Dominé par le pinot blanc et soutenu par 20% de riesling, ce vin respire les fruits de verger au nez et séduit par sa bouche fraîche, équilibrée et d’une grande accessibilité. Issu d’un vignoble mené en bio depuis plus de 40 ans, avec des doses infimes de sulfites, voici l’Alsace… autrement. Parfait pour l’apéro, les ceviches et les poke bowls.",
+      "price": "27,00 $",
+      "image_url": "https://d5igp0q6f7oq9.cloudfront.net/cdn/ff/pB80kLlKXM2JU8xJUmbFie_i_XZ9KTmwuFBfgieybjU/1756925872/public/styles/product/public/products/audace.png?itok=ZY_w3FCj",
+      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=8405&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=iDazBji7kzSCsJeWDfaUX2jn_RzrpmK244A5z-0TRYg",
+      "producer": "André Stentz",
+      "region": "Alsace — France",
+      "vintage": "2024",
+      "grape_varieties": [
+        "Pinot Blanc",
+        "Riesling"
+      ],
+      "alcohol_content": "12%",
+      "volume": "750ml",
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Audace",
+          "description": "Créé spécialement pour le Québec, ce nouveau projet Symbiose vous comblera ! Fruit d’une collaboration entre Symbiose et André Stentz et son fils Xavier, Audace est assemblage unique et exclusif. Dominé par le pinot blanc et soutenu par 20% de riesling, ce vin respire les fruits de verger au nez et séduit par sa bouche fraîche, équilibrée et d’une grande accessibilité. Issu d’un vignoble mené en bio depuis plus de 40 ans, avec des doses infimes de sulfites, voici l’Alsace… autrement. Parfait pour l’apéro, les ceviches et les poke bowls.",
+          "price": "27,00 $",
+          "image_url": "https://d5igp0q6f7oq9.cloudfront.net/cdn/ff/pB80kLlKXM2JU8xJUmbFie_i_XZ9KTmwuFBfgieybjU/1756925872/public/styles/product/public/products/audace.png?itok=ZY_w3FCj",
+          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=8405&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=iDazBji7kzSCsJeWDfaUX2jn_RzrpmK244A5z-0TRYg",
+          "producer": "André Stentz",
+          "region": "Alsace — France",
+          "vintage": "2024",
+          "grape_varieties": [
+            "Pinot Blanc",
+            "Riesling"
+          ],
+          "alcohol_content": "12%",
+          "volume": "750ml",
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Audace, une création exclusive pour le Québec, marie le pinot blanc et le riesling pour offrir un bouquet de fruits de verger et une bouche fraîche et équilibrée, reflet d’un savoir-faire biologique de plus de 40 ans."
+  },
+  {
+    "id": "file-2025-09-05-info-symbiose-0.html-ficelle",
+    "blockId": "file-2025-09-05-info-symbiose-0.html",
+    "createdAt": "2025-09-05T00:00:00.000Z",
+    "name": "Ficelle",
+    "description": "Ficelle 2023 est un vin élaboré par Alexis Hudon, composé de Colombard, Melon de Bourgogne (Muscadet) et Folle blanche. Ce vin provient de la région de la Loire en France.",
+    "price": "24,70 $",
+    "image_url": "https://www.saq.com/media/catalog/product/1/4/14997761-1_1656005749.png",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=3462&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=3uanZJQTG9ZMgVQ5hBAxhHf8co24-qi808hhfsG0_Nc",
+    "agence": "Info Symbiose",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Ficelle",
+      "description": "Ficelle 2023 est un vin élaboré par Alexis Hudon, composé de Colombard, Melon de Bourgogne (Muscadet) et Folle blanche. Ce vin provient de la région de la Loire en France.",
+      "price": "24,70 $",
+      "image_url": "https://www.saq.com/media/catalog/product/1/4/14997761-1_1656005749.png",
+      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=3462&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=3uanZJQTG9ZMgVQ5hBAxhHf8co24-qi808hhfsG0_Nc",
+      "producer": "Alexis Hudon",
+      "region": "Loire — France",
+      "vintage": "2023",
+      "grape_varieties": [
+        "Colombard",
+        "Melon de Bourgogne (Muscadet)",
+        "Folle blanche"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Ficelle",
+          "description": "Ficelle 2023 est un vin élaboré par Alexis Hudon, composé de Colombard, Melon de Bourgogne (Muscadet) et Folle blanche. Ce vin provient de la région de la Loire en France.",
+          "price": "24,70 $",
+          "image_url": "https://www.saq.com/media/catalog/product/1/4/14997761-1_1656005749.png",
+          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=3462&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=3uanZJQTG9ZMgVQ5hBAxhHf8co24-qi808hhfsG0_Nc",
+          "producer": "Alexis Hudon",
+          "region": "Loire — France",
+          "vintage": "2023",
+          "grape_varieties": [
+            "Colombard",
+            "Melon de Bourgogne (Muscadet)",
+            "Folle blanche"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-09-05-info-symbiose-0.html-riesling-le-dragon",
+    "blockId": "file-2025-09-05-info-symbiose-0.html",
+    "createdAt": "2025-09-05T00:00:00.000Z",
+    "name": "Riesling Le Dragon",
+    "description": "Riesling Le Dragon 2023 est un vin élaboré par Josmeyer, composé exclusivement de Riesling. Ce vin provient de la région d'Alsace en France.",
+    "price": "58,75 $",
+    "image_url": "https://www.saq.com/media/catalog/product/1/4/14503944-1_1658434840.png",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=3176&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=79y6bsKIbiIvONdZtYVwDEFfJZAZM9P1kSVDcaVvXPY",
+    "agence": "Info Symbiose",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Riesling Le Dragon",
+      "description": "Riesling Le Dragon 2023 est un vin élaboré par Josmeyer, composé exclusivement de Riesling. Ce vin provient de la région d'Alsace en France.",
+      "price": "58,75 $",
+      "image_url": "https://www.saq.com/media/catalog/product/1/4/14503944-1_1658434840.png",
+      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=3176&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=79y6bsKIbiIvONdZtYVwDEFfJZAZM9P1kSVDcaVvXPY",
+      "producer": "Josmeyer",
+      "region": "Alsace — France",
+      "vintage": "2023",
+      "grape_varieties": [
+        "Riesling"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Riesling Le Dragon",
+          "description": "Riesling Le Dragon 2023 est un vin élaboré par Josmeyer, composé exclusivement de Riesling. Ce vin provient de la région d'Alsace en France.",
+          "price": "58,75 $",
+          "image_url": "https://www.saq.com/media/catalog/product/1/4/14503944-1_1658434840.png",
+          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=3176&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=79y6bsKIbiIvONdZtYVwDEFfJZAZM9P1kSVDcaVvXPY",
+          "producer": "Josmeyer",
+          "region": "Alsace — France",
+          "vintage": "2023",
+          "grape_varieties": [
+            "Riesling"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-09-05-info-symbiose-0.html-gevrey-chambertin-mes-favorites",
+    "blockId": "file-2025-09-05-info-symbiose-0.html",
+    "createdAt": "2025-09-05T00:00:00.000Z",
+    "name": "Gevrey-Chambertin Mes Favorites",
+    "description": "Gevrey-Chambertin Mes Favorites 2022 est un vin élaboré par Domaine Alain Burguet, composé exclusivement de Pinot noir. Ce vin provient de la région de Côte de Nuits en France.",
+    "price": "123,75 $",
+    "image_url": "https://www.saq.com/media/catalog/product/1/5/15542697-1_1756912689.png",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=8390&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=KCsBhpDomd8Xi2y600nd7V6QywL96y7ndqXCMMhko1k",
+    "agence": "Info Symbiose",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Gevrey-Chambertin Mes Favorites",
+      "description": "Gevrey-Chambertin Mes Favorites 2022 est un vin élaboré par Domaine Alain Burguet, composé exclusivement de Pinot noir. Ce vin provient de la région de Côte de Nuits en France.",
+      "price": "123,75 $",
+      "image_url": "https://www.saq.com/media/catalog/product/1/5/15542697-1_1756912689.png",
+      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=8390&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=KCsBhpDomd8Xi2y600nd7V6QywL96y7ndqXCMMhko1k",
+      "producer": "Domaine Alain Burguet",
+      "region": "Côte de Nuits — France",
+      "vintage": "2022",
+      "grape_varieties": [
+        "Pinot noir"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Gevrey-Chambertin Mes Favorites",
+          "description": "Gevrey-Chambertin Mes Favorites 2022 est un vin élaboré par Domaine Alain Burguet, composé exclusivement de Pinot noir. Ce vin provient de la région de Côte de Nuits en France.",
+          "price": "123,75 $",
+          "image_url": "https://www.saq.com/media/catalog/product/1/5/15542697-1_1756912689.png",
+          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=8390&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=KCsBhpDomd8Xi2y600nd7V6QywL96y7ndqXCMMhko1k",
+          "producer": "Domaine Alain Burguet",
+          "region": "Côte de Nuits — France",
+          "vintage": "2022",
+          "grape_varieties": [
+            "Pinot noir"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-09-05-info-symbiose-0.html-vermouth",
+    "blockId": "file-2025-09-05-info-symbiose-0.html",
+    "createdAt": "2025-09-05T00:00:00.000Z",
+    "name": "Vermouth",
+    "description": "Vermouth est un produit élaboré par Menaud, provenant du Québec.",
+    "price": "34,75 $",
+    "image_url": "https://www.saq.com/media/catalog/product/1/5/15380780-1_1724094791.png",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=6810&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=wqwkhae0iEmgnf0Rk4ApntvK4zavi03DxOzqdL3Szj8",
+    "agence": "Info Symbiose",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Vermouth",
+      "description": "Vermouth est un produit élaboré par Menaud, provenant du Québec.",
+      "price": "34,75 $",
+      "image_url": "https://www.saq.com/media/catalog/product/1/5/15380780-1_1724094791.png",
+      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=6810&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=wqwkhae0iEmgnf0Rk4ApntvK4zavi03DxOzqdL3Szj8",
+      "producer": "Menaud",
+      "region": "Québec",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Vermouth",
+          "description": "Vermouth est un produit élaboré par Menaud, provenant du Québec.",
+          "price": "34,75 $",
+          "image_url": "https://www.saq.com/media/catalog/product/1/5/15380780-1_1724094791.png",
+          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=6810&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=wqwkhae0iEmgnf0Rk4ApntvK4zavi03DxOzqdL3Szj8",
+          "producer": "Menaud",
+          "region": "Québec",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-09-05-noble-selection-0.html-sauvignon-blanc-2024",
+    "blockId": "file-2025-09-05-noble-selection-0.html",
+    "createdAt": "2025-09-05T00:00:00.000Z",
+    "name": "Sauvignon blanc 2024",
+    "description": "Issu de vignobles situés sur la fraîche région côtière du Cape South Coast, ce Sauvignon Blanc est vinifié en cuves inox à basse température pour préserver toute la pureté aromatique du cépage. La fermentation est lente et contrôlée, sans élevage sous bois, afin de conserver la fraîcheur et la tension du vin.",
+    "price": "23,70$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_southern-right-cellars-sauvignon-blanc-walker-bay-2023-copie.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=a09732f991&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Sauvignon blanc 2024",
+      "description": "Issu de vignobles situés sur la fraîche région côtière du Cape South Coast, ce Sauvignon Blanc est vinifié en cuves inox à basse température pour préserver toute la pureté aromatique du cépage. La fermentation est lente et contrôlée, sans élevage sous bois, afin de conserver la fraîcheur et la tension du vin.",
+      "price": "23,70$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_southern-right-cellars-sauvignon-blanc-walker-bay-2023-copie.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=a09732f991&e=2c9a262afa",
+      "producer": "SOUTHERN RIGHT",
+      "region": "Western Cape",
+      "vintage": "2024",
+      "grape_varieties": [
+        "Sauvignon Blanc"
+      ],
+      "alcohol_content": "13.5%",
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Sauvignon blanc 2024",
+          "description": "Issu de vignobles situés sur la fraîche région côtière du Cape South Coast, ce Sauvignon Blanc est vinifié en cuves inox à basse température pour préserver toute la pureté aromatique du cépage. La fermentation est lente et contrôlée, sans élevage sous bois, afin de conserver la fraîcheur et la tension du vin.",
+          "price": "23,70$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_southern-right-cellars-sauvignon-blanc-walker-bay-2023-copie.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=a09732f991&e=2c9a262afa",
+          "producer": "SOUTHERN RIGHT",
+          "region": "Western Cape",
+          "vintage": "2024",
+          "grape_varieties": [
+            "Sauvignon Blanc"
+          ],
+          "alcohol_content": "13.5%",
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Ce Sauvignon Blanc de la Cape South Coast, vinifié en cuves inox à basse température, révèle une pureté aromatique éclatante, offrant fraîcheur et tension sans l'influence du bois."
+  },
+  {
+    "id": "file-2025-09-05-noble-selection-0.html-tutto-e-possibile",
+    "blockId": "file-2025-09-05-noble-selection-0.html",
+    "createdAt": "2025-09-05T00:00:00.000Z",
+    "name": "Tutto è Possibile",
+    "description": null,
+    "price": "16,95$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_tutto-e-possible-terre-cevico.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=723c4f454f&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Tutto è Possibile",
+      "description": null,
+      "price": "16,95$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_tutto-e-possible-terre-cevico.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=723c4f454f&e=2c9a262afa",
+      "producer": "TERRE CEVICO",
+      "region": null,
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Tutto è Possibile",
+          "description": null,
+          "price": "16,95$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_tutto-e-possible-terre-cevico.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=723c4f454f&e=2c9a262afa",
+          "producer": "TERRE CEVICO",
+          "region": null,
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-09-05-noble-selection-0.html-itata-2023",
+    "blockId": "file-2025-09-05-noble-selection-0.html",
+    "createdAt": "2025-09-05T00:00:00.000Z",
+    "name": "Itata 2023",
+    "description": null,
+    "price": "20,70$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_clos-des-fous-itata-2022-copie.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5915a95a61&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Itata 2023",
+      "description": null,
+      "price": "20,70$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_clos-des-fous-itata-2022-copie.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5915a95a61&e=2c9a262afa",
+      "producer": "CLOS DES FOUS",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Itata 2023",
+          "description": null,
+          "price": "20,70$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_clos-des-fous-itata-2022-copie.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5915a95a61&e=2c9a262afa",
+          "producer": "CLOS DES FOUS",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-09-05-noble-selection-0.html-izadi-reserva-2020",
+    "blockId": "file-2025-09-05-noble-selection-0.html",
+    "createdAt": "2025-09-05T00:00:00.000Z",
+    "name": "Izadi Reserva 2020",
+    "description": null,
+    "price": "23,65$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_izadi-reserva-2019.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=b116862e36&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Izadi Reserva 2020",
+      "description": null,
+      "price": "23,65$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_izadi-reserva-2019.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=b116862e36&e=2c9a262afa",
+      "producer": "IZADI",
+      "region": null,
+      "vintage": "2020",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Izadi Reserva 2020",
+          "description": null,
+          "price": "23,65$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_izadi-reserva-2019.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=b116862e36&e=2c9a262afa",
+          "producer": "IZADI",
+          "region": null,
+          "vintage": "2020",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-09-05-noble-selection-0.html-cotes-du-rhone-villages-cairanne-cuvee-maximilien",
+    "blockId": "file-2025-09-05-noble-selection-0.html",
+    "createdAt": "2025-09-05T00:00:00.000Z",
+    "name": "Côtes du Rhône Villages Cairanne Cuvée Maximilien 2022",
+    "description": null,
+    "price": "26,30$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_capture_180.jpg",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f04dad4de4&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Côtes du Rhône Villages Cairanne Cuvée Maximilien 2022",
+      "description": null,
+      "price": "26,30$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_capture_180.jpg",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f04dad4de4&e=2c9a262afa",
+      "producer": "DOMAINE LES GRANDS BOIS",
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Côtes du Rhône Villages Cairanne Cuvée Maximilien 2022",
+          "description": null,
+          "price": "26,30$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_capture_180.jpg",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f04dad4de4&e=2c9a262afa",
+          "producer": "DOMAINE LES GRANDS BOIS",
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-09-05-vin-dame-jeanne-0.html-saint-romain-combe-bazin-blanc",
+    "blockId": "file-2025-09-05-vin-dame-jeanne-0.html",
+    "createdAt": "2025-09-05T00:00:00.000Z",
+    "name": "Saint-Romain 'Combe Bazin' Blanc",
+    "description": "Un parcellaire perché sur la colline de Saint-Romain sur calcaire affleurant, sur pente escarpée à 350m d'altitude, exposé sud-est. Fermentation et élevage en oeuf béton. Grande puissance, minéralité, énergie.",
+    "price": "121.75$",
+    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+    "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=19dc5cfcc5&e=345e10d07b",
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Saint-Romain 'Combe Bazin' Blanc",
+      "description": "Un parcellaire perché sur la colline de Saint-Romain sur calcaire affleurant, sur pente escarpée à 350m d'altitude, exposé sud-est. Fermentation et élevage en oeuf béton. Grande puissance, minéralité, énergie.",
+      "price": "121.75$",
+      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+      "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=19dc5cfcc5&e=345e10d07b",
+      "producer": "Domaine de Chassorney",
+      "region": "Saint-Romain",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Saint-Romain 'Combe Bazin' Blanc",
+          "description": "Un parcellaire perché sur la colline de Saint-Romain sur calcaire affleurant, sur pente escarpée à 350m d'altitude, exposé sud-est. Fermentation et élevage en oeuf béton. Grande puissance, minéralité, énergie.",
+          "price": "121.75$",
+          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+          "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=19dc5cfcc5&e=345e10d07b",
+          "producer": "Domaine de Chassorney",
+          "region": "Saint-Romain",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Saint-Romain 'Combe Bazin' Blanc, élevé en œuf béton, exprime une puissance minérale et une énergie vibrante, issue d'un terroir d'altitude sur calcaire affleurant."
+  },
+  {
+    "id": "file-2025-09-05-vin-dame-jeanne-0.html-saint-romain-sous-roche-rouge",
+    "blockId": "file-2025-09-05-vin-dame-jeanne-0.html",
+    "createdAt": "2025-09-05T00:00:00.000Z",
+    "name": "Saint Romain 'Sous Roche' Rouge",
+    "description": "Terroir exposé est/ sud-est, à 280-400m d'altitude sur sols marneux et calcaires. La parcelle la plus escarpée du village. Vignes de 50 ans. Macération d'un mois en grappes entière en mode infusion, et élevage barriques neutres pendant 1 an. Racé, tendu, authentique.",
+    "price": "127.50$",
+    "image_url": null,
+    "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=bed4c951cc&e=345e10d07b",
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Saint Romain 'Sous Roche' Rouge",
+      "description": "Terroir exposé est/ sud-est, à 280-400m d'altitude sur sols marneux et calcaires. La parcelle la plus escarpée du village. Vignes de 50 ans. Macération d'un mois en grappes entière en mode infusion, et élevage barriques neutres pendant 1 an. Racé, tendu, authentique.",
+      "price": "127.50$",
+      "image_url": null,
+      "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=bed4c951cc&e=345e10d07b",
+      "producer": "Domaine de Chassorney",
+      "region": "Saint-Romain",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Saint Romain 'Sous Roche' Rouge",
+          "description": "Terroir exposé est/ sud-est, à 280-400m d'altitude sur sols marneux et calcaires. La parcelle la plus escarpée du village. Vignes de 50 ans. Macération d'un mois en grappes entière en mode infusion, et élevage barriques neutres pendant 1 an. Racé, tendu, authentique.",
+          "price": "127.50$",
+          "image_url": null,
+          "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=bed4c951cc&e=345e10d07b",
+          "producer": "Domaine de Chassorney",
+          "region": "Saint-Romain",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Saint Romain 'Sous Roche' Rouge, issu de vignes de 50 ans, offre un caractère racé et authentique grâce à une macération en grappes entières et un élevage en barriques neutres."
+  },
+  {
+    "id": "file-2025-09-05-vin-dame-jeanne-0.html-volnay",
+    "blockId": "file-2025-09-05-vin-dame-jeanne-0.html",
+    "createdAt": "2025-09-05T00:00:00.000Z",
+    "name": "Volnay",
+    "description": "Macération d'un mois en grappes entières en mode infusion, et élevage barriques neutres pendant 1 an. Fin, croquant, envoutant.",
+    "price": "155.25$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Volnay",
+      "description": "Macération d'un mois en grappes entières en mode infusion, et élevage barriques neutres pendant 1 an. Fin, croquant, envoutant.",
+      "price": "155.25$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine de Chassorney",
+      "region": "Volnay",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Volnay",
+          "description": "Macération d'un mois en grappes entières en mode infusion, et élevage barriques neutres pendant 1 an. Fin, croquant, envoutant.",
+          "price": "155.25$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine de Chassorney",
+          "region": "Volnay",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Volnay, avec sa macération en grappes entières et son élevage en barriques neutres, séduit par sa finesse croquante et son charme envoûtant."
+  },
+  {
+    "id": "file-2025-09-05-vin-dame-jeanne-0.html-pommard",
+    "blockId": "file-2025-09-05-vin-dame-jeanne-0.html",
+    "createdAt": "2025-09-05T00:00:00.000Z",
+    "name": "Pommard",
+    "description": "Macération d'un mois en grappes entières en mode infusion, et élevage barriques neutres pendant 1 an. Précis, généreux, de la soie liquide.",
+    "price": "172$",
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Pommard",
+      "description": "Macération d'un mois en grappes entières en mode infusion, et élevage barriques neutres pendant 1 an. Précis, généreux, de la soie liquide.",
+      "price": "172$",
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine de Chassorney",
+      "region": "Pommard",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Pommard",
+          "description": "Macération d'un mois en grappes entières en mode infusion, et élevage barriques neutres pendant 1 an. Précis, généreux, de la soie liquide.",
+          "price": "172$",
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine de Chassorney",
+          "region": "Pommard",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Pommard, élaboré par macération en grappes entières et élevé en barriques neutres, dévoile une précision généreuse et une texture soyeuse."
+  },
+  {
     "id": "file-2025-09-04-bambara-selection-0.html-condrieu-cote-chatillon-2023",
     "blockId": "file-2025-09-04-bambara-selection-0.html",
     "createdAt": "2025-09-04T00:00:00.000Z",
@@ -45,7 +679,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Condrieu Côte-Châtillon 2023, élaboré à 100% à partir de viognier, est un chef-d'œuvre de minéralité et de finesse, révélant des arômes de fleurs blanches, de poire et de graphite. Ce vin d'exception, issu de vignes historiques sur les pentes du Rhône, promet une expérience gastronomique raffinée et une évolution prometteuse jusqu'en 2040."
+    "summary": "Le Condrieu Côte-Châtillon 2023, 100% viognier, est un chef-d'œuvre de Xavier Gérard, alliant finesse et minéralité, issu de vignes historiques sur les pentes abruptes du Rhône, promettant une complexité aromatique à savourer dès maintenant ou à laisser vieillir jusqu'en 2040."
   },
   {
     "id": "file-2025-09-04-le-vin-dans-les-voiles-0.html-chablis-premier-cru-vaillons-2021",
@@ -89,7 +723,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Chablis Premier Cru Vaillons 2021 est un micro-lot rare qui séduit par sa minéralité fossile et son nez exotique, offrant une bouche ample et élégante. Parfait à déguster dès maintenant ou à laisser mûrir pour révéler toute sa complexité."
+    "summary": "Ce Chablis Premier Cru Vaillons 2021, un micro-lot d'exception, séduit par sa minéralité fossile et son nez exotique, offrant une bouche ample à savourer dès maintenant ou à laisser évoluer."
   },
   {
     "id": "file-2025-09-04-le-vin-dans-les-voiles-0.html-elemental-2022",
@@ -132,7 +766,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "Elemental 2022, un pétillant naturel catalan, est vif et salin, offrant une expérience fruitée qui prolonge les soirées avec une touche de joie et de légèreté."
   },
   {
     "id": "file-2025-09-04-le-vin-dans-les-voiles-0.html-o-passaro-solto-blanc-2024",
@@ -175,7 +810,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "O Pàssaro Solto blanc 2024, un vin portugais sec et élégant, révèle une fraîcheur minérale et lumineuse, idéal pour toutes les occasions tout au long de l'année."
   },
   {
     "id": "file-2025-09-04-rezin-0.html-bianco-toscana-lunatico-2024",
@@ -219,7 +855,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Bianco Toscana Lunatico 2024, fruit d'une tradition familiale enracinée en Toscane, incarne l'expression authentique du terroir de Chianti Classico, cultivé avec soin et respect des méthodes biologiques. Ce vin, issu de vignes perchées à 420 mètres d'altitude, offre une profondeur et une singularité qui séduisent les amateurs de vins naturels."
+    "summary": "BIANCO TOSCANA LUNATICO 2024, issu d'un domaine familial en Toscane, incarne l'expression authentique du terroir Chianti Classico, avec un engagement vers l'agriculture biologique et une production respectueuse des traditions viticoles."
   },
   {
     "id": "file-2025-09-04-vin-dame-jeanne-0.html-susucaru-rosato",
@@ -274,7 +910,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "Susucaru Rosato, un assemblage vibrant de cépages siciliens, offre une tonicité délicate grâce à une macération douce et un élevage sur lies, révélant toute la richesse aromatique de l'Etna."
   },
   {
     "id": "file-2025-09-02-grand-cellier-0.html-taburno-falanghina-del-sannio-dop",
@@ -294,7 +931,7 @@
       "image_url": null,
       "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=a7bfd37457&e=6b5a89dd4d",
       "producer": null,
-      "region": null,
+      "region": "Italie",
       "vintage": null,
       "grape_varieties": null,
       "alcohol_content": null,
@@ -308,7 +945,7 @@
           "image_url": null,
           "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=a7bfd37457&e=6b5a89dd4d",
           "producer": null,
-          "region": null,
+          "region": "Italie",
           "vintage": null,
           "grape_varieties": null,
           "alcohol_content": null,
@@ -337,7 +974,7 @@
       "image_url": null,
       "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=6549a3dc53&e=6b5a89dd4d",
       "producer": null,
-      "region": null,
+      "region": "Italie",
       "vintage": null,
       "grape_varieties": null,
       "alcohol_content": null,
@@ -351,7 +988,7 @@
           "image_url": null,
           "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=6549a3dc53&e=6b5a89dd4d",
           "producer": null,
-          "region": null,
+          "region": "Italie",
           "vintage": null,
           "grape_varieties": null,
           "alcohol_content": null,
@@ -380,7 +1017,7 @@
       "image_url": null,
       "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=0f8c694878&e=6b5a89dd4d",
       "producer": null,
-      "region": null,
+      "region": "Italie",
       "vintage": null,
       "grape_varieties": null,
       "alcohol_content": null,
@@ -394,7 +1031,7 @@
           "image_url": null,
           "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=0f8c694878&e=6b5a89dd4d",
           "producer": null,
-          "region": null,
+          "region": "Italie",
           "vintage": null,
           "grape_varieties": null,
           "alcohol_content": null,
@@ -423,7 +1060,7 @@
       "image_url": null,
       "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=7470d27d31&e=6b5a89dd4d",
       "producer": null,
-      "region": null,
+      "region": "Italie",
       "vintage": null,
       "grape_varieties": null,
       "alcohol_content": null,
@@ -437,7 +1074,7 @@
           "image_url": null,
           "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=7470d27d31&e=6b5a89dd4d",
           "producer": null,
-          "region": null,
+          "region": "Italie",
           "vintage": null,
           "grape_varieties": null,
           "alcohol_content": null,
@@ -466,7 +1103,7 @@
       "image_url": null,
       "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=8c4ff9f27b&e=6b5a89dd4d",
       "producer": null,
-      "region": null,
+      "region": "France",
       "vintage": null,
       "grape_varieties": null,
       "alcohol_content": null,
@@ -480,7 +1117,7 @@
           "image_url": null,
           "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=8c4ff9f27b&e=6b5a89dd4d",
           "producer": null,
-          "region": null,
+          "region": "France",
           "vintage": null,
           "grape_varieties": null,
           "alcohol_content": null,
@@ -509,7 +1146,7 @@
       "image_url": null,
       "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=3b166fe22b&e=6b5a89dd4d",
       "producer": null,
-      "region": null,
+      "region": "France",
       "vintage": null,
       "grape_varieties": null,
       "alcohol_content": null,
@@ -523,7 +1160,7 @@
           "image_url": null,
           "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=3b166fe22b&e=6b5a89dd4d",
           "producer": null,
-          "region": null,
+          "region": "France",
           "vintage": null,
           "grape_varieties": null,
           "alcohol_content": null,
@@ -552,7 +1189,7 @@
       "image_url": null,
       "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=a15f92e36d&e=6b5a89dd4d",
       "producer": null,
-      "region": null,
+      "region": "France",
       "vintage": null,
       "grape_varieties": null,
       "alcohol_content": null,
@@ -566,7 +1203,7 @@
           "image_url": null,
           "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=a15f92e36d&e=6b5a89dd4d",
           "producer": null,
-          "region": null,
+          "region": "France",
           "vintage": null,
           "grape_varieties": null,
           "alcohol_content": null,
@@ -595,7 +1232,7 @@
       "image_url": null,
       "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=0fccf3368d&e=6b5a89dd4d",
       "producer": null,
-      "region": null,
+      "region": "France",
       "vintage": null,
       "grape_varieties": null,
       "alcohol_content": null,
@@ -609,7 +1246,7 @@
           "image_url": null,
           "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=0fccf3368d&e=6b5a89dd4d",
           "producer": null,
-          "region": null,
+          "region": "France",
           "vintage": null,
           "grape_varieties": null,
           "alcohol_content": null,
@@ -638,7 +1275,7 @@
       "image_url": null,
       "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=29f3754321&e=6b5a89dd4d",
       "producer": null,
-      "region": null,
+      "region": "Italie",
       "vintage": null,
       "grape_varieties": null,
       "alcohol_content": null,
@@ -652,7 +1289,7 @@
           "image_url": null,
           "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=29f3754321&e=6b5a89dd4d",
           "producer": null,
-          "region": null,
+          "region": "Italie",
           "vintage": null,
           "grape_varieties": null,
           "alcohol_content": null,
@@ -681,7 +1318,7 @@
       "image_url": null,
       "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=e9410ea8b0&e=6b5a89dd4d",
       "producer": null,
-      "region": null,
+      "region": "Italie",
       "vintage": null,
       "grape_varieties": null,
       "alcohol_content": null,
@@ -695,7 +1332,7 @@
           "image_url": null,
           "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=e9410ea8b0&e=6b5a89dd4d",
           "producer": null,
-          "region": null,
+          "region": "Italie",
           "vintage": null,
           "grape_varieties": null,
           "alcohol_content": null,
@@ -724,7 +1361,7 @@
       "image_url": null,
       "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=d1bc9b8236&e=6b5a89dd4d",
       "producer": null,
-      "region": null,
+      "region": "France",
       "vintage": null,
       "grape_varieties": null,
       "alcohol_content": null,
@@ -738,184 +1375,12 @@
           "image_url": null,
           "link": "https://grandcellier.us7.list-manage.com/track/click?u=4f9e6a46d4b6e3706cea778f2&id=d1bc9b8236&e=6b5a89dd4d",
           "producer": null,
-          "region": null,
+          "region": "France",
           "vintage": null,
           "grape_varieties": null,
           "alcohol_content": null,
           "volume": null,
           "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-30-le-vin-dans-les-voiles-0.html-la-mariole-2022",
-    "blockId": "file-2025-08-30-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-08-30T00:00:00.000Z",
-    "name": "La Mariole 2022",
-    "description": "La Mariole 2022 est un rouge du sud qui n’a rien de sage. Derrière son allure ensoleillée, on retrouve des arômes de fruits noirs, une petite touche de cuir et une finale poivrée qui met l’eau à la bouche. Servi bien frais, il se glisse parfaitement dans l’ambiance d’un BBQ, avec des côtes levées caramélisées ou un hamburger bien gourmand.",
-    "price": "24.70$",
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/42704e18-1dba-490d-97bd-1753d86f1fb5.png",
-    "link": null,
-    "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "La Mariole 2022",
-      "description": "La Mariole 2022 est un rouge du sud qui n’a rien de sage. Derrière son allure ensoleillée, on retrouve des arômes de fruits noirs, une petite touche de cuir et une finale poivrée qui met l’eau à la bouche. Servi bien frais, il se glisse parfaitement dans l’ambiance d’un BBQ, avec des côtes levées caramélisées ou un hamburger bien gourmand.",
-      "price": "24.70$",
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/42704e18-1dba-490d-97bd-1753d86f1fb5.png",
-      "link": null,
-      "producer": "Domaine Ledogar",
-      "region": null,
-      "vintage": "2022",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "La Mariole 2022",
-          "description": "La Mariole 2022 est un rouge du sud qui n’a rien de sage. Derrière son allure ensoleillée, on retrouve des arômes de fruits noirs, une petite touche de cuir et une finale poivrée qui met l’eau à la bouche. Servi bien frais, il se glisse parfaitement dans l’ambiance d’un BBQ, avec des côtes levées caramélisées ou un hamburger bien gourmand.",
-          "price": "24.70$",
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/42704e18-1dba-490d-97bd-1753d86f1fb5.png",
-          "link": null,
-          "producer": "Domaine Ledogar",
-          "region": null,
-          "vintage": "2022",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-30-le-vin-dans-les-voiles-0.html-excomungado-2021",
-    "blockId": "file-2025-08-30-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-08-30T00:00:00.000Z",
-    "name": "Excomungado 2021",
-    "description": "Avec Excomungado 2021, cap sur le Douro, mais oubliez l’image des rouges portugais costauds et boisés. Ici, aucun passage en fût : l’élevage se fait en cuve d’acier inoxydable, ce qui préserve une fraîcheur et un croquant irrésistibles. Le vin reste concentré, mais gagne en légèreté et en fluidité — parfait pour un repas festif où l’on multiplie les assiettes à partager.",
-    "price": "18.35$",
-    "image_url": null,
-    "link": null,
-    "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Excomungado 2021",
-      "description": "Avec Excomungado 2021, cap sur le Douro, mais oubliez l’image des rouges portugais costauds et boisés. Ici, aucun passage en fût : l’élevage se fait en cuve d’acier inoxydable, ce qui préserve une fraîcheur et un croquant irrésistibles. Le vin reste concentré, mais gagne en légèreté et en fluidité — parfait pour un repas festif où l’on multiplie les assiettes à partager.",
-      "price": "18.35$",
-      "image_url": null,
-      "link": null,
-      "producer": "Quinta Vale de Pios",
-      "region": null,
-      "vintage": "2021",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Excomungado 2021",
-          "description": "Avec Excomungado 2021, cap sur le Douro, mais oubliez l’image des rouges portugais costauds et boisés. Ici, aucun passage en fût : l’élevage se fait en cuve d’acier inoxydable, ce qui préserve une fraîcheur et un croquant irrésistibles. Le vin reste concentré, mais gagne en légèreté et en fluidité — parfait pour un repas festif où l’on multiplie les assiettes à partager.",
-          "price": "18.35$",
-          "image_url": null,
-          "link": null,
-          "producer": "Quinta Vale de Pios",
-          "region": null,
-          "vintage": "2021",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-30-le-vin-dans-les-voiles-0.html-livia-2022",
-    "blockId": "file-2025-08-30-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-08-30T00:00:00.000Z",
-    "name": "Livia 2022",
-    "description": "Pour un blanc vibrant d’émotion, Livia 2022, du projet Sous le Végétal, nous emmène sur l’île de Samos. Muscat salin et minéral, il conjugue profondeur, ampleur et élégance. Long en bouche, avec une finale gourmande, il gagne à être carafé pour révéler toute sa complexité. C’est le compagnon idéal des repas qui prennent leur temps, où la conversation coule aussi librement que le vin.",
-    "price": "37.25$",
-    "image_url": null,
-    "link": null,
-    "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Livia 2022",
-      "description": "Pour un blanc vibrant d’émotion, Livia 2022, du projet Sous le Végétal, nous emmène sur l’île de Samos. Muscat salin et minéral, il conjugue profondeur, ampleur et élégance. Long en bouche, avec une finale gourmande, il gagne à être carafé pour révéler toute sa complexité. C’est le compagnon idéal des repas qui prennent leur temps, où la conversation coule aussi librement que le vin.",
-      "price": "37.25$",
-      "image_url": null,
-      "link": null,
-      "producer": "Sous le Végétal",
-      "region": null,
-      "vintage": "2022",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Livia 2022",
-          "description": "Pour un blanc vibrant d’émotion, Livia 2022, du projet Sous le Végétal, nous emmène sur l’île de Samos. Muscat salin et minéral, il conjugue profondeur, ampleur et élégance. Long en bouche, avec une finale gourmande, il gagne à être carafé pour révéler toute sa complexité. C’est le compagnon idéal des repas qui prennent leur temps, où la conversation coule aussi librement que le vin.",
-          "price": "37.25$",
-          "image_url": null,
-          "link": null,
-          "producer": "Sous le Végétal",
-          "region": null,
-          "vintage": "2022",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-08-30-le-vin-dans-les-voiles-0.html-chablis-2022",
-    "blockId": "file-2025-08-30-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-08-30T00:00:00.000Z",
-    "name": "Chablis 2022",
-    "description": "Enfin, impossible de passer sous silence la noblesse de Chablis Duplessis 2022. Issu de parcelles face au Premier Cru Vaillons, ce vin droit et précis incarne l’élégance bourguignonne. Floral, minéral et doté d’un beau potentiel de garde, il s’accorde aussi bien aux apéros raffinés qu’aux plateaux de fruits de mer. Une valeur sûre qui apporte un accent d’élégance à toute tablée.",
-    "price": "53.75$",
-    "image_url": null,
-    "link": null,
-    "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Chablis 2022",
-      "description": "Enfin, impossible de passer sous silence la noblesse de Chablis Duplessis 2022. Issu de parcelles face au Premier Cru Vaillons, ce vin droit et précis incarne l’élégance bourguignonne. Floral, minéral et doté d’un beau potentiel de garde, il s’accorde aussi bien aux apéros raffinés qu’aux plateaux de fruits de mer. Une valeur sûre qui apporte un accent d’élégance à toute tablée.",
-      "price": "53.75$",
-      "image_url": null,
-      "link": null,
-      "producer": "Caves Duplessis",
-      "region": null,
-      "vintage": "2022",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Chablis 2022",
-          "description": "Enfin, impossible de passer sous silence la noblesse de Chablis Duplessis 2022. Issu de parcelles face au Premier Cru Vaillons, ce vin droit et précis incarne l’élégance bourguignonne. Floral, minéral et doté d’un beau potentiel de garde, il s’accorde aussi bien aux apéros raffinés qu’aux plateaux de fruits de mer. Une valeur sûre qui apporte un accent d’élégance à toute tablée.",
-          "price": "53.75$",
-          "image_url": null,
-          "link": null,
-          "producer": "Caves Duplessis",
-          "region": null,
-          "vintage": "2022",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
