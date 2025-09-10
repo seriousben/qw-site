@@ -45,7 +45,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "L'Alsace Pinot Noir 'Argiles Rouges' est un petit bijou léger et élégant, offrant une complexité fascinante de petits fruits croquants et épicés, enveloppés dans des tannins tendres et mûrs, incarnant la pureté du fruit dans chaque gorgée."
+    "summary": "L'Alsace Pinot Noir 'Argiles Rouges' est un vin léger et élégant, offrant une complexité fascinante avec des arômes de petits fruits croquants et épicés, enveloppés dans des tannins tendres et mûrs, incarnant la pureté du fruit."
   },
   {
     "id": "file-2025-09-08-vin-dame-jeanne-0.html-bourgueil-merci-la-vie",
@@ -64,7 +64,7 @@
       "price": "Particulier 25.65 | Restaurant 22.31 | 15347875",
       "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
       "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=faa760c539&e=345e10d07b",
-      "producer": "Domaine de l'Oubli&eacute;e",
+      "producer": "Domaine de l'Oubliée",
       "region": "Bourgueil",
       "vintage": "2023",
       "grape_varieties": [
@@ -80,7 +80,7 @@
           "price": "Particulier 25.65 | Restaurant 22.31 | 15347875",
           "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
           "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=faa760c539&e=345e10d07b",
-          "producer": "Domaine de l'Oubli&eacute;e",
+          "producer": "Domaine de l'Oubliée",
           "region": "Bourgueil",
           "vintage": "2023",
           "grape_varieties": [
@@ -93,7 +93,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Bourgueil 'Merci la Vie' est un Cabernet Franc velouté et délicat, aux arômes envoûtants de violettes et de fruits des bois, issu de vignes de quarante ans cultivées sur un terroir argilo-calcaire, offrant une expérience de pur plaisir."
+    "summary": "Le Bourgueil 'Merci la Vie' est un Cabernet Franc velouté et délicat, aux arômes envoûtants de violettes et de fruits des bois, issu de vignes de quarante ans et élevé en œuf béton pour une pureté inégalée."
   },
   {
     "id": "file-2025-09-05-info-symbiose-0.html-audace",
@@ -119,8 +119,8 @@
         "Pinot Blanc",
         "Riesling"
       ],
-      "alcohol_content": "12%",
-      "volume": "750ml",
+      "alcohol_content": null,
+      "volume": null,
       "disponibilite": null,
       "all_occurrences_raw_data": [
         {
@@ -136,21 +136,21 @@
             "Pinot Blanc",
             "Riesling"
           ],
-          "alcohol_content": "12%",
-          "volume": "750ml",
+          "alcohol_content": null,
+          "volume": null,
           "disponibilite": null
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Audace, un assemblage exclusif de Pinot Blanc et Riesling, incarne l'Alsace sous un nouveau jour, offrant des arômes de fruits de verger et une bouche fraîche et équilibrée, le tout issu d'un vignoble bio de plus de 40 ans."
+    "summary": "Audace, un assemblage exclusif de Pinot Blanc et Riesling, offre un bouquet de fruits de verger et une bouche fraîche et équilibrée, incarnant l'Alsace sous un jour nouveau et accessible."
   },
   {
     "id": "file-2025-09-05-info-symbiose-0.html-ficelle",
     "blockId": "file-2025-09-05-info-symbiose-0.html",
     "createdAt": "2025-09-05T00:00:00.000Z",
     "name": "Ficelle",
-    "description": null,
+    "description": "Ficelle 2023, un vin élaboré par Alexis Hudon, composé de Colombard, Melon de Bourgogne (Muscadet) et Folle blanche. Ce vin provient de la région de la Loire en France.",
     "price": "24,70 $",
     "image_url": "https://www.saq.com/media/catalog/product/1/4/14997761-1_1656005749.png",
     "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=3462&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=3uanZJQTG9ZMgVQ5hBAxhHf8co24-qi808hhfsG0_Nc",
@@ -158,7 +158,7 @@
     "disponibilite": null,
     "raw_data": {
       "name": "Ficelle",
-      "description": null,
+      "description": "Ficelle 2023, un vin élaboré par Alexis Hudon, composé de Colombard, Melon de Bourgogne (Muscadet) et Folle blanche. Ce vin provient de la région de la Loire en France.",
       "price": "24,70 $",
       "image_url": "https://www.saq.com/media/catalog/product/1/4/14997761-1_1656005749.png",
       "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=3462&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=3uanZJQTG9ZMgVQ5hBAxhHf8co24-qi808hhfsG0_Nc",
@@ -176,7 +176,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "Ficelle",
-          "description": null,
+          "description": "Ficelle 2023, un vin élaboré par Alexis Hudon, composé de Colombard, Melon de Bourgogne (Muscadet) et Folle blanche. Ce vin provient de la région de la Loire en France.",
           "price": "24,70 $",
           "image_url": "https://www.saq.com/media/catalog/product/1/4/14997761-1_1656005749.png",
           "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=3462&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=3uanZJQTG9ZMgVQ5hBAxhHf8co24-qi808hhfsG0_Nc",
@@ -201,7 +201,7 @@
     "blockId": "file-2025-09-05-info-symbiose-0.html",
     "createdAt": "2025-09-05T00:00:00.000Z",
     "name": "Riesling Le Dragon",
-    "description": null,
+    "description": "Riesling Le Dragon 2023, un vin de Josmeyer, 100% Riesling, provenant de la région d'Alsace en France.",
     "price": "58,75 $",
     "image_url": "https://www.saq.com/media/catalog/product/1/4/14503944-1_1658434840.png",
     "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=3176&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=79y6bsKIbiIvONdZtYVwDEFfJZAZM9P1kSVDcaVvXPY",
@@ -209,7 +209,7 @@
     "disponibilite": null,
     "raw_data": {
       "name": "Riesling Le Dragon",
-      "description": null,
+      "description": "Riesling Le Dragon 2023, un vin de Josmeyer, 100% Riesling, provenant de la région d'Alsace en France.",
       "price": "58,75 $",
       "image_url": "https://www.saq.com/media/catalog/product/1/4/14503944-1_1658434840.png",
       "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=3176&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=79y6bsKIbiIvONdZtYVwDEFfJZAZM9P1kSVDcaVvXPY",
@@ -225,7 +225,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "Riesling Le Dragon",
-          "description": null,
+          "description": "Riesling Le Dragon 2023, un vin de Josmeyer, 100% Riesling, provenant de la région d'Alsace en France.",
           "price": "58,75 $",
           "image_url": "https://www.saq.com/media/catalog/product/1/4/14503944-1_1658434840.png",
           "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=3176&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=79y6bsKIbiIvONdZtYVwDEFfJZAZM9P1kSVDcaVvXPY",
@@ -248,7 +248,7 @@
     "blockId": "file-2025-09-05-info-symbiose-0.html",
     "createdAt": "2025-09-05T00:00:00.000Z",
     "name": "Gevrey-Chambertin Mes Favorites",
-    "description": null,
+    "description": "Gevrey-Chambertin Mes Favorites 2022, un vin de Domaine Alain Burguet, composé de Pinot noir, provenant de la Côte de Nuits en France.",
     "price": "123,75 $",
     "image_url": "https://www.saq.com/media/catalog/product/1/5/15542697-1_1756912689.png",
     "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=8390&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=KCsBhpDomd8Xi2y600nd7V6QywL96y7ndqXCMMhko1k",
@@ -256,7 +256,7 @@
     "disponibilite": null,
     "raw_data": {
       "name": "Gevrey-Chambertin Mes Favorites",
-      "description": null,
+      "description": "Gevrey-Chambertin Mes Favorites 2022, un vin de Domaine Alain Burguet, composé de Pinot noir, provenant de la Côte de Nuits en France.",
       "price": "123,75 $",
       "image_url": "https://www.saq.com/media/catalog/product/1/5/15542697-1_1756912689.png",
       "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=8390&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=KCsBhpDomd8Xi2y600nd7V6QywL96y7ndqXCMMhko1k",
@@ -272,7 +272,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "Gevrey-Chambertin Mes Favorites",
-          "description": null,
+          "description": "Gevrey-Chambertin Mes Favorites 2022, un vin de Domaine Alain Burguet, composé de Pinot noir, provenant de la Côte de Nuits en France.",
           "price": "123,75 $",
           "image_url": "https://www.saq.com/media/catalog/product/1/5/15542697-1_1756912689.png",
           "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=8390&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=KCsBhpDomd8Xi2y600nd7V6QywL96y7ndqXCMMhko1k",
@@ -295,7 +295,7 @@
     "blockId": "file-2025-09-05-info-symbiose-0.html",
     "createdAt": "2025-09-05T00:00:00.000Z",
     "name": "Vermouth",
-    "description": null,
+    "description": "Vermouth, un produit de Menaud, provenant du Québec.",
     "price": "34,75 $",
     "image_url": "https://www.saq.com/media/catalog/product/1/5/15380780-1_1724094791.png",
     "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=6810&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=wqwkhae0iEmgnf0Rk4ApntvK4zavi03DxOzqdL3Szj8",
@@ -303,7 +303,7 @@
     "disponibilite": null,
     "raw_data": {
       "name": "Vermouth",
-      "description": null,
+      "description": "Vermouth, un produit de Menaud, provenant du Québec.",
       "price": "34,75 $",
       "image_url": "https://www.saq.com/media/catalog/product/1/5/15380780-1_1724094791.png",
       "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=6810&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=wqwkhae0iEmgnf0Rk4ApntvK4zavi03DxOzqdL3Szj8",
@@ -317,7 +317,7 @@
       "all_occurrences_raw_data": [
         {
           "name": "Vermouth",
-          "description": null,
+          "description": "Vermouth, un produit de Menaud, provenant du Québec.",
           "price": "34,75 $",
           "image_url": "https://www.saq.com/media/catalog/product/1/5/15380780-1_1724094791.png",
           "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1196339&idl=6810&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=wqwkhae0iEmgnf0Rk4ApntvK4zavi03DxOzqdL3Szj8",
@@ -341,7 +341,7 @@
     "description": "Issu de vignobles situés sur la fraîche région côtière du Cape South Coast, ce Sauvignon Blanc est vinifié en cuves inox à basse température pour préserver toute la pureté aromatique du cépage. La fermentation est lente et contrôlée, sans élevage sous bois, afin de conserver la fraîcheur et la tension du vin.",
     "price": "23,70$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_southern-right-cellars-sauvignon-blanc-walker-bay-2023-copie.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=a09732f991&e=2c9a262afa",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=430a0f14b1&e=2c9a262afa",
     "agence": "Noble Sélection",
     "disponibilite": null,
     "raw_data": {
@@ -349,7 +349,7 @@
       "description": "Issu de vignobles situés sur la fraîche région côtière du Cape South Coast, ce Sauvignon Blanc est vinifié en cuves inox à basse température pour préserver toute la pureté aromatique du cépage. La fermentation est lente et contrôlée, sans élevage sous bois, afin de conserver la fraîcheur et la tension du vin.",
       "price": "23,70$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_southern-right-cellars-sauvignon-blanc-walker-bay-2023-copie.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=a09732f991&e=2c9a262afa",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=430a0f14b1&e=2c9a262afa",
       "producer": "SOUTHERN RIGHT",
       "region": "Western Cape",
       "vintage": "2024",
@@ -357,7 +357,7 @@
         "Sauvignon Blanc"
       ],
       "alcohol_content": "13.5%",
-      "volume": "750ml",
+      "volume": null,
       "disponibilite": null,
       "all_occurrences_raw_data": [
         {
@@ -365,7 +365,7 @@
           "description": "Issu de vignobles situés sur la fraîche région côtière du Cape South Coast, ce Sauvignon Blanc est vinifié en cuves inox à basse température pour préserver toute la pureté aromatique du cépage. La fermentation est lente et contrôlée, sans élevage sous bois, afin de conserver la fraîcheur et la tension du vin.",
           "price": "23,70$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_southern-right-cellars-sauvignon-blanc-walker-bay-2023-copie.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=a09732f991&e=2c9a262afa",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=430a0f14b1&e=2c9a262afa",
           "producer": "SOUTHERN RIGHT",
           "region": "Western Cape",
           "vintage": "2024",
@@ -373,7 +373,7 @@
             "Sauvignon Blanc"
           ],
           "alcohol_content": "13.5%",
-          "volume": "750ml",
+          "volume": null,
           "disponibilite": null
         }
       ],
@@ -388,7 +388,7 @@
     "description": null,
     "price": "16,95$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_tutto-e-possible-terre-cevico.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=723c4f454f&e=2c9a262afa",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fc35352a0a&e=2c9a262afa",
     "agence": "Noble Sélection",
     "disponibilite": null,
     "raw_data": {
@@ -396,7 +396,7 @@
       "description": null,
       "price": "16,95$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_tutto-e-possible-terre-cevico.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=723c4f454f&e=2c9a262afa",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fc35352a0a&e=2c9a262afa",
       "producer": "TERRE CEVICO",
       "region": null,
       "vintage": null,
@@ -410,7 +410,7 @@
           "description": null,
           "price": "16,95$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_tutto-e-possible-terre-cevico.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=723c4f454f&e=2c9a262afa",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fc35352a0a&e=2c9a262afa",
           "producer": "TERRE CEVICO",
           "region": null,
           "vintage": null,
@@ -431,7 +431,7 @@
     "description": null,
     "price": "20,70$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_clos-des-fous-itata-2022-copie.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5915a95a61&e=2c9a262afa",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=b0fde2815b&e=2c9a262afa",
     "agence": "Noble Sélection",
     "disponibilite": null,
     "raw_data": {
@@ -439,7 +439,7 @@
       "description": null,
       "price": "20,70$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_clos-des-fous-itata-2022-copie.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5915a95a61&e=2c9a262afa",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=b0fde2815b&e=2c9a262afa",
       "producer": "CLOS DES FOUS",
       "region": null,
       "vintage": "2023",
@@ -453,7 +453,7 @@
           "description": null,
           "price": "20,70$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_clos-des-fous-itata-2022-copie.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5915a95a61&e=2c9a262afa",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=b0fde2815b&e=2c9a262afa",
           "producer": "CLOS DES FOUS",
           "region": null,
           "vintage": "2023",
@@ -474,7 +474,7 @@
     "description": null,
     "price": "23,65$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_izadi-reserva-2019.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=b116862e36&e=2c9a262afa",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ac959bb6ef&e=2c9a262afa",
     "agence": "Noble Sélection",
     "disponibilite": null,
     "raw_data": {
@@ -482,7 +482,7 @@
       "description": null,
       "price": "23,65$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_izadi-reserva-2019.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=b116862e36&e=2c9a262afa",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ac959bb6ef&e=2c9a262afa",
       "producer": "IZADI",
       "region": null,
       "vintage": "2020",
@@ -496,7 +496,7 @@
           "description": null,
           "price": "23,65$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_izadi-reserva-2019.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=b116862e36&e=2c9a262afa",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ac959bb6ef&e=2c9a262afa",
           "producer": "IZADI",
           "region": null,
           "vintage": "2020",
@@ -517,7 +517,7 @@
     "description": null,
     "price": "26,30$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_capture_180.jpg",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f04dad4de4&e=2c9a262afa",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=12507584a1&e=2c9a262afa",
     "agence": "Noble Sélection",
     "disponibilite": null,
     "raw_data": {
@@ -525,7 +525,7 @@
       "description": null,
       "price": "26,30$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_capture_180.jpg",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f04dad4de4&e=2c9a262afa",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=12507584a1&e=2c9a262afa",
       "producer": "DOMAINE LES GRANDS BOIS",
       "region": null,
       "vintage": "2022",
@@ -539,7 +539,7 @@
           "description": null,
           "price": "26,30$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_capture_180.jpg",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f04dad4de4&e=2c9a262afa",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=12507584a1&e=2c9a262afa",
           "producer": "DOMAINE LES GRANDS BOIS",
           "region": null,
           "vintage": "2022",
@@ -560,7 +560,7 @@
     "description": "Un parcellaire perché sur la colline de Saint-Romain sur calcaire affleurant, sur pente escarpée à 350m d'altitude, exposé sud-est. Fermentation et élevage en oeuf béton. Grande puissance, minéralité, énergie.",
     "price": "121.75$",
     "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
-    "link": null,
+    "link": "http://SAQ.com",
     "agence": "Vin Dame-Jeanne",
     "disponibilite": "SAQ",
     "raw_data": {
@@ -568,7 +568,7 @@
       "description": "Un parcellaire perché sur la colline de Saint-Romain sur calcaire affleurant, sur pente escarpée à 350m d'altitude, exposé sud-est. Fermentation et élevage en oeuf béton. Grande puissance, minéralité, énergie.",
       "price": "121.75$",
       "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
-      "link": null,
+      "link": "http://SAQ.com",
       "producer": "Domaine de Chassorney",
       "region": "Saint-Romain",
       "vintage": "2023",
@@ -582,7 +582,7 @@
           "description": "Un parcellaire perché sur la colline de Saint-Romain sur calcaire affleurant, sur pente escarpée à 350m d'altitude, exposé sud-est. Fermentation et élevage en oeuf béton. Grande puissance, minéralité, énergie.",
           "price": "121.75$",
           "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
-          "link": null,
+          "link": "http://SAQ.com",
           "producer": "Domaine de Chassorney",
           "region": "Saint-Romain",
           "vintage": "2023",
@@ -603,7 +603,7 @@
     "description": "Terroir exposé est/ sud-est, à 280-400m d'altitude sur sols marneux et calcaires. La parcelle la plus escarpée du village. Vignes de 50 ans. Macération d'un mois en grappes entière en mode infusion, et élevage barriques neutres pendant 1 an. Racé, tendu, authentique.",
     "price": "127.50$",
     "image_url": null,
-    "link": null,
+    "link": "http://SAQ.com",
     "agence": "Vin Dame-Jeanne",
     "disponibilite": "SAQ",
     "raw_data": {
@@ -611,7 +611,7 @@
       "description": "Terroir exposé est/ sud-est, à 280-400m d'altitude sur sols marneux et calcaires. La parcelle la plus escarpée du village. Vignes de 50 ans. Macération d'un mois en grappes entière en mode infusion, et élevage barriques neutres pendant 1 an. Racé, tendu, authentique.",
       "price": "127.50$",
       "image_url": null,
-      "link": null,
+      "link": "http://SAQ.com",
       "producer": "Domaine de Chassorney",
       "region": "Saint-Romain",
       "vintage": "2023",
@@ -625,7 +625,7 @@
           "description": "Terroir exposé est/ sud-est, à 280-400m d'altitude sur sols marneux et calcaires. La parcelle la plus escarpée du village. Vignes de 50 ans. Macération d'un mois en grappes entière en mode infusion, et élevage barriques neutres pendant 1 an. Racé, tendu, authentique.",
           "price": "127.50$",
           "image_url": null,
-          "link": null,
+          "link": "http://SAQ.com",
           "producer": "Domaine de Chassorney",
           "region": "Saint-Romain",
           "vintage": "2023",
@@ -646,7 +646,7 @@
     "description": "Macération d'un mois en grappes entières en mode infusion, et élevage barriques neutres pendant 1 an. Fin, croquant, envoutant.",
     "price": "155.25$",
     "image_url": null,
-    "link": null,
+    "link": "http://SAQ.com",
     "agence": "Vin Dame-Jeanne",
     "disponibilite": "SAQ",
     "raw_data": {
@@ -654,7 +654,7 @@
       "description": "Macération d'un mois en grappes entières en mode infusion, et élevage barriques neutres pendant 1 an. Fin, croquant, envoutant.",
       "price": "155.25$",
       "image_url": null,
-      "link": null,
+      "link": "http://SAQ.com",
       "producer": "Domaine de Chassorney",
       "region": "Volnay",
       "vintage": "2023",
@@ -668,7 +668,7 @@
           "description": "Macération d'un mois en grappes entières en mode infusion, et élevage barriques neutres pendant 1 an. Fin, croquant, envoutant.",
           "price": "155.25$",
           "image_url": null,
-          "link": null,
+          "link": "http://SAQ.com",
           "producer": "Domaine de Chassorney",
           "region": "Volnay",
           "vintage": "2023",
@@ -689,7 +689,7 @@
     "description": "Macération d'un mois en grappes entières en mode infusion, et élevage barriques neutres pendant 1 an. Précis, généreux, de la soie liquide.",
     "price": "172$",
     "image_url": null,
-    "link": null,
+    "link": "http://SAQ.com",
     "agence": "Vin Dame-Jeanne",
     "disponibilite": "SAQ",
     "raw_data": {
@@ -697,7 +697,7 @@
       "description": "Macération d'un mois en grappes entières en mode infusion, et élevage barriques neutres pendant 1 an. Précis, généreux, de la soie liquide.",
       "price": "172$",
       "image_url": null,
-      "link": null,
+      "link": "http://SAQ.com",
       "producer": "Domaine de Chassorney",
       "region": "Pommard",
       "vintage": "2023",
@@ -711,7 +711,7 @@
           "description": "Macération d'un mois en grappes entières en mode infusion, et élevage barriques neutres pendant 1 an. Précis, généreux, de la soie liquide.",
           "price": "172$",
           "image_url": null,
-          "link": null,
+          "link": "http://SAQ.com",
           "producer": "Domaine de Chassorney",
           "region": "Pommard",
           "vintage": "2023",
@@ -745,7 +745,7 @@
       "region": "Vallée du Rhône",
       "vintage": "2023",
       "grape_varieties": [
-        "viognier"
+        "Viognier"
       ],
       "alcohol_content": null,
       "volume": null,
@@ -761,7 +761,7 @@
           "region": "Vallée du Rhône",
           "vintage": "2023",
           "grape_varieties": [
-            "viognier"
+            "Viognier"
           ],
           "alcohol_content": null,
           "volume": null,
@@ -770,7 +770,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Condrieu Côte-Châtillon 2023, élaboré à 100% à partir de Viognier, est un vin blanc d'exception qui révèle une minéralité remarquable et des arômes délicats de fleurs blanches et de poire, incarnant la quintessence de son terroir historique du Rhône septentrional."
+    "summary": "Le Condrieu Côte-Châtillon 2023 de Xavier Gérard est un vin blanc d'exception, 100% Viognier, révélant une minéralité remarquable et des arômes délicats de fleurs blanches et de poire, incarnant la quintessence de son terroir historique."
   },
   {
     "id": "file-2025-09-04-le-vin-dans-les-voiles-0.html-chablis-premier-cru-vaillons-2021",
@@ -814,7 +814,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Chablis Premier Cru Vaillons 2021, un micro-lot d'exception, offre une minéralité fossile et un nez exotique, séduisant par sa bouche ample et sa capacité à évoluer avec le temps."
+    "summary": "Le Chablis Premier Cru Vaillons 2021 est un micro-lot d'exception, alliant une minéralité fossile à des arômes exotiques, offrant une bouche ample et séduisante, à apprécier dès maintenant ou à laisser évoluer."
   },
   {
     "id": "file-2025-09-04-le-vin-dans-les-voiles-0.html-elemental-2022",
@@ -858,7 +858,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "L'Elemental 2022, un pétillant naturel catalan, se distingue par sa vivacité salée et fruitée, invitant à prolonger les soirées dans une atmosphère de joie et de légèreté."
+    "summary": "Elemental 2022 est un pétillant naturel catalan, vif et salin, qui invite à savourer chaque instant avec une touche de fruité et de fraîcheur."
   },
   {
     "id": "file-2025-09-04-le-vin-dans-les-voiles-0.html-o-passaro-solto-blanc-2024",
@@ -902,7 +902,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "L'O Pàssaro Solto blanc 2024, un vin portugais sec et élégant, offre une fraîcheur minérale et lumineuse, idéal pour rehausser toutes les occasions tout au long de l'année."
+    "summary": "O Pàssaro Solto blanc 2024, un vin portugais sec et élégant, déploie une fraîcheur minérale et lumineuse, idéal pour toutes les occasions tout au long de l'année."
   },
   {
     "id": "file-2025-09-04-rezin-0.html-bianco-toscana-lunatico-2024",
@@ -946,7 +946,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Bianco Toscana Lunatico 2024, fruit d'une tradition familiale enracinée à Castellina in Chianti, incarne l'expression authentique du terroir, cultivé en agriculture biologique, révélant la singularité de chaque millésime dans un cadre exceptionnel."
+    "summary": "Le Bianco Toscana Lunatico 2024, issu d'un domaine familial en Toscane, incarne l'expression authentique de son terroir, alliant tradition et agriculture biologique pour offrir un vin naturel d'exception."
   },
   {
     "id": "file-2025-09-04-vin-dame-jeanne-0.html-susucaru-rosato",
@@ -1002,6 +1002,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Susucaru Rosato, un assemblage vibrant de cépages siciliens, révèle une tonicité séduisante grâce à une macération douce et un élevage sur lies, offrant une expérience aromatique unique et rafraîchissante."
+    "summary": "Le Susucaru Rosato, un assemblage vibrant de cépages siciliens, offre une tonicité rafraîchissante grâce à une macération douce et un élevage sur lies, révélant toute la richesse aromatique de l'Etna."
   }
 ]
