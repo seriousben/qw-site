@@ -1,5 +1,105 @@
 [
   {
+    "id": "file-2025-09-18-vin-dame-jeanne-0.html-grande-reserve",
+    "blockId": "file-2025-09-18-vin-dame-jeanne-0.html",
+    "createdAt": "2025-09-18T00:00:00.000Z",
+    "name": "Grande Réserve",
+    "description": "Cette cuvée d'entrée de gamme est composée surtout issue de somptueux Pinot Noir (70%) de Rilly-la-Montagne, avec un peu de Chardonnay (30%). Comme toujours, 100% du vin est élevé en foudres, la signature du domaine. Après 10 mois, les vins se retrouvent sur lattes pendant 3 ans dans la cave souterraine. Cet arrivage est issu de la récolte 2022 avec vins de réserve 2020 et 2021. Dosage de 7g./L.",
+    "price": "Particulier 95.50 | Restaurant 83.06",
+    "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/d55e1e5d-f247-4aca-b162-f02ca7750278.png",
+    "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=d91d1ccb78&e=345e10d07b",
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Grande Réserve",
+      "description": "Cette cuvée d'entrée de gamme est composée surtout issue de somptueux Pinot Noir (70%) de Rilly-la-Montagne, avec un peu de Chardonnay (30%). Comme toujours, 100% du vin est élevé en foudres, la signature du domaine. Après 10 mois, les vins se retrouvent sur lattes pendant 3 ans dans la cave souterraine. Cet arrivage est issu de la récolte 2022 avec vins de réserve 2020 et 2021. Dosage de 7g./L.",
+      "price": "Particulier 95.50 | Restaurant 83.06",
+      "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/d55e1e5d-f247-4aca-b162-f02ca7750278.png",
+      "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=d91d1ccb78&e=345e10d07b",
+      "producer": "Champagne Vilmart",
+      "region": "Rilly-la-Montagne 1er cru",
+      "vintage": null,
+      "grape_varieties": [
+        "Pinot Noir",
+        "Chardonnay"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Grande Réserve",
+          "description": "Cette cuvée d'entrée de gamme est composée surtout issue de somptueux Pinot Noir (70%) de Rilly-la-Montagne, avec un peu de Chardonnay (30%). Comme toujours, 100% du vin est élevé en foudres, la signature du domaine. Après 10 mois, les vins se retrouvent sur lattes pendant 3 ans dans la cave souterraine. Cet arrivage est issu de la récolte 2022 avec vins de réserve 2020 et 2021. Dosage de 7g./L.",
+          "price": "Particulier 95.50 | Restaurant 83.06",
+          "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/d55e1e5d-f247-4aca-b162-f02ca7750278.png",
+          "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=d91d1ccb78&e=345e10d07b",
+          "producer": "Champagne Vilmart",
+          "region": "Rilly-la-Montagne 1er cru",
+          "vintage": null,
+          "grape_varieties": [
+            "Pinot Noir",
+            "Chardonnay"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "La Grande Réserve, un assemblage élégant de 70% Pinot Noir et 30% Chardonnay, révèle la signature du domaine avec son élevage en foudres et une maturation de trois ans, offrant une complexité raffinée et une fraîcheur persistante."
+  },
+  {
+    "id": "file-2025-09-18-vin-dame-jeanne-0.html-emotion",
+    "blockId": "file-2025-09-18-vin-dame-jeanne-0.html",
+    "createdAt": "2025-09-18T00:00:00.000Z",
+    "name": "Émotion",
+    "description": "Issu des plus vieilles vignes du domaine, d'une soixantaine d'années, un assemblage de Pinot Noir (60%) en méthode Saignée, et de Chardonnay (40%) sur les terroirs calcaires et caillouteux de Rilly-la-Montagne, en Premier Cru. Élevage de 10 mois en fûts de 228L, sans fermentation malolactique. 60 mois sur lies en cave après la mise en bouteille. Dosage 8g/L. 94 pts. Vinous",
+    "price": "Particulier 233.25 | Restaurant 202.87",
+    "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/11f05b86-753b-c1b8-1190-e61ca65b8032.gif",
+    "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=95649296bc&e=345e10d07b",
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Émotion",
+      "description": "Issu des plus vieilles vignes du domaine, d'une soixantaine d'années, un assemblage de Pinot Noir (60%) en méthode Saignée, et de Chardonnay (40%) sur les terroirs calcaires et caillouteux de Rilly-la-Montagne, en Premier Cru. Élevage de 10 mois en fûts de 228L, sans fermentation malolactique. 60 mois sur lies en cave après la mise en bouteille. Dosage 8g/L. 94 pts. Vinous",
+      "price": "Particulier 233.25 | Restaurant 202.87",
+      "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/11f05b86-753b-c1b8-1190-e61ca65b8032.gif",
+      "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=95649296bc&e=345e10d07b",
+      "producer": "Champagne Vilmart",
+      "region": "Rilly-la-Montagne 1er cru",
+      "vintage": "2016",
+      "grape_varieties": [
+        "Pinot Noir",
+        "Chardonnay"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Émotion",
+          "description": "Issu des plus vieilles vignes du domaine, d'une soixantaine d'années, un assemblage de Pinot Noir (60%) en méthode Saignée, et de Chardonnay (40%) sur les terroirs calcaires et caillouteux de Rilly-la-Montagne, en Premier Cru. Élevage de 10 mois en fûts de 228L, sans fermentation malolactique. 60 mois sur lies en cave après la mise en bouteille. Dosage 8g/L. 94 pts. Vinous",
+          "price": "Particulier 233.25 | Restaurant 202.87",
+          "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/11f05b86-753b-c1b8-1190-e61ca65b8032.gif",
+          "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=95649296bc&e=345e10d07b",
+          "producer": "Champagne Vilmart",
+          "region": "Rilly-la-Montagne 1er cru",
+          "vintage": "2016",
+          "grape_varieties": [
+            "Pinot Noir",
+            "Chardonnay"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Émotion, un vin d'exception issu des plus vieilles vignes, marie 60% de Pinot Noir et 40% de Chardonnay, offrant une complexité aromatique sublime après 60 mois sur lies, couronné par 94 points de Vinous."
+  },
+  {
     "id": "file-2025-09-17-vin-dame-jeanne-0.html-cotes-du-jura-meme-marie-2020",
     "blockId": "file-2025-09-17-vin-dame-jeanne-0.html",
     "createdAt": "2025-09-17T00:00:00.000Z",
@@ -47,7 +147,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Côtes du Jura 'Mémé Marie' 2020 marie avec élégance 75% de Chardonnay et 25% de Savagnin, offrant un bouquet enchanteur de fleurs sauvages et de crème fraîche aux agrumes, le tout sublimé par un élevage de 24 mois sur lies."
+    "summary": "Le Côtes du Jura 'Mémé Marie' 2020, un hommage à la grand-mère, allie 75% Chardonnay et 25% Savagnin, offrant un éclat floral et une richesse crémeuse après 24 mois d'élevage sur lies."
   },
   {
     "id": "file-2025-09-17-vin-dame-jeanne-0.html-cotes-du-jura-chardonnay-les-gravieres-36-mois-202",
@@ -95,7 +195,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Chardonnay 'Les Gravières' 2020, issu de vieilles vignes de 60 ans sur des calcaires et graviers, révèle une singularité fascinante, avec un élevage de 36 mois en fûts de 400L qui souligne la minéralité unique du Jura."
+    "summary": "Le Chardonnay 'Les Gravières' 2020, issu de vieilles vignes sur des calcaires, se distingue par son élevage de 36 mois en fût, révélant une complexité unique et un caractère fascinant du Jura."
   },
   {
     "id": "file-2025-09-17-vin-dame-jeanne-0.html-cotes-du-jura-savagnin-puits-st-pierre-41-mois-202",
@@ -143,7 +243,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Savagnin 'Puits St Pierre' 2020, issu de vieilles vignes cultivées sur des schistes bleutés, s'épanouit après un élevage de 41 mois, offrant une complexité rare et une pureté inégalée, mise en bouteille avec soin."
+    "summary": "Le Savagnin 'Puits St Pierre' 2020, issu de vieilles vignes sur schistes, offre une expérience unique avec 41 mois d'élevage, révélant une profondeur et une pureté exceptionnelles."
   },
   {
     "id": "file-2025-09-17-vin-dame-jeanne-0.html-gamay-barbe-fleurie-2022",
@@ -191,7 +291,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Gamay 'Barbe Fleurie' 2022, issu de vieilles vignes sur des terroirs de granite, séduit par sa fraîcheur et sa gourmandise, grâce à une vinification en macération carbonique et un élevage en demi-muids."
+    "summary": "Le Gamay 'Barbe Fleurie' 2022, issu de vieilles vignes sur granite, enchante par sa macération carbonique et son élevage en demi-muids, offrant une expression fruitée irrésistible."
   },
   {
     "id": "file-2025-09-17-vin-dame-jeanne-0.html-poulsard-les-vignasses-2022",
@@ -239,7 +339,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Poulsard 'Les Vignasses' 2022, issu d'une parcelle de marnes rouges, se distingue par sa délicatesse et son croquant, avec une fermentation partielle en grappes entières qui lui confère une touche poivrée unique."
+    "summary": "Le Poulsard 'Les Vignasses' 2022, délicat et croquant, se distingue par sa fermentation partielle en grappes entières, offrant une belle fraîcheur et des notes poivrées."
   },
   {
     "id": "file-2025-09-17-vin-dame-jeanne-0.html-pinot-noir-cuvee-909-2022",
@@ -287,7 +387,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Pinot Noir 'Cuvée 909' 2022, pur et élégant, provient de vignes argilo-calcaires et révèle une complexité raffinée grâce à une fermentation en mille-feuille et un élevage de 12 mois en demi-muids."
+    "summary": "La Cuvée 909, un pur Pinot Noir de Menétru-le-Vignoble, révèle une belle complexité grâce à sa fermentation en mille-feuille et son élevage de 12 mois en demi-muids."
   },
   {
     "id": "file-2025-09-13-le-vin-dans-les-voiles-0.html-pinot-noir-2023",
@@ -331,7 +431,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Pinot Noir 2023, vibrant et rafraîchissant, offre une explosion de fraises mûres et de griottes, avec une légèreté envoûtante qui invite à savourer chaque gorgée sans hésitation."
+    "summary": "Le Pinot Noir 2023, vibrant et léger, offre une explosion de fraises mûres et de griotte, avec une touche de menthe, invitant à savourer chaque gorgée avec insouciance."
   },
   {
     "id": "file-2025-09-13-le-vin-dans-les-voiles-0.html-la-mariole-2022",
@@ -375,7 +475,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Mariole 2022, gorgé de fruits noirs juteux et d'une touche cuirée, se révèle charmeur et gourmand, parfait pour accompagner des mets décadents tout en captivant les convives."
+    "summary": "La Mariole 2022, un rouge ensoleillé aux fruits noirs juteux et à la touche cuirée, séduit par son charme poivré et sa gourmandise, s'imposant à table avec aisance."
   },
   {
     "id": "file-2025-09-13-le-vin-dans-les-voiles-0.html-excomungado-2021",
@@ -419,7 +519,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "L'Excomungado 2021, un rouge portugais éclatant et léger, révèle la pureté du fruit avec des notes de fruits rouges et noirs, incarnant un renouveau vibrant dans le Douro."
+    "summary": "L'Excomungado 2021, un rouge portugais léger et rafraîchissant, révèle la pureté du fruit avec des notes éclatantes de fruits rouges et noirs, incarnant un nouveau souffle dans le Douro."
   },
   {
     "id": "file-2025-09-13-le-vin-dans-les-voiles-0.html-livia-2022",
@@ -463,7 +563,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Livia 2022, un blanc aérien et salin, évoque la mer et la pierre, offrant une ampleur délicieuse et une finale gourmande qui transporte vers une île enchanteresse."
+    "summary": "Le Livia 2022, un blanc aérien et salin, évoque la mer et la pierre, offrant une ampleur délicieuse et une finale gourmande qui invite à la contemplation."
   },
   {
     "id": "file-2025-09-12-bambara-selection-0.html-savennieres-roche-aux-moines-2022",
@@ -475,7 +575,7 @@
     "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=86805b72df&e=a09c2580fc",
     "agence": "Bambara Selection",
-    "disponibilite": "SAQ",
+    "disponibilite": null,
     "raw_data": {
       "name": "Savennières Roche-aux-Moines 2022",
       "description": "La cuvée phare du mythique Domaines aux Moines. À n'absolument pas manquer!! Les quantités sont très, très, limitées. Ne tardez pas!! Quand la Revue du Vin de France salue un domaine avec deux étoiles et son vin avec 95 points et un Coup de Cœur dans son Guide Vert 2026, c’est que quelque chose de grand se passe. Et ce quelque chose, c’est le Savennières Roche-aux-Moines 2022 du Domaine aux Moines! Perché sur la butte mythique de la Roche-aux-Moines, face à la Loire, le domaine exploite un terroir de schistes et de grès où le chenin exprime toute sa noblesse. Des vignes d’une cinquantaine d’années, conduites en bio depuis 2006 et en biodynamie depuis 2017, qui donnent une matière dense, vibrante, et toujours d’une grande pureté. La vinification se fait en levures indigènes, avec une fermentation en cuve inox, puis un élevage de douze mois en vieux foudres et six mois en cuves : tout est pensé pour respecter le fruit et révéler le terroir, sans artifice. Il en résulte un vin tout simplement éblouissant. Le nez dévoile une intensité aromatique rare : poire mûre, pomme juteuse, cire d’abeille, notes fumées délicates. En bouche, l’équilibre est magistral : ampleur et profondeur, tension saline qui dynamise, accents poivrés qui relancent la finale. Et quelle finale ! Longue, lumineuse, avec des nuances de fruits blancs mûrs et de fleurs mellifères qui s’étirent sans fin. C’est un vin de gastronomie au sens plein du terme. Sur une table, il magnifie des poissons nobles, des fruits de mer, un risotto à la truffe blanche ou un ris de veau délicat. Mais il a aussi cette force tranquille qui lui permettra de traverser les années : dans cinq, dix, quinze ans, ce 2022 sera toujours vibrant, toujours lumineux! Un grand vin, un vrai. Un joyau de Loire et un trésor pour votre cave!",
@@ -490,7 +590,7 @@
       ],
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": "SAQ",
+      "disponibilite": null,
       "all_occurrences_raw_data": [
         {
           "name": "Savennières Roche-aux-Moines 2022",
@@ -506,12 +606,12 @@
           ],
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": "SAQ"
+          "disponibilite": null
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Savennières Roche-aux-Moines 2022, un joyau du Domaine aux Moines, révèle une intensité aromatique rare et un équilibre magistral, offrant une profondeur et une longueur lumineuse qui en font un vin de gastronomie incontournable."
+    "summary": "Le Savennières Roche-aux-Moines 2022, un joyau du Domaine aux Moines, se distingue par sa pureté et sa complexité, offrant une intensité aromatique rare et une finale lumineuse, un véritable trésor pour les amateurs de gastronomie."
   },
   {
     "id": "file-2025-09-12-bambara-selection-0.html-fixin-village-2022",
@@ -520,15 +620,15 @@
     "name": "Fixin Village 2022",
     "description": "Le Domaine Pierre Gelin signe avec son Fixin Village 2022 une cuvée délicate et racée, qui révèle une expression plus élégante de l’appellation. Une porte d’entrée idéale pour découvrir ce terroir fascinant de la Côte de Nuits! Quantités limitées! Le Fixin Village du Domaine Pierre Gelin s’impose depuis longtemps comme une référence de l’appellation. Là où Fixin est souvent associé à des vins un peu plus austères, la famille Gelin a toujours su en révéler une facette plus élégante, raffinée et harmonieuse. Le millésime 2022 confirme ce style avec brio. Issu de plusieurs parcelles du village, ce Pinot Noir provient de vignes âgées en moyenne de 35 ans, travaillées avec des rendements volontairement limités (environ 30 hl/ha) afin d’obtenir une concentration naturelle. Le vin se présente dans une robe grenat lumineuse, d’intensité moyenne mais éclatante. Le nez, expressif et précis, associe des arômes de fruits rouges frais à des notes d’épices douces et une touche mentholée distinctive qui signe le style du domaine. En bouche, le vin déploie une matière juteuse et équilibrée. L’attaque est marquée par la gourmandise du fruit, puis la structure s’installe avec des tannins fermes mais parfaitement intégrés, apportant de la tenue sans rigidité. La finale, longue et persistante, évoque le noyau de cerise et la réglisse, dans un registre à la fois racé et accessible. C’est un vin qui s’apprécie dès aujourd’hui pour son éclat et son équilibre, mais qui saura aussi évoluer avec grâce sur quelques années de garde. Un Fixin qui illustre parfaitement le savoir-faire du domaine : offrir des vins à la fois authentiques, élégants et fidèles à leur terroir, tout en restant d’un plaisir immédiat. Une valeur sûre pour découvrir ou redécouvrir cette appellation de la Côte de Nuits.",
     "price": "79,50$",
-    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/5315ddb6-42c8-dd27-44d6-c9247cef49d7.png",
+    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/68feb318-0870-10cc-8aa4-d7643570f712.jpg",
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=d4af917265&e=a09c2580fc",
     "agence": "Bambara Selection",
-    "disponibilite": "SAQ",
+    "disponibilite": null,
     "raw_data": {
       "name": "Fixin Village 2022",
       "description": "Le Domaine Pierre Gelin signe avec son Fixin Village 2022 une cuvée délicate et racée, qui révèle une expression plus élégante de l’appellation. Une porte d’entrée idéale pour découvrir ce terroir fascinant de la Côte de Nuits! Quantités limitées! Le Fixin Village du Domaine Pierre Gelin s’impose depuis longtemps comme une référence de l’appellation. Là où Fixin est souvent associé à des vins un peu plus austères, la famille Gelin a toujours su en révéler une facette plus élégante, raffinée et harmonieuse. Le millésime 2022 confirme ce style avec brio. Issu de plusieurs parcelles du village, ce Pinot Noir provient de vignes âgées en moyenne de 35 ans, travaillées avec des rendements volontairement limités (environ 30 hl/ha) afin d’obtenir une concentration naturelle. Le vin se présente dans une robe grenat lumineuse, d’intensité moyenne mais éclatante. Le nez, expressif et précis, associe des arômes de fruits rouges frais à des notes d’épices douces et une touche mentholée distinctive qui signe le style du domaine. En bouche, le vin déploie une matière juteuse et équilibrée. L’attaque est marquée par la gourmandise du fruit, puis la structure s’installe avec des tannins fermes mais parfaitement intégrés, apportant de la tenue sans rigidité. La finale, longue et persistante, évoque le noyau de cerise et la réglisse, dans un registre à la fois racé et accessible. C’est un vin qui s’apprécie dès aujourd’hui pour son éclat et son équilibre, mais qui saura aussi évoluer avec grâce sur quelques années de garde. Un Fixin qui illustre parfaitement le savoir-faire du domaine : offrir des vins à la fois authentiques, élégants et fidèles à leur terroir, tout en restant d’un plaisir immédiat. Une valeur sûre pour découvrir ou redécouvrir cette appellation de la Côte de Nuits.",
       "price": "79,50$",
-      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/5315ddb6-42c8-dd27-44d6-c9247cef49d7.png",
+      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/68feb318-0870-10cc-8aa4-d7643570f712.jpg",
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=d4af917265&e=a09c2580fc",
       "producer": "Domaine Pierre Gelin",
       "region": "Fixin",
@@ -538,13 +638,13 @@
       ],
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": "SAQ",
+      "disponibilite": null,
       "all_occurrences_raw_data": [
         {
           "name": "Fixin Village 2022",
           "description": "Le Domaine Pierre Gelin signe avec son Fixin Village 2022 une cuvée délicate et racée, qui révèle une expression plus élégante de l’appellation. Une porte d’entrée idéale pour découvrir ce terroir fascinant de la Côte de Nuits! Quantités limitées! Le Fixin Village du Domaine Pierre Gelin s’impose depuis longtemps comme une référence de l’appellation. Là où Fixin est souvent associé à des vins un peu plus austères, la famille Gelin a toujours su en révéler une facette plus élégante, raffinée et harmonieuse. Le millésime 2022 confirme ce style avec brio. Issu de plusieurs parcelles du village, ce Pinot Noir provient de vignes âgées en moyenne de 35 ans, travaillées avec des rendements volontairement limités (environ 30 hl/ha) afin d’obtenir une concentration naturelle. Le vin se présente dans une robe grenat lumineuse, d’intensité moyenne mais éclatante. Le nez, expressif et précis, associe des arômes de fruits rouges frais à des notes d’épices douces et une touche mentholée distinctive qui signe le style du domaine. En bouche, le vin déploie une matière juteuse et équilibrée. L’attaque est marquée par la gourmandise du fruit, puis la structure s’installe avec des tannins fermes mais parfaitement intégrés, apportant de la tenue sans rigidité. La finale, longue et persistante, évoque le noyau de cerise et la réglisse, dans un registre à la fois racé et accessible. C’est un vin qui s’apprécie dès aujourd’hui pour son éclat et son équilibre, mais qui saura aussi évoluer avec grâce sur quelques années de garde. Un Fixin qui illustre parfaitement le savoir-faire du domaine : offrir des vins à la fois authentiques, élégants et fidèles à leur terroir, tout en restant d’un plaisir immédiat. Une valeur sûre pour découvrir ou redécouvrir cette appellation de la Côte de Nuits.",
           "price": "79,50$",
-          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/5315ddb6-42c8-dd27-44d6-c9247cef49d7.png",
+          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/68feb318-0870-10cc-8aa4-d7643570f712.jpg",
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=d4af917265&e=a09c2580fc",
           "producer": "Domaine Pierre Gelin",
           "region": "Fixin",
@@ -554,27 +654,27 @@
           ],
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": "SAQ"
+          "disponibilite": null
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Fixin Village 2022 du Domaine Pierre Gelin, délicat et racé, offre une expression élégante du terroir de la Côte de Nuits, avec des arômes de fruits rouges frais et une finale persistante qui évoque la cerise et la réglisse."
+    "summary": "Le Fixin Village 2022 du Domaine Pierre Gelin, un Pinot Noir élégant et racé, dévoile des arômes de fruits rouges frais et d'épices douces, offrant une matière juteuse et une finale persistante, idéal pour apprécier la Côte de Nuits."
   },
   {
     "id": "file-2025-09-12-domaine-du-nival-0.html-un-de-ces-quatre-2024",
     "blockId": "file-2025-09-12-domaine-du-nival-0.html",
     "createdAt": "2025-09-12T00:00:00.000Z",
     "name": "Un de ces quatre 2024",
-    "description": "Une bouteille de vin québécois qui fera le bonheur de vos derniers apéros sous le soleil ou de vos soupers réconfortants du début d'automne.",
+    "description": "Un de ces quatre 2024 est un vin québécois qui fait partie d'une caisse d'automne contenant 2 bouteilles. Il est parfait pour les apéros sous le soleil ou les soupers réconfortants du début d'automne.",
     "price": null,
     "image_url": null,
     "link": "https://www.nival.ca/_t/c/v3/AAAvA_sZ3FYOnd7wJLvGIF41ouXbYIyMzugdKogEbZPnjoW2-j-v4NwGWw5vColkLWFWmmkLqR4KHKL2V_SbVU0LEZe4m3GavlwtiDfeLJJVyCIKDfkMOjVDNbnUuGOcf6TIvlU-jy3k5CGv0zmzsL2hGop8M3cb9YhWN5DZBCKh2Sa-cf9BS0Ntq0qyl7GIcHs3CTAmpzM_We7tej0-eWBbGYvP6-bZJ-6qkiom0cQuxtW9DHriQVF8lNY3FR3nnxKcriZ2MHnsyRX5JazGsbnFhN56GqvgayJoEFXKimsgRdL_QZIqmvkT1XvuQFFalkF-CZztZ4ocNtry4Aq0SX0KdppB8VP8lvU-tYQYXajxajFaIzI1FVAcSlGsIBmgthy859vkXzcK9kY9Jar0c4b9pc8tEULYVFznKFjIhHho7NIFtUfHhrO5heDwOym2XQPFmKrY-KlCr7ccrmE_W8IPiAcCMLc6mwYVgLY0f-_M00duMeFFkKV4V2IKTjP8TE3UuWrETvKXatAF0dM_2dzXnfRed7MNdnMJ9Q6GbJ0WPcwptXyCYYmfJL7zjF7E_vKnQmwr6U05OScfHIOKOcMo-BUp1FuJsOcEz9j9i6t4ar17vySFvkACFO-Glhuw",
     "agence": "Domaine du Nival",
-    "disponibilite": null,
+    "disponibilite": "SAQ",
     "raw_data": {
       "name": "Un de ces quatre 2024",
-      "description": "Une bouteille de vin québécois qui fera le bonheur de vos derniers apéros sous le soleil ou de vos soupers réconfortants du début d'automne.",
+      "description": "Un de ces quatre 2024 est un vin québécois qui fait partie d'une caisse d'automne contenant 2 bouteilles. Il est parfait pour les apéros sous le soleil ou les soupers réconfortants du début d'automne.",
       "price": null,
       "image_url": null,
       "link": "https://www.nival.ca/_t/c/v3/AAAvA_sZ3FYOnd7wJLvGIF41ouXbYIyMzugdKogEbZPnjoW2-j-v4NwGWw5vColkLWFWmmkLqR4KHKL2V_SbVU0LEZe4m3GavlwtiDfeLJJVyCIKDfkMOjVDNbnUuGOcf6TIvlU-jy3k5CGv0zmzsL2hGop8M3cb9YhWN5DZBCKh2Sa-cf9BS0Ntq0qyl7GIcHs3CTAmpzM_We7tej0-eWBbGYvP6-bZJ-6qkiom0cQuxtW9DHriQVF8lNY3FR3nnxKcriZ2MHnsyRX5JazGsbnFhN56GqvgayJoEFXKimsgRdL_QZIqmvkT1XvuQFFalkF-CZztZ4ocNtry4Aq0SX0KdppB8VP8lvU-tYQYXajxajFaIzI1FVAcSlGsIBmgthy859vkXzcK9kY9Jar0c4b9pc8tEULYVFznKFjIhHho7NIFtUfHhrO5heDwOym2XQPFmKrY-KlCr7ccrmE_W8IPiAcCMLc6mwYVgLY0f-_M00duMeFFkKV4V2IKTjP8TE3UuWrETvKXatAF0dM_2dzXnfRed7MNdnMJ9Q6GbJ0WPcwptXyCYYmfJL7zjF7E_vKnQmwr6U05OScfHIOKOcMo-BUp1FuJsOcEz9j9i6t4ar17vySFvkACFO-Glhuw",
@@ -584,11 +684,11 @@
       "grape_varieties": null,
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": null,
+      "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
           "name": "Un de ces quatre 2024",
-          "description": "Une bouteille de vin québécois qui fera le bonheur de vos derniers apéros sous le soleil ou de vos soupers réconfortants du début d'automne.",
+          "description": "Un de ces quatre 2024 est un vin québécois qui fait partie d'une caisse d'automne contenant 2 bouteilles. Il est parfait pour les apéros sous le soleil ou les soupers réconfortants du début d'automne.",
           "price": null,
           "image_url": null,
           "link": "https://www.nival.ca/_t/c/v3/AAAvA_sZ3FYOnd7wJLvGIF41ouXbYIyMzugdKogEbZPnjoW2-j-v4NwGWw5vColkLWFWmmkLqR4KHKL2V_SbVU0LEZe4m3GavlwtiDfeLJJVyCIKDfkMOjVDNbnUuGOcf6TIvlU-jy3k5CGv0zmzsL2hGop8M3cb9YhWN5DZBCKh2Sa-cf9BS0Ntq0qyl7GIcHs3CTAmpzM_We7tej0-eWBbGYvP6-bZJ-6qkiom0cQuxtW9DHriQVF8lNY3FR3nnxKcriZ2MHnsyRX5JazGsbnFhN56GqvgayJoEFXKimsgRdL_QZIqmvkT1XvuQFFalkF-CZztZ4ocNtry4Aq0SX0KdppB8VP8lvU-tYQYXajxajFaIzI1FVAcSlGsIBmgthy859vkXzcK9kY9Jar0c4b9pc8tEULYVFznKFjIhHho7NIFtUfHhrO5heDwOym2XQPFmKrY-KlCr7ccrmE_W8IPiAcCMLc6mwYVgLY0f-_M00duMeFFkKV4V2IKTjP8TE3UuWrETvKXatAF0dM_2dzXnfRed7MNdnMJ9Q6GbJ0WPcwptXyCYYmfJL7zjF7E_vKnQmwr6U05OScfHIOKOcMo-BUp1FuJsOcEz9j9i6t4ar17vySFvkACFO-Glhuw",
@@ -598,7 +698,7 @@
           "grape_varieties": null,
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": null
+          "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
@@ -609,15 +709,15 @@
     "blockId": "file-2025-09-12-domaine-du-nival-0.html",
     "createdAt": "2025-09-12T00:00:00.000Z",
     "name": "Matière à discussion 2024",
-    "description": "Une bouteille de vin québécois qui fera le bonheur de vos derniers apéros sous le soleil ou de vos soupers réconfortants du début d'automne.",
+    "description": "Matière à discussion 2024 est un vin québécois qui fait partie d'une caisse d'automne contenant 4 bouteilles. Il est idéal pour les moments de partage et de convivialité.",
     "price": null,
     "image_url": null,
     "link": "https://www.nival.ca/_t/c/v3/AAAvA_sZ3FYOnd7wJLvGIF41ouXbYIyMzugdKogEbZPnjoW2-j-v4NwGWw5vColkLWFWmmkLqR4KHKL2V_SbVU0LEZe4m3GavlwtiDfeLJJVyCIKDfkMOjVDNbnUuGOcf6TIvlU-jy3k5CGv0zmzsL2hGop8M3cb9YhWN5DZBCKh2Sa-cf9BS0Ntq0qyl7GIcHs3CTAmpzM_We7tej0-eWBbGYvP6-bZJ-6qkiom0cQuxtW9DHriQVF8lNY3FR3nnxKcriZ2MHnsyRX5JazGsbnFhN56GqvgayJoEFXKimsgRdL_QZIqmvkT1XvuQFFalkF-CZztZ4ocNtry4Aq0SX0KdppB8VP8lvU-tYQYXajxajFaIzI1FVAcSlGsIBmgthy859vkXzcK9kY9Jar0c4b9pc8tEULYVFznKFjIhHho7NIFtUfHhrO5heDwOym2XQPFmKrY-KlCr7ccrmE_W8IPiAcCMLc6mwYVgLY0f-_M00duMeFFkKV4V2IKTjP8TE3UuWrETvKXatAF0dM_2dzXnfRed7MNdnMJ9Q6GbJ0WPcwptXyCYYmfJL7zjF7E_vKnQmwr6U05OScfHIOKOcMo-BUp1FuJsOcEz9j9i6t4ar17vySFvkACFO-Glhuw",
     "agence": "Domaine du Nival",
-    "disponibilite": null,
+    "disponibilite": "SAQ",
     "raw_data": {
       "name": "Matière à discussion 2024",
-      "description": "Une bouteille de vin québécois qui fera le bonheur de vos derniers apéros sous le soleil ou de vos soupers réconfortants du début d'automne.",
+      "description": "Matière à discussion 2024 est un vin québécois qui fait partie d'une caisse d'automne contenant 4 bouteilles. Il est idéal pour les moments de partage et de convivialité.",
       "price": null,
       "image_url": null,
       "link": "https://www.nival.ca/_t/c/v3/AAAvA_sZ3FYOnd7wJLvGIF41ouXbYIyMzugdKogEbZPnjoW2-j-v4NwGWw5vColkLWFWmmkLqR4KHKL2V_SbVU0LEZe4m3GavlwtiDfeLJJVyCIKDfkMOjVDNbnUuGOcf6TIvlU-jy3k5CGv0zmzsL2hGop8M3cb9YhWN5DZBCKh2Sa-cf9BS0Ntq0qyl7GIcHs3CTAmpzM_We7tej0-eWBbGYvP6-bZJ-6qkiom0cQuxtW9DHriQVF8lNY3FR3nnxKcriZ2MHnsyRX5JazGsbnFhN56GqvgayJoEFXKimsgRdL_QZIqmvkT1XvuQFFalkF-CZztZ4ocNtry4Aq0SX0KdppB8VP8lvU-tYQYXajxajFaIzI1FVAcSlGsIBmgthy859vkXzcK9kY9Jar0c4b9pc8tEULYVFznKFjIhHho7NIFtUfHhrO5heDwOym2XQPFmKrY-KlCr7ccrmE_W8IPiAcCMLc6mwYVgLY0f-_M00duMeFFkKV4V2IKTjP8TE3UuWrETvKXatAF0dM_2dzXnfRed7MNdnMJ9Q6GbJ0WPcwptXyCYYmfJL7zjF7E_vKnQmwr6U05OScfHIOKOcMo-BUp1FuJsOcEz9j9i6t4ar17vySFvkACFO-Glhuw",
@@ -627,11 +727,11 @@
       "grape_varieties": null,
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": null,
+      "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
           "name": "Matière à discussion 2024",
-          "description": "Une bouteille de vin québécois qui fera le bonheur de vos derniers apéros sous le soleil ou de vos soupers réconfortants du début d'automne.",
+          "description": "Matière à discussion 2024 est un vin québécois qui fait partie d'une caisse d'automne contenant 4 bouteilles. Il est idéal pour les moments de partage et de convivialité.",
           "price": null,
           "image_url": null,
           "link": "https://www.nival.ca/_t/c/v3/AAAvA_sZ3FYOnd7wJLvGIF41ouXbYIyMzugdKogEbZPnjoW2-j-v4NwGWw5vColkLWFWmmkLqR4KHKL2V_SbVU0LEZe4m3GavlwtiDfeLJJVyCIKDfkMOjVDNbnUuGOcf6TIvlU-jy3k5CGv0zmzsL2hGop8M3cb9YhWN5DZBCKh2Sa-cf9BS0Ntq0qyl7GIcHs3CTAmpzM_We7tej0-eWBbGYvP6-bZJ-6qkiom0cQuxtW9DHriQVF8lNY3FR3nnxKcriZ2MHnsyRX5JazGsbnFhN56GqvgayJoEFXKimsgRdL_QZIqmvkT1XvuQFFalkF-CZztZ4ocNtry4Aq0SX0KdppB8VP8lvU-tYQYXajxajFaIzI1FVAcSlGsIBmgthy859vkXzcK9kY9Jar0c4b9pc8tEULYVFznKFjIhHho7NIFtUfHhrO5heDwOym2XQPFmKrY-KlCr7ccrmE_W8IPiAcCMLc6mwYVgLY0f-_M00duMeFFkKV4V2IKTjP8TE3UuWrETvKXatAF0dM_2dzXnfRed7MNdnMJ9Q6GbJ0WPcwptXyCYYmfJL7zjF7E_vKnQmwr6U05OScfHIOKOcMo-BUp1FuJsOcEz9j9i6t4ar17vySFvkACFO-Glhuw",
@@ -641,7 +741,7 @@
           "grape_varieties": null,
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": null
+          "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
@@ -664,7 +764,7 @@
       "price": "26,70$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_jean-marc-brocard-bourgogne-chardonnay-2023.png",
       "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=77f4005783&e=2c9a262afa",
-      "producer": "JEAN-MARC BROCARD",
+      "producer": "Jean-Marc Brocard",
       "region": "Bourgogne",
       "vintage": "2023",
       "grape_varieties": [
@@ -680,7 +780,7 @@
           "price": "26,70$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_jean-marc-brocard-bourgogne-chardonnay-2023.png",
           "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=77f4005783&e=2c9a262afa",
-          "producer": "JEAN-MARC BROCARD",
+          "producer": "Jean-Marc Brocard",
           "region": "Bourgogne",
           "vintage": "2023",
           "grape_varieties": [
@@ -693,7 +793,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Bourgogne Chardonnay 2023 de Jean-Marc Brocard incarne la pureté du fruit, avec une vinification délicate et un élevage sur lies qui lui confère rondeur et équilibre, tout en préservant la fraîcheur aromatique."
+    "summary": "Le Bourgogne Chardonnay 2023 de Jean-Marc Brocard, vinifié avec soin, révèle la pureté du fruit et un équilibre parfait grâce à un élevage sur lies fines, offrant une fraîcheur aromatique éclatante."
   },
   {
     "id": "file-2025-09-12-noble-selection-0.html-invincible-numero-1-douro-2023",
@@ -862,463 +962,6 @@
           "alcohol_content": null,
           "volume": null,
           "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-11-info-symbiose-0.html-eclaircie",
-    "blockId": "file-2025-09-11-info-symbiose-0.html",
-    "createdAt": "2025-09-11T00:00:00.000Z",
-    "name": "Éclaircie",
-    "description": "Vidal, Seyval\nQuébec",
-    "price": "29,75 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/5/15532907-1_1756993683.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1204059&idl=8414&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=dPGAhENIZpve4gmqYTfU717cLp4c7R6kTnZ4yy5Nido",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Éclaircie",
-      "description": "Vidal, Seyval\nQuébec",
-      "price": "29,75 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/5/15532907-1_1756993683.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1204059&idl=8414&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=dPGAhENIZpve4gmqYTfU717cLp4c7R6kTnZ4yy5Nido",
-      "producer": "Très-Précieux-Sang",
-      "region": "Québec",
-      "vintage": "2024",
-      "grape_varieties": [
-        "Vidal",
-        "Seyval"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Éclaircie",
-          "description": "Vidal, Seyval\nQuébec",
-          "price": "29,75 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/5/15532907-1_1756993683.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1204059&idl=8414&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=dPGAhENIZpve4gmqYTfU717cLp4c7R6kTnZ4yy5Nido",
-          "producer": "Très-Précieux-Sang",
-          "region": "Québec",
-          "vintage": "2024",
-          "grape_varieties": [
-            "Vidal",
-            "Seyval"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-11-info-symbiose-0.html-laroche",
-    "blockId": "file-2025-09-11-info-symbiose-0.html",
-    "createdAt": "2025-09-11T00:00:00.000Z",
-    "name": "LaRoche",
-    "description": "Vidal\nQuébec",
-    "price": "26,75 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/5/15504703-1_1750876384.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1204059&idl=7989&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=1W6NLSFghXuay0JEby8BLrtXEl6AMkr7RA3d4ATEG5k",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "LaRoche",
-      "description": "Vidal\nQuébec",
-      "price": "26,75 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/5/15504703-1_1750876384.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1204059&idl=7989&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=1W6NLSFghXuay0JEby8BLrtXEl6AMkr7RA3d4ATEG5k",
-      "producer": "Domaine Le Grand Saint-Charles",
-      "region": "Québec",
-      "vintage": null,
-      "grape_varieties": [
-        "Vidal"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "LaRoche",
-          "description": "Vidal\nQuébec",
-          "price": "26,75 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/5/15504703-1_1750876384.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1204059&idl=7989&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=1W6NLSFghXuay0JEby8BLrtXEl6AMkr7RA3d4ATEG5k",
-          "producer": "Domaine Le Grand Saint-Charles",
-          "region": "Québec",
-          "vintage": null,
-          "grape_varieties": [
-            "Vidal"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-11-info-symbiose-0.html-farniente",
-    "blockId": "file-2025-09-11-info-symbiose-0.html",
-    "createdAt": "2025-09-11T00:00:00.000Z",
-    "name": "Farniente",
-    "description": "Frontenac Gris, Frontenac\nQuébec",
-    "price": "26,90 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/5/15330918-1_1721659383.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1204059&idl=7104&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=4GU9Cm1tZ3NNKNX0bImrSHJOYisLQDV0pMX8P7P1DFU",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Farniente",
-      "description": "Frontenac Gris, Frontenac\nQuébec",
-      "price": "26,90 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/5/15330918-1_1721659383.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1204059&idl=7104&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=4GU9Cm1tZ3NNKNX0bImrSHJOYisLQDV0pMX8P7P1DFU",
-      "producer": "Domaine Le Grand Saint-Charles",
-      "region": "Québec",
-      "vintage": null,
-      "grape_varieties": [
-        "Frontenac Gris",
-        "Frontenac"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Farniente",
-          "description": "Frontenac Gris, Frontenac\nQuébec",
-          "price": "26,90 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/5/15330918-1_1721659383.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1204059&idl=7104&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=4GU9Cm1tZ3NNKNX0bImrSHJOYisLQDV0pMX8P7P1DFU",
-          "producer": "Domaine Le Grand Saint-Charles",
-          "region": "Québec",
-          "vintage": null,
-          "grape_varieties": [
-            "Frontenac Gris",
-            "Frontenac"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-11-info-symbiose-0.html-en-parallele",
-    "blockId": "file-2025-09-11-info-symbiose-0.html",
-    "createdAt": "2025-09-11T00:00:00.000Z",
-    "name": "En Parallèle",
-    "description": "Arômes de mûres, de poivre et de violette; voici de la joie en bouteille pour les soirées qui se rafraîchissent.\nSyrah\nLanguedoc-Roussillon — France",
-    "price": "12 X 27,50 $",
-    "image_url": "https://d5igp0q6f7oq9.cloudfront.net/cdn/ff/JI_teIGYgax2R_QkOpufe0fPYU7t5AqFznuUBVBb7mU/1732225606/public/styles/product/public/products/xsyrah-en-parallele.png?itok=qmuqHRR2",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1204059&idl=8444&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=Pv1J57Bkpj7NZiTvmbZNoTWpLeHxeSui6sQ8IELxP2I",
-    "agence": "Info Symbiose",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "En Parallèle",
-      "description": "Arômes de mûres, de poivre et de violette; voici de la joie en bouteille pour les soirées qui se rafraîchissent.\nSyrah\nLanguedoc-Roussillon — France",
-      "price": "12 X 27,50 $",
-      "image_url": "https://d5igp0q6f7oq9.cloudfront.net/cdn/ff/JI_teIGYgax2R_QkOpufe0fPYU7t5AqFznuUBVBb7mU/1732225606/public/styles/product/public/products/xsyrah-en-parallele.png?itok=qmuqHRR2",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1204059&idl=8444&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=Pv1J57Bkpj7NZiTvmbZNoTWpLeHxeSui6sQ8IELxP2I",
-      "producer": "Arnaud Combier",
-      "region": "Languedoc-Roussillon — France",
-      "vintage": "2022",
-      "grape_varieties": [
-        "Syrah"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "En Parallèle",
-          "description": "Arômes de mûres, de poivre et de violette; voici de la joie en bouteille pour les soirées qui se rafraîchissent.\nSyrah\nLanguedoc-Roussillon — France",
-          "price": "12 X 27,50 $",
-          "image_url": "https://d5igp0q6f7oq9.cloudfront.net/cdn/ff/JI_teIGYgax2R_QkOpufe0fPYU7t5AqFznuUBVBb7mU/1732225606/public/styles/product/public/products/xsyrah-en-parallele.png?itok=qmuqHRR2",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1204059&idl=8444&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=Pv1J57Bkpj7NZiTvmbZNoTWpLeHxeSui6sQ8IELxP2I",
-          "producer": "Arnaud Combier",
-          "region": "Languedoc-Roussillon — France",
-          "vintage": "2022",
-          "grape_varieties": [
-            "Syrah"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "En Parallèle, un vin de Syrah du Languedoc-Roussillon, offre un bouquet enivrant de mûres, de poivre et de violette, apportant une touche de joie à vos soirées fraîches."
-  },
-  {
-    "id": "file-2025-09-11-info-symbiose-0.html-pinot-gris-weingarten",
-    "blockId": "file-2025-09-11-info-symbiose-0.html",
-    "createdAt": "2025-09-11T00:00:00.000Z",
-    "name": "Pinot gris Weingarten",
-    "description": "Pinot gris\nAlsace — France",
-    "price": "31,25 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/0/10524094-1_1580597714.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1204059&idl=4779&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=ZEgLoL-9-anlpwsNc2byXKIhp1ZtLsud_r7YT0rUCQw",
-    "agence": "Info Symbiose",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Pinot gris Weingarten",
-      "description": "Pinot gris\nAlsace — France",
-      "price": "31,25 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/0/10524094-1_1580597714.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1204059&idl=4779&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=ZEgLoL-9-anlpwsNc2byXKIhp1ZtLsud_r7YT0rUCQw",
-      "producer": "Loberger",
-      "region": "Alsace — France",
-      "vintage": "2023",
-      "grape_varieties": [
-        "Pinot gris"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Pinot gris Weingarten",
-          "description": "Pinot gris\nAlsace — France",
-          "price": "31,25 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/0/10524094-1_1580597714.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1204059&idl=4779&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=ZEgLoL-9-anlpwsNc2byXKIhp1ZtLsud_r7YT0rUCQw",
-          "producer": "Loberger",
-          "region": "Alsace — France",
-          "vintage": "2023",
-          "grape_varieties": [
-            "Pinot gris"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-11-le-vin-dans-les-voiles-0.html-senorio-de-librares",
-    "blockId": "file-2025-09-11-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-09-11T00:00:00.000Z",
-    "name": "Señorio de Librares",
-    "description": "La Rioja débarque au Québec ! 🍇 Les rouges et blancs de la Bodega Señorío de Librares sont enfin là : vins naturels d'appellation, droits et chargés d’histoire. Chaque bouteille célèbre un terroir centenaire aujourd'hui porté par les soeurs Clara et Patricia Espinosa.",
-    "price": null,
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/703069f5-cd25-4acf-bfaa-f74412eeaf0d.png",
-    "link": null,
-    "agence": "Le vin dans les voiles",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Señorio de Librares",
-      "description": "La Rioja débarque au Québec ! 🍇 Les rouges et blancs de la Bodega Señorío de Librares sont enfin là : vins naturels d'appellation, droits et chargés d’histoire. Chaque bouteille célèbre un terroir centenaire aujourd'hui porté par les soeurs Clara et Patricia Espinosa.",
-      "price": null,
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/703069f5-cd25-4acf-bfaa-f74412eeaf0d.png",
-      "link": null,
-      "producer": "Bodega Señorío de Librares",
-      "region": "La Rioja",
-      "vintage": null,
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Señorio de Librares",
-          "description": "La Rioja débarque au Québec ! 🍇 Les rouges et blancs de la Bodega Señorío de Librares sont enfin là : vins naturels d'appellation, droits et chargés d’histoire. Chaque bouteille célèbre un terroir centenaire aujourd'hui porté par les soeurs Clara et Patricia Espinosa.",
-          "price": null,
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/703069f5-cd25-4acf-bfaa-f74412eeaf0d.png",
-          "link": null,
-          "producer": "Bodega Señorío de Librares",
-          "region": "La Rioja",
-          "vintage": null,
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-11-le-vin-dans-les-voiles-0.html-domaine-le-jonc-blanc",
-    "blockId": "file-2025-09-11-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-09-11T00:00:00.000Z",
-    "name": "Domaine le Jonc Blanc",
-    "description": "Les vins du Domaine le Jonc Blanc arrivent de Bergerac! Rouge étoffé et chaleureux, blanc minéral, bulles rosées pour trinquer, sans oublier un blouge pour la soif ! Un vent de fraîcheur souffle sur le terroir du Sud-Ouest avec les vins en biodynamie signés par le talentueux couple vigneron Franck Pascal et Isabelle Carles.",
-    "price": null,
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/08e692c2-fb92-4c9f-950e-36854abbb314.png",
-    "link": null,
-    "agence": "Le vin dans les voiles",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Domaine le Jonc Blanc",
-      "description": "Les vins du Domaine le Jonc Blanc arrivent de Bergerac! Rouge étoffé et chaleureux, blanc minéral, bulles rosées pour trinquer, sans oublier un blouge pour la soif ! Un vent de fraîcheur souffle sur le terroir du Sud-Ouest avec les vins en biodynamie signés par le talentueux couple vigneron Franck Pascal et Isabelle Carles.",
-      "price": null,
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/08e692c2-fb92-4c9f-950e-36854abbb314.png",
-      "link": null,
-      "producer": "Domaine le Jonc Blanc",
-      "region": "Bergerac",
-      "vintage": null,
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Domaine le Jonc Blanc",
-          "description": "Les vins du Domaine le Jonc Blanc arrivent de Bergerac! Rouge étoffé et chaleureux, blanc minéral, bulles rosées pour trinquer, sans oublier un blouge pour la soif ! Un vent de fraîcheur souffle sur le terroir du Sud-Ouest avec les vins en biodynamie signés par le talentueux couple vigneron Franck Pascal et Isabelle Carles.",
-          "price": null,
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/08e692c2-fb92-4c9f-950e-36854abbb314.png",
-          "link": null,
-          "producer": "Domaine le Jonc Blanc",
-          "region": "Bergerac",
-          "vintage": null,
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-11-rezin-0.html-jean-foillard",
-    "blockId": "file-2025-09-11-rezin-0.html",
-    "createdAt": "2025-09-11T00:00:00.000Z",
-    "name": "Jean Foillard",
-    "description": "Il y avait longtemps que je n’avais pas recommandé un vin de Jean Foillard. C’est pourtant un de mes vignerons préférés du Beaujolais. Un peu cher pour un simple beaujolais ? Pas du tout ! Il a tout le charme fruité auquel on s’attend, mais avec la profondeur, la complexité et la texture veloutée d’une matière mûre qui sont la signature des Foillard. Des arômes de fruits sucrés, cerise, framboise, mûre, se mêlent à des notes d’herbes, de terre noire et de sous-bois. Une matière riche, fruitée, savoureuse enrobe le palais, portée par une acidité tonique, et de légers tanins apportent de la mâche et du relief. Pas simple pour deux sous, délicieux et très harmonieux, il est gourmand et sérieux à la fois. À servir rafraîchi avec un pâté en croûte, du jambon persillé, un rôti de porc au chou rouge.",
-    "price": null,
-    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/0ab0ebf0-4ef5-aa8c-e023-e655ac6cd1ed.png",
-    "link": null,
-    "agence": "réZin",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Jean Foillard",
-      "description": "Il y avait longtemps que je n’avais pas recommandé un vin de Jean Foillard. C’est pourtant un de mes vignerons préférés du Beaujolais. Un peu cher pour un simple beaujolais ? Pas du tout ! Il a tout le charme fruité auquel on s’attend, mais avec la profondeur, la complexité et la texture veloutée d’une matière mûre qui sont la signature des Foillard. Des arômes de fruits sucrés, cerise, framboise, mûre, se mêlent à des notes d’herbes, de terre noire et de sous-bois. Une matière riche, fruitée, savoureuse enrobe le palais, portée par une acidité tonique, et de légers tanins apportent de la mâche et du relief. Pas simple pour deux sous, délicieux et très harmonieux, il est gourmand et sérieux à la fois. À servir rafraîchi avec un pâté en croûte, du jambon persillé, un rôti de porc au chou rouge.",
-      "price": null,
-      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/0ab0ebf0-4ef5-aa8c-e023-e655ac6cd1ed.png",
-      "link": null,
-      "producer": "Jean Foillard",
-      "region": "Beaujolais",
-      "vintage": "2022",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Jean Foillard",
-          "description": "Il y avait longtemps que je n’avais pas recommandé un vin de Jean Foillard. C’est pourtant un de mes vignerons préférés du Beaujolais. Un peu cher pour un simple beaujolais ? Pas du tout ! Il a tout le charme fruité auquel on s’attend, mais avec la profondeur, la complexité et la texture veloutée d’une matière mûre qui sont la signature des Foillard. Des arômes de fruits sucrés, cerise, framboise, mûre, se mêlent à des notes d’herbes, de terre noire et de sous-bois. Une matière riche, fruitée, savoureuse enrobe le palais, portée par une acidité tonique, et de légers tanins apportent de la mâche et du relief. Pas simple pour deux sous, délicieux et très harmonieux, il est gourmand et sérieux à la fois. À servir rafraîchi avec un pâté en croûte, du jambon persillé, un rôti de porc au chou rouge.",
-          "price": null,
-          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/0ab0ebf0-4ef5-aa8c-e023-e655ac6cd1ed.png",
-          "link": null,
-          "producer": "Jean Foillard",
-          "region": "Beaujolais",
-          "vintage": "2022",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le vin de Jean Foillard, emblématique du Beaujolais, allie charme fruité et profondeur, avec des arômes de cerise et de framboise, enveloppés dans une texture veloutée et une acidité tonique, offrant une expérience à la fois gourmande et sérieuse."
-  },
-  {
-    "id": "file-2025-09-11-rezin-0.html-beaujolais-villages",
-    "blockId": "file-2025-09-11-rezin-0.html",
-    "createdAt": "2025-09-11T00:00:00.000Z",
-    "name": "Beaujolais-Villages",
-    "description": "Natif du Beaujolais, Christophe Pacalet est tombé dans la cuve à un jeune âge, et pour cause, il est le neveu de Marcel Lapierre. Après avoir étudié la biochimie et travaillé plusieurs années dans les cuisines de restaurants, il met sur pied son négoce en 1999 avec l’aide de son oncle. Cette formule lui offre la possibilité de vinifier sept des dix crus de la région. L’entente qu’il a avec les viticulteurs repose sur des bases solides : la sélection de vieux ceps de 40 à 80 ans, une vision commune de la culture de la vigne et des partenariats à long terme. Les vendanges manuelles sont orchestrées par Christophe et son équipe. Il a depuis acquis les vignes du Château des Labourons en appellation Fleurie et pris en fermage celles de la famille de Jules Chauvet, considéré comme le père du mouvement des vins naturels en France. Vinification : Macération carbonique à froid en grappes entières sans SO2 avec les levures indigènes pendant 10 à 20 jours suivant le millésime, Décuvage manuel suivi d’un pressurage sur un pressoir vertical en bois. Élevage : Sur lies fines, sans SO2, en foudres et cuves béton pendant 5 à 8 mois.",
-    "price": "33,15 $",
-    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/c18cec47-39e9-97e7-077b-3cd6f443166b.png",
-    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=4a1362173d&e=c11422f941",
-    "agence": "réZin",
-    "disponibilite": "Importation Privée",
-    "raw_data": {
-      "name": "Beaujolais-Villages",
-      "description": "Natif du Beaujolais, Christophe Pacalet est tombé dans la cuve à un jeune âge, et pour cause, il est le neveu de Marcel Lapierre. Après avoir étudié la biochimie et travaillé plusieurs années dans les cuisines de restaurants, il met sur pied son négoce en 1999 avec l’aide de son oncle. Cette formule lui offre la possibilité de vinifier sept des dix crus de la région. L’entente qu’il a avec les viticulteurs repose sur des bases solides : la sélection de vieux ceps de 40 à 80 ans, une vision commune de la culture de la vigne et des partenariats à long terme. Les vendanges manuelles sont orchestrées par Christophe et son équipe. Il a depuis acquis les vignes du Château des Labourons en appellation Fleurie et pris en fermage celles de la famille de Jules Chauvet, considéré comme le père du mouvement des vins naturels en France. Vinification : Macération carbonique à froid en grappes entières sans SO2 avec les levures indigènes pendant 10 à 20 jours suivant le millésime, Décuvage manuel suivi d’un pressurage sur un pressoir vertical en bois. Élevage : Sur lies fines, sans SO2, en foudres et cuves béton pendant 5 à 8 mois.",
-      "price": "33,15 $",
-      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/c18cec47-39e9-97e7-077b-3cd6f443166b.png",
-      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=4a1362173d&e=c11422f941",
-      "producer": "Christophe Pacalet",
-      "region": "Beaujolais",
-      "vintage": "2023",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "Importation Privée",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Beaujolais-Villages",
-          "description": "Natif du Beaujolais, Christophe Pacalet est tombé dans la cuve à un jeune âge, et pour cause, il est le neveu de Marcel Lapierre. Après avoir étudié la biochimie et travaillé plusieurs années dans les cuisines de restaurants, il met sur pied son négoce en 1999 avec l’aide de son oncle. Cette formule lui offre la possibilité de vinifier sept des dix crus de la région. L’entente qu’il a avec les viticulteurs repose sur des bases solides : la sélection de vieux ceps de 40 à 80 ans, une vision commune de la culture de la vigne et des partenariats à long terme. Les vendanges manuelles sont orchestrées par Christophe et son équipe. Il a depuis acquis les vignes du Château des Labourons en appellation Fleurie et pris en fermage celles de la famille de Jules Chauvet, considéré comme le père du mouvement des vins naturels en France. Vinification : Macération carbonique à froid en grappes entières sans SO2 avec les levures indigènes pendant 10 à 20 jours suivant le millésime, Décuvage manuel suivi d’un pressurage sur un pressoir vertical en bois. Élevage : Sur lies fines, sans SO2, en foudres et cuves béton pendant 5 à 8 mois.",
-          "price": "33,15 $",
-          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/c18cec47-39e9-97e7-077b-3cd6f443166b.png",
-          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=4a1362173d&e=c11422f941",
-          "producer": "Christophe Pacalet",
-          "region": "Beaujolais",
-          "vintage": "2023",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "Importation Privée"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Beaujolais-Villages de Christophe Pacalet, issu de vieux ceps et vinifié en macération carbonique, offre une expression authentique et naturelle, avec une fraîcheur éclatante et des arômes de fruits rouges séduisants."
-  },
-  {
-    "id": "file-2025-09-11-rezin-0.html-le-bordeaux-du-paysan",
-    "blockId": "file-2025-09-11-rezin-0.html",
-    "createdAt": "2025-09-11T00:00:00.000Z",
-    "name": "Le Bordeaux du Paysan",
-    "description": "Satellite Wines naît en 2016 de la vision d'Olivier Techer et de son épouse Marine : révéler la richesse des terroirs méconnus de Bordeaux, ces appellations souvent qualifiées de \"satellites\" qui évoluent dans l'ombre des grands noms prestigieux. Fils des propriétaires du Château Gombaude Guillot à Pomerol, Olivier Techer a créé cette maison qui fonctionne à la fois comme distributeur et créateur de cuvées originales. La démarche s'appuie sur des collaborations étroites avec des vignerons partenaires qui partagent les mêmes valeurs d'authenticité et de respect du terroir. La vinification respectueuse constitue le cœur de la philosophie de Satellite Wines, où Olivier Techer intervient comme consultant, particulièrement lors des assemblages pour les blancs et du processus de vinification pour les rouges. Cette méthode collaborative permet de créer des vins à forte identité, fidèles à leur origine géographique. Le rouge se distingue par son absence totale de soufre ajouté, tandis que le blanc n'en contient qu'une quantité minimale, témoignant d'un engagement pour des vins les plus naturels possible. Les cuvées allient fraîcheur, authenticité et plaisir de dégustation, proposant des vins de Bordeaux sincères, issus de terroirs authentiques, destinés aux amateurs les plus exigeants.",
-    "price": "27,25 $",
-    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/3dc81919-3373-cd61-4b00-b1ecfccd1930.png",
-    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=94dd7d542f&e=c11422f941",
-    "agence": "réZin",
-    "disponibilite": "Importation Privée",
-    "raw_data": {
-      "name": "Le Bordeaux du Paysan",
-      "description": "Satellite Wines naît en 2016 de la vision d'Olivier Techer et de son épouse Marine : révéler la richesse des terroirs méconnus de Bordeaux, ces appellations souvent qualifiées de \"satellites\" qui évoluent dans l'ombre des grands noms prestigieux. Fils des propriétaires du Château Gombaude Guillot à Pomerol, Olivier Techer a créé cette maison qui fonctionne à la fois comme distributeur et créateur de cuvées originales. La démarche s'appuie sur des collaborations étroites avec des vignerons partenaires qui partagent les mêmes valeurs d'authenticité et de respect du terroir. La vinification respectueuse constitue le cœur de la philosophie de Satellite Wines, où Olivier Techer intervient comme consultant, particulièrement lors des assemblages pour les blancs et du processus de vinification pour les rouges. Cette méthode collaborative permet de créer des vins à forte identité, fidèles à leur origine géographique. Le rouge se distingue par son absence totale de soufre ajouté, tandis que le blanc n'en contient qu'une quantité minimale, témoignant d'un engagement pour des vins les plus naturels possible. Les cuvées allient fraîcheur, authenticité et plaisir de dégustation, proposant des vins de Bordeaux sincères, issus de terroirs authentiques, destinés aux amateurs les plus exigeants.",
-      "price": "27,25 $",
-      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/3dc81919-3373-cd61-4b00-b1ecfccd1930.png",
-      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=94dd7d542f&e=c11422f941",
-      "producer": "Satellite Wines",
-      "region": "Bordeaux",
-      "vintage": "2023",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "Importation Privée",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Le Bordeaux du Paysan",
-          "description": "Satellite Wines naît en 2016 de la vision d'Olivier Techer et de son épouse Marine : révéler la richesse des terroirs méconnus de Bordeaux, ces appellations souvent qualifiées de \"satellites\" qui évoluent dans l'ombre des grands noms prestigieux. Fils des propriétaires du Château Gombaude Guillot à Pomerol, Olivier Techer a créé cette maison qui fonctionne à la fois comme distributeur et créateur de cuvées originales. La démarche s'appuie sur des collaborations étroites avec des vignerons partenaires qui partagent les mêmes valeurs d'authenticité et de respect du terroir. La vinification respectueuse constitue le cœur de la philosophie de Satellite Wines, où Olivier Techer intervient comme consultant, particulièrement lors des assemblages pour les blancs et du processus de vinification pour les rouges. Cette méthode collaborative permet de créer des vins à forte identité, fidèles à leur origine géographique. Le rouge se distingue par son absence totale de soufre ajouté, tandis que le blanc n'en contient qu'une quantité minimale, témoignant d'un engagement pour des vins les plus naturels possible. Les cuvées allient fraîcheur, authenticité et plaisir de dégustation, proposant des vins de Bordeaux sincères, issus de terroirs authentiques, destinés aux amateurs les plus exigeants.",
-          "price": "27,25 $",
-          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/3dc81919-3373-cd61-4b00-b1ecfccd1930.png",
-          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=94dd7d542f&e=c11422f941",
-          "producer": "Satellite Wines",
-          "region": "Bordeaux",
-          "vintage": "2023",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "Importation Privée"
         }
       ],
       "agence_was_defaulted": false
