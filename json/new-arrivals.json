@@ -1,5 +1,397 @@
 [
   {
+    "id": "file-2025-09-19-noble-selection-0.html-macon-aze-2023",
+    "blockId": "file-2025-09-19-noble-selection-0.html",
+    "createdAt": "2025-09-19T00:00:00.000Z",
+    "name": "Mâcon-Azé 2023",
+    "description": "Récolte manuelle des raisins, suivie d'une fermentation à basse température pour préserver les arômes. Le vin est ensuite élevé sur lies fines en cuves inox pendant plusieurs mois, ce qui lui confère rondeur et fraîcheur. Le résultat est un vin équilibré avec des notes de fruits frais et une belle minéralité.",
+    "price": "23,95$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cave-d-az---m--con-az---2020.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f1db641a99&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Mâcon-Azé 2023",
+      "description": "Récolte manuelle des raisins, suivie d'une fermentation à basse température pour préserver les arômes. Le vin est ensuite élevé sur lies fines en cuves inox pendant plusieurs mois, ce qui lui confère rondeur et fraîcheur. Le résultat est un vin équilibré avec des notes de fruits frais et une belle minéralité.",
+      "price": "23,95$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cave-d-az---m--con-az---2020.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f1db641a99&e=2c9a262afa",
+      "producer": "CAVE D'AZÉ",
+      "region": "Bourgogne",
+      "vintage": "2023",
+      "grape_varieties": [
+        "Chardonnay"
+      ],
+      "alcohol_content": "12,5%",
+      "volume": "750ml",
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Mâcon-Azé 2023",
+          "description": "Récolte manuelle des raisins, suivie d'une fermentation à basse température pour préserver les arômes. Le vin est ensuite élevé sur lies fines en cuves inox pendant plusieurs mois, ce qui lui confère rondeur et fraîcheur. Le résultat est un vin équilibré avec des notes de fruits frais et une belle minéralité.",
+          "price": "23,95$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cave-d-az---m--con-az---2020.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f1db641a99&e=2c9a262afa",
+          "producer": "CAVE D'AZÉ",
+          "region": "Bourgogne",
+          "vintage": "2023",
+          "grape_varieties": [
+            "Chardonnay"
+          ],
+          "alcohol_content": "12,5%",
+          "volume": "750ml",
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Le Mâcon-Azé 2023 révèle une belle fraîcheur et une rondeur délicate, offrant des arômes de fruits frais et une minéralité élégante, le tout sublimé par un élevage sur lies fines en cuves inox."
+  },
+  {
+    "id": "file-2025-09-19-noble-selection-0.html-bottega-pink-gold-prosecco-2024",
+    "blockId": "file-2025-09-19-noble-selection-0.html",
+    "createdAt": "2025-09-19T00:00:00.000Z",
+    "name": "Bottega Pink Gold Prosecco 2024",
+    "description": null,
+    "price": "32,00$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-gold-pink.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=0b2937fc7b&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Bottega Pink Gold Prosecco 2024",
+      "description": null,
+      "price": "32,00$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-gold-pink.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=0b2937fc7b&e=2c9a262afa",
+      "producer": "BOTTEGA",
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Bottega Pink Gold Prosecco 2024",
+          "description": null,
+          "price": "32,00$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-gold-pink.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=0b2937fc7b&e=2c9a262afa",
+          "producer": "BOTTEGA",
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-09-19-noble-selection-0.html-monemvasia-kydonitsa-2023",
+    "blockId": "file-2025-09-19-noble-selection-0.html",
+    "createdAt": "2025-09-19T00:00:00.000Z",
+    "name": "Monemvasia Kydonitsa 2023",
+    "description": null,
+    "price": "21,10$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_monemvasia-kydonitsa-2022.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f41530e78f&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Monemvasia Kydonitsa 2023",
+      "description": null,
+      "price": "21,10$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_monemvasia-kydonitsa-2022.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f41530e78f&e=2c9a262afa",
+      "producer": "MONEMVASIA",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Monemvasia Kydonitsa 2023",
+          "description": null,
+          "price": "21,10$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_monemvasia-kydonitsa-2022.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f41530e78f&e=2c9a262afa",
+          "producer": "MONEMVASIA",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-09-19-noble-selection-0.html-alentejo-2024",
+    "blockId": "file-2025-09-19-noble-selection-0.html",
+    "createdAt": "2025-09-19T00:00:00.000Z",
+    "name": "Alentejo 2024",
+    "description": null,
+    "price": "21,55$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_coelheiros-2018.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=91724adfd5&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Alentejo 2024",
+      "description": null,
+      "price": "21,55$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_coelheiros-2018.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=91724adfd5&e=2c9a262afa",
+      "producer": "HERDADE DE COELHEIROS",
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Alentejo 2024",
+          "description": null,
+          "price": "21,55$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_coelheiros-2018.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=91724adfd5&e=2c9a262afa",
+          "producer": "HERDADE DE COELHEIROS",
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-09-19-noble-selection-0.html-saumur-buvons-des-fruits-2024",
+    "blockId": "file-2025-09-19-noble-selection-0.html",
+    "createdAt": "2025-09-19T00:00:00.000Z",
+    "name": "Saumur Buvons des Fruits 2024",
+    "description": null,
+    "price": "26,15$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-fouet-saumur-buvons-des-fruits-2022-copie.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=22460039fc&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Saumur Buvons des Fruits 2024",
+      "description": null,
+      "price": "26,15$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-fouet-saumur-buvons-des-fruits-2022-copie.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=22460039fc&e=2c9a262afa",
+      "producer": "DOMAINE FOUET",
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Saumur Buvons des Fruits 2024",
+          "description": null,
+          "price": "26,15$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-fouet-saumur-buvons-des-fruits-2022-copie.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=22460039fc&e=2c9a262afa",
+          "producer": "DOMAINE FOUET",
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-09-19-noble-selection-0.html-tutto-e-possibile",
+    "blockId": "file-2025-09-19-noble-selection-0.html",
+    "createdAt": "2025-09-19T00:00:00.000Z",
+    "name": "Tutto è Possibile",
+    "description": null,
+    "price": "16,95$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_tutto-e-possible-terre-cevico.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4d4654233e&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Tutto è Possibile",
+      "description": null,
+      "price": "16,95$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_tutto-e-possible-terre-cevico.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4d4654233e&e=2c9a262afa",
+      "producer": "TERRE CEVICO",
+      "region": null,
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Tutto è Possibile",
+          "description": null,
+          "price": "16,95$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_tutto-e-possible-terre-cevico.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4d4654233e&e=2c9a262afa",
+          "producer": "TERRE CEVICO",
+          "region": null,
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-09-19-noble-selection-0.html-alba-de-vetus-rias-baixas-2024",
+    "blockId": "file-2025-09-19-noble-selection-0.html",
+    "createdAt": "2025-09-19T00:00:00.000Z",
+    "name": "Alba de Vetus Rias Baixas 2024",
+    "description": null,
+    "price": "25,85$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_image1_75.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=2529cc3e22&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Alba de Vetus Rias Baixas 2024",
+      "description": null,
+      "price": "25,85$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_image1_75.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=2529cc3e22&e=2c9a262afa",
+      "producer": "VETUS",
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Alba de Vetus Rias Baixas 2024",
+          "description": null,
+          "price": "25,85$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_image1_75.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=2529cc3e22&e=2c9a262afa",
+          "producer": "VETUS",
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-09-19-noble-selection-0.html-terres-destandon-2024",
+    "blockId": "file-2025-09-19-noble-selection-0.html",
+    "createdAt": "2025-09-19T00:00:00.000Z",
+    "name": "Terres d'Estandon 2024",
+    "description": null,
+    "price": "20,30$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_terres-d-estandon.jpg",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4c742f8feb&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Terres d'Estandon 2024",
+      "description": null,
+      "price": "20,30$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_terres-d-estandon.jpg",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4c742f8feb&e=2c9a262afa",
+      "producer": "ESTANDON",
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Terres d'Estandon 2024",
+          "description": null,
+          "price": "20,30$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_terres-d-estandon.jpg",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4c742f8feb&e=2c9a262afa",
+          "producer": "ESTANDON",
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-09-19-noble-selection-0.html-sancerre-la-grange-dimiere-rouge-2017",
+    "blockId": "file-2025-09-19-noble-selection-0.html",
+    "createdAt": "2025-09-19T00:00:00.000Z",
+    "name": "Sancerre La Grange Dimière Rouge 2017",
+    "description": null,
+    "price": "20,25$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_grande-dimi--re-roger-375-ml.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=975a875acf&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Sancerre La Grange Dimière Rouge 2017",
+      "description": null,
+      "price": "20,25$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_grande-dimi--re-roger-375-ml.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=975a875acf&e=2c9a262afa",
+      "producer": "JEAN-MAX ROGER",
+      "region": null,
+      "vintage": "2017",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Sancerre La Grange Dimière Rouge 2017",
+          "description": null,
+          "price": "20,25$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_grande-dimi--re-roger-375-ml.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=975a875acf&e=2c9a262afa",
+          "producer": "JEAN-MAX ROGER",
+          "region": null,
+          "vintage": "2017",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
     "id": "file-2025-09-18-bambara-selection-0.html-gulfi-nero-bufaleffj-2019",
     "blockId": "file-2025-09-18-bambara-selection-0.html",
     "createdAt": "2025-09-18T00:00:00.000Z",
@@ -17,7 +409,7 @@
       "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/a5a9f4a2-b482-252e-4731-fc49e34dc077.png",
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=569814c717&e=a09c2580fc",
       "producer": "Gulfi",
-      "region": "Pachino",
+      "region": "Pachino, Sicile",
       "vintage": "2019",
       "grape_varieties": [
         "Nero d'Avola"
@@ -33,7 +425,7 @@
           "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/a5a9f4a2-b482-252e-4731-fc49e34dc077.png",
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=569814c717&e=a09c2580fc",
           "producer": "Gulfi",
-          "region": "Pachino",
+          "region": "Pachino, Sicile",
           "vintage": "2019",
           "grape_varieties": [
             "Nero d'Avola"
@@ -45,7 +437,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Nero Bufaleffj 2019, un grand cru de Sicile, révèle une richesse minérale et des arômes de cassis et d'orange sanguine, avec une bouche ample et texturée, vibrante d'énergie. Ce vin exceptionnel, noté 96 points par Vinous, est à la fois magnifique aujourd'hui et prometteur pour la garde, incarnant la splendeur du Nero d’Avola."
+    "summary": "Le Nero Bufaleffj 2019 de Gulfi, un grand cru de Sicile, offre une expérience sensorielle unique avec ses arômes de cassis, d'orange sanguine et de notes terreuses, soutenus par une bouche ample et texturée, et une finale fraîche et persistante, promettant une belle évolution en cave jusqu'en 2035."
   },
   {
     "id": "file-2025-09-18-info-symbiose-0.html-champagne-cuvee-reserve",
@@ -95,7 +487,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Champagne Cuvée Réserve, primé au Jugement de Montréal, allie 90% de Pinot Noir et 10% de Chardonnay pour offrir une expérience étoffée et lumineuse, à la fois apéritive et gastronomique. Ne manquez pas cette cuvée Grand Cru en importation privée, un véritable bijou de finesse et d'élégance."
+    "summary": "La Cuvée Réserve de Jean Lallement, récemment couronnée au Jugement de Montréal, se distingue par son élégance et sa finesse, alliant 90% de Pinot Noir à 10% de Chardonnay pour offrir un champagne à la fois étoffé et lumineux, idéal pour toutes les occasions."
   },
   {
     "id": "file-2025-09-18-rezin-0.html-east-india-solera",
@@ -145,14 +537,14 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le East India Solera, un xérès andalou unique, marie l’oloroso classique et le Pedro Ximénez pour offrir une richesse inégalée, avec des arômes de noix rôties, caramel brûlé et fruits séchés. Ce dessert liquide, avec ses 140 g/L de sucre, est une véritable invitation à la dégustation."
+    "summary": "L'East India Solera, un xérès andalou exceptionnel, marie l'oloroso classique et le Pedro Ximénez pour offrir une richesse unique, avec des arômes fumés et torréfiés de noix rôties et de caramel brûlé, parfait pour une dégustation en dessert liquide."
   },
   {
     "id": "file-2025-09-18-rezin-0.html-vin-de-pays-doc-classic-blanc-2022",
     "blockId": "file-2025-09-18-rezin-0.html",
     "createdAt": "2025-09-18T00:00:00.000Z",
     "name": "Vin de Pays d'Oc Classic Blanc - 2022",
-    "description": "Fraîcheur et gras s’équilibrent bien en bouche pour soutenir ces arômes en longueur et leur conférant un registre aérien. Très fondu, le nez mêle des notes de pêche blanches, d’abricot, de pâte de coing, de verveine avec de l’amande grillée avec un peu d’acidulé. Cette cuvée trouvera toute sa place pour accompagner apéritifs, tapas et poissons grillés en particulier. Sa structure et sa fraîcheur lui permettront aussi de se marier à de nombreux autres mets plus riches, comme avec des plats orientaux avec curcuma, curry ou gingembre. Tous deux originaires du Languedoc, Cyril et Nadia quittent Bordeaux en 1999 en acquérant à Saint-Chinian le domaine La Madura, petit vignoble constitué d’une mosaïque de parcelles, autant par sa diversité de cépages, de sols, d’altitudes et de microclimats qui constitue un atout important du domaine, permettant d’y produire une large palette de vins dont la complémentarité afin d’assembler des cuvées équilibrées. Tout cela, ainsi que la biodiversité et les sols vivants, travaillés par l’ancien propriétaire dans une approche paysanne, les ont convaincus du grand potentiel des terroirs de La Madura.",
+    "description": "Fraîcheur et gras s’équilibrent bien en bouche pour soutenir ces arômes en longueur et leur conférant un registre aérien. Très fondu, le nez mêle des notes de pêche blanches, d’abricot, de pâte de coing, de verveine avec de l’amande grillée avec un peu d’acidulé. Cette cuvée trouvera toute sa place pour accompagner apéritifs, tapas et poissons grillés en particulier. Sa structure et sa fraîcheur lui permettront aussi de se marier à de nombreux autres mets plus riches, comme avec des plats orientaux avec curcuma, curry ou gingembre.",
     "price": "34,00 $",
     "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/993965f5-0a3f-649a-f8d0-c291983d8f5d.png",
     "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=2fd0b36e15&e=c11422f941",
@@ -160,12 +552,12 @@
     "disponibilite": "Importation Privée",
     "raw_data": {
       "name": "Vin de Pays d'Oc Classic Blanc - 2022",
-      "description": "Fraîcheur et gras s’équilibrent bien en bouche pour soutenir ces arômes en longueur et leur conférant un registre aérien. Très fondu, le nez mêle des notes de pêche blanches, d’abricot, de pâte de coing, de verveine avec de l’amande grillée avec un peu d’acidulé. Cette cuvée trouvera toute sa place pour accompagner apéritifs, tapas et poissons grillés en particulier. Sa structure et sa fraîcheur lui permettront aussi de se marier à de nombreux autres mets plus riches, comme avec des plats orientaux avec curcuma, curry ou gingembre. Tous deux originaires du Languedoc, Cyril et Nadia quittent Bordeaux en 1999 en acquérant à Saint-Chinian le domaine La Madura, petit vignoble constitué d’une mosaïque de parcelles, autant par sa diversité de cépages, de sols, d’altitudes et de microclimats qui constitue un atout important du domaine, permettant d’y produire une large palette de vins dont la complémentarité afin d’assembler des cuvées équilibrées. Tout cela, ainsi que la biodiversité et les sols vivants, travaillés par l’ancien propriétaire dans une approche paysanne, les ont convaincus du grand potentiel des terroirs de La Madura.",
+      "description": "Fraîcheur et gras s’équilibrent bien en bouche pour soutenir ces arômes en longueur et leur conférant un registre aérien. Très fondu, le nez mêle des notes de pêche blanches, d’abricot, de pâte de coing, de verveine avec de l’amande grillée avec un peu d’acidulé. Cette cuvée trouvera toute sa place pour accompagner apéritifs, tapas et poissons grillés en particulier. Sa structure et sa fraîcheur lui permettront aussi de se marier à de nombreux autres mets plus riches, comme avec des plats orientaux avec curcuma, curry ou gingembre.",
       "price": "34,00 $",
       "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/993965f5-0a3f-649a-f8d0-c291983d8f5d.png",
       "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=2fd0b36e15&e=c11422f941",
       "producer": "Domaine de la Madura",
-      "region": "Languedoc",
+      "region": "Vin de Pays d'Oc",
       "vintage": "2022",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -174,12 +566,12 @@
       "all_occurrences_raw_data": [
         {
           "name": "Vin de Pays d'Oc Classic Blanc - 2022",
-          "description": "Fraîcheur et gras s’équilibrent bien en bouche pour soutenir ces arômes en longueur et leur conférant un registre aérien. Très fondu, le nez mêle des notes de pêche blanches, d’abricot, de pâte de coing, de verveine avec de l’amande grillée avec un peu d’acidulé. Cette cuvée trouvera toute sa place pour accompagner apéritifs, tapas et poissons grillés en particulier. Sa structure et sa fraîcheur lui permettront aussi de se marier à de nombreux autres mets plus riches, comme avec des plats orientaux avec curcuma, curry ou gingembre. Tous deux originaires du Languedoc, Cyril et Nadia quittent Bordeaux en 1999 en acquérant à Saint-Chinian le domaine La Madura, petit vignoble constitué d’une mosaïque de parcelles, autant par sa diversité de cépages, de sols, d’altitudes et de microclimats qui constitue un atout important du domaine, permettant d’y produire une large palette de vins dont la complémentarité afin d’assembler des cuvées équilibrées. Tout cela, ainsi que la biodiversité et les sols vivants, travaillés par l’ancien propriétaire dans une approche paysanne, les ont convaincus du grand potentiel des terroirs de La Madura.",
+          "description": "Fraîcheur et gras s’équilibrent bien en bouche pour soutenir ces arômes en longueur et leur conférant un registre aérien. Très fondu, le nez mêle des notes de pêche blanches, d’abricot, de pâte de coing, de verveine avec de l’amande grillée avec un peu d’acidulé. Cette cuvée trouvera toute sa place pour accompagner apéritifs, tapas et poissons grillés en particulier. Sa structure et sa fraîcheur lui permettront aussi de se marier à de nombreux autres mets plus riches, comme avec des plats orientaux avec curcuma, curry ou gingembre.",
           "price": "34,00 $",
           "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/993965f5-0a3f-649a-f8d0-c291983d8f5d.png",
           "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=2fd0b36e15&e=c11422f941",
           "producer": "Domaine de la Madura",
-          "region": "Languedoc",
+          "region": "Vin de Pays d'Oc",
           "vintage": "2022",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -189,7 +581,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Vin de Pays d'Oc Classic Blanc 2022 séduit par son équilibre entre fraîcheur et gras, offrant un bouquet harmonieux de pêche blanche, abricot et amande grillée. Ce vin aérien et structuré est idéal pour accompagner une variété de mets, des tapas aux plats orientaux épicés."
+    "summary": "Le Vin de Pays d'Oc Classic Blanc 2022 séduit par son équilibre entre fraîcheur et gras, dévoilant des arômes de pêche blanche, d'abricot et d'amande grillée, parfait pour accompagner une variété de mets, des tapas aux plats orientaux."
   },
   {
     "id": "file-2025-09-18-vin-dame-jeanne-0.html-grande-reserve",
@@ -208,8 +600,8 @@
       "price": "Particulier 95.50 | Restaurant 83.06",
       "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/d55e1e5d-f247-4aca-b162-f02ca7750278.png",
       "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=d91d1ccb78&e=345e10d07b",
-      "producer": "Champagne Vilmart",
-      "region": "Rilly-la-Montagne 1er cru",
+      "producer": "Vilmart",
+      "region": "Rilly-la-Montagne",
       "vintage": null,
       "grape_varieties": [
         "Pinot Noir",
@@ -225,8 +617,8 @@
           "price": "Particulier 95.50 | Restaurant 83.06",
           "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/d55e1e5d-f247-4aca-b162-f02ca7750278.png",
           "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=d91d1ccb78&e=345e10d07b",
-          "producer": "Champagne Vilmart",
-          "region": "Rilly-la-Montagne 1er cru",
+          "producer": "Vilmart",
+          "region": "Rilly-la-Montagne",
           "vintage": null,
           "grape_varieties": [
             "Pinot Noir",
@@ -239,7 +631,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Grande Réserve, un assemblage de 70% de Pinot Noir et 30% de Chardonnay, incarne l'élégance du domaine avec son élevage en foudres et sa maturation de 3 ans sur lattes. Ce vin d'entrée de gamme, avec un dosage de 7g/L, promet une expérience raffinée et accessible."
+    "summary": "La Grande Réserve, dominée par un Pinot Noir somptueux, est élevée en foudres et révèle une complexité raffinée après 10 mois de vinification et 3 ans de maturation, offrant une expérience de dégustation inoubliable."
   },
   {
     "id": "file-2025-09-18-vin-dame-jeanne-0.html-emotion",
@@ -258,8 +650,8 @@
       "price": "Particulier 233.25 | Restaurant 202.87",
       "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/11f05b86-753b-c1b8-1190-e61ca65b8032.gif",
       "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=95649296bc&e=345e10d07b",
-      "producer": "Champagne Vilmart",
-      "region": "Rilly-la-Montagne 1er cru",
+      "producer": "Vilmart",
+      "region": "Rilly-la-Montagne",
       "vintage": "2016",
       "grape_varieties": [
         "Pinot Noir",
@@ -275,8 +667,8 @@
           "price": "Particulier 233.25 | Restaurant 202.87",
           "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/11f05b86-753b-c1b8-1190-e61ca65b8032.gif",
           "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=95649296bc&e=345e10d07b",
-          "producer": "Champagne Vilmart",
-          "region": "Rilly-la-Montagne 1er cru",
+          "producer": "Vilmart",
+          "region": "Rilly-la-Montagne",
           "vintage": "2016",
           "grape_varieties": [
             "Pinot Noir",
@@ -289,7 +681,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Émotion, un vin issu des plus vieilles vignes du domaine, marie 60% de Pinot Noir et 40% de Chardonnay pour créer une cuvée Premier Cru d'une finesse exceptionnelle. Avec 94 points de Vinous, son élevage de 60 mois sur lies révèle une complexité et une profondeur inégalées."
+    "summary": "Émotion, un assemblage délicat de Pinot Noir et Chardonnay issu des plus vieilles vignes, offre une complexité remarquable après 60 mois sur lies, révélant des arômes raffinés et une texture élégante, saluée par Vinous avec 94 points."
   },
   {
     "id": "file-2025-09-17-vin-dame-jeanne-0.html-cotes-du-jura-meme-marie-2020",
@@ -339,7 +731,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Côtes du Jura 'Mémé Marie' 2020, un assemblage de 75% Chardonnay et 25% Savagnin, révèle un éclat floral et une fraîcheur crémeuse grâce à un élevage de 24 mois sur lies. Ce vin, nommé en hommage à Grand Maman Marie, incarne l'harmonie et la tradition du terroir jurassien."
+    "summary": "Le Côtes du Jura 'Mémé Marie' 2020, un hommage à la grand-mère, marie 75% de Chardonnay et 25% de Savagnin pour offrir un vin éclatant, aux arômes de fleurs sauvages et de crème fraîche aux agrumes, sublimé par un élevage de 24 mois sur lies."
   },
   {
     "id": "file-2025-09-17-vin-dame-jeanne-0.html-cotes-du-jura-chardonnay-les-gravieres-36-mois-202",
@@ -387,7 +779,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Chardonnay 'Les Gravières' 2020, issu de vieilles vignes de 60 ans sur des calcaires, offre une expérience unique avec son élevage de 36 mois en fûts de 400L. Ce vin fascinant révèle la pureté et la complexité d'un Chardonnay jurassien, ancré dans son terroir."
+    "summary": "Le Chardonnay 'Les Gravières' 2020, issu de vieilles vignes sur des calcaires, offre une expérience unique avec son élevage de 36 mois en fût, révélant des arômes fascinants et une minéralité typique du Jura."
   },
   {
     "id": "file-2025-09-17-vin-dame-jeanne-0.html-cotes-du-jura-savagnin-puits-st-pierre-41-mois-202",
@@ -435,7 +827,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Savagnin 'Puits St Pierre' 2020, issu de vieilles vignes sur schistes et marnes, offre une complexité remarquable grâce à un élevage de 41 mois, dont 35 mois en fût ouillé. Ce vin, mis en bouteille sans pompe, témoigne de l'authenticité et de l'artisanat du Jura."
+    "summary": "Le Savagnin 'Puits St Pierre' 2020, provenant de vieilles vignes sur schistes, offre une complexité inégalée grâce à un élevage de 41 mois, révélant des arômes subtils et une profondeur remarquable."
   },
   {
     "id": "file-2025-09-17-vin-dame-jeanne-0.html-gamay-barbe-fleurie-2022",
@@ -483,7 +875,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Gamay 'Barbe Fleurie' 2022, issu de vieilles vignes de Fleurie sur granite pur, est une célébration du terroir avec sa macération carbonique et son élevage en demi-muids. Un vin irrésistible qui incarne la passion de François pour le Gamay."
+    "summary": "Le Gamay 'Barbe Fleurie' 2022, issu de vieilles vignes sur des terroirs de granite, se distingue par sa macération carbonique et son élevage en demi-muids, offrant une expression fruitée et délicieuse."
   },
   {
     "id": "file-2025-09-17-vin-dame-jeanne-0.html-poulsard-les-vignasses-2022",
@@ -531,7 +923,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Poulsard 'Les Vignasses' 2022, issu d'une petite parcelle sur marnes rouges, se distingue par sa fermentation partielle en grappes entières, offrant une délicatesse croquante et poivrée. Ce vin reflète l'approche artisanale de François et la singularité du Poulsard."
+    "summary": "Le Poulsard 'Les Vignasses' 2022, issu d'une petite parcelle sur marnes rouges, offre une délicatesse croquante et poivrée, grâce à une fermentation partielle en grappes entières, révélant toute la finesse du cépage."
   },
   {
     "id": "file-2025-09-17-vin-dame-jeanne-0.html-pinot-noir-cuvee-909-2022",
@@ -579,182 +971,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Pinot Noir 'Cuvée 909' 2022, un hommage à l'histoire, est un pur Pinot Noir issu de vignes argilo-calcaires, offrant une fermentation en mille-feuille et un élevage de 12 mois en demi-muids. Ce vin élégant et complexe incarne l'héritage du Jura."
-  },
-  {
-    "id": "file-2025-09-13-le-vin-dans-les-voiles-0.html-pinot-noir-2023",
-    "blockId": "file-2025-09-13-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-09-13T00:00:00.000Z",
-    "name": "Pinot Noir 2023",
-    "description": "Un rouge qui déborde de vitalité. Ça commence par une gorgée de fraise bien mûre, de griotte acidulée, une touche de menthe fraîche qui s’invite comme une brise du soir. La bouche est vive, légère, coulante, avec cette tension qui te fait revenir pour une autre gorgée sans réfléchir. Le genre de Pinot qui te regarde droit dans les yeux et dit : relaxe, je m’occupe de tout.",
-    "price": "28.50$",
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/b87186fa-67f5-4587-a94a-448cc9e522a9.jpeg",
-    "link": null,
-    "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Pinot Noir 2023",
-      "description": "Un rouge qui déborde de vitalité. Ça commence par une gorgée de fraise bien mûre, de griotte acidulée, une touche de menthe fraîche qui s’invite comme une brise du soir. La bouche est vive, légère, coulante, avec cette tension qui te fait revenir pour une autre gorgée sans réfléchir. Le genre de Pinot qui te regarde droit dans les yeux et dit : relaxe, je m’occupe de tout.",
-      "price": "28.50$",
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/b87186fa-67f5-4587-a94a-448cc9e522a9.jpeg",
-      "link": null,
-      "producer": "Good Intentions Wine",
-      "region": null,
-      "vintage": "2023",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Pinot Noir 2023",
-          "description": "Un rouge qui déborde de vitalité. Ça commence par une gorgée de fraise bien mûre, de griotte acidulée, une touche de menthe fraîche qui s’invite comme une brise du soir. La bouche est vive, légère, coulante, avec cette tension qui te fait revenir pour une autre gorgée sans réfléchir. Le genre de Pinot qui te regarde droit dans les yeux et dit : relaxe, je m’occupe de tout.",
-          "price": "28.50$",
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/b87186fa-67f5-4587-a94a-448cc9e522a9.jpeg",
-          "link": null,
-          "producer": "Good Intentions Wine",
-          "region": null,
-          "vintage": "2023",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Pinot Noir 2023, vibrant et léger, offre une explosion de fraise mûre et de griotte acidulée, rehaussée d'une touche de menthe fraîche. Ce vin engageant invite à la détente, avec une bouche coulante qui appelle à la prochaine gorgée."
-  },
-  {
-    "id": "file-2025-09-13-le-vin-dans-les-voiles-0.html-la-mariole-2022",
-    "blockId": "file-2025-09-13-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-09-13T00:00:00.000Z",
-    "name": "La Mariole 2022",
-    "description": "Sous le soleil du Sud, ce rouge s’est gorgé de fruits noirs juteux et d’une petite caresse cuirée. Au moment où tu crois qu’il va jouer les gros bras, paf : il se dévoile charmeur, poivré, gourmand et diablement buvable. C’est le faux dur de la bande, celui qui accompagne aussi bien un burger décadent que des côtes levées caramélisées, et qui finit par voler la vedette à table.",
-    "price": "24.70$",
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/52a9d0a7-4470-4938-8c8b-7d72581cb1cc.png",
-    "link": null,
-    "agence": "Le vin dans les voiles",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "La Mariole 2022",
-      "description": "Sous le soleil du Sud, ce rouge s’est gorgé de fruits noirs juteux et d’une petite caresse cuirée. Au moment où tu crois qu’il va jouer les gros bras, paf : il se dévoile charmeur, poivré, gourmand et diablement buvable. C’est le faux dur de la bande, celui qui accompagne aussi bien un burger décadent que des côtes levées caramélisées, et qui finit par voler la vedette à table.",
-      "price": "24.70$",
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/52a9d0a7-4470-4938-8c8b-7d72581cb1cc.png",
-      "link": null,
-      "producer": "Domaine Ledogar",
-      "region": null,
-      "vintage": "2022",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "La Mariole 2022",
-          "description": "Sous le soleil du Sud, ce rouge s’est gorgé de fruits noirs juteux et d’une petite caresse cuirée. Au moment où tu crois qu’il va jouer les gros bras, paf : il se dévoile charmeur, poivré, gourmand et diablement buvable. C’est le faux dur de la bande, celui qui accompagne aussi bien un burger décadent que des côtes levées caramélisées, et qui finit par voler la vedette à table.",
-          "price": "24.70$",
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/52a9d0a7-4470-4938-8c8b-7d72581cb1cc.png",
-          "link": null,
-          "producer": "Domaine Ledogar",
-          "region": null,
-          "vintage": "2022",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "La Mariole 2022, un rouge juteux aux notes de fruits noirs et une caresse cuirée, se révèle charmeur et gourmand, parfait pour accompagner aussi bien un burger qu'une côte levée caramélisée. Ce vin, à la fois séduisant et diablement buvable, saura captiver les convives."
-  },
-  {
-    "id": "file-2025-09-13-le-vin-dans-les-voiles-0.html-excomungado-2021",
-    "blockId": "file-2025-09-13-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-09-13T00:00:00.000Z",
-    "name": "Excomungado 2021",
-    "description": "Ici, pas de bois pour masquer la vérité. Juste la pureté du fruit, éclatant, croquant, rafraîchissant. Un rouge portugais qui surprend par sa légèreté dans une région connue pour ses vins costauds. Tu croques dans un panier de fruits rouges et noirs, tu sens l’énergie vibrer, et tu réalises qu’il y a un vent nouveau qui souffle sur le Douro.",
-    "price": "18.35$",
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/e827d82b-3d47-405c-b21f-57ab55a09bb1.jpeg",
-    "link": null,
-    "agence": "Le vin dans les voiles",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Excomungado 2021",
-      "description": "Ici, pas de bois pour masquer la vérité. Juste la pureté du fruit, éclatant, croquant, rafraîchissant. Un rouge portugais qui surprend par sa légèreté dans une région connue pour ses vins costauds. Tu croques dans un panier de fruits rouges et noirs, tu sens l’énergie vibrer, et tu réalises qu’il y a un vent nouveau qui souffle sur le Douro.",
-      "price": "18.35$",
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/e827d82b-3d47-405c-b21f-57ab55a09bb1.jpeg",
-      "link": null,
-      "producer": "Quinta Vale de Pios",
-      "region": null,
-      "vintage": "2021",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Excomungado 2021",
-          "description": "Ici, pas de bois pour masquer la vérité. Juste la pureté du fruit, éclatant, croquant, rafraîchissant. Un rouge portugais qui surprend par sa légèreté dans une région connue pour ses vins costauds. Tu croques dans un panier de fruits rouges et noirs, tu sens l’énergie vibrer, et tu réalises qu’il y a un vent nouveau qui souffle sur le Douro.",
-          "price": "18.35$",
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/e827d82b-3d47-405c-b21f-57ab55a09bb1.jpeg",
-          "link": null,
-          "producer": "Quinta Vale de Pios",
-          "region": null,
-          "vintage": "2021",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "L'Excomungado 2021, un rouge portugais sans bois, révèle la pureté éclatante du fruit avec une légèreté surprenante. Ce vin vibrant, aux arômes de fruits rouges et noirs, incarne un souffle nouveau sur le Douro."
-  },
-  {
-    "id": "file-2025-09-13-le-vin-dans-les-voiles-0.html-livia-2022",
-    "blockId": "file-2025-09-13-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-09-13T00:00:00.000Z",
-    "name": "Livia 2022",
-    "description": "Un blanc qui respire la mer et la pierre. Le muscat y devient aérien, porté par la salinité du schiste et la fraîcheur du quartz. Pas de lourdeur, juste une ampleur délicieuse, une longueur qui s’étire et une finale presque gourmande. C’est un vin qui raconte une île, qui se savoure autant qu’il se contemple. Carafe-le, et laisse-toi emporter par la vague.",
-    "price": "37.25$",
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/619f389f-5068-4bb8-8c72-8d73bdbfdc99.jpeg",
-    "link": null,
-    "agence": "Le vin dans les voiles",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Livia 2022",
-      "description": "Un blanc qui respire la mer et la pierre. Le muscat y devient aérien, porté par la salinité du schiste et la fraîcheur du quartz. Pas de lourdeur, juste une ampleur délicieuse, une longueur qui s’étire et une finale presque gourmande. C’est un vin qui raconte une île, qui se savoure autant qu’il se contemple. Carafe-le, et laisse-toi emporter par la vague.",
-      "price": "37.25$",
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/619f389f-5068-4bb8-8c72-8d73bdbfdc99.jpeg",
-      "link": null,
-      "producer": "Sous le Végétal",
-      "region": null,
-      "vintage": "2022",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Livia 2022",
-          "description": "Un blanc qui respire la mer et la pierre. Le muscat y devient aérien, porté par la salinité du schiste et la fraîcheur du quartz. Pas de lourdeur, juste une ampleur délicieuse, une longueur qui s’étire et une finale presque gourmande. C’est un vin qui raconte une île, qui se savoure autant qu’il se contemple. Carafe-le, et laisse-toi emporter par la vague.",
-          "price": "37.25$",
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/619f389f-5068-4bb8-8c72-8d73bdbfdc99.jpeg",
-          "link": null,
-          "producer": "Sous le Végétal",
-          "region": null,
-          "vintage": "2022",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Livia 2022, un blanc aérien, évoque la mer et la pierre avec son muscat porté par la salinité du schiste et la fraîcheur du quartz. Ce vin, à la fois savoureux et contemplatif, offre une longueur délicieuse et une finale gourmande, invitant à la découverte."
+    "summary": "La Cuvée 909 2022, un pur Pinot Noir de Menétru-le-Vignoble, révèle une complexité fascinante grâce à sa fermentation en mille-feuille et son élevage de 12 mois en demi-muids, incarnant l'élégance du Jura."
   }
 ]
