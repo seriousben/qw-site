@@ -1,12 +1,62 @@
 [
   {
+    "id": "file-2025-09-29-vin-dame-jeanne-0.html-cuvee-orange",
+    "blockId": "file-2025-09-29-vin-dame-jeanne-0.html",
+    "createdAt": "2025-09-29T00:00:00.000Z",
+    "name": "Cuvée Orange",
+    "description": "Cuvée vibratoire d'Antoine Arraou en IP. Attention aux amateurs de sensations fortes ; la cuvée ORANGE du Château Lafitte est de retour à la demande générale, en toutes petites quantités! Le dernier arrivage avait brisé des coeurs, avec les quantités microscopiques de cette cuvée émotionnelle -- et Antoine Arraou nous a fait une fleur! Un nouvel arrivage de quelques cartons de cette macération méditative. Connaissez vous déja le Chateau Lafitte? Attention, il ne s'agit pas du Grand Cru Classé de Pauillac... mais d'une pépite du Jurançonnais. Un domaine historique qui rend complètement fou les oenophiles et les assoiffés de grands vins d'émotion. Le Château en lui-même est une ancienne maison seigneuriale du XIVe siècle à couper le souffle, située à Monein, entre Pau et Oloron Sainte-Marie, dans les Pyrénées Atlantiques. Déjà au XVIe siècle, cette bâtisse était au coeur du vignoble et était configurée pour la production de vin. Le Château Lafitte appartient aujourd’hui à la famille Arraou. Philippe et Brigitte, parents d’Antoine, se sont lancés dans l'aventure de reprendre cette propriété historique. Leur fils, quant à lui, est un ancien photographe, qui depuis 2012, mène l’exploitation avec convictions et détermination, le convertissant au bio et à la biodynamie. Antoine Arraou a souhaité créer de son domaine un organisme vivant, comme le dessinait Rudolf Steiner, philosophe fondateur de la Biodynamie au début du 20e siècle. À la vigne, Antoine fait preuve de grande sensibilité. Les rangs de vignes sont co-habités d’une variété importante de plantes, d’arbres fruitiers et de céréales. Des brebis en hiver, des abeilles le reste de l'année, tout participe à la superbe biodiversité des parcelles. Ses 5 hectares en biodynamie sont plantés surtout de Petit Manseng et Gros Manseng, deux cépages chargés de magie lorsqu’élevés avec autant de soin et vision. Une grande attention est accordée à l’équilibre global, à la biodiversité ainsi qu’à une cohérence de l’éthique sociale et humaine. En parallèle, Antoine a construit un chai eco-responsable, conçu par l’architecte palois Geoffroy Boulin en 2018, dans l'optique de minimiser l'impact environnemental; un chef d’œuvre architectural mais surtout un lieu serein, bourré de magnétisme, utilisant énergie solaire et recyclant l’eau de pluie pour le nettoyage de matériel agricoles. Il est semi-enterré et doté d’un puit canadien afin de bénéficier de la fraîcheur naturelle constante et est organisé sur plusieurs niveaux afin de faire circuler les jus par gravité. On y retrouve de magnifiques amphores semi-enterrées, qui ronronnent durant les fermentations. La cuvée Orange fait son retour -- une des macération les plus émouvantes de France!",
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Cuvée Orange",
+      "description": "Cuvée vibratoire d'Antoine Arraou en IP. Attention aux amateurs de sensations fortes ; la cuvée ORANGE du Château Lafitte est de retour à la demande générale, en toutes petites quantités! Le dernier arrivage avait brisé des coeurs, avec les quantités microscopiques de cette cuvée émotionnelle -- et Antoine Arraou nous a fait une fleur! Un nouvel arrivage de quelques cartons de cette macération méditative. Connaissez vous déja le Chateau Lafitte? Attention, il ne s'agit pas du Grand Cru Classé de Pauillac... mais d'une pépite du Jurançonnais. Un domaine historique qui rend complètement fou les oenophiles et les assoiffés de grands vins d'émotion. Le Château en lui-même est une ancienne maison seigneuriale du XIVe siècle à couper le souffle, située à Monein, entre Pau et Oloron Sainte-Marie, dans les Pyrénées Atlantiques. Déjà au XVIe siècle, cette bâtisse était au coeur du vignoble et était configurée pour la production de vin. Le Château Lafitte appartient aujourd’hui à la famille Arraou. Philippe et Brigitte, parents d’Antoine, se sont lancés dans l'aventure de reprendre cette propriété historique. Leur fils, quant à lui, est un ancien photographe, qui depuis 2012, mène l’exploitation avec convictions et détermination, le convertissant au bio et à la biodynamie. Antoine Arraou a souhaité créer de son domaine un organisme vivant, comme le dessinait Rudolf Steiner, philosophe fondateur de la Biodynamie au début du 20e siècle. À la vigne, Antoine fait preuve de grande sensibilité. Les rangs de vignes sont co-habités d’une variété importante de plantes, d’arbres fruitiers et de céréales. Des brebis en hiver, des abeilles le reste de l'année, tout participe à la superbe biodiversité des parcelles. Ses 5 hectares en biodynamie sont plantés surtout de Petit Manseng et Gros Manseng, deux cépages chargés de magie lorsqu’élevés avec autant de soin et vision. Une grande attention est accordée à l’équilibre global, à la biodiversité ainsi qu’à une cohérence de l’éthique sociale et humaine. En parallèle, Antoine a construit un chai eco-responsable, conçu par l’architecte palois Geoffroy Boulin en 2018, dans l'optique de minimiser l'impact environnemental; un chef d’œuvre architectural mais surtout un lieu serein, bourré de magnétisme, utilisant énergie solaire et recyclant l’eau de pluie pour le nettoyage de matériel agricoles. Il est semi-enterré et doté d’un puit canadien afin de bénéficier de la fraîcheur naturelle constante et est organisé sur plusieurs niveaux afin de faire circuler les jus par gravité. On y retrouve de magnifiques amphores semi-enterrées, qui ronronnent durant les fermentations. La cuvée Orange fait son retour -- une des macération les plus émouvantes de France!",
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "Château Lafitte",
+      "region": "Jurançonnais",
+      "vintage": null,
+      "grape_varieties": [
+        "Petit Manseng",
+        "Gros Manseng"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Cuvée Orange",
+          "description": "Cuvée vibratoire d'Antoine Arraou en IP. Attention aux amateurs de sensations fortes ; la cuvée ORANGE du Château Lafitte est de retour à la demande générale, en toutes petites quantités! Le dernier arrivage avait brisé des coeurs, avec les quantités microscopiques de cette cuvée émotionnelle -- et Antoine Arraou nous a fait une fleur! Un nouvel arrivage de quelques cartons de cette macération méditative. Connaissez vous déja le Chateau Lafitte? Attention, il ne s'agit pas du Grand Cru Classé de Pauillac... mais d'une pépite du Jurançonnais. Un domaine historique qui rend complètement fou les oenophiles et les assoiffés de grands vins d'émotion. Le Château en lui-même est une ancienne maison seigneuriale du XIVe siècle à couper le souffle, située à Monein, entre Pau et Oloron Sainte-Marie, dans les Pyrénées Atlantiques. Déjà au XVIe siècle, cette bâtisse était au coeur du vignoble et était configurée pour la production de vin. Le Château Lafitte appartient aujourd’hui à la famille Arraou. Philippe et Brigitte, parents d’Antoine, se sont lancés dans l'aventure de reprendre cette propriété historique. Leur fils, quant à lui, est un ancien photographe, qui depuis 2012, mène l’exploitation avec convictions et détermination, le convertissant au bio et à la biodynamie. Antoine Arraou a souhaité créer de son domaine un organisme vivant, comme le dessinait Rudolf Steiner, philosophe fondateur de la Biodynamie au début du 20e siècle. À la vigne, Antoine fait preuve de grande sensibilité. Les rangs de vignes sont co-habités d’une variété importante de plantes, d’arbres fruitiers et de céréales. Des brebis en hiver, des abeilles le reste de l'année, tout participe à la superbe biodiversité des parcelles. Ses 5 hectares en biodynamie sont plantés surtout de Petit Manseng et Gros Manseng, deux cépages chargés de magie lorsqu’élevés avec autant de soin et vision. Une grande attention est accordée à l’équilibre global, à la biodiversité ainsi qu’à une cohérence de l’éthique sociale et humaine. En parallèle, Antoine a construit un chai eco-responsable, conçu par l’architecte palois Geoffroy Boulin en 2018, dans l'optique de minimiser l'impact environnemental; un chef d’œuvre architectural mais surtout un lieu serein, bourré de magnétisme, utilisant énergie solaire et recyclant l’eau de pluie pour le nettoyage de matériel agricoles. Il est semi-enterré et doté d’un puit canadien afin de bénéficier de la fraîcheur naturelle constante et est organisé sur plusieurs niveaux afin de faire circuler les jus par gravité. On y retrouve de magnifiques amphores semi-enterrées, qui ronronnent durant les fermentations. La cuvée Orange fait son retour -- une des macération les plus émouvantes de France!",
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "Château Lafitte",
+          "region": "Jurançonnais",
+          "vintage": null,
+          "grape_varieties": [
+            "Petit Manseng",
+            "Gros Manseng"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "La cuvée Orange du Château Lafitte, une pépite du Jurançonnais, revient en quantités limitées, offrant une macération méditative de Petit et Gros Manseng, cultivés avec une sensibilité biodynamique. Ce vin, né d'un domaine historique, incarne l'émotion et la passion d'Antoine Arraou, promettant une expérience sensorielle inoubliable."
+  },
+  {
     "id": "file-2025-09-27-le-vin-dans-les-voiles-0.html-domaine-senat",
     "blockId": "file-2025-09-27-le-vin-dans-les-voiles-0.html",
     "createdAt": "2025-09-27T00:00:00.000Z",
     "name": "Domaine Sénat",
     "description": null,
     "price": null,
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
+    "image_url": null,
     "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_6",
     "agence": "Le vin dans les voiles",
     "disponibilite": "SAQ",
@@ -14,7 +64,7 @@
       "name": "Domaine Sénat",
       "description": null,
       "price": null,
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
+      "image_url": null,
       "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_6",
       "producer": "Domaine Sénat",
       "region": null,
@@ -28,7 +78,7 @@
           "name": "Domaine Sénat",
           "description": null,
           "price": null,
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
+          "image_url": null,
           "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_6",
           "producer": "Domaine Sénat",
           "region": null,
@@ -179,7 +229,7 @@
     "description": "Alba de Vetus 2024 est élaboré à partir d’Albariño soigneusement sélectionné, vendangé à la main dans la région de Rías Baixas. Après un pressurage délicat, la fermentation se déroule à basse température en cuves inox, afin de préserver toute la fraîcheur aromatique du cépage. Un élevage sur lies fines pendant plusieurs semaines apporte texture et complexité au vin, sans masquer sa pureté d’expression.",
     "price": "25,85$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_image1_75.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=44c1bcd285&e=2c9a262afa",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6bc9e2e8b3&e=2c9a262afa",
     "agence": "Noble Sélection",
     "disponibilite": "SAQ",
     "raw_data": {
@@ -187,7 +237,7 @@
       "description": "Alba de Vetus 2024 est élaboré à partir d’Albariño soigneusement sélectionné, vendangé à la main dans la région de Rías Baixas. Après un pressurage délicat, la fermentation se déroule à basse température en cuves inox, afin de préserver toute la fraîcheur aromatique du cépage. Un élevage sur lies fines pendant plusieurs semaines apporte texture et complexité au vin, sans masquer sa pureté d’expression.",
       "price": "25,85$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_image1_75.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=44c1bcd285&e=2c9a262afa",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6bc9e2e8b3&e=2c9a262afa",
       "producer": "VETUS",
       "region": "Galice",
       "vintage": "2024",
@@ -203,7 +253,7 @@
           "description": "Alba de Vetus 2024 est élaboré à partir d’Albariño soigneusement sélectionné, vendangé à la main dans la région de Rías Baixas. Après un pressurage délicat, la fermentation se déroule à basse température en cuves inox, afin de préserver toute la fraîcheur aromatique du cépage. Un élevage sur lies fines pendant plusieurs semaines apporte texture et complexité au vin, sans masquer sa pureté d’expression.",
           "price": "25,85$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_image1_75.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=44c1bcd285&e=2c9a262afa",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6bc9e2e8b3&e=2c9a262afa",
           "producer": "VETUS",
           "region": "Galice",
           "vintage": "2024",
@@ -216,8 +266,7 @@
         }
       ],
       "agence_was_defaulted": false
-    },
-    "summary": "Alba de Vetus 2024 showcases hand-harvested Albariño from Rías Baixas, fermented at low temperatures to capture its aromatic freshness. A delicate aging on fine lees adds texture and complexity, enhancing its pure expression."
+    }
   },
   {
     "id": "file-2025-09-26-noble-selection-0.html-capeography-cloudspace-sauvignon-blanc-2024",
@@ -442,7 +491,7 @@
     "description": "Les vendanges sont faites à la main et après réception des raisins en cuverie et pressurage doux, les trois cépages sont macérés et fermentés séparément à une température contrôlée de 25°, après une macération pré-fermentaire à 5°C pendant une semaine. Vieilli en fûts de chêne français de l'Allier de 2ème et 3ème année pendant 8 mois pour ne pas nuire au caractère fruité des raisins.",
     "price": "21,95$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_mas-elena-2-copie.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f7df89dc9b&e=2c9a262afa",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=18bcd9443e&e=2c9a262afa",
     "agence": "Noble Sélection",
     "disponibilite": null,
     "raw_data": {
@@ -450,7 +499,7 @@
       "description": "Les vendanges sont faites à la main et après réception des raisins en cuverie et pressurage doux, les trois cépages sont macérés et fermentés séparément à une température contrôlée de 25°, après une macération pré-fermentaire à 5°C pendant une semaine. Vieilli en fûts de chêne français de l'Allier de 2ème et 3ème année pendant 8 mois pour ne pas nuire au caractère fruité des raisins.",
       "price": "21,95$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_mas-elena-2-copie.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f7df89dc9b&e=2c9a262afa",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=18bcd9443e&e=2c9a262afa",
       "producer": "PARÉS BALTÀ",
       "region": "Catalogne",
       "vintage": "2020",
@@ -464,7 +513,7 @@
           "description": "Les vendanges sont faites à la main et après réception des raisins en cuverie et pressurage doux, les trois cépages sont macérés et fermentés séparément à une température contrôlée de 25°, après une macération pré-fermentaire à 5°C pendant une semaine. Vieilli en fûts de chêne français de l'Allier de 2ème et 3ème année pendant 8 mois pour ne pas nuire au caractère fruité des raisins.",
           "price": "21,95$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_mas-elena-2-copie.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f7df89dc9b&e=2c9a262afa",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=18bcd9443e&e=2c9a262afa",
           "producer": "PARÉS BALTÀ",
           "region": "Catalogne",
           "vintage": "2020",
@@ -475,8 +524,7 @@
         }
       ],
       "agence_was_defaulted": false
-    },
-    "summary": "Mas Elena 2020 is crafted from hand-harvested grapes, with each varietal macerated and fermented separately to preserve their fruity essence, followed by an 8-month maturation in French oak barrels."
+    }
   },
   {
     "id": "file-2025-09-25-bambara-selection-0.html-gini-soave-classico-contrada-salvarenza-2021",
@@ -524,7 +572,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Discover the Contrada Salvarenza, a remarkable Soave Classico crafted from ancient Garganega vines that survived the phylloxera crisis, offering a mineral-rich profile with ripe pear and yellow peach notes. This organically cultivated gem promises complexity and elegance, perfect for aging gracefully over the next 15 years."
+    "summary": "La cuvée Contrada Salvarenza, un Soave Classico 100% garganega issu de vignes centenaires, incarne l'héritage viticole d'Italie avec sa complexité minérale et ses notes de poire mûre et pêche jaune. Élaboré sans sulfites et vieilli avec soin, ce vin promet une expérience gastronomique d'une grande noblesse."
   },
   {
     "id": "file-2025-09-25-info-symbiose-0.html-groseille",
@@ -866,7 +914,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Jean-François Ganevat, a pioneer of natural wines, transforms his family estate in Rotalier into a biodynamic haven, producing over forty unique cuvées annually from meticulously hand-harvested grapes. This natural wine, composed of 95% Fleurie and 5% Trousseau, exemplifies purity with no added sulfites or filtration."
+    "summary": "Jean-François Ganevat, maître de la vinification naturelle, élabore un vin vibrant à partir de 95% de Fleurie et 5% de Trousseau, cultivé en biodynamie dans le Jura. Chaque cuvée, issue d'une sélection parcellaire rigoureuse, témoigne de son engagement envers l'authenticité et la pureté."
   },
   {
     "id": "file-2025-09-25-rezin-0.html-balatoni-george-2022",
@@ -917,8 +965,7 @@
         }
       ],
       "agence_was_defaulted": false
-    },
-    "summary": "Balatoni George 2022, crafted from organic Riesling, Welschriesling, and Furmint, embodies the unique terroir of Lake Balaton, offering a soft, acidic white with delicate notes of lemon, flowers, and spices. Its elegant palate, complemented by subtle bitterness, pairs beautifully with grilled fish."
+    }
   },
   {
     "id": "file-2025-09-25-vin-dame-jeanne-0.html-champagne-expression",
@@ -930,7 +977,7 @@
     "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
     "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=0d4e986aef&e=345e10d07b",
     "agence": "Vin Dame-Jeanne",
-    "disponibilite": null,
+    "disponibilite": "SAQ",
     "raw_data": {
       "name": "Champagne ‘Expression’",
       "description": "Le Champagne Expression est la première cuvée de la Maison. Issu systématiquement d’un assemblage (2022 et réserve perpétuelle sur cet arrivage), ce Champagne séduit par ses arômes éclatantes de fruit blanc, son équilibre et son étonnante fraîcheur en fin de bouche. Ici, un assemblage de 35% Pinot Meunier, 35% Pinot Noir, et 30% Chardonnay, sur les terroirs de Cumières et Hautvillers. Dosage de 4 gr./L., dégorgement mars 2024.",
@@ -947,7 +994,7 @@
       ],
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": null,
+      "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
           "name": "Champagne ‘Expression’",
@@ -965,12 +1012,11 @@
           ],
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": null
+          "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
-    },
-    "summary": "Champagne Expression, the inaugural cuvée of the house, captivates with its vibrant white fruit aromas, balanced structure, and refreshing finish, crafted from a blend of 35% Pinot Meunier, 35% Pinot Noir, and 30% Chardonnay from Cumières and Hautvillers."
+    }
   },
   {
     "id": "file-2025-09-24-vin-dame-jeanne-0.html-zeroine",
@@ -1014,7 +1060,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Zéroine, a vibrant project by Maylis Bernard in the Jura, showcases natural wines with enchanting aromas and delicate, sapid palates. With a commitment to biodynamic practices and minimal intervention, Maylis crafts exceptional cuvées from her newly acquired Savagnin and Chardonnay parcels, reflecting her passion and mentorship under Jean-François Ganevat."
+    "summary": "Zéroine, le projet vibrant de Maylis Bernard dans le Jura, propose des vins naturels aux assemblages originaux et aux expressions aromatiques captivantes, élaborés selon des pratiques biodynamiques. Avec des parcelles récemment acquises, chaque cuvée incarne une passion authentique et un savoir-faire respectueux de la nature."
   },
   {
     "id": "file-2025-09-24-vin-dame-jeanne-0.html-cremant-du-jura-2020",
@@ -1022,19 +1068,19 @@
     "createdAt": "2025-09-24T00:00:00.000Z",
     "name": "Crémant du Jura, 2020",
     "description": "Crémant du Jura issu de 100% Chardonnay du terroir de L’Etoile, d'un vignoble travaillé en bio. Presse directe, et fermentation en demi-muids. Élevage d'un an sous bois, avec ouillage aux deux semaines. Deuxième fermentation en bouteille en septembre 2021, suivi de 3 ans sur lattes. Un Crémant racé, puissant et généreux aux notes de poire blanche, verveine et sésame. Finale longue, sapide, saline. Grande bulle gastronomique!",
-    "price": "Particulier 67 | Restaurant 58.27 | 15512762",
+    "price": "Particulier 67 | Restaurant 58.27",
     "image_url": null,
-    "link": null,
+    "link": "http://SAQ.com",
     "agence": "Vin Dame-Jeanne",
     "disponibilite": null,
     "raw_data": {
       "name": "Crémant du Jura, 2020",
       "description": "Crémant du Jura issu de 100% Chardonnay du terroir de L’Etoile, d'un vignoble travaillé en bio. Presse directe, et fermentation en demi-muids. Élevage d'un an sous bois, avec ouillage aux deux semaines. Deuxième fermentation en bouteille en septembre 2021, suivi de 3 ans sur lattes. Un Crémant racé, puissant et généreux aux notes de poire blanche, verveine et sésame. Finale longue, sapide, saline. Grande bulle gastronomique!",
-      "price": "Particulier 67 | Restaurant 58.27 | 15512762",
+      "price": "Particulier 67 | Restaurant 58.27",
       "image_url": null,
-      "link": null,
+      "link": "http://SAQ.com",
       "producer": null,
-      "region": "Jura",
+      "region": null,
       "vintage": "2020",
       "grape_varieties": [
         "Chardonnay"
@@ -1046,11 +1092,11 @@
         {
           "name": "Crémant du Jura, 2020",
           "description": "Crémant du Jura issu de 100% Chardonnay du terroir de L’Etoile, d'un vignoble travaillé en bio. Presse directe, et fermentation en demi-muids. Élevage d'un an sous bois, avec ouillage aux deux semaines. Deuxième fermentation en bouteille en septembre 2021, suivi de 3 ans sur lattes. Un Crémant racé, puissant et généreux aux notes de poire blanche, verveine et sésame. Finale longue, sapide, saline. Grande bulle gastronomique!",
-          "price": "Particulier 67 | Restaurant 58.27 | 15512762",
+          "price": "Particulier 67 | Restaurant 58.27",
           "image_url": null,
-          "link": null,
+          "link": "http://SAQ.com",
           "producer": null,
-          "region": "Jura",
+          "region": null,
           "vintage": "2020",
           "grape_varieties": [
             "Chardonnay"
@@ -1061,8 +1107,7 @@
         }
       ],
       "agence_was_defaulted": false
-    },
-    "summary": "Crémant du Jura 2020, crafted from 100% organic Chardonnay, is a powerful and generous sparkling wine with notes of white pear, verbena, and sesame, aged for three years on lees for a long, saline finish—an exceptional gastronomic bubble."
+    }
   },
   {
     "id": "file-2025-09-24-vin-dame-jeanne-0.html-rierie-2021",
@@ -1070,7 +1115,7 @@
     "createdAt": "2025-09-24T00:00:00.000Z",
     "name": "RieRie, 2021",
     "description": "Oufff ! Riesling d'Alsace comme jamais vu. Presse directe, fermentation en demi-muids. Élevage de 2 ans avec ouillage aux deux semaines. Grosse tension calcaire, floral délicat, puissance et profondeur à la Jurassienne. Majestueux, du grand Zeroine !",
-    "price": "Particulier 82.50 | Restaurant 71.75 | 15512771",
+    "price": "Particulier 82.50 | Restaurant 71.75",
     "image_url": null,
     "link": null,
     "agence": "Vin Dame-Jeanne",
@@ -1078,11 +1123,11 @@
     "raw_data": {
       "name": "RieRie, 2021",
       "description": "Oufff ! Riesling d'Alsace comme jamais vu. Presse directe, fermentation en demi-muids. Élevage de 2 ans avec ouillage aux deux semaines. Grosse tension calcaire, floral délicat, puissance et profondeur à la Jurassienne. Majestueux, du grand Zeroine !",
-      "price": "Particulier 82.50 | Restaurant 71.75 | 15512771",
+      "price": "Particulier 82.50 | Restaurant 71.75",
       "image_url": null,
       "link": null,
       "producer": null,
-      "region": "Alsace",
+      "region": null,
       "vintage": "2021",
       "grape_varieties": [
         "Riesling"
@@ -1094,11 +1139,11 @@
         {
           "name": "RieRie, 2021",
           "description": "Oufff ! Riesling d'Alsace comme jamais vu. Presse directe, fermentation en demi-muids. Élevage de 2 ans avec ouillage aux deux semaines. Grosse tension calcaire, floral délicat, puissance et profondeur à la Jurassienne. Majestueux, du grand Zeroine !",
-          "price": "Particulier 82.50 | Restaurant 71.75 | 15512771",
+          "price": "Particulier 82.50 | Restaurant 71.75",
           "image_url": null,
           "link": null,
           "producer": null,
-          "region": "Alsace",
+          "region": null,
           "vintage": "2021",
           "grape_varieties": [
             "Riesling"
@@ -1109,8 +1154,7 @@
         }
       ],
       "agence_was_defaulted": false
-    },
-    "summary": "RieRie 2021 is an extraordinary Alsace Riesling, showcasing a delicate floral profile and remarkable limestone tension, with a majestic depth and power characteristic of the Jura region, aged for two years in demi-muids."
+    }
   },
   {
     "id": "file-2025-09-24-vin-dame-jeanne-0.html-jucha-2021",
@@ -1118,7 +1162,7 @@
     "createdAt": "2025-09-24T00:00:00.000Z",
     "name": "JuCha, 2021",
     "description": "Chardonnay du Jura, des lieux-dits Lavigny, Varrons (en propriété), et Augea sur Beaufort, tout certifié bio. Pressurage directe, fermentation en demi-muids. Élevage de 2 ans avec ouillage aux 2 semaines. Quoi dire de ce très grand, grand blanc!? Notes d’infusion, chèvrefeuille, fruits secs et belle réduction minérale. La bouche est très tendue mais ne manque pas de matière et de sapidité. Immense longueur !",
-    "price": "Particulier 98 | Restaurant 85.24 | 15512404",
+    "price": "Particulier 98 | Restaurant 85.24",
     "image_url": null,
     "link": null,
     "agence": "Vin Dame-Jeanne",
@@ -1126,11 +1170,11 @@
     "raw_data": {
       "name": "JuCha, 2021",
       "description": "Chardonnay du Jura, des lieux-dits Lavigny, Varrons (en propriété), et Augea sur Beaufort, tout certifié bio. Pressurage directe, fermentation en demi-muids. Élevage de 2 ans avec ouillage aux 2 semaines. Quoi dire de ce très grand, grand blanc!? Notes d’infusion, chèvrefeuille, fruits secs et belle réduction minérale. La bouche est très tendue mais ne manque pas de matière et de sapidité. Immense longueur !",
-      "price": "Particulier 98 | Restaurant 85.24 | 15512404",
+      "price": "Particulier 98 | Restaurant 85.24",
       "image_url": null,
       "link": null,
       "producer": null,
-      "region": "Jura",
+      "region": null,
       "vintage": "2021",
       "grape_varieties": [
         "Chardonnay"
@@ -1142,11 +1186,11 @@
         {
           "name": "JuCha, 2021",
           "description": "Chardonnay du Jura, des lieux-dits Lavigny, Varrons (en propriété), et Augea sur Beaufort, tout certifié bio. Pressurage directe, fermentation en demi-muids. Élevage de 2 ans avec ouillage aux 2 semaines. Quoi dire de ce très grand, grand blanc!? Notes d’infusion, chèvrefeuille, fruits secs et belle réduction minérale. La bouche est très tendue mais ne manque pas de matière et de sapidité. Immense longueur !",
-          "price": "Particulier 98 | Restaurant 85.24 | 15512404",
+          "price": "Particulier 98 | Restaurant 85.24",
           "image_url": null,
           "link": null,
           "producer": null,
-          "region": "Jura",
+          "region": null,
           "vintage": "2021",
           "grape_varieties": [
             "Chardonnay"
@@ -1157,8 +1201,7 @@
         }
       ],
       "agence_was_defaulted": false
-    },
-    "summary": "JuCha 2021, a remarkable Chardonnay from the Jura, boasts infusion notes, honeysuckle, and dried fruits, with a mineral reduction that delivers a taut yet rich palate, offering immense length and depth."
+    }
   },
   {
     "id": "file-2025-09-24-vin-dame-jeanne-0.html-juppt-2023",
@@ -1166,7 +1209,7 @@
     "createdAt": "2025-09-24T00:00:00.000Z",
     "name": "JuPPT, 2023",
     "description": "Assemblage subtil des 3 cépages rouges du Jura ; Poulsard, Pinot Noir, Trousseau, à proportions égales. Macération très douce semi-carbonique pendant 17 jours, sans aucun travail d'extraction. Élevage en demi-muids pendant 1 an, sur lies.",
-    "price": "Particulier 98 | Restaurant 85.24 | 15512412",
+    "price": "Particulier 98 | Restaurant 85.24",
     "image_url": null,
     "link": null,
     "agence": "Vin Dame-Jeanne",
@@ -1174,11 +1217,11 @@
     "raw_data": {
       "name": "JuPPT, 2023",
       "description": "Assemblage subtil des 3 cépages rouges du Jura ; Poulsard, Pinot Noir, Trousseau, à proportions égales. Macération très douce semi-carbonique pendant 17 jours, sans aucun travail d'extraction. Élevage en demi-muids pendant 1 an, sur lies.",
-      "price": "Particulier 98 | Restaurant 85.24 | 15512412",
+      "price": "Particulier 98 | Restaurant 85.24",
       "image_url": null,
       "link": null,
       "producer": null,
-      "region": "Jura",
+      "region": null,
       "vintage": "2023",
       "grape_varieties": [
         "Poulsard",
@@ -1192,11 +1235,11 @@
         {
           "name": "JuPPT, 2023",
           "description": "Assemblage subtil des 3 cépages rouges du Jura ; Poulsard, Pinot Noir, Trousseau, à proportions égales. Macération très douce semi-carbonique pendant 17 jours, sans aucun travail d'extraction. Élevage en demi-muids pendant 1 an, sur lies.",
-          "price": "Particulier 98 | Restaurant 85.24 | 15512412",
+          "price": "Particulier 98 | Restaurant 85.24",
           "image_url": null,
           "link": null,
           "producer": null,
-          "region": "Jura",
+          "region": null,
           "vintage": "2023",
           "grape_varieties": [
             "Poulsard",
@@ -1209,7 +1252,6 @@
         }
       ],
       "agence_was_defaulted": false
-    },
-    "summary": "JuPPT 2023 is a harmonious blend of Jura's red varietals—Poulsard, Pinot Noir, and Trousseau—crafted through gentle semi-carbonic maceration and aged for a year in demi-muids, resulting in a refined and expressive wine."
+    }
   }
 ]
