@@ -1,5 +1,101 @@
 [
   {
+    "id": "file-2025-10-01-vin-dame-jeanne-0.html-bianco-vio",
+    "blockId": "file-2025-10-01-vin-dame-jeanne-0.html",
+    "createdAt": "2025-10-01T00:00:00.000Z",
+    "name": "Bianco VIO",
+    "description": "C’est la troisième année que Joy élabore ce vin avec du Viognier de Farnese. Normalement seulement vendu sur place dans sa cantina, nous avons supplié Joy pour quelques bouteilles pour le Québec! Egrappé à la main, macéré 2 jours sur peaux et élevé en cuve fibreverre. Un bouquet d’abricots, de poires, de paille et d’herbes sauvages. Sans intrants.",
+    "price": "Particulier 45 | Restaurant 37.47 | IP 6",
+    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Bianco VIO",
+      "description": "C’est la troisième année que Joy élabore ce vin avec du Viognier de Farnese. Normalement seulement vendu sur place dans sa cantina, nous avons supplié Joy pour quelques bouteilles pour le Québec! Egrappé à la main, macéré 2 jours sur peaux et élevé en cuve fibreverre. Un bouquet d’abricots, de poires, de paille et d’herbes sauvages. Sans intrants.",
+      "price": "Particulier 45 | Restaurant 37.47 | IP 6",
+      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+      "link": null,
+      "producer": "La Villana",
+      "region": "Lazio",
+      "vintage": "2023",
+      "grape_varieties": [
+        "Viognier"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Bianco VIO",
+          "description": "C’est la troisième année que Joy élabore ce vin avec du Viognier de Farnese. Normalement seulement vendu sur place dans sa cantina, nous avons supplié Joy pour quelques bouteilles pour le Québec! Egrappé à la main, macéré 2 jours sur peaux et élevé en cuve fibreverre. Un bouquet d’abricots, de poires, de paille et d’herbes sauvages. Sans intrants.",
+          "price": "Particulier 45 | Restaurant 37.47 | IP 6",
+          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+          "link": null,
+          "producer": "La Villana",
+          "region": "Lazio",
+          "vintage": "2023",
+          "grape_varieties": [
+            "Viognier"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Joy's Bianco VIO captivates with its hand-harvested Viognier, showcasing a delicate bouquet of apricots, pears, and wild herbs, all elegantly crafted in fiber glass tanks."
+  },
+  {
+    "id": "file-2025-10-01-vin-dame-jeanne-0.html-bianco-puro",
+    "blockId": "file-2025-10-01-vin-dame-jeanne-0.html",
+    "createdAt": "2025-10-01T00:00:00.000Z",
+    "name": "Bianco PURO",
+    "description": "Anciennement nommé 'Bianco Uovo’. Vieilles vignes de Procanico (Trebbiano du Lazio/Trebbiano Toscana) sur les rives du Lago di Bolsena, sur terroirs volcaniques. Égrappé et macéré 10 jours en cuve fibre verre. Élevé 12 mois en cuve béton. Joy est convaincue… l’oeuf béton est un outil incroyable pour les vins ici, révélateur de terroir et d’harmonie. Chaque année, un ou deux oeufs de plus se rajoutent à la cave! Un grand vin d’épices et de textures, méditatif, nuancé, magnifique!! Sans intrants.",
+    "price": "Particulier 47.50 | Restaurant 39.60 | IP 6",
+    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+    "link": null,
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Bianco PURO",
+      "description": "Anciennement nommé 'Bianco Uovo’. Vieilles vignes de Procanico (Trebbiano du Lazio/Trebbiano Toscana) sur les rives du Lago di Bolsena, sur terroirs volcaniques. Égrappé et macéré 10 jours en cuve fibre verre. Élevé 12 mois en cuve béton. Joy est convaincue… l’oeuf béton est un outil incroyable pour les vins ici, révélateur de terroir et d’harmonie. Chaque année, un ou deux oeufs de plus se rajoutent à la cave! Un grand vin d’épices et de textures, méditatif, nuancé, magnifique!! Sans intrants.",
+      "price": "Particulier 47.50 | Restaurant 39.60 | IP 6",
+      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+      "link": null,
+      "producer": "La Villana",
+      "region": "Lazio",
+      "vintage": "2022",
+      "grape_varieties": [
+        "Procanico"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Bianco PURO",
+          "description": "Anciennement nommé 'Bianco Uovo’. Vieilles vignes de Procanico (Trebbiano du Lazio/Trebbiano Toscana) sur les rives du Lago di Bolsena, sur terroirs volcaniques. Égrappé et macéré 10 jours en cuve fibre verre. Élevé 12 mois en cuve béton. Joy est convaincue… l’oeuf béton est un outil incroyable pour les vins ici, révélateur de terroir et d’harmonie. Chaque année, un ou deux oeufs de plus se rajoutent à la cave! Un grand vin d’épices et de textures, méditatif, nuancé, magnifique!! Sans intrants.",
+          "price": "Particulier 47.50 | Restaurant 39.60 | IP 6",
+          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
+          "link": null,
+          "producer": "La Villana",
+          "region": "Lazio",
+          "vintage": "2022",
+          "grape_varieties": [
+            "Procanico"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Formerly known as 'Bianco Uovo', this exquisite wine from ancient Procanico vines reveals a meditative complexity, aged in concrete eggs that enhance its volcanic terroir and nuanced spice."
+  },
+  {
     "id": "file-2025-09-29-vin-dame-jeanne-0.html-cuvee-orange",
     "blockId": "file-2025-09-29-vin-dame-jeanne-0.html",
     "createdAt": "2025-09-29T00:00:00.000Z",
@@ -47,7 +143,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La cuvée Orange du Château Lafitte, une macération méditative en biodynamie, revient en quantités microscopiques, offrant une expérience sensorielle unique et émotive, issue d'un domaine historique du Jurançonnais."
+    "summary": "The highly sought-after Cuvée Orange from Château Lafitte returns in limited quantities, showcasing a meditative maceration crafted with biodynamic principles amidst the breathtaking historical estate of Antoine Arraou."
   },
   {
     "id": "file-2025-09-27-le-vin-dans-les-voiles-0.html-domaine-senat",
@@ -56,7 +152,7 @@
     "name": "Domaine Sénat",
     "description": null,
     "price": null,
-    "image_url": null,
+    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
     "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_6",
     "agence": "Le vin dans les voiles",
     "disponibilite": "SAQ",
@@ -64,7 +160,7 @@
       "name": "Domaine Sénat",
       "description": null,
       "price": null,
-      "image_url": null,
+      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
       "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_6",
       "producer": "Domaine Sénat",
       "region": null,
@@ -78,7 +174,7 @@
           "name": "Domaine Sénat",
           "description": null,
           "price": null,
-          "image_url": null,
+          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
           "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_6",
           "producer": "Domaine Sénat",
           "region": null,
@@ -152,7 +248,7 @@
       "price": null,
       "image_url": null,
       "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_8",
-      "producer": "Pascal Chalon (La Grande Ourse)",
+      "producer": "Pascal Chalon",
       "region": null,
       "vintage": null,
       "grape_varieties": null,
@@ -166,7 +262,7 @@
           "price": null,
           "image_url": null,
           "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_8",
-          "producer": "Pascal Chalon (La Grande Ourse)",
+          "producer": "Pascal Chalon",
           "region": null,
           "vintage": null,
           "grape_varieties": null,
@@ -188,7 +284,7 @@
     "image_url": null,
     "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_9",
     "agence": "Le vin dans les voiles",
-    "disponibilite": null,
+    "disponibilite": "SAQ",
     "raw_data": {
       "name": "Señorio de Librares",
       "description": null,
@@ -201,7 +297,7 @@
       "grape_varieties": null,
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": null,
+      "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
           "name": "Señorio de Librares",
@@ -215,7 +311,7 @@
           "grape_varieties": null,
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": null
+          "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
@@ -267,7 +363,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Alba de Vetus 2024, élaboré à partir d'Albariño minutieusement sélectionné, révèle une fraîcheur aromatique éclatante et une complexité raffinée grâce à un élevage sur lies fines, tout en préservant sa pureté d'expression."
+    "summary": "Alba de Vetus 2024, crafted from hand-harvested Albariño, captivates with its fresh aromatic profile and refined texture, thanks to delicate fermentation and aging on fine lees."
   },
   {
     "id": "file-2025-09-26-noble-selection-0.html-capeography-cloudspace-sauvignon-blanc-2024",
@@ -373,7 +469,7 @@
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_terres-d-estandon.jpg",
       "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5be7ba9ea7&e=2c9a262afa",
       "producer": "ESTANDON",
-      "region": "Provence",
+      "region": "Provence, France",
       "vintage": "2024",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -387,7 +483,7 @@
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_terres-d-estandon.jpg",
           "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5be7ba9ea7&e=2c9a262afa",
           "producer": "ESTANDON",
-          "region": "Provence",
+          "region": "Provence, France",
           "vintage": "2024",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -396,7 +492,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "The Terres d'Estandon 2024 embodies the unique geological character of the Coteaux Varois in Provence, where limestone and clay-limestone folds meet gravel and flint, creating a distinctive terroir."
   },
   {
     "id": "file-2025-09-26-noble-selection-0.html-bottega-white-gold",
@@ -489,7 +586,7 @@
     "blockId": "file-2025-09-26-noble-selection-0.html",
     "createdAt": "2025-09-26T00:00:00.000Z",
     "name": "Mas Elena 2020",
-    "description": "Les vendanges sont faites à la main et après réception des raisins en cuverie et pressurage doux, les trois cépages sont macérés et fermentés séparément à une température contrôlée de 25°, après une macération pré-fermentaire à 5°C pendant une semaine. Vieilli en fûts de chêne français de l'Allier de 2ème et 3ème année pendant 8 mois pour ne pas nuire au caractère fruité des raisins.",
+    "description": "Les vendanges sont faites à la main et après réception des raisins en cuverie et pressurage doux, les trois cépages sont macérés et fermentés séparément à une température contrôlée de 25°, après une macération pré-fermentaire à 5°C pendant une semaine. Vieilli en fûts de chêne français de l'Allier de 2ème et 3ème année pendant 8 mois pour ne pas nuire au caractère fruité des raisins.",
     "price": "21,95$",
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_mas-elena-2-copie.png",
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f7df89dc9b&e=2c9a262afa",
@@ -497,12 +594,12 @@
     "disponibilite": null,
     "raw_data": {
       "name": "Mas Elena 2020",
-      "description": "Les vendanges sont faites à la main et après réception des raisins en cuverie et pressurage doux, les trois cépages sont macérés et fermentés séparément à une température contrôlée de 25°, après une macération pré-fermentaire à 5°C pendant une semaine. Vieilli en fûts de chêne français de l'Allier de 2ème et 3ème année pendant 8 mois pour ne pas nuire au caractère fruité des raisins.",
+      "description": "Les vendanges sont faites à la main et après réception des raisins en cuverie et pressurage doux, les trois cépages sont macérés et fermentés séparément à une température contrôlée de 25°, après une macération pré-fermentaire à 5°C pendant une semaine. Vieilli en fûts de chêne français de l'Allier de 2ème et 3ème année pendant 8 mois pour ne pas nuire au caractère fruité des raisins.",
       "price": "21,95$",
       "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_mas-elena-2-copie.png",
       "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f7df89dc9b&e=2c9a262afa",
       "producer": "PARÉS BALTÀ",
-      "region": "Catalogne",
+      "region": "Catalogne, Espagne",
       "vintage": "2020",
       "grape_varieties": null,
       "alcohol_content": null,
@@ -511,12 +608,12 @@
       "all_occurrences_raw_data": [
         {
           "name": "Mas Elena 2020",
-          "description": "Les vendanges sont faites à la main et après réception des raisins en cuverie et pressurage doux, les trois cépages sont macérés et fermentés séparément à une température contrôlée de 25°, après une macération pré-fermentaire à 5°C pendant une semaine. Vieilli en fûts de chêne français de l'Allier de 2ème et 3ème année pendant 8 mois pour ne pas nuire au caractère fruité des raisins.",
+          "description": "Les vendanges sont faites à la main et après réception des raisins en cuverie et pressurage doux, les trois cépages sont macérés et fermentés séparément à une température contrôlée de 25°, après une macération pré-fermentaire à 5°C pendant une semaine. Vieilli en fûts de chêne français de l'Allier de 2ème et 3ème année pendant 8 mois pour ne pas nuire au caractère fruité des raisins.",
           "price": "21,95$",
           "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_mas-elena-2-copie.png",
           "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=f7df89dc9b&e=2c9a262afa",
           "producer": "PARÉS BALTÀ",
-          "region": "Catalogne",
+          "region": "Catalogne, Espagne",
           "vintage": "2020",
           "grape_varieties": null,
           "alcohol_content": null,
@@ -526,547 +623,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Mas Elena 2020, issu d'une vinification minutieuse avec macération séparée des cépages et un vieillissement en fûts de chêne français, préserve l'expression fruitée tout en ajoutant une élégante complexité."
-  },
-  {
-    "id": "file-2025-09-25-bambara-selection-0.html-gini-soave-classico-contrada-salvarenza-2021",
-    "blockId": "file-2025-09-25-bambara-selection-0.html",
-    "createdAt": "2025-09-25T00:00:00.000Z",
-    "name": "Gini, Soave Classico Contrada Salvarenza 2021",
-    "description": "Voici certainement un des plus grands vins blancs italiens! Disponible dès maintenant exclusivement en ligne, découvrez la cuvée Contrada Salvarenza, issue de vignes centenaires qui ont survécu à la crise du philloxera! Considéré comme un des plus grands vins blancs d'Italie, découvrez ce Soave Classico, 100% garganega, qui provient de rares vignes ancestrales. Ces vignes font partie des quelques survivantes de la crise du philloxera du 19e siècle, quand une peste provenant d'Amérique a détruit presque toutes les vignes de l'Europe. Seules quelques vignes sur des terroirs volcaniques et calcaires ont survécu. Les vieilles vignes de la parcelle Contrada Salvarenza, cultivées de manière biologique, donnent une complexité spectaculaire au vin. Les vendanges sont manuelles et suivies d'un pressage doux et une fermentation et élevage dans de grands fûts de chêne français de plusieurs passages. Aucun sulfite n'est ajouté durant le processus de vinification. L'élevage en bouteilles est d'au moins 6 mois à une température et humidité optimale dans les chais taillés dans la pierre. Le vin est minéral et riche avec des notes de poire mûre et pêche jaune. Il s'accorde parfaitement avec des plats de pâtes ou de riz savoureux, de la viande blanche ou des fromages! À apprécier maintenant ou a conserver pour les prochains 15 ans, ce vin vieillit avec beaucoup de noblesse! À découvrir absolument!",
-    "price": "48,25 $",
-    "image_url": null,
-    "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=f70f9ab818&e=a09c2580fc",
-    "agence": "Bambara Selection",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Gini, Soave Classico Contrada Salvarenza 2021",
-      "description": "Voici certainement un des plus grands vins blancs italiens! Disponible dès maintenant exclusivement en ligne, découvrez la cuvée Contrada Salvarenza, issue de vignes centenaires qui ont survécu à la crise du philloxera! Considéré comme un des plus grands vins blancs d'Italie, découvrez ce Soave Classico, 100% garganega, qui provient de rares vignes ancestrales. Ces vignes font partie des quelques survivantes de la crise du philloxera du 19e siècle, quand une peste provenant d'Amérique a détruit presque toutes les vignes de l'Europe. Seules quelques vignes sur des terroirs volcaniques et calcaires ont survécu. Les vieilles vignes de la parcelle Contrada Salvarenza, cultivées de manière biologique, donnent une complexité spectaculaire au vin. Les vendanges sont manuelles et suivies d'un pressage doux et une fermentation et élevage dans de grands fûts de chêne français de plusieurs passages. Aucun sulfite n'est ajouté durant le processus de vinification. L'élevage en bouteilles est d'au moins 6 mois à une température et humidité optimale dans les chais taillés dans la pierre. Le vin est minéral et riche avec des notes de poire mûre et pêche jaune. Il s'accorde parfaitement avec des plats de pâtes ou de riz savoureux, de la viande blanche ou des fromages! À apprécier maintenant ou a conserver pour les prochains 15 ans, ce vin vieillit avec beaucoup de noblesse! À découvrir absolument!",
-      "price": "48,25 $",
-      "image_url": null,
-      "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=f70f9ab818&e=a09c2580fc",
-      "producer": "Gini",
-      "region": null,
-      "vintage": "2021",
-      "grape_varieties": [
-        "garganega"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Gini, Soave Classico Contrada Salvarenza 2021",
-          "description": "Voici certainement un des plus grands vins blancs italiens! Disponible dès maintenant exclusivement en ligne, découvrez la cuvée Contrada Salvarenza, issue de vignes centenaires qui ont survécu à la crise du philloxera! Considéré comme un des plus grands vins blancs d'Italie, découvrez ce Soave Classico, 100% garganega, qui provient de rares vignes ancestrales. Ces vignes font partie des quelques survivantes de la crise du philloxera du 19e siècle, quand une peste provenant d'Amérique a détruit presque toutes les vignes de l'Europe. Seules quelques vignes sur des terroirs volcaniques et calcaires ont survécu. Les vieilles vignes de la parcelle Contrada Salvarenza, cultivées de manière biologique, donnent une complexité spectaculaire au vin. Les vendanges sont manuelles et suivies d'un pressage doux et une fermentation et élevage dans de grands fûts de chêne français de plusieurs passages. Aucun sulfite n'est ajouté durant le processus de vinification. L'élevage en bouteilles est d'au moins 6 mois à une température et humidité optimale dans les chais taillés dans la pierre. Le vin est minéral et riche avec des notes de poire mûre et pêche jaune. Il s'accorde parfaitement avec des plats de pâtes ou de riz savoureux, de la viande blanche ou des fromages! À apprécier maintenant ou a conserver pour les prochains 15 ans, ce vin vieillit avec beaucoup de noblesse! À découvrir absolument!",
-          "price": "48,25 $",
-          "image_url": null,
-          "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=f70f9ab818&e=a09c2580fc",
-          "producer": "Gini",
-          "region": null,
-          "vintage": "2021",
-          "grape_varieties": [
-            "garganega"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "La cuvée Contrada Salvarenza, un Soave Classico 100% garganega issu de vignes centenaires, offre une complexité minérale et riche, avec des notes de poire mûre et de pêche jaune, à savourer dès maintenant ou à conserver pour les années à venir."
-  },
-  {
-    "id": "file-2025-09-25-info-symbiose-0.html-groseille",
-    "blockId": "file-2025-09-25-info-symbiose-0.html",
-    "createdAt": "2025-09-25T00:00:00.000Z",
-    "name": "Groseille",
-    "description": "Gamay, Braucol (Fer), Grolleau\nLoire — France",
-    "price": "24,95 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/5/15467560-1_1756998784.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=8499&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=SoD__-G-QWH03fekuHg0cxjdaU0Y_UBrX7Pat2c1ZOY",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Groseille",
-      "description": "Gamay, Braucol (Fer), Grolleau\nLoire — France",
-      "price": "24,95 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/5/15467560-1_1756998784.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=8499&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=SoD__-G-QWH03fekuHg0cxjdaU0Y_UBrX7Pat2c1ZOY",
-      "producer": "Alexis Hudon",
-      "region": "Loire — France",
-      "vintage": "2023",
-      "grape_varieties": [
-        "Gamay",
-        "Braucol (Fer)",
-        "Grolleau"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Groseille",
-          "description": "Gamay, Braucol (Fer), Grolleau\nLoire — France",
-          "price": "24,95 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/5/15467560-1_1756998784.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=8499&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=SoD__-G-QWH03fekuHg0cxjdaU0Y_UBrX7Pat2c1ZOY",
-          "producer": "Alexis Hudon",
-          "region": "Loire — France",
-          "vintage": "2023",
-          "grape_varieties": [
-            "Gamay",
-            "Braucol (Fer)",
-            "Grolleau"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-25-info-symbiose-0.html-morgon-tradition",
-    "blockId": "file-2025-09-25-info-symbiose-0.html",
-    "createdAt": "2025-09-25T00:00:00.000Z",
-    "name": "Morgon Tradition",
-    "description": "Gamay\nBeaujolais — France",
-    "price": "30,25 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/4/14815260-1_1640010029.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=1862&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=L3FBTlLxAEMvih4gRqbsjMq7AQ68uUb2Vm6htNnP5qk",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Morgon Tradition",
-      "description": "Gamay\nBeaujolais — France",
-      "price": "30,25 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/4/14815260-1_1640010029.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=1862&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=L3FBTlLxAEMvih4gRqbsjMq7AQ68uUb2Vm6htNnP5qk",
-      "producer": "Jean Paul Thevenet",
-      "region": "Beaujolais — France",
-      "vintage": "2023",
-      "grape_varieties": [
-        "Gamay"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Morgon Tradition",
-          "description": "Gamay\nBeaujolais — France",
-          "price": "30,25 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/4/14815260-1_1640010029.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=1862&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=L3FBTlLxAEMvih4gRqbsjMq7AQ68uUb2Vm6htNnP5qk",
-          "producer": "Jean Paul Thevenet",
-          "region": "Beaujolais — France",
-          "vintage": "2023",
-          "grape_varieties": [
-            "Gamay"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-25-info-symbiose-0.html-morgon-vieilles-vignes",
-    "blockId": "file-2025-09-25-info-symbiose-0.html",
-    "createdAt": "2025-09-25T00:00:00.000Z",
-    "name": "Morgon Vieilles Vignes",
-    "description": "Gamay\nBeaujolais — France",
-    "price": "40,50 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/4/14815251-1_1640010029.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=1865&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=deWym8aXhSUdd-w3mzQwYGig2Hv872VwDvbudgjXwJk",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Morgon Vieilles Vignes",
-      "description": "Gamay\nBeaujolais — France",
-      "price": "40,50 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/4/14815251-1_1640010029.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=1865&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=deWym8aXhSUdd-w3mzQwYGig2Hv872VwDvbudgjXwJk",
-      "producer": "Jean Paul Thevenet",
-      "region": "Beaujolais — France",
-      "vintage": "2023",
-      "grape_varieties": [
-        "Gamay"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Morgon Vieilles Vignes",
-          "description": "Gamay\nBeaujolais — France",
-          "price": "40,50 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/4/14815251-1_1640010029.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=1865&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=deWym8aXhSUdd-w3mzQwYGig2Hv872VwDvbudgjXwJk",
-          "producer": "Jean Paul Thevenet",
-          "region": "Beaujolais — France",
-          "vintage": "2023",
-          "grape_varieties": [
-            "Gamay"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-25-info-symbiose-0.html-amaya-pet-nat",
-    "blockId": "file-2025-09-25-info-symbiose-0.html",
-    "createdAt": "2025-09-25T00:00:00.000Z",
-    "name": "Amaya Pet Nat",
-    "description": "Negroamaro\nRiverland — Australie",
-    "price": "22,90 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/5/15293731-1_1727445187.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=8476&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=13lmkhQmR6_fd7TlVa9wMLm9ApximqLw9T15pdAcqaU",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Amaya Pet Nat",
-      "description": "Negroamaro\nRiverland — Australie",
-      "price": "22,90 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/5/15293731-1_1727445187.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=8476&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=13lmkhQmR6_fd7TlVa9wMLm9ApximqLw9T15pdAcqaU",
-      "producer": "Delinquente",
-      "region": "Riverland — Australie",
-      "vintage": "2025",
-      "grape_varieties": [
-        "Negroamaro"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Amaya Pet Nat",
-          "description": "Negroamaro\nRiverland — Australie",
-          "price": "22,90 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/5/15293731-1_1727445187.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=8476&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=13lmkhQmR6_fd7TlVa9wMLm9ApximqLw9T15pdAcqaU",
-          "producer": "Delinquente",
-          "region": "Riverland — Australie",
-          "vintage": "2025",
-          "grape_varieties": [
-            "Negroamaro"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-25-info-symbiose-0.html-la-bregeonnette",
-    "blockId": "file-2025-09-25-info-symbiose-0.html",
-    "createdAt": "2025-09-25T00:00:00.000Z",
-    "name": "La Bregeonnette",
-    "description": "Melon de Bourgogne (Muscadet)\nVallée de la Loire — France",
-    "price": "24,20 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/4/14238511-1_1698277385.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=6018&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=cC_uanOmUAmh3qYnAPugeKlNG2gHwqKicLKUN441S0k",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "La Bregeonnette",
-      "description": "Melon de Bourgogne (Muscadet)\nVallée de la Loire — France",
-      "price": "24,20 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/4/14238511-1_1698277385.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=6018&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=cC_uanOmUAmh3qYnAPugeKlNG2gHwqKicLKUN441S0k",
-      "producer": "Stéphane Orieux",
-      "region": "Vallée de la Loire — France",
-      "vintage": "2024",
-      "grape_varieties": [
-        "Melon de Bourgogne (Muscadet)"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "La Bregeonnette",
-          "description": "Melon de Bourgogne (Muscadet)\nVallée de la Loire — France",
-          "price": "24,20 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/4/14238511-1_1698277385.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=6018&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=cC_uanOmUAmh3qYnAPugeKlNG2gHwqKicLKUN441S0k",
-          "producer": "Stéphane Orieux",
-          "region": "Vallée de la Loire — France",
-          "vintage": "2024",
-          "grape_varieties": [
-            "Melon de Bourgogne (Muscadet)"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-25-info-symbiose-0.html-cotes-du-jura-corail",
-    "blockId": "file-2025-09-25-info-symbiose-0.html",
-    "createdAt": "2025-09-25T00:00:00.000Z",
-    "name": "Côtes du Jura Corail",
-    "description": "Pinot noir, Savagnin, Poulsard, Trousseau\nJura — France",
-    "price": "40,75 $",
-    "image_url": "https://www.saq.com/media/catalog/product/1/5/15098637-1_1673984456.png",
-    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=5147&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=905KGgVrWu5AzKdrX8VfG5cpYoCrlQt7jW4hDfA8mJ4",
-    "agence": "Info Symbiose",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Côtes du Jura Corail",
-      "description": "Pinot noir, Savagnin, Poulsard, Trousseau\nJura — France",
-      "price": "40,75 $",
-      "image_url": "https://www.saq.com/media/catalog/product/1/5/15098637-1_1673984456.png",
-      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=5147&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=905KGgVrWu5AzKdrX8VfG5cpYoCrlQt7jW4hDfA8mJ4",
-      "producer": "Château d'Arlay",
-      "region": "Jura — France",
-      "vintage": "2018",
-      "grape_varieties": [
-        "Pinot noir",
-        "Savagnin",
-        "Poulsard",
-        "Trousseau"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Côtes du Jura Corail",
-          "description": "Pinot noir, Savagnin, Poulsard, Trousseau\nJura — France",
-          "price": "40,75 $",
-          "image_url": "https://www.saq.com/media/catalog/product/1/5/15098637-1_1673984456.png",
-          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1221577&idl=5147&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=905KGgVrWu5AzKdrX8VfG5cpYoCrlQt7jW4hDfA8mJ4",
-          "producer": "Château d'Arlay",
-          "region": "Jura — France",
-          "vintage": "2018",
-          "grape_varieties": [
-            "Pinot noir",
-            "Savagnin",
-            "Poulsard",
-            "Trousseau"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-25-rezin-0.html-vin-de-france-madelon",
-    "blockId": "file-2025-09-25-rezin-0.html",
-    "createdAt": "2025-09-25T00:00:00.000Z",
-    "name": "VIN DE FRANCE MADELON",
-    "description": "Jean-François Ganevat, quelle pêche celui-là! Un Franc-Comtois qui aura d'abord travaillé 10 années durant, en Bourgogne, comme maître de chai chez Jean-Marc Morey à Chassagne-Montrachet. En 1998, il revient au domaine familial et rachète avec sa sœur Anne les vignes de leur père à Rotalier, dans le sud du Jura. Il convertit alors le vignoble de 8,5 hectares de vignes en agriculture biologique, puis en biodynamie dès 2006. Les vendanges sont 100% manuelles et la sélection parcellaire est au centre des vinifications. Un nom de cuvée est d'ailleurs donné pour chaque parcelle, donnant lieu à une gamme de plus d'une quarantaine de vins par année. Référence en matière de vins naturels, toute la vinification se fait sans soufre et la mise en bouteille sans collage ni filtration. Vin naturel vinifié à partir de 95% de Fleurie et de 5% de trousseau du Jura.",
-    "price": "51,00 $",
-    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/cd565c75-f3e6-99ae-fa90-b546555565c9.png",
-    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=031bdbff89&e=c11422f941",
-    "agence": "réZin",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "VIN DE FRANCE MADELON",
-      "description": "Jean-François Ganevat, quelle pêche celui-là! Un Franc-Comtois qui aura d'abord travaillé 10 années durant, en Bourgogne, comme maître de chai chez Jean-Marc Morey à Chassagne-Montrachet. En 1998, il revient au domaine familial et rachète avec sa sœur Anne les vignes de leur père à Rotalier, dans le sud du Jura. Il convertit alors le vignoble de 8,5 hectares de vignes en agriculture biologique, puis en biodynamie dès 2006. Les vendanges sont 100% manuelles et la sélection parcellaire est au centre des vinifications. Un nom de cuvée est d'ailleurs donné pour chaque parcelle, donnant lieu à une gamme de plus d'une quarantaine de vins par année. Référence en matière de vins naturels, toute la vinification se fait sans soufre et la mise en bouteille sans collage ni filtration. Vin naturel vinifié à partir de 95% de Fleurie et de 5% de trousseau du Jura.",
-      "price": "51,00 $",
-      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/cd565c75-f3e6-99ae-fa90-b546555565c9.png",
-      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=031bdbff89&e=c11422f941",
-      "producer": "ANNE & JEAN-FRANÇOIS GANEVAT",
-      "region": "Vin de France",
-      "vintage": null,
-      "grape_varieties": [
-        "Fleurie",
-        "trousseau"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "VIN DE FRANCE MADELON",
-          "description": "Jean-François Ganevat, quelle pêche celui-là! Un Franc-Comtois qui aura d'abord travaillé 10 années durant, en Bourgogne, comme maître de chai chez Jean-Marc Morey à Chassagne-Montrachet. En 1998, il revient au domaine familial et rachète avec sa sœur Anne les vignes de leur père à Rotalier, dans le sud du Jura. Il convertit alors le vignoble de 8,5 hectares de vignes en agriculture biologique, puis en biodynamie dès 2006. Les vendanges sont 100% manuelles et la sélection parcellaire est au centre des vinifications. Un nom de cuvée est d'ailleurs donné pour chaque parcelle, donnant lieu à une gamme de plus d'une quarantaine de vins par année. Référence en matière de vins naturels, toute la vinification se fait sans soufre et la mise en bouteille sans collage ni filtration. Vin naturel vinifié à partir de 95% de Fleurie et de 5% de trousseau du Jura.",
-          "price": "51,00 $",
-          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/cd565c75-f3e6-99ae-fa90-b546555565c9.png",
-          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=031bdbff89&e=c11422f941",
-          "producer": "ANNE & JEAN-FRANÇOIS GANEVAT",
-          "region": "Vin de France",
-          "vintage": null,
-          "grape_varieties": [
-            "Fleurie",
-            "trousseau"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Vin de France Madelon, élaboré par Jean-François Ganevat, est un vin naturel exceptionnel, composé de 95% de Fleurie et 5% de trousseau, vinifié sans soufre, offrant une expression pure et authentique du terroir jurassien."
-  },
-  {
-    "id": "file-2025-09-25-rezin-0.html-balatoni-george-2022",
-    "blockId": "file-2025-09-25-rezin-0.html",
-    "createdAt": "2025-09-25T00:00:00.000Z",
-    "name": "BALATONI GEORGE - 2022",
-    "description": "Robert Gilvesy, un architecte canadien d’origine hongroise, a trouvé une nouvelle vocation sur la rive nord du lac Balaton, où il a restoré une propriété du 18e siècle en ruine. Son vignoble profite à la fois de l’influence du plus grand lac d'eau douce d'Europe centrale et des mésoclimats créés par une dizaine de monts volcaniques, dont le Szent György (Saint-George), qui donne son nom à cette cuvée d’assemblage. Riesling, welschriesling et furmint cultivés en bio forment un heureux mariage et donnent un blanc souple et acidulé, aux parfums délicats de citron, de fleurs et d’épices. La bouche est élégante, assez ample pour la table et ponctuée d’amers délicats. Parfait pour un poisson grillé.",
-    "price": "29,25 $",
-    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/21b0b965-71b1-6b18-9f50-4e44dc0d4fa0.png",
-    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=805b72888e&e=c11422f941",
-    "agence": "réZin",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "BALATONI GEORGE - 2022",
-      "description": "Robert Gilvesy, un architecte canadien d’origine hongroise, a trouvé une nouvelle vocation sur la rive nord du lac Balaton, où il a restoré une propriété du 18e siècle en ruine. Son vignoble profite à la fois de l’influence du plus grand lac d'eau douce d'Europe centrale et des mésoclimats créés par une dizaine de monts volcaniques, dont le Szent György (Saint-George), qui donne son nom à cette cuvée d’assemblage. Riesling, welschriesling et furmint cultivés en bio forment un heureux mariage et donnent un blanc souple et acidulé, aux parfums délicats de citron, de fleurs et d’épices. La bouche est élégante, assez ample pour la table et ponctuée d’amers délicats. Parfait pour un poisson grillé.",
-      "price": "29,25 $",
-      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/21b0b965-71b1-6b18-9f50-4e44dc0d4fa0.png",
-      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=805b72888e&e=c11422f941",
-      "producer": "GILVESY",
-      "region": "Balaton",
-      "vintage": "2022",
-      "grape_varieties": [
-        "Riesling",
-        "welschriesling",
-        "furmint"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "BALATONI GEORGE - 2022",
-          "description": "Robert Gilvesy, un architecte canadien d’origine hongroise, a trouvé une nouvelle vocation sur la rive nord du lac Balaton, où il a restoré une propriété du 18e siècle en ruine. Son vignoble profite à la fois de l’influence du plus grand lac d'eau douce d'Europe centrale et des mésoclimats créés par une dizaine de monts volcaniques, dont le Szent György (Saint-George), qui donne son nom à cette cuvée d’assemblage. Riesling, welschriesling et furmint cultivés en bio forment un heureux mariage et donnent un blanc souple et acidulé, aux parfums délicats de citron, de fleurs et d’épices. La bouche est élégante, assez ample pour la table et ponctuée d’amers délicats. Parfait pour un poisson grillé.",
-          "price": "29,25 $",
-          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/21b0b965-71b1-6b18-9f50-4e44dc0d4fa0.png",
-          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=805b72888e&e=c11422f941",
-          "producer": "GILVESY",
-          "region": "Balaton",
-          "vintage": "2022",
-          "grape_varieties": [
-            "Riesling",
-            "welschriesling",
-            "furmint"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Balatoni George 2022, un assemblage de Riesling, welschriesling et furmint, offre une élégance acidulée, avec des arômes délicats de citron et d'épices, idéal pour accompagner des plats de poisson grillé."
-  },
-  {
-    "id": "file-2025-09-25-rezin-0.html-domaine-robert-chevillon",
-    "blockId": "file-2025-09-25-rezin-0.html",
-    "createdAt": "2025-09-25T00:00:00.000Z",
-    "name": "DOMAINE ROBERT CHEVILLON",
-    "description": "Le domaine Robert Chevillon est réputé pour la finesse de ses vins rouges et leur grand potentiel de garde. Au cœur de la Côte de Nuits, le Domaine Chevillon incarne l’âme du terroir bourguignon. Fondé au début du XXe siècle par Symphorien Chevillon, ce domaine familial cultive avec passion près de 30 hectares de vignes sur les prestigieuses appellations de Nuits-Saint-Georges. Denis et Bertrand Chevillon apprécient les pinots noirs structurés, fruités, élégants et complexes. Leurs vins sont issus des plus belles parcelles de Nuits-Saint-Georges.",
-    "price": null,
-    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/7a30a724-7759-cd4f-d573-9e09c6dca426.jpg",
-    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=a8995d12ea&e=c11422f941",
-    "agence": "réZin",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "DOMAINE ROBERT CHEVILLON",
-      "description": "Le domaine Robert Chevillon est réputé pour la finesse de ses vins rouges et leur grand potentiel de garde. Au cœur de la Côte de Nuits, le Domaine Chevillon incarne l’âme du terroir bourguignon. Fondé au début du XXe siècle par Symphorien Chevillon, ce domaine familial cultive avec passion près de 30 hectares de vignes sur les prestigieuses appellations de Nuits-Saint-Georges. Denis et Bertrand Chevillon apprécient les pinots noirs structurés, fruités, élégants et complexes. Leurs vins sont issus des plus belles parcelles de Nuits-Saint-Georges.",
-      "price": null,
-      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/7a30a724-7759-cd4f-d573-9e09c6dca426.jpg",
-      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=a8995d12ea&e=c11422f941",
-      "producer": "DOMAINE ROBERT CHEVILLON",
-      "region": "Nuits-Saint-Georges",
-      "vintage": null,
-      "grape_varieties": [
-        "Pinot Noir"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "DOMAINE ROBERT CHEVILLON",
-          "description": "Le domaine Robert Chevillon est réputé pour la finesse de ses vins rouges et leur grand potentiel de garde. Au cœur de la Côte de Nuits, le Domaine Chevillon incarne l’âme du terroir bourguignon. Fondé au début du XXe siècle par Symphorien Chevillon, ce domaine familial cultive avec passion près de 30 hectares de vignes sur les prestigieuses appellations de Nuits-Saint-Georges. Denis et Bertrand Chevillon apprécient les pinots noirs structurés, fruités, élégants et complexes. Leurs vins sont issus des plus belles parcelles de Nuits-Saint-Georges.",
-          "price": null,
-          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/7a30a724-7759-cd4f-d573-9e09c6dca426.jpg",
-          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=a8995d12ea&e=c11422f941",
-          "producer": "DOMAINE ROBERT CHEVILLON",
-          "region": "Nuits-Saint-Georges",
-          "vintage": null,
-          "grape_varieties": [
-            "Pinot Noir"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-25-vin-dame-jeanne-0.html-champagne-expression-cumieres-1er-cru-brut",
-    "blockId": "file-2025-09-25-vin-dame-jeanne-0.html",
-    "createdAt": "2025-09-25T00:00:00.000Z",
-    "name": "Champagne ‘Expression’, Cumières 1er cru, Brut",
-    "description": "Le Champagne Expression est la première cuvée de la Maison. Issu systématiquement d’un assemblage (2022 et réserve perpétuelle sur cet arrivage), ce Champagne séduit par ses arômes éclatantes de fruit blanc, son équilibre et son étonnante fraîcheur en fin de bouche. Ici, un assemblage de 35% Pinot Meunier, 35% Pinot Noir, et 30% Chardonnay, sur les terroirs de Cumières et Hautvillers. Dosage de 4 gr./L., dégorgement mars 2024.",
-    "price": "Particulier 77.50 | Restaurant 67.40 | 13699754",
-    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
-    "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=0d4e986aef&e=345e10d07b",
-    "agence": "Vin Dame-Jeanne",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Champagne ‘Expression’, Cumières 1er cru, Brut",
-      "description": "Le Champagne Expression est la première cuvée de la Maison. Issu systématiquement d’un assemblage (2022 et réserve perpétuelle sur cet arrivage), ce Champagne séduit par ses arômes éclatantes de fruit blanc, son équilibre et son étonnante fraîcheur en fin de bouche. Ici, un assemblage de 35% Pinot Meunier, 35% Pinot Noir, et 30% Chardonnay, sur les terroirs de Cumières et Hautvillers. Dosage de 4 gr./L., dégorgement mars 2024.",
-      "price": "Particulier 77.50 | Restaurant 67.40 | 13699754",
-      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
-      "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=0d4e986aef&e=345e10d07b",
-      "producer": "Geoffroy",
-      "region": "Cumières",
-      "vintage": null,
-      "grape_varieties": [
-        "Pinot Meunier",
-        "Pinot Noir",
-        "Chardonnay"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Champagne ‘Expression’, Cumières 1er cru, Brut",
-          "description": "Le Champagne Expression est la première cuvée de la Maison. Issu systématiquement d’un assemblage (2022 et réserve perpétuelle sur cet arrivage), ce Champagne séduit par ses arômes éclatantes de fruit blanc, son équilibre et son étonnante fraîcheur en fin de bouche. Ici, un assemblage de 35% Pinot Meunier, 35% Pinot Noir, et 30% Chardonnay, sur les terroirs de Cumières et Hautvillers. Dosage de 4 gr./L., dégorgement mars 2024.",
-          "price": "Particulier 77.50 | Restaurant 67.40 | 13699754",
-          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
-          "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=0d4e986aef&e=345e10d07b",
-          "producer": "Geoffroy",
-          "region": "Cumières",
-          "vintage": null,
-          "grape_varieties": [
-            "Pinot Meunier",
-            "Pinot Noir",
-            "Chardonnay"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Champagne Expression, un assemblage harmonieux de Pinot Meunier, Pinot Noir et Chardonnay, enchante par ses arômes de fruits blancs éclatants et sa fraîcheur équilibrée, promettant une expérience pétillante inoubliable."
+    "summary": "Mas Elena 2020 showcases a meticulous winemaking process with hand-harvested grapes, separately fermented and aged in French oak barrels, preserving the vibrant fruit character of its three varietals."
   }
 ]
