@@ -1,5 +1,357 @@
 [
   {
+    "id": "file-2025-10-03-noble-selection-0.html-sette-ponti-crognolo-2022",
+    "blockId": "file-2025-10-03-noble-selection-0.html",
+    "createdAt": "2025-10-03T00:00:00.000Z",
+    "name": "SETTE PONTI Crognolo 2022",
+    "description": "Sangiovese provenant de vignes situées sur un terrain bien drainé avec une diversité des sols : caillouteux, sableux et le typique Galestro Toscan (schiste-argileux), ce qui lui confère grande structure et minéralité. Vendange et tri manuels. Fermentation en cuve d'acier inoxydable durant 20 jours avec contrôle des températures suivi d'un élevage de 18 mois en barriques usagées. Affinage de 6 mois en bouteille.",
+    "price": "31,75$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_crognolo_3.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=7649dd84e7&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "SETTE PONTI Crognolo 2022",
+      "description": "Sangiovese provenant de vignes situées sur un terrain bien drainé avec une diversité des sols : caillouteux, sableux et le typique Galestro Toscan (schiste-argileux), ce qui lui confère grande structure et minéralité. Vendange et tri manuels. Fermentation en cuve d'acier inoxydable durant 20 jours avec contrôle des températures suivi d'un élevage de 18 mois en barriques usagées. Affinage de 6 mois en bouteille.",
+      "price": "31,75$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_crognolo_3.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=7649dd84e7&e=2c9a262afa",
+      "producer": "SETTE PONTI",
+      "region": "Toscane",
+      "vintage": "2022",
+      "grape_varieties": [
+        "Sangiovese",
+        "Merlot"
+      ],
+      "alcohol_content": "13.5%",
+      "volume": "750ml",
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "SETTE PONTI Crognolo 2022",
+          "description": "Sangiovese provenant de vignes situées sur un terrain bien drainé avec une diversité des sols : caillouteux, sableux et le typique Galestro Toscan (schiste-argileux), ce qui lui confère grande structure et minéralité. Vendange et tri manuels. Fermentation en cuve d'acier inoxydable durant 20 jours avec contrôle des températures suivi d'un élevage de 18 mois en barriques usagées. Affinage de 6 mois en bouteille.",
+          "price": "31,75$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_crognolo_3.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=7649dd84e7&e=2c9a262afa",
+          "producer": "SETTE PONTI",
+          "region": "Toscane",
+          "vintage": "2022",
+          "grape_varieties": [
+            "Sangiovese",
+            "Merlot"
+          ],
+          "alcohol_content": "13.5%",
+          "volume": "750ml",
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Le Crognolo 2022 de Sette Ponti, un Sangiovese d'une grande structure, révèle la richesse de ses sols variés, alliant minéralité et finesse. Élevé en barriques usagées, il offre une profondeur et une élégance remarquables, parfaites pour les amateurs de vins raffinés."
+  },
+  {
+    "id": "file-2025-10-03-noble-selection-0.html-pares-balta-calcari-2024",
+    "blockId": "file-2025-10-03-noble-selection-0.html",
+    "createdAt": "2025-10-03T00:00:00.000Z",
+    "name": "PARÉS BALTÀ Calcari 2024",
+    "description": null,
+    "price": "21,55$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_calcari-nv-1.png.jpg",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=532e72b352&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "PARÉS BALTÀ Calcari 2024",
+      "description": null,
+      "price": "21,55$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_calcari-nv-1.png.jpg",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=532e72b352&e=2c9a262afa",
+      "producer": "PARÉS BALTÀ",
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "PARÉS BALTÀ Calcari 2024",
+          "description": null,
+          "price": "21,55$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_calcari-nv-1.png.jpg",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=532e72b352&e=2c9a262afa",
+          "producer": "PARÉS BALTÀ",
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-03-noble-selection-0.html-domaine-du-cros-lo-sang-del-pais-2023",
+    "blockId": "file-2025-10-03-noble-selection-0.html",
+    "createdAt": "2025-10-03T00:00:00.000Z",
+    "name": "DOMAINE DU CROS Lo Sang del Païs 2023",
+    "description": null,
+    "price": "19,65$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-du-cros-lo-sang-del-pa--s-marcillac-copie.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ebf4915134&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "DOMAINE DU CROS Lo Sang del Païs 2023",
+      "description": null,
+      "price": "19,65$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-du-cros-lo-sang-del-pa--s-marcillac-copie.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ebf4915134&e=2c9a262afa",
+      "producer": "DOMAINE DU CROS",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "DOMAINE DU CROS Lo Sang del Païs 2023",
+          "description": null,
+          "price": "19,65$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-du-cros-lo-sang-del-pa--s-marcillac-copie.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=ebf4915134&e=2c9a262afa",
+          "producer": "DOMAINE DU CROS",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-03-noble-selection-0.html-sette-ponti-vigna-di-pallino-chianti-2023",
+    "blockId": "file-2025-10-03-noble-selection-0.html",
+    "createdAt": "2025-10-03T00:00:00.000Z",
+    "name": "SETTE PONTI Vigna di Pallino Chianti 2023",
+    "description": "Situé dans le Chianti, entre Arezzo et Florence, dans le centre de la Toscane. Les vignes poussent à des altitudes allant de 200 à 300 mètres dans des sols loameux calcaires et riches en argile et sont plantées à une densité élevée de 6666 vignes par hectare, un système qui donne des fruits de très haute qualité.",
+    "price": "22,20$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_capture_36.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=a3ace4f49a&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "SETTE PONTI Vigna di Pallino Chianti 2023",
+      "description": "Situé dans le Chianti, entre Arezzo et Florence, dans le centre de la Toscane. Les vignes poussent à des altitudes allant de 200 à 300 mètres dans des sols loameux calcaires et riches en argile et sont plantées à une densité élevée de 6666 vignes par hectare, un système qui donne des fruits de très haute qualité.",
+      "price": "22,20$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_capture_36.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=a3ace4f49a&e=2c9a262afa",
+      "producer": "SETTE PONTI",
+      "region": "Toscane",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "SETTE PONTI Vigna di Pallino Chianti 2023",
+          "description": "Situé dans le Chianti, entre Arezzo et Florence, dans le centre de la Toscane. Les vignes poussent à des altitudes allant de 200 à 300 mètres dans des sols loameux calcaires et riches en argile et sont plantées à une densité élevée de 6666 vignes par hectare, un système qui donne des fruits de très haute qualité.",
+          "price": "22,20$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_capture_36.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=a3ace4f49a&e=2c9a262afa",
+          "producer": "SETTE PONTI",
+          "region": "Toscane",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Le Vigna di Pallino Chianti 2023, issu de vignes cultivées à haute densité sur des sols calcaires, incarne l'essence du Chianti avec des fruits d'une qualité exceptionnelle. Ce vin promet une expérience sensorielle unique, reflet de son terroir toscan."
+  },
+  {
+    "id": "file-2025-10-03-noble-selection-0.html-bottega-bottega-rose-gold-200-ml",
+    "blockId": "file-2025-10-03-noble-selection-0.html",
+    "createdAt": "2025-10-03T00:00:00.000Z",
+    "name": "BOTTEGA Bottega Rose Gold (200 ml)",
+    "description": null,
+    "price": "9,20$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-rose-gold-200-ml.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=920f681a64&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "BOTTEGA Bottega Rose Gold (200 ml)",
+      "description": null,
+      "price": "9,20$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-rose-gold-200-ml.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=920f681a64&e=2c9a262afa",
+      "producer": "BOTTEGA",
+      "region": null,
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "BOTTEGA Bottega Rose Gold (200 ml)",
+          "description": null,
+          "price": "9,20$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-rose-gold-200-ml.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=920f681a64&e=2c9a262afa",
+          "producer": "BOTTEGA",
+          "region": null,
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-03-noble-selection-0.html-pieropan-soave-classico-2024",
+    "blockId": "file-2025-10-03-noble-selection-0.html",
+    "createdAt": "2025-10-03T00:00:00.000Z",
+    "name": "Pieropan Soave Classico 2024",
+    "description": null,
+    "price": "22,35$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_pieropan-soave-classico-2023.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=c5654ecf4b&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Pieropan Soave Classico 2024",
+      "description": null,
+      "price": "22,35$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_pieropan-soave-classico-2023.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=c5654ecf4b&e=2c9a262afa",
+      "producer": "Pieropan",
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Pieropan Soave Classico 2024",
+          "description": null,
+          "price": "22,35$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_pieropan-soave-classico-2023.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=c5654ecf4b&e=2c9a262afa",
+          "producer": "Pieropan",
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-03-noble-selection-0.html-astobiza-okendo-txakolina-astobiza-2022",
+    "blockId": "file-2025-10-03-noble-selection-0.html",
+    "createdAt": "2025-10-03T00:00:00.000Z",
+    "name": "ASTOBIZA Okendo Txakolina Astobiza 2022",
+    "description": null,
+    "price": "22,50$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_astobiza-14250756-1_1578554716.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fd22826ed7&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "ASTOBIZA Okendo Txakolina Astobiza 2022",
+      "description": null,
+      "price": "22,50$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_astobiza-14250756-1_1578554716.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fd22826ed7&e=2c9a262afa",
+      "producer": "ASTOBIZA",
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "ASTOBIZA Okendo Txakolina Astobiza 2022",
+          "description": null,
+          "price": "22,50$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_astobiza-14250756-1_1578554716.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fd22826ed7&e=2c9a262afa",
+          "producer": "ASTOBIZA",
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-03-noble-selection-0.html-bonfils-chateau-vaugelas-chateau-de-vaugelas-le-pr",
+    "blockId": "file-2025-10-03-noble-selection-0.html",
+    "createdAt": "2025-10-03T00:00:00.000Z",
+    "name": "BONFILS - CHÂTEAU VAUGELAS Château de Vaugelas Le Prieuré Corbières 2023",
+    "description": null,
+    "price": "18,25$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-de-vaugelas-le-prieur---corbi--res.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=7ed92b78b0&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "BONFILS - CHÂTEAU VAUGELAS Château de Vaugelas Le Prieuré Corbières 2023",
+      "description": null,
+      "price": "18,25$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-de-vaugelas-le-prieur---corbi--res.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=7ed92b78b0&e=2c9a262afa",
+      "producer": "BONFILS - CHÂTEAU VAUGELAS",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "BONFILS - CHÂTEAU VAUGELAS Château de Vaugelas Le Prieuré Corbières 2023",
+          "description": null,
+          "price": "18,25$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-de-vaugelas-le-prieur---corbi--res.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=7ed92b78b0&e=2c9a262afa",
+          "producer": "BONFILS - CHÂTEAU VAUGELAS",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
     "id": "file-2025-10-02-bambara-selection-0.html-giacomo-fenocchio-barolo-2020",
     "blockId": "file-2025-10-02-bambara-selection-0.html",
     "createdAt": "2025-10-02T00:00:00.000Z",
@@ -45,7 +397,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Barolo 2020 de Giacomo Fenocchio, un Nebbiolo d'une profondeur remarquable, allie finesse et intensité, révélant des arômes de fruits à noyau, de réglisse et de balsamique, tout en offrant une élégance tannique. Ce vin incarne l'âme des Langhe, un équilibre parfait entre tradition et innovation."
+    "summary": "Le Barolo 2020 de Giacomo Fenocchio, un chef-d'œuvre du Piémont, allie finesse et intensité, révélant des arômes de fruits à noyau et de réglisse. Ce Nebbiolo, à la fois robuste et élégant, incarne l'âme des Langhe avec une profondeur et une pureté remarquables."
   },
   {
     "id": "file-2025-10-02-grand-cellier-0.html-colheita-dao-portugal",
@@ -1643,7 +1995,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "L’Éclos, issu des parcelles biodynamiques du Clos des Molières, révèle la minéralité exceptionnelle du terroir de Jasnières à travers un élevage sur lies en fûts de chêne, offrant ainsi une complexité et une profondeur remarquables. Ce vin, élaboré principalement à partir de Chenin, incarne l'harmonie entre tradition viticole et respect de l'environnement."
+    "summary": "L'Éclos 2023, issu de parcelles biodynamiques à Jasnières, révèle la pureté du Chenin et du Pineau d'Aunis, cultivés sur des sols anciens. Avec un élevage sur lies en fûts de chêne, ce vin incarne la minéralité et la complexité d'un terroir d'exception."
   },
   {
     "id": "file-2025-10-02-rezin-0.html-saumur-champigny-la-folie-2023",
@@ -1662,7 +2014,7 @@
       "price": "34,50 $",
       "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/8a21a622-2baa-42eb-f21a-d308571c7052.png",
       "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=b918726a06&e=c11422f941",
-      "producer": "Château Yvonne",
+      "producer": "Mathieu Vallée et Stéphanie",
       "region": "Saumur Champigny",
       "vintage": "2023",
       "grape_varieties": null,
@@ -1676,7 +2028,7 @@
           "price": "34,50 $",
           "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/8a21a622-2baa-42eb-f21a-d308571c7052.png",
           "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=b918726a06&e=c11422f941",
-          "producer": "Château Yvonne",
+          "producer": "Mathieu Vallée et Stéphanie",
           "region": "Saumur Champigny",
           "vintage": "2023",
           "grape_varieties": null,
@@ -1687,7 +2039,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Folie 2022, un Saumur Champigny, séduit par son équilibre exceptionnel, révélant des arômes de violette, de poivre et de fruits noirs, avec une bouche suave et une finale saline enrichie de notes de chocolat noir et de griotte. Ce vin complet témoigne de l'habileté de Mathieu Vallée à tirer parti de son terroir unique."
+    "summary": "La Folie 2023 de Saumur Champigny, avec ses arômes de violette et de fruits noirs, offre une attaque suave et une finale saline, révélant un équilibre exceptionnel. Ce vin, issu d'un terroir unique, marie finesse et complexité avec élégance."
   },
   {
     "id": "file-2025-10-01-vin-dame-jeanne-0.html-bianco-vio",
@@ -1734,7 +2086,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "Le Bianco VIO, élaboré à partir de Viognier de Farnese, dévoile un bouquet envoûtant d'abricots et de poires, avec des notes d'herbes sauvages. Élevé en cuve fibreverre, ce vin sans intrants offre une expression pure et authentique de son terroir."
   },
   {
     "id": "file-2025-10-01-vin-dame-jeanne-0.html-bianco-puro",
@@ -1743,7 +2096,7 @@
     "name": "Bianco PURO",
     "description": "Anciennement nommé 'Bianco Uovo’. Vieilles vignes de Procanico (Trebbiano du Lazio/Trebbiano Toscana) sur les rives du Lago di Bolsena, sur terroirs volcaniques. Égrappé et macéré 10 jours en cuve fibre verre. Élevé 12 mois en cuve béton. Joy est convaincue… l’oeuf béton est un outil incroyable pour les vins ici, révélateur de terroir et d’harmonie. Chaque année, un ou deux oeufs de plus se rajoutent à la cave! Un grand vin d’épices et de textures, méditatif, nuancé, magnifique!! Sans intrants.",
     "price": "Particulier 47.50 | Restaurant 39.60 | IP 6",
-    "image_url": null,
+    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
     "link": null,
     "agence": "Vin Dame-Jeanne",
     "disponibilite": "Importation Privée",
@@ -1751,7 +2104,7 @@
       "name": "Bianco PURO",
       "description": "Anciennement nommé 'Bianco Uovo’. Vieilles vignes de Procanico (Trebbiano du Lazio/Trebbiano Toscana) sur les rives du Lago di Bolsena, sur terroirs volcaniques. Égrappé et macéré 10 jours en cuve fibre verre. Élevé 12 mois en cuve béton. Joy est convaincue… l’oeuf béton est un outil incroyable pour les vins ici, révélateur de terroir et d’harmonie. Chaque année, un ou deux oeufs de plus se rajoutent à la cave! Un grand vin d’épices et de textures, méditatif, nuancé, magnifique!! Sans intrants.",
       "price": "Particulier 47.50 | Restaurant 39.60 | IP 6",
-      "image_url": null,
+      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
       "link": null,
       "producer": "La Villana",
       "region": "Lazio",
@@ -1767,7 +2120,7 @@
           "name": "Bianco PURO",
           "description": "Anciennement nommé 'Bianco Uovo’. Vieilles vignes de Procanico (Trebbiano du Lazio/Trebbiano Toscana) sur les rives du Lago di Bolsena, sur terroirs volcaniques. Égrappé et macéré 10 jours en cuve fibre verre. Élevé 12 mois en cuve béton. Joy est convaincue… l’oeuf béton est un outil incroyable pour les vins ici, révélateur de terroir et d’harmonie. Chaque année, un ou deux oeufs de plus se rajoutent à la cave! Un grand vin d’épices et de textures, méditatif, nuancé, magnifique!! Sans intrants.",
           "price": "Particulier 47.50 | Restaurant 39.60 | IP 6",
-          "image_url": null,
+          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
           "link": null,
           "producer": "La Villana",
           "region": "Lazio",
@@ -1781,7 +2134,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "Le Bianco PURO, issu de vieilles vignes de Procanico, se distingue par sa macération en cuve fibreverre et son élevage en béton, révélant des épices et des textures méditatives. Ce vin sans intrants incarne l'harmonie et la profondeur de son terroir volcanique."
   },
   {
     "id": "file-2025-09-29-vin-dame-jeanne-0.html-cuvee-orange",
@@ -1831,178 +2185,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La cuvée Orange du Château Lafitte, une macération méditative, revient en petites quantités, captivant les amateurs de sensations fortes avec son caractère émotionnel. Ce domaine historique, dirigé par Antoine Arraou en biodynamie, offre une expérience unique, révélant la magie des cépages Petit et Gros Manseng dans un cadre de biodiversité exceptionnelle."
-  },
-  {
-    "id": "file-2025-09-27-le-vin-dans-les-voiles-0.html-domaine-senat",
-    "blockId": "file-2025-09-27-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-09-27T00:00:00.000Z",
-    "name": "Domaine Sénat",
-    "description": null,
-    "price": null,
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
-    "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_6",
-    "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Domaine Sénat",
-      "description": null,
-      "price": null,
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
-      "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_6",
-      "producer": "Domaine Sénat",
-      "region": null,
-      "vintage": null,
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Domaine Sénat",
-          "description": null,
-          "price": null,
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
-          "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_6",
-          "producer": "Domaine Sénat",
-          "region": null,
-          "vintage": null,
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-27-le-vin-dans-les-voiles-0.html-les-hautes-terres",
-    "blockId": "file-2025-09-27-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-09-27T00:00:00.000Z",
-    "name": "Les Hautes Terres",
-    "description": null,
-    "price": null,
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
-    "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_7",
-    "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Les Hautes Terres",
-      "description": null,
-      "price": null,
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
-      "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_7",
-      "producer": "Les Hautes Terres",
-      "region": null,
-      "vintage": null,
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Les Hautes Terres",
-          "description": null,
-          "price": null,
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
-          "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_7",
-          "producer": "Les Hautes Terres",
-          "region": null,
-          "vintage": null,
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-27-le-vin-dans-les-voiles-0.html-pascal-chalon-la-grande-ourse",
-    "blockId": "file-2025-09-27-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-09-27T00:00:00.000Z",
-    "name": "Pascal Chalon (La Grande Ourse)",
-    "description": null,
-    "price": null,
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
-    "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_8",
-    "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Pascal Chalon (La Grande Ourse)",
-      "description": null,
-      "price": null,
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
-      "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_8",
-      "producer": "Pascal Chalon (La Grande Ourse)",
-      "region": null,
-      "vintage": null,
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Pascal Chalon (La Grande Ourse)",
-          "description": null,
-          "price": null,
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
-          "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_8",
-          "producer": "Pascal Chalon (La Grande Ourse)",
-          "region": null,
-          "vintage": null,
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-09-27-le-vin-dans-les-voiles-0.html-senorio-de-librares",
-    "blockId": "file-2025-09-27-le-vin-dans-les-voiles-0.html",
-    "createdAt": "2025-09-27T00:00:00.000Z",
-    "name": "Señorio de Librares",
-    "description": null,
-    "price": null,
-    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
-    "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_9",
-    "agence": "Le vin dans les voiles",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Señorio de Librares",
-      "description": null,
-      "price": null,
-      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
-      "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_9",
-      "producer": "Señorio de Librares",
-      "region": null,
-      "vintage": null,
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Señorio de Librares",
-          "description": null,
-          "price": null,
-          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/VbA62P/images/465d3d9b-9471-4cd3-ae0e-74dc06b1c9d5.png",
-          "link": "https://ctrk.klclick.com/l/01K65Q1CG0FNQJ3GDBC1NJCXH2_9",
-          "producer": "Señorio de Librares",
-          "region": null,
-          "vintage": null,
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
+    "summary": "La Cuvée Orange du Château Lafitte, une macération méditative, revient en quantités limitées, captivant les amateurs de sensations fortes. Ce vin, issu d'un domaine biodynamique historique, incarne l'émotion et l'harmonie, révélant toute la magie du Petit et Gros Manseng."
   }
 ]
