@@ -5,7 +5,7 @@
     "createdAt": "2025-10-04T00:00:00.000Z",
     "name": "Bourgogne Rosé",
     "description": "Pur Pinot Noir de la commune de Saint-Bris, à 250m d'altitude, sur argilo-calcaire du Kimmeridgien. Vignes exposées est, sud-est, et sud. Pressurage direct en pressoir vertical à cage ouverte. Fermentation naturelle, élevage de 18 mois en fût de plusieurs vins, sur lies. Frais, gourmand, sur les notes de fraises et groseilles, poivre noir et petite épices. Léger, vif, et très élégant!",
-    "price": "Particulier 43.50 | Restaurant 37.83",
+    "price": "43.50$",
     "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
     "link": "http://SAQ.com",
     "agence": "Vin Dame-Jeanne",
@@ -13,7 +13,7 @@
     "raw_data": {
       "name": "Bourgogne Rosé",
       "description": "Pur Pinot Noir de la commune de Saint-Bris, à 250m d'altitude, sur argilo-calcaire du Kimmeridgien. Vignes exposées est, sud-est, et sud. Pressurage direct en pressoir vertical à cage ouverte. Fermentation naturelle, élevage de 18 mois en fût de plusieurs vins, sur lies. Frais, gourmand, sur les notes de fraises et groseilles, poivre noir et petite épices. Léger, vif, et très élégant!",
-      "price": "Particulier 43.50 | Restaurant 37.83",
+      "price": "43.50$",
       "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
       "link": "http://SAQ.com",
       "producer": "Athénaïs de Béru",
@@ -29,7 +29,7 @@
         {
           "name": "Bourgogne Rosé",
           "description": "Pur Pinot Noir de la commune de Saint-Bris, à 250m d'altitude, sur argilo-calcaire du Kimmeridgien. Vignes exposées est, sud-est, et sud. Pressurage direct en pressoir vertical à cage ouverte. Fermentation naturelle, élevage de 18 mois en fût de plusieurs vins, sur lies. Frais, gourmand, sur les notes de fraises et groseilles, poivre noir et petite épices. Léger, vif, et très élégant!",
-          "price": "Particulier 43.50 | Restaurant 37.83",
+          "price": "43.50$",
           "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
           "link": "http://SAQ.com",
           "producer": "Athénaïs de Béru",
@@ -45,7 +45,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Bourgogne Rosé, issu de Pinot Noir de Saint-Bris, révèle une fraîcheur gourmande avec des notes de fraises, groseilles et épices, le tout dans une élégance légère et vive."
+    "summary": "Ce Bourgogne Rosé, pur Pinot Noir de Saint-Bris, séduit par sa fraîcheur et son élégance, révélant des notes de fraises, groseilles et épices délicates après un élevage de 18 mois en fût."
   },
   {
     "id": "file-2025-10-03-noble-selection-0.html-sette-ponti-crognolo-2022",
@@ -95,7 +95,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Sette Ponti Crognolo 2022, un Sangiovese aux racines profondes, se distingue par sa structure minérale et sa complexité, fruit d'une vinification soignée et d'un élevage en barriques."
+    "summary": "Le Sette Ponti Crognolo 2022, un Sangiovese aux racines profondes, exprime une structure remarquable et une minéralité raffinée, fruit d'un terroir diversifié et d'un élevage soigné en barriques."
   },
   {
     "id": "file-2025-10-03-noble-selection-0.html-pares-balta-calcari-2024",
@@ -225,7 +225,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Vigna di Pallino Chianti 2023, cultivé à haute densité dans les terroirs argileux du Chianti, offre des fruits d'une qualité exceptionnelle, reflet de son environnement unique entre Arezzo et Florence."
+    "summary": "Le Vigna di Pallino Chianti 2023, issu de vignes soigneusement plantées à haute densité dans les sols riches de Toscane, promet des fruits d'une qualité exceptionnelle, révélant l'authenticité du terroir."
   },
   {
     "id": "file-2025-10-03-noble-selection-0.html-bottega-bottega-rose-gold-200-ml",
@@ -445,7 +445,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Barolo 2020 de Giacomo Fenocchio, un Nebbiolo d'une profondeur remarquable, allie finesse et intensité, offrant des arômes de fruits à noyau et de réglisse, tout en restant accessible et élégant."
+    "summary": "Le Barolo 2020 de Giacomo Fenocchio, un Nebbiolo d'une profondeur saisissante, allie finesse et intensité, offrant des arômes de fruits à noyau et de réglisse, tout en restant accessible et élégant."
   },
   {
     "id": "file-2025-10-02-grand-cellier-0.html-colheita-dao-portugal",
@@ -1652,10 +1652,10 @@
     }
   },
   {
-    "id": "file-2025-10-02-noble-selection-0.html-tenuta-sette-ponti",
+    "id": "file-2025-10-02-noble-selection-0.html-tenuta-sette-ponti-feudo-maccari",
     "blockId": "file-2025-10-02-noble-selection-0.html",
     "createdAt": "2025-10-02T00:00:00.000Z",
-    "name": "Tenuta Sette Ponti",
+    "name": "Tenuta Sette Ponti | Feudo Maccari",
     "description": null,
     "price": null,
     "image_url": null,
@@ -1663,12 +1663,12 @@
     "agence": "Noble Sélection",
     "disponibilite": null,
     "raw_data": {
-      "name": "Tenuta Sette Ponti",
+      "name": "Tenuta Sette Ponti | Feudo Maccari",
       "description": null,
       "price": null,
       "image_url": null,
       "link": null,
-      "producer": "Tenuta Sette Ponti",
+      "producer": "Tenuta Sette Ponti | Feudo Maccari",
       "region": null,
       "vintage": null,
       "grape_varieties": null,
@@ -1677,55 +1677,12 @@
       "disponibilite": null,
       "all_occurrences_raw_data": [
         {
-          "name": "Tenuta Sette Ponti",
+          "name": "Tenuta Sette Ponti | Feudo Maccari",
           "description": null,
           "price": null,
           "image_url": null,
           "link": null,
-          "producer": "Tenuta Sette Ponti",
-          "region": null,
-          "vintage": null,
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-10-02-noble-selection-0.html-feudo-maccari",
-    "blockId": "file-2025-10-02-noble-selection-0.html",
-    "createdAt": "2025-10-02T00:00:00.000Z",
-    "name": "Feudo Maccari",
-    "description": null,
-    "price": null,
-    "image_url": null,
-    "link": null,
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Feudo Maccari",
-      "description": null,
-      "price": null,
-      "image_url": null,
-      "link": null,
-      "producer": "Feudo Maccari",
-      "region": null,
-      "vintage": null,
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Feudo Maccari",
-          "description": null,
-          "price": null,
-          "image_url": null,
-          "link": null,
-          "producer": "Feudo Maccari",
+          "producer": "Tenuta Sette Ponti | Feudo Maccari",
           "region": null,
           "vintage": null,
           "grape_varieties": null,
@@ -2086,7 +2043,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "L'Éclos 2023, issu de vieilles vignes cultivées en biodynamie dans l'appellation Jasnières, révèle une minéralité raffinée et une complexité aromatique, fruit d'un terroir exceptionnel et d'un savoir-faire respectueux de l'environnement."
+    "summary": "L'Éclos 2023, élaboré en biodynamie à partir de vieilles vignes, révèle la minéralité exceptionnelle du terroir de Jasnières, offrant une complexité et une profondeur remarquables grâce à un élevage sur lies en fût."
   },
   {
     "id": "file-2025-10-02-rezin-0.html-saumur-champigny-la-folie-2023",
@@ -2105,7 +2062,7 @@
       "price": "34,50 $",
       "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/8a21a622-2baa-42eb-f21a-d308571c7052.png",
       "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=b918726a06&e=c11422f941",
-      "producer": "Château Yvonne",
+      "producer": "Mathieu Vallée et Stéphanie",
       "region": "Saumur Champigny",
       "vintage": "2023",
       "grape_varieties": null,
@@ -2119,7 +2076,7 @@
           "price": "34,50 $",
           "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/8a21a622-2baa-42eb-f21a-d308571c7052.png",
           "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=b918726a06&e=c11422f941",
-          "producer": "Château Yvonne",
+          "producer": "Mathieu Vallée et Stéphanie",
           "region": "Saumur Champigny",
           "vintage": "2023",
           "grape_varieties": null,
@@ -2130,7 +2087,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Folie 2023, un Saumur Champigny, séduit par son équilibre parfait et ses arômes de violette et de fruits noirs, offrant une bouche suave et une finale saline enrichie de notes de chocolat noir."
+    "summary": "Le Saumur Champigny La Folie 2023, issu d'un terroir unique, se distingue par son équilibre parfait, dévoilant des arômes de violette et de fruits noirs, avec une bouche suave et une finale délicatement saline."
   },
   {
     "id": "file-2025-10-01-vin-dame-jeanne-0.html-bianco-vio",
@@ -2178,7 +2135,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Bianco VIO, élaboré à partir de Viognier de Farnese, offre un bouquet enivrant d'abricots et de poires, avec une touche d'herbes sauvages, le tout sans intrants pour une pureté authentique."
+    "summary": "Le Bianco VIO, élaboré avec du Viognier de Farnese, offre un bouquet enivrant d'abricots et de poires, révélant une belle complexité grâce à une macération délicate et un élevage en cuve fibreverre."
   },
   {
     "id": "file-2025-10-01-vin-dame-jeanne-0.html-bianco-puro",
@@ -2226,56 +2183,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Bianco PURO, issu de vieilles vignes de Procanico sur terroirs volcaniques, se révèle comme un vin méditatif aux épices délicates et aux textures nuancées, élevé en cuve béton pour une expression authentique du terroir."
-  },
-  {
-    "id": "file-2025-09-29-vin-dame-jeanne-0.html-cuvee-orange",
-    "blockId": "file-2025-09-29-vin-dame-jeanne-0.html",
-    "createdAt": "2025-09-29T00:00:00.000Z",
-    "name": "Cuvée Orange",
-    "description": "Cuvée vibratoire d'Antoine Arraou en IP. Attention aux amateurs de sensations fortes ; la cuvée ORANGE du Château Lafitte est de retour à la demande générale, en toutes petites quantités! Le dernier arrivage avait brisé des coeurs, avec les quantités microscopiques de cette cuvée émotionnelle -- et Antoine Arraou nous a fait une fleur! Un nouvel arrivage de quelques cartons de cette macération méditative. Connaissez vous déja le Chateau Lafitte? Attention, il ne s'agit pas du Grand Cru Classé de Pauillac... mais d'une pépite du Jurançonnais. Un domaine historique qui rend complètement fou les oenophiles et les assoiffés de grands vins d'émotion. Le Château en lui-même est une ancienne maison seigneuriale du XIVe siècle à couper le souffle, située à Monein, entre Pau et Oloron Sainte-Marie, dans les Pyrénées Atlantiques. Déjà au XVIe siècle, cette bâtisse était au coeur du vignoble et était configurée pour la production de vin. Le Château Lafitte appartient aujourd’hui à la famille Arraou. Philippe et Brigitte, parents d’Antoine, se sont lancés dans l'aventure de reprendre cette propriété historique. Leur fils, quant à lui, est un ancien photographe, qui depuis 2012, mène l’exploitation avec convictions et détermination, le convertissant au bio et à la biodynamie. Antoine Arraou a souhaité créer de son domaine un organisme vivant, comme le dessinait Rudolf Steiner, philosophe fondateur de la Biodynamie au début du 20e siècle. À la vigne, Antoine fait preuve de grande sensibilité. Les rangs de vignes sont co-habités d’une variété importante de plantes, d’arbres fruitiers et de céréales. Des brebis en hiver, des abeilles le reste de l'année, tout participe à la superbe biodiversité des parcelles. Ses 5 hectares en biodynamie sont plantés surtout de Petit Manseng et Gros Manseng, deux cépages chargés de magie lorsqu’élevés avec autant de soin et vision. Une grande attention est accordée à l’équilibre global, à la biodiversité ainsi qu’à une cohérence de l’éthique sociale et humaine. En parallèle, Antoine a construit un chai eco-responsable, conçu par l’architecte palois Geoffroy Boulin en 2018, dans l'optique de minimiser l'impact environnemental; un chef d’œuvre architectural mais surtout un lieu serein, bourré de magnétisme, utilisant énergie solaire et recyclant l’eau de pluie pour le nettoyage de matériel agricoles. Il est semi-enterré et doté d’un puit canadien afin de bénéficier de la fraîcheur naturelle constante et est organisé sur plusieurs niveaux afin de faire circuler les jus par gravité. On y retrouve de magnifiques amphores semi-enterrées, qui ronronnent durant les fermentations. La cuvée Orange fait son retour -- une des macération les plus émouvantes de France!",
-    "price": null,
-    "image_url": null,
-    "link": null,
-    "agence": "Vin Dame-Jeanne",
-    "disponibilite": "Importation Privée",
-    "raw_data": {
-      "name": "Cuvée Orange",
-      "description": "Cuvée vibratoire d'Antoine Arraou en IP. Attention aux amateurs de sensations fortes ; la cuvée ORANGE du Château Lafitte est de retour à la demande générale, en toutes petites quantités! Le dernier arrivage avait brisé des coeurs, avec les quantités microscopiques de cette cuvée émotionnelle -- et Antoine Arraou nous a fait une fleur! Un nouvel arrivage de quelques cartons de cette macération méditative. Connaissez vous déja le Chateau Lafitte? Attention, il ne s'agit pas du Grand Cru Classé de Pauillac... mais d'une pépite du Jurançonnais. Un domaine historique qui rend complètement fou les oenophiles et les assoiffés de grands vins d'émotion. Le Château en lui-même est une ancienne maison seigneuriale du XIVe siècle à couper le souffle, située à Monein, entre Pau et Oloron Sainte-Marie, dans les Pyrénées Atlantiques. Déjà au XVIe siècle, cette bâtisse était au coeur du vignoble et était configurée pour la production de vin. Le Château Lafitte appartient aujourd’hui à la famille Arraou. Philippe et Brigitte, parents d’Antoine, se sont lancés dans l'aventure de reprendre cette propriété historique. Leur fils, quant à lui, est un ancien photographe, qui depuis 2012, mène l’exploitation avec convictions et détermination, le convertissant au bio et à la biodynamie. Antoine Arraou a souhaité créer de son domaine un organisme vivant, comme le dessinait Rudolf Steiner, philosophe fondateur de la Biodynamie au début du 20e siècle. À la vigne, Antoine fait preuve de grande sensibilité. Les rangs de vignes sont co-habités d’une variété importante de plantes, d’arbres fruitiers et de céréales. Des brebis en hiver, des abeilles le reste de l'année, tout participe à la superbe biodiversité des parcelles. Ses 5 hectares en biodynamie sont plantés surtout de Petit Manseng et Gros Manseng, deux cépages chargés de magie lorsqu’élevés avec autant de soin et vision. Une grande attention est accordée à l’équilibre global, à la biodiversité ainsi qu’à une cohérence de l’éthique sociale et humaine. En parallèle, Antoine a construit un chai eco-responsable, conçu par l’architecte palois Geoffroy Boulin en 2018, dans l'optique de minimiser l'impact environnemental; un chef d’œuvre architectural mais surtout un lieu serein, bourré de magnétisme, utilisant énergie solaire et recyclant l’eau de pluie pour le nettoyage de matériel agricoles. Il est semi-enterré et doté d’un puit canadien afin de bénéficier de la fraîcheur naturelle constante et est organisé sur plusieurs niveaux afin de faire circuler les jus par gravité. On y retrouve de magnifiques amphores semi-enterrées, qui ronronnent durant les fermentations. La cuvée Orange fait son retour -- une des macération les plus émouvantes de France!",
-      "price": null,
-      "image_url": null,
-      "link": null,
-      "producer": "Château Lafitte",
-      "region": "Jurançonnais",
-      "vintage": null,
-      "grape_varieties": [
-        "Petit Manseng",
-        "Gros Manseng"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "Importation Privée",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Cuvée Orange",
-          "description": "Cuvée vibratoire d'Antoine Arraou en IP. Attention aux amateurs de sensations fortes ; la cuvée ORANGE du Château Lafitte est de retour à la demande générale, en toutes petites quantités! Le dernier arrivage avait brisé des coeurs, avec les quantités microscopiques de cette cuvée émotionnelle -- et Antoine Arraou nous a fait une fleur! Un nouvel arrivage de quelques cartons de cette macération méditative. Connaissez vous déja le Chateau Lafitte? Attention, il ne s'agit pas du Grand Cru Classé de Pauillac... mais d'une pépite du Jurançonnais. Un domaine historique qui rend complètement fou les oenophiles et les assoiffés de grands vins d'émotion. Le Château en lui-même est une ancienne maison seigneuriale du XIVe siècle à couper le souffle, située à Monein, entre Pau et Oloron Sainte-Marie, dans les Pyrénées Atlantiques. Déjà au XVIe siècle, cette bâtisse était au coeur du vignoble et était configurée pour la production de vin. Le Château Lafitte appartient aujourd’hui à la famille Arraou. Philippe et Brigitte, parents d’Antoine, se sont lancés dans l'aventure de reprendre cette propriété historique. Leur fils, quant à lui, est un ancien photographe, qui depuis 2012, mène l’exploitation avec convictions et détermination, le convertissant au bio et à la biodynamie. Antoine Arraou a souhaité créer de son domaine un organisme vivant, comme le dessinait Rudolf Steiner, philosophe fondateur de la Biodynamie au début du 20e siècle. À la vigne, Antoine fait preuve de grande sensibilité. Les rangs de vignes sont co-habités d’une variété importante de plantes, d’arbres fruitiers et de céréales. Des brebis en hiver, des abeilles le reste de l'année, tout participe à la superbe biodiversité des parcelles. Ses 5 hectares en biodynamie sont plantés surtout de Petit Manseng et Gros Manseng, deux cépages chargés de magie lorsqu’élevés avec autant de soin et vision. Une grande attention est accordée à l’équilibre global, à la biodiversité ainsi qu’à une cohérence de l’éthique sociale et humaine. En parallèle, Antoine a construit un chai eco-responsable, conçu par l’architecte palois Geoffroy Boulin en 2018, dans l'optique de minimiser l'impact environnemental; un chef d’œuvre architectural mais surtout un lieu serein, bourré de magnétisme, utilisant énergie solaire et recyclant l’eau de pluie pour le nettoyage de matériel agricoles. Il est semi-enterré et doté d’un puit canadien afin de bénéficier de la fraîcheur naturelle constante et est organisé sur plusieurs niveaux afin de faire circuler les jus par gravité. On y retrouve de magnifiques amphores semi-enterrées, qui ronronnent durant les fermentations. La cuvée Orange fait son retour -- une des macération les plus émouvantes de France!",
-          "price": null,
-          "image_url": null,
-          "link": null,
-          "producer": "Château Lafitte",
-          "region": "Jurançonnais",
-          "vintage": null,
-          "grape_varieties": [
-            "Petit Manseng",
-            "Gros Manseng"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "Importation Privée"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "La Cuvée Orange du Château Lafitte, une macération vibrante et émotionnelle, incarne l'art de la biodynamie dans un domaine historique, offrant une expérience sensorielle unique à chaque gorgée."
+    "summary": "Le Bianco PURO, issu de vieilles vignes de Procanico sur terroirs volcaniques, se révèle comme un vin méditatif et nuancé, enrichi par une macération prolongée et un élevage en cuve béton, offrant une belle harmonie et des épices délicates."
   }
 ]
