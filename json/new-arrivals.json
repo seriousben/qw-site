@@ -5,7 +5,7 @@
     "createdAt": "2025-10-04T00:00:00.000Z",
     "name": "Bourgogne Rosé",
     "description": "Pur Pinot Noir de la commune de Saint-Bris, à 250m d'altitude, sur argilo-calcaire du Kimmeridgien. Vignes exposées est, sud-est, et sud. Pressurage direct en pressoir vertical à cage ouverte. Fermentation naturelle, élevage de 18 mois en fût de plusieurs vins, sur lies. Frais, gourmand, sur les notes de fraises et groseilles, poivre noir et petite épices. Léger, vif, et très élégant!",
-    "price": "43.50$",
+    "price": "Particulier 43.50 | Restaurant 37.83",
     "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
     "link": "http://SAQ.com",
     "agence": "Vin Dame-Jeanne",
@@ -13,7 +13,7 @@
     "raw_data": {
       "name": "Bourgogne Rosé",
       "description": "Pur Pinot Noir de la commune de Saint-Bris, à 250m d'altitude, sur argilo-calcaire du Kimmeridgien. Vignes exposées est, sud-est, et sud. Pressurage direct en pressoir vertical à cage ouverte. Fermentation naturelle, élevage de 18 mois en fût de plusieurs vins, sur lies. Frais, gourmand, sur les notes de fraises et groseilles, poivre noir et petite épices. Léger, vif, et très élégant!",
-      "price": "43.50$",
+      "price": "Particulier 43.50 | Restaurant 37.83",
       "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
       "link": "http://SAQ.com",
       "producer": "Athénaïs de Béru",
@@ -29,7 +29,7 @@
         {
           "name": "Bourgogne Rosé",
           "description": "Pur Pinot Noir de la commune de Saint-Bris, à 250m d'altitude, sur argilo-calcaire du Kimmeridgien. Vignes exposées est, sud-est, et sud. Pressurage direct en pressoir vertical à cage ouverte. Fermentation naturelle, élevage de 18 mois en fût de plusieurs vins, sur lies. Frais, gourmand, sur les notes de fraises et groseilles, poivre noir et petite épices. Léger, vif, et très élégant!",
-          "price": "43.50$",
+          "price": "Particulier 43.50 | Restaurant 37.83",
           "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
           "link": "http://SAQ.com",
           "producer": "Athénaïs de Béru",
@@ -45,7 +45,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Bourgogne Rosé, pur Pinot Noir de Saint-Bris, séduit par sa fraîcheur et son élégance, révélant des notes de fraises, groseilles et épices délicates après un élevage de 18 mois en fût."
+    "summary": "Ce Bourgogne Rosé, pur Pinot Noir de Saint-Bris, révèle une élégance fraîche et gourmande, avec des notes de fraises, groseilles, poivre noir et épices délicates, le tout porté par une vivacité remarquable."
   },
   {
     "id": "file-2025-10-03-noble-selection-0.html-sette-ponti-crognolo-2022",
@@ -95,7 +95,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Sette Ponti Crognolo 2022, un Sangiovese aux racines profondes, exprime une structure remarquable et une minéralité raffinée, fruit d'un terroir diversifié et d'un élevage soigné en barriques."
+    "summary": "Le Sette Ponti Crognolo 2022, un Sangiovese d'une grande structure, est élaboré à partir de vignes cultivées sur des sols variés, offrant une minéralité exceptionnelle, avec une fermentation précise et un élevage raffiné en barriques."
   },
   {
     "id": "file-2025-10-03-noble-selection-0.html-pares-balta-calcari-2024",
@@ -225,7 +225,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Vigna di Pallino Chianti 2023, issu de vignes soigneusement plantées à haute densité dans les sols riches de Toscane, promet des fruits d'une qualité exceptionnelle, révélant l'authenticité du terroir."
+    "summary": "Le Vigna di Pallino Chianti 2023, issu de vignes cultivées à haute densité sur des sols calcaires riches, offre des fruits d'une qualité exceptionnelle, reflétant l'authenticité du terroir toscan."
   },
   {
     "id": "file-2025-10-03-noble-selection-0.html-bottega-bottega-rose-gold-200-ml",
@@ -406,7 +406,7 @@
     "name": "Giacomo Fenocchio, Barolo 2020",
     "description": "Le Barolo 2020 de Giacomo Fenocchio est un grand vin du Piémont, élevé longuement en foudre, qui conjugue finesse, intensité et pureté de fruit, tout en restant étonnamment accessible pour un vin de cette envergure. Symbole d’un équilibre rare entre tradition et innovation, ce Barolo incarne l’âme des Langhe : un Nebbiolo d’une profondeur remarquable, fidèle à son terroir et à la signature intemporelle du domaine Fenocchio. Le vin, robuste mais fin, dévoile une pureté de fruits et exhale des arômes francs et charmeurs. Notes riches de fruits à noyau, de réglisse et même de balsamique. La présence des tannins est structurante, mais élégante. Il s’accordera à merveille avec vos repas de saison tels que les viandes braisées en sauce, les pâtes à base de truffes ou champignons, ou bien les fromages à pâte dure vieillis!",
     "price": "71,00 $",
-    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
+    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/1fb614f0-7f76-c50f-2c99-06fd1df9bd8c.png",
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=eabf1debcd&e=a09c2580fc",
     "agence": "Bambara Selection",
     "disponibilite": "SAQ",
@@ -414,7 +414,7 @@
       "name": "Giacomo Fenocchio, Barolo 2020",
       "description": "Le Barolo 2020 de Giacomo Fenocchio est un grand vin du Piémont, élevé longuement en foudre, qui conjugue finesse, intensité et pureté de fruit, tout en restant étonnamment accessible pour un vin de cette envergure. Symbole d’un équilibre rare entre tradition et innovation, ce Barolo incarne l’âme des Langhe : un Nebbiolo d’une profondeur remarquable, fidèle à son terroir et à la signature intemporelle du domaine Fenocchio. Le vin, robuste mais fin, dévoile une pureté de fruits et exhale des arômes francs et charmeurs. Notes riches de fruits à noyau, de réglisse et même de balsamique. La présence des tannins est structurante, mais élégante. Il s’accordera à merveille avec vos repas de saison tels que les viandes braisées en sauce, les pâtes à base de truffes ou champignons, ou bien les fromages à pâte dure vieillis!",
       "price": "71,00 $",
-      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
+      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/1fb614f0-7f76-c50f-2c99-06fd1df9bd8c.png",
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=eabf1debcd&e=a09c2580fc",
       "producer": "Giacomo Fenocchio",
       "region": "Piémont",
@@ -430,7 +430,7 @@
           "name": "Giacomo Fenocchio, Barolo 2020",
           "description": "Le Barolo 2020 de Giacomo Fenocchio est un grand vin du Piémont, élevé longuement en foudre, qui conjugue finesse, intensité et pureté de fruit, tout en restant étonnamment accessible pour un vin de cette envergure. Symbole d’un équilibre rare entre tradition et innovation, ce Barolo incarne l’âme des Langhe : un Nebbiolo d’une profondeur remarquable, fidèle à son terroir et à la signature intemporelle du domaine Fenocchio. Le vin, robuste mais fin, dévoile une pureté de fruits et exhale des arômes francs et charmeurs. Notes riches de fruits à noyau, de réglisse et même de balsamique. La présence des tannins est structurante, mais élégante. Il s’accordera à merveille avec vos repas de saison tels que les viandes braisées en sauce, les pâtes à base de truffes ou champignons, ou bien les fromages à pâte dure vieillis!",
           "price": "71,00 $",
-          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
+          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/1fb614f0-7f76-c50f-2c99-06fd1df9bd8c.png",
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=eabf1debcd&e=a09c2580fc",
           "producer": "Giacomo Fenocchio",
           "region": "Piémont",
@@ -445,7 +445,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Barolo 2020 de Giacomo Fenocchio, un Nebbiolo d'une profondeur saisissante, allie finesse et intensité, offrant des arômes de fruits à noyau et de réglisse, tout en restant accessible et élégant."
+    "summary": "Le Barolo 2020 de Giacomo Fenocchio est une œuvre d'art piémontaise, alliant finesse et intensité, avec des arômes de fruits à noyau, réglisse et balsamique, tout en offrant une structure tannique élégante et accessible."
   },
   {
     "id": "file-2025-10-02-grand-cellier-0.html-colheita-dao-portugal",
@@ -2043,7 +2043,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "L'Éclos 2023, élaboré en biodynamie à partir de vieilles vignes, révèle la minéralité exceptionnelle du terroir de Jasnières, offrant une complexité et une profondeur remarquables grâce à un élevage sur lies en fût."
+    "summary": "L'Éclos 2023, élaboré en biodynamie dans le terroir exceptionnel de Jasnières, révèle la minéralité pure du Chenin et du Pineau d'Aunis, offrant une complexité et une profondeur remarquables grâce à un élevage sur lies en fût de chêne."
   },
   {
     "id": "file-2025-10-02-rezin-0.html-saumur-champigny-la-folie-2023",
@@ -2062,7 +2062,7 @@
       "price": "34,50 $",
       "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/8a21a622-2baa-42eb-f21a-d308571c7052.png",
       "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=b918726a06&e=c11422f941",
-      "producer": "Mathieu Vallée et Stéphanie",
+      "producer": "Château Yvonne",
       "region": "Saumur Champigny",
       "vintage": "2023",
       "grape_varieties": null,
@@ -2076,7 +2076,7 @@
           "price": "34,50 $",
           "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/8a21a622-2baa-42eb-f21a-d308571c7052.png",
           "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=b918726a06&e=c11422f941",
-          "producer": "Mathieu Vallée et Stéphanie",
+          "producer": "Château Yvonne",
           "region": "Saumur Champigny",
           "vintage": "2023",
           "grape_varieties": null,
@@ -2087,7 +2087,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Saumur Champigny La Folie 2023, issu d'un terroir unique, se distingue par son équilibre parfait, dévoilant des arômes de violette et de fruits noirs, avec une bouche suave et une finale délicatement saline."
+    "summary": "Le Saumur Champigny La Folie 2023, issu d'un terroir unique, offre un équilibre parfait avec des arômes de violette et de fruits noirs, une attaque suave et une finale saline, révélant des notes de chocolat noir et de griotte."
   },
   {
     "id": "file-2025-10-01-vin-dame-jeanne-0.html-bianco-vio",
@@ -2135,7 +2135,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Bianco VIO, élaboré avec du Viognier de Farnese, offre un bouquet enivrant d'abricots et de poires, révélant une belle complexité grâce à une macération délicate et un élevage en cuve fibreverre."
+    "summary": "Le Bianco VIO, un Viognier de Farnese, séduit par son bouquet d'abricots, poires et herbes sauvages, offrant une expression authentique et sans intrants, macéré délicatement sur peaux."
   },
   {
     "id": "file-2025-10-01-vin-dame-jeanne-0.html-bianco-puro",
@@ -2183,6 +2183,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Bianco PURO, issu de vieilles vignes de Procanico sur terroirs volcaniques, se révèle comme un vin méditatif et nuancé, enrichi par une macération prolongée et un élevage en cuve béton, offrant une belle harmonie et des épices délicates."
+    "summary": "Le Bianco PURO, issu de vieilles vignes de Procanico sur terroirs volcaniques, offre une complexité méditative et nuancée, révélée par une macération en cuve fibre verre et un élevage en béton, le tout sans intrants."
   }
 ]
