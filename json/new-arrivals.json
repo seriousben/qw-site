@@ -1,5 +1,53 @@
 [
   {
+    "id": "file-2025-10-07-vin-dame-jeanne-0.html-munjebel-rosso-2022",
+    "blockId": "file-2025-10-07-vin-dame-jeanne-0.html",
+    "createdAt": "2025-10-07T00:00:00.000Z",
+    "name": "MunJebel Rosso 2022",
+    "description": "Pur Nerello Mascalese du versant nord d'Etna, assemblage de plusieurs parcelles agées entre 20-65 ans. Macération de 50 jours sur raisins partiellement égrappés. Élevage en cuve fibreverre. Un vin élaboré à la vigne où la macération vient puiser toutes les délicates nuances de ce terroir dramatique. Le temps sur peaux prolongé permet la polymérisation de tannins, pour une structure assumée et des tannins fondus, le paradoxe du Nerello Mascalese illustré à merveille : son poing de fer, son gant de velour. L'élégance improbable, la puissance adoucie.",
+    "price": "48.66$",
+    "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/9f278cc1-568f-bbed-56d6-dfef89bf3572.jpg",
+    "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=8b34462510&e=345e10d07b",
+    "agence": "Vin Dame-Jeanne",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "MunJebel Rosso 2022",
+      "description": "Pur Nerello Mascalese du versant nord d'Etna, assemblage de plusieurs parcelles agées entre 20-65 ans. Macération de 50 jours sur raisins partiellement égrappés. Élevage en cuve fibreverre. Un vin élaboré à la vigne où la macération vient puiser toutes les délicates nuances de ce terroir dramatique. Le temps sur peaux prolongé permet la polymérisation de tannins, pour une structure assumée et des tannins fondus, le paradoxe du Nerello Mascalese illustré à merveille : son poing de fer, son gant de velour. L'élégance improbable, la puissance adoucie.",
+      "price": "48.66$",
+      "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/9f278cc1-568f-bbed-56d6-dfef89bf3572.jpg",
+      "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=8b34462510&e=345e10d07b",
+      "producer": "Frank Cornelissen",
+      "region": "Terre Siciliane",
+      "vintage": "2022",
+      "grape_varieties": [
+        "Nerello Mascalese"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "MunJebel Rosso 2022",
+          "description": "Pur Nerello Mascalese du versant nord d'Etna, assemblage de plusieurs parcelles agées entre 20-65 ans. Macération de 50 jours sur raisins partiellement égrappés. Élevage en cuve fibreverre. Un vin élaboré à la vigne où la macération vient puiser toutes les délicates nuances de ce terroir dramatique. Le temps sur peaux prolongé permet la polymérisation de tannins, pour une structure assumée et des tannins fondus, le paradoxe du Nerello Mascalese illustré à merveille : son poing de fer, son gant de velour. L'élégance improbable, la puissance adoucie.",
+          "price": "48.66$",
+          "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/9f278cc1-568f-bbed-56d6-dfef89bf3572.jpg",
+          "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=8b34462510&e=345e10d07b",
+          "producer": "Frank Cornelissen",
+          "region": "Terre Siciliane",
+          "vintage": "2022",
+          "grape_varieties": [
+            "Nerello Mascalese"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "MunJebel Rosso 2022 is a captivating Nerello Mascalese from the northern slopes of Etna, showcasing a delicate balance of power and elegance with its velvety tannins and profound terroir nuances, a true embodiment of its volcanic origins."
+  },
+  {
     "id": "file-2025-10-04-vin-dame-jeanne-0.html-bourgogne-rose",
     "blockId": "file-2025-10-04-vin-dame-jeanne-0.html",
     "createdAt": "2025-10-04T00:00:00.000Z",
@@ -45,7 +93,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ce Bourgogne Rosé, pur Pinot Noir de Saint-Bris, révèle une élégance fraîche et gourmande, avec des notes de fraises, groseilles, poivre noir et épices délicates, le tout porté par une vivacité remarquable."
+    "summary": "This Bourgogne Rosé, crafted from pure Pinot Noir, delights with its fresh and vibrant profile, offering enticing notes of strawberries and blackcurrants, elegantly spiced with a touch of black pepper, all harmoniously aged for 18 months."
   },
   {
     "id": "file-2025-10-03-noble-selection-0.html-sette-ponti-crognolo-2022",
@@ -95,7 +143,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Sette Ponti Crognolo 2022, un Sangiovese d'une grande structure, est élaboré à partir de vignes cultivées sur des sols variés, offrant une minéralité exceptionnelle, avec une fermentation précise et un élevage raffiné en barriques."
+    "summary": "SETTE PONTI Crognolo 2022 showcases Sangiovese from meticulously tended vineyards, where diverse soils impart remarkable structure and minerality, resulting in a wine of depth and finesse, aged gracefully in used barrels for 18 months."
   },
   {
     "id": "file-2025-10-03-noble-selection-0.html-pares-balta-calcari-2024",
@@ -225,7 +273,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Vigna di Pallino Chianti 2023, issu de vignes cultivées à haute densité sur des sols calcaires riches, offre des fruits d'une qualité exceptionnelle, reflétant l'authenticité du terroir toscan."
+    "summary": "SETTE PONTI Vigna di Pallino Chianti 2023 is a testament to the Chianti region's terroir, where high-density plantings at altitudes of 200-300 meters yield exceptional fruit, reflecting the rich limestone and clay soils of Tuscany."
   },
   {
     "id": "file-2025-10-03-noble-selection-0.html-bottega-bottega-rose-gold-200-ml",
@@ -406,7 +454,7 @@
     "name": "Giacomo Fenocchio, Barolo 2020",
     "description": "Le Barolo 2020 de Giacomo Fenocchio est un grand vin du Piémont, élevé longuement en foudre, qui conjugue finesse, intensité et pureté de fruit, tout en restant étonnamment accessible pour un vin de cette envergure. Symbole d’un équilibre rare entre tradition et innovation, ce Barolo incarne l’âme des Langhe : un Nebbiolo d’une profondeur remarquable, fidèle à son terroir et à la signature intemporelle du domaine Fenocchio. Le vin, robuste mais fin, dévoile une pureté de fruits et exhale des arômes francs et charmeurs. Notes riches de fruits à noyau, de réglisse et même de balsamique. La présence des tannins est structurante, mais élégante. Il s’accordera à merveille avec vos repas de saison tels que les viandes braisées en sauce, les pâtes à base de truffes ou champignons, ou bien les fromages à pâte dure vieillis!",
     "price": "71,00 $",
-    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/1fb614f0-7f76-c50f-2c99-06fd1df9bd8c.png",
+    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=eabf1debcd&e=a09c2580fc",
     "agence": "Bambara Selection",
     "disponibilite": "SAQ",
@@ -414,7 +462,7 @@
       "name": "Giacomo Fenocchio, Barolo 2020",
       "description": "Le Barolo 2020 de Giacomo Fenocchio est un grand vin du Piémont, élevé longuement en foudre, qui conjugue finesse, intensité et pureté de fruit, tout en restant étonnamment accessible pour un vin de cette envergure. Symbole d’un équilibre rare entre tradition et innovation, ce Barolo incarne l’âme des Langhe : un Nebbiolo d’une profondeur remarquable, fidèle à son terroir et à la signature intemporelle du domaine Fenocchio. Le vin, robuste mais fin, dévoile une pureté de fruits et exhale des arômes francs et charmeurs. Notes riches de fruits à noyau, de réglisse et même de balsamique. La présence des tannins est structurante, mais élégante. Il s’accordera à merveille avec vos repas de saison tels que les viandes braisées en sauce, les pâtes à base de truffes ou champignons, ou bien les fromages à pâte dure vieillis!",
       "price": "71,00 $",
-      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/1fb614f0-7f76-c50f-2c99-06fd1df9bd8c.png",
+      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=eabf1debcd&e=a09c2580fc",
       "producer": "Giacomo Fenocchio",
       "region": "Piémont",
@@ -430,7 +478,7 @@
           "name": "Giacomo Fenocchio, Barolo 2020",
           "description": "Le Barolo 2020 de Giacomo Fenocchio est un grand vin du Piémont, élevé longuement en foudre, qui conjugue finesse, intensité et pureté de fruit, tout en restant étonnamment accessible pour un vin de cette envergure. Symbole d’un équilibre rare entre tradition et innovation, ce Barolo incarne l’âme des Langhe : un Nebbiolo d’une profondeur remarquable, fidèle à son terroir et à la signature intemporelle du domaine Fenocchio. Le vin, robuste mais fin, dévoile une pureté de fruits et exhale des arômes francs et charmeurs. Notes riches de fruits à noyau, de réglisse et même de balsamique. La présence des tannins est structurante, mais élégante. Il s’accordera à merveille avec vos repas de saison tels que les viandes braisées en sauce, les pâtes à base de truffes ou champignons, ou bien les fromages à pâte dure vieillis!",
           "price": "71,00 $",
-          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/1fb614f0-7f76-c50f-2c99-06fd1df9bd8c.png",
+          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=eabf1debcd&e=a09c2580fc",
           "producer": "Giacomo Fenocchio",
           "region": "Piémont",
@@ -445,7 +493,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Barolo 2020 de Giacomo Fenocchio est une œuvre d'art piémontaise, alliant finesse et intensité, avec des arômes de fruits à noyau, réglisse et balsamique, tout en offrant une structure tannique élégante et accessible."
+    "summary": "Giacomo Fenocchio's Barolo 2020 is a stunning expression of Nebbiolo, harmonizing finesse and intensity with pure fruit purity, revealing rich notes of stone fruits, licorice, and balsamic undertones, all elegantly structured with refined tannins."
   },
   {
     "id": "file-2025-10-02-grand-cellier-0.html-colheita-dao-portugal",
@@ -2043,7 +2091,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "L'Éclos 2023, élaboré en biodynamie dans le terroir exceptionnel de Jasnières, révèle la minéralité pure du Chenin et du Pineau d'Aunis, offrant une complexité et une profondeur remarquables grâce à un élevage sur lies en fût de chêne."
+    "summary": "JASNIÈRES SEC L'ÉCLOS 2023, crafted from biodynamically farmed vineyards, showcases the minerality of its terroir through a complex Chenin expression, aged on lees in oak barrels for added depth and character, reflecting the dedication of Élisabeth and Benoît Jardin to their craft."
   },
   {
     "id": "file-2025-10-02-rezin-0.html-saumur-champigny-la-folie-2023",
@@ -2062,7 +2110,7 @@
       "price": "34,50 $",
       "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/8a21a622-2baa-42eb-f21a-d308571c7052.png",
       "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=b918726a06&e=c11422f941",
-      "producer": "Château Yvonne",
+      "producer": "Mathieu Vallée et Stéphanie",
       "region": "Saumur Champigny",
       "vintage": "2023",
       "grape_varieties": null,
@@ -2076,7 +2124,7 @@
           "price": "34,50 $",
           "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/8a21a622-2baa-42eb-f21a-d308571c7052.png",
           "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=b918726a06&e=c11422f941",
-          "producer": "Château Yvonne",
+          "producer": "Mathieu Vallée et Stéphanie",
           "region": "Saumur Champigny",
           "vintage": "2023",
           "grape_varieties": null,
@@ -2087,102 +2135,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Saumur Champigny La Folie 2023, issu d'un terroir unique, offre un équilibre parfait avec des arômes de violette et de fruits noirs, une attaque suave et une finale saline, révélant des notes de chocolat noir et de griotte."
-  },
-  {
-    "id": "file-2025-10-01-vin-dame-jeanne-0.html-bianco-vio",
-    "blockId": "file-2025-10-01-vin-dame-jeanne-0.html",
-    "createdAt": "2025-10-01T00:00:00.000Z",
-    "name": "Bianco VIO",
-    "description": "C’est la troisième année que Joy élabore ce vin avec du Viognier de Farnese. Normalement seulement vendu sur place dans sa cantina, nous avons supplié Joy pour quelques bouteilles pour le Québec! Egrappé à la main, macéré 2 jours sur peaux et élevé en cuve fibreverre. Un bouquet d’abricots, de poires, de paille et d’herbes sauvages. Sans intrants.",
-    "price": "Particulier 45 | Restaurant 37.47 | IP 6",
-    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
-    "link": null,
-    "agence": "Vin Dame-Jeanne",
-    "disponibilite": "Importation Privée",
-    "raw_data": {
-      "name": "Bianco VIO",
-      "description": "C’est la troisième année que Joy élabore ce vin avec du Viognier de Farnese. Normalement seulement vendu sur place dans sa cantina, nous avons supplié Joy pour quelques bouteilles pour le Québec! Egrappé à la main, macéré 2 jours sur peaux et élevé en cuve fibreverre. Un bouquet d’abricots, de poires, de paille et d’herbes sauvages. Sans intrants.",
-      "price": "Particulier 45 | Restaurant 37.47 | IP 6",
-      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
-      "link": null,
-      "producer": "La Villana",
-      "region": "Lazio",
-      "vintage": "2023",
-      "grape_varieties": [
-        "Viognier"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "Importation Privée",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Bianco VIO",
-          "description": "C’est la troisième année que Joy élabore ce vin avec du Viognier de Farnese. Normalement seulement vendu sur place dans sa cantina, nous avons supplié Joy pour quelques bouteilles pour le Québec! Egrappé à la main, macéré 2 jours sur peaux et élevé en cuve fibreverre. Un bouquet d’abricots, de poires, de paille et d’herbes sauvages. Sans intrants.",
-          "price": "Particulier 45 | Restaurant 37.47 | IP 6",
-          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
-          "link": null,
-          "producer": "La Villana",
-          "region": "Lazio",
-          "vintage": "2023",
-          "grape_varieties": [
-            "Viognier"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "Importation Privée"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Bianco VIO, un Viognier de Farnese, séduit par son bouquet d'abricots, poires et herbes sauvages, offrant une expression authentique et sans intrants, macéré délicatement sur peaux."
-  },
-  {
-    "id": "file-2025-10-01-vin-dame-jeanne-0.html-bianco-puro",
-    "blockId": "file-2025-10-01-vin-dame-jeanne-0.html",
-    "createdAt": "2025-10-01T00:00:00.000Z",
-    "name": "Bianco PURO",
-    "description": "Anciennement nommé 'Bianco Uovo’. Vieilles vignes de Procanico (Trebbiano du Lazio/Trebbiano Toscana) sur les rives du Lago di Bolsena, sur terroirs volcaniques. Égrappé et macéré 10 jours en cuve fibre verre. Élevé 12 mois en cuve béton. Joy est convaincue… l’oeuf béton est un outil incroyable pour les vins ici, révélateur de terroir et d’harmonie. Chaque année, un ou deux oeufs de plus se rajoutent à la cave! Un grand vin d’épices et de textures, méditatif, nuancé, magnifique!! Sans intrants.",
-    "price": "Particulier 47.50 | Restaurant 39.60 | IP 6",
-    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
-    "link": null,
-    "agence": "Vin Dame-Jeanne",
-    "disponibilite": "Importation Privée",
-    "raw_data": {
-      "name": "Bianco PURO",
-      "description": "Anciennement nommé 'Bianco Uovo’. Vieilles vignes de Procanico (Trebbiano du Lazio/Trebbiano Toscana) sur les rives du Lago di Bolsena, sur terroirs volcaniques. Égrappé et macéré 10 jours en cuve fibre verre. Élevé 12 mois en cuve béton. Joy est convaincue… l’oeuf béton est un outil incroyable pour les vins ici, révélateur de terroir et d’harmonie. Chaque année, un ou deux oeufs de plus se rajoutent à la cave! Un grand vin d’épices et de textures, méditatif, nuancé, magnifique!! Sans intrants.",
-      "price": "Particulier 47.50 | Restaurant 39.60 | IP 6",
-      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
-      "link": null,
-      "producer": "La Villana",
-      "region": "Lazio",
-      "vintage": "2022",
-      "grape_varieties": [
-        "Procanico"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "Importation Privée",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Bianco PURO",
-          "description": "Anciennement nommé 'Bianco Uovo’. Vieilles vignes de Procanico (Trebbiano du Lazio/Trebbiano Toscana) sur les rives du Lago di Bolsena, sur terroirs volcaniques. Égrappé et macéré 10 jours en cuve fibre verre. Élevé 12 mois en cuve béton. Joy est convaincue… l’oeuf béton est un outil incroyable pour les vins ici, révélateur de terroir et d’harmonie. Chaque année, un ou deux oeufs de plus se rajoutent à la cave! Un grand vin d’épices et de textures, méditatif, nuancé, magnifique!! Sans intrants.",
-          "price": "Particulier 47.50 | Restaurant 39.60 | IP 6",
-          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
-          "link": null,
-          "producer": "La Villana",
-          "region": "Lazio",
-          "vintage": "2022",
-          "grape_varieties": [
-            "Procanico"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "Importation Privée"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Bianco PURO, issu de vieilles vignes de Procanico sur terroirs volcaniques, offre une complexité méditative et nuancée, révélée par une macération en cuve fibre verre et un élevage en béton, le tout sans intrants."
+    "summary": "SAUMUR CHAMPIGNY LA FOLIE 2023 is a beautifully balanced wine, revealing enticing aromas of violet, pepper, and dark fruits, with a smooth, enveloping palate that features fine tannins and a saline finish, enriched by notes of dark chocolate and cherry."
   }
 ]
