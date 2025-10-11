@@ -1,5 +1,399 @@
 [
   {
+    "id": "file-2025-10-10-noble-selection-0.html-saumur-buvons-des-fruits-2024",
+    "blockId": "file-2025-10-10-noble-selection-0.html",
+    "createdAt": "2025-10-10T00:00:00.000Z",
+    "name": "Saumur Buvons des Fruits 2024",
+    "description": "Depuis six générations, la tradition familiale se poursuit chez les Fouet. Aux commandes de ce domaine de 22 hectares situé au cœur de l'appellation Saumur Champigny, Julien y pratique une agriculture biologique. Issu d’une macération carbonique, la cuvée Buvons des Fruits rouge est un vin issue de l'agriculture biologique, naturel, non levuré et sans sulfite ajouté.",
+    "price": "26,15$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-fouet-saumur-buvons-des-fruits-2022-copie.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6475f25ac6&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Saumur Buvons des Fruits 2024",
+      "description": "Depuis six générations, la tradition familiale se poursuit chez les Fouet. Aux commandes de ce domaine de 22 hectares situé au cœur de l'appellation Saumur Champigny, Julien y pratique une agriculture biologique. Issu d’une macération carbonique, la cuvée Buvons des Fruits rouge est un vin issue de l'agriculture biologique, naturel, non levuré et sans sulfite ajouté.",
+      "price": "26,15$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-fouet-saumur-buvons-des-fruits-2022-copie.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6475f25ac6&e=2c9a262afa",
+      "producer": "DOMAINE FOUET",
+      "region": "Vallée de la Loire",
+      "vintage": "2024",
+      "grape_varieties": [
+        "Cabernet Franc"
+      ],
+      "alcohol_content": "12.7%",
+      "volume": "750ml",
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Saumur Buvons des Fruits 2024",
+          "description": "Depuis six générations, la tradition familiale se poursuit chez les Fouet. Aux commandes de ce domaine de 22 hectares situé au cœur de l'appellation Saumur Champigny, Julien y pratique une agriculture biologique. Issu d’une macération carbonique, la cuvée Buvons des Fruits rouge est un vin issue de l'agriculture biologique, naturel, non levuré et sans sulfite ajouté.",
+          "price": "26,15$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-fouet-saumur-buvons-des-fruits-2022-copie.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6475f25ac6&e=2c9a262afa",
+          "producer": "DOMAINE FOUET",
+          "region": "Vallée de la Loire",
+          "vintage": "2024",
+          "grape_varieties": [
+            "Cabernet Franc"
+          ],
+          "alcohol_content": "12.7%",
+          "volume": "750ml",
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Saumur Buvons des Fruits 2024 est un vin rouge naturel, élaboré selon des méthodes biologiques et une macération carbonique, qui incarne l'héritage familial des Fouet, cultivé avec passion sur 22 hectares au cœur de Saumur Champigny."
+  },
+  {
+    "id": "file-2025-10-10-noble-selection-0.html-chateau-guiraud-le-g-de-guiraud-2024",
+    "blockId": "file-2025-10-10-noble-selection-0.html",
+    "createdAt": "2025-10-10T00:00:00.000Z",
+    "name": "Château Guiraud Le G de Guiraud 2024",
+    "description": null,
+    "price": "34,25$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_g-chateau-guiraud-2023.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4f88724396&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Château Guiraud Le G de Guiraud 2024",
+      "description": null,
+      "price": "34,25$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_g-chateau-guiraud-2023.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4f88724396&e=2c9a262afa",
+      "producer": "LA PASSION DES TERROIRS",
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Château Guiraud Le G de Guiraud 2024",
+          "description": null,
+          "price": "34,25$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_g-chateau-guiraud-2023.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4f88724396&e=2c9a262afa",
+          "producer": "LA PASSION DES TERROIRS",
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-10-noble-selection-0.html-chateau-castigno-pinard-de-rochard-2023",
+    "blockId": "file-2025-10-10-noble-selection-0.html",
+    "createdAt": "2025-10-10T00:00:00.000Z",
+    "name": "Château Castigno Pinard de Rochard 2023",
+    "description": null,
+    "price": "20,85$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-de-castigno-pinard-de-rochard_2.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=344c434f84&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Château Castigno Pinard de Rochard 2023",
+      "description": null,
+      "price": "20,85$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-de-castigno-pinard-de-rochard_2.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=344c434f84&e=2c9a262afa",
+      "producer": "CHÂTEAU CASTIGNO",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Château Castigno Pinard de Rochard 2023",
+          "description": null,
+          "price": "20,85$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-de-castigno-pinard-de-rochard_2.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=344c434f84&e=2c9a262afa",
+          "producer": "CHÂTEAU CASTIGNO",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-10-noble-selection-0.html-hippie-love-2022",
+    "blockId": "file-2025-10-10-noble-selection-0.html",
+    "createdAt": "2025-10-10T00:00:00.000Z",
+    "name": "Hippie Love 2022",
+    "description": "Sous son chapeau couronne brille un rouge rubis qui laisse passer la lumière partout. La typicité du cépage Criolla montre à quel point il est sa beauté. Revenir au début. Esprit hippie, indomptable et libre. Facile à boire, sans virage. Des fruits et des épices dans une finale moyenne. Un vin frais et heureux",
+    "price": "25,40$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_hippie-love-tinto-2020.jpg",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=736423f774&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Hippie Love 2022",
+      "description": "Sous son chapeau couronne brille un rouge rubis qui laisse passer la lumière partout. La typicité du cépage Criolla montre à quel point il est sa beauté. Revenir au début. Esprit hippie, indomptable et libre. Facile à boire, sans virage. Des fruits et des épices dans une finale moyenne. Un vin frais et heureux",
+      "price": "25,40$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_hippie-love-tinto-2020.jpg",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=736423f774&e=2c9a262afa",
+      "producer": "ERNESTO CATENA",
+      "region": "Mendoza, Argentine",
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Hippie Love 2022",
+          "description": "Sous son chapeau couronne brille un rouge rubis qui laisse passer la lumière partout. La typicité du cépage Criolla montre à quel point il est sa beauté. Revenir au début. Esprit hippie, indomptable et libre. Facile à boire, sans virage. Des fruits et des épices dans une finale moyenne. Un vin frais et heureux",
+          "price": "25,40$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_hippie-love-tinto-2020.jpg",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=736423f774&e=2c9a262afa",
+          "producer": "ERNESTO CATENA",
+          "region": "Mendoza, Argentine",
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Hippie Love 2022, avec sa robe rubis éclatante, célèbre la beauté du cépage Criolla dans un esprit libre et indomptable, offrant une expérience de dégustation fraîche, fruitée et épicée, à savourer sans modération."
+  },
+  {
+    "id": "file-2025-10-10-noble-selection-0.html-bottega-pink-gold-prosecco-2024",
+    "blockId": "file-2025-10-10-noble-selection-0.html",
+    "createdAt": "2025-10-10T00:00:00.000Z",
+    "name": "Bottega Pink Gold Prosecco 2024",
+    "description": null,
+    "price": "32,00$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-gold-pink.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=b9c470eea5&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Bottega Pink Gold Prosecco 2024",
+      "description": null,
+      "price": "32,00$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-gold-pink.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=b9c470eea5&e=2c9a262afa",
+      "producer": "BOTTEGA",
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Bottega Pink Gold Prosecco 2024",
+          "description": null,
+          "price": "32,00$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-gold-pink.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=b9c470eea5&e=2c9a262afa",
+          "producer": "BOTTEGA",
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-10-noble-selection-0.html-alentejo-2024",
+    "blockId": "file-2025-10-10-noble-selection-0.html",
+    "createdAt": "2025-10-10T00:00:00.000Z",
+    "name": "Alentejo 2024",
+    "description": null,
+    "price": "21,55$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_coelheiros-2018.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=1b6a335c6a&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Alentejo 2024",
+      "description": null,
+      "price": "21,55$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_coelheiros-2018.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=1b6a335c6a&e=2c9a262afa",
+      "producer": "HERDADE DE COELHEIROS",
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Alentejo 2024",
+          "description": null,
+          "price": "21,55$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_coelheiros-2018.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=1b6a335c6a&e=2c9a262afa",
+          "producer": "HERDADE DE COELHEIROS",
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-10-noble-selection-0.html-pinot-noir-2023",
+    "blockId": "file-2025-10-10-noble-selection-0.html",
+    "createdAt": "2025-10-10T00:00:00.000Z",
+    "name": "Pinot Noir 2023",
+    "description": "100% vendangé à la main et 100% égrappé puis foulé. La fermentation en levures indigènes dure 2 semaines de cuvaison totale puis remontage 2 fois par jour et enfin 7 mois de maturation en cuve.",
+    "price": "24,45$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_kumeu-village-pinot-noir-2021.jpg",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5bb649ff7c&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Pinot Noir 2023",
+      "description": "100% vendangé à la main et 100% égrappé puis foulé. La fermentation en levures indigènes dure 2 semaines de cuvaison totale puis remontage 2 fois par jour et enfin 7 mois de maturation en cuve.",
+      "price": "24,45$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_kumeu-village-pinot-noir-2021.jpg",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5bb649ff7c&e=2c9a262afa",
+      "producer": "Kumeu River",
+      "region": "North Island, Nouvelle-Zélande",
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Pinot Noir 2023",
+          "description": "100% vendangé à la main et 100% égrappé puis foulé. La fermentation en levures indigènes dure 2 semaines de cuvaison totale puis remontage 2 fois par jour et enfin 7 mois de maturation en cuve.",
+          "price": "24,45$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_kumeu-village-pinot-noir-2021.jpg",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5bb649ff7c&e=2c9a262afa",
+          "producer": "Kumeu River",
+          "region": "North Island, Nouvelle-Zélande",
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Le Pinot Noir 2023, entièrement récolté à la main et fermenté avec des levures indigènes, révèle une élégance raffinée après 7 mois de maturation en cuve, promettant une expérience de dégustation authentique et expressive."
+  },
+  {
+    "id": "file-2025-10-10-noble-selection-0.html-monemvasia-asproudi-2023",
+    "blockId": "file-2025-10-10-noble-selection-0.html",
+    "createdAt": "2025-10-10T00:00:00.000Z",
+    "name": "Monemvasia Asproudi 2023",
+    "description": null,
+    "price": "20,65$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_asproudi-2023---monemvasia.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=c7e1fb6a59&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Monemvasia Asproudi 2023",
+      "description": null,
+      "price": "20,65$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_asproudi-2023---monemvasia.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=c7e1fb6a59&e=2c9a262afa",
+      "producer": "MONEMVASIA",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Monemvasia Asproudi 2023",
+          "description": null,
+          "price": "20,65$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_asproudi-2023---monemvasia.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=c7e1fb6a59&e=2c9a262afa",
+          "producer": "MONEMVASIA",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-10-noble-selection-0.html-monemvasia-kydonitsa-2023",
+    "blockId": "file-2025-10-10-noble-selection-0.html",
+    "createdAt": "2025-10-10T00:00:00.000Z",
+    "name": "Monemvasia Kydonitsa 2023",
+    "description": null,
+    "price": "21,10$",
+    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_monemvasia-kydonitsa-2022.png",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fd2b742f35&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Monemvasia Kydonitsa 2023",
+      "description": null,
+      "price": "21,10$",
+      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_monemvasia-kydonitsa-2022.png",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fd2b742f35&e=2c9a262afa",
+      "producer": "MONEMVASIA",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Monemvasia Kydonitsa 2023",
+          "description": null,
+          "price": "21,10$",
+          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_monemvasia-kydonitsa-2022.png",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fd2b742f35&e=2c9a262afa",
+          "producer": "MONEMVASIA",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
     "id": "file-2025-10-09-bambara-selection-0.html-punset-barbaresco-riserva-basarin-2016",
     "blockId": "file-2025-10-09-bambara-selection-0.html",
     "createdAt": "2025-10-09T00:00:00.000Z",
@@ -45,7 +439,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Barbaresco Riserva Basarin 2016 de Punset, un vin emblématique, révèle une finesse et une tension exceptionnelles, ancrées dans un terroir marno-calcaire. Avec des arômes de fruits rouges, de fleurs séchées et une structure soyeuse, il incarne l'élégance et le potentiel de garde de ce cru historique."
+    "summary": "Le Barbaresco Riserva Basarin 2016 de Punset est une expression magistrale du terroir, alliant finesse et structure, avec des arômes nuancés de fruits rouges, fleurs séchées et épices, promettant une longue garde et une parfaite harmonie avec les mets raffinés."
   },
   {
     "id": "file-2025-10-09-bambara-selection-0.html-giacomo-fenocchio-barolo-bussia-2020",
@@ -93,7 +487,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Barolo Bussia 2020 de Giacomo Fenocchio, acclamé par la critique, se distingue par son élégance mesurée et son bouquet riche de cerises Marasca et d'agrumes. Avec des tanins veloutés et une finale prometteuse, ce vin incarne la quintessence de Bussia, prêt à évoluer jusqu'en 2045."
+    "summary": "Le Barolo Bussia 2020 de Giacomo Fenocchio, acclamé par la critique avec 98 points, révèle une élégance et une complexité remarquables, mêlant cerises Marasca, zestes d'orange sanguine et épices, promettant une expérience de dégustation inoubliable jusqu'en 2045."
   },
   {
     "id": "file-2025-10-09-bambara-selection-0.html-ca-del-baio-barbaresco-docg-autinbej-2022",
@@ -141,7 +535,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "L'Autinbej 2022 de Ca' del Baio, un Barbaresco 100% Nebbiolo, allie tradition et modernité pour offrir une profondeur et un équilibre remarquables. Avec des arômes de framboise et de violette, ce vin élégant et structuré promet une belle évolution en cave, prêt à sublimer vos plats de viandes rouges."
+    "summary": "Le Barbaresco DOCG Autinbej 2022 de Ca' del Baio, un hommage à la tradition familiale, offre une profondeur et une élégance remarquables, avec des arômes de framboise confiturée et de violette, promettant une belle évolution en cave."
   },
   {
     "id": "file-2025-10-09-bambara-selection-0.html-ca-del-baio-barbaresco-docg-asili-2022",
@@ -189,7 +583,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Barbaresco Asili 2022 de Ca' del Baio, un cru emblématique, révèle une profondeur et une élégance exceptionnelles, avec des arômes de griottes et de lavande. Salué par la critique, ce vin soyeux et structuré est parfait pour la garde, promettant une expérience raffinée au fil des ans."
+    "summary": "Le Barbaresco DOCG Asili 2022 de Ca' del Baio, un cru prestigieux, se distingue par sa profondeur et son élégance, avec des arômes de griottes et de lavande, promettant une expérience de dégustation raffinée et une belle évolution en cave."
   },
   {
     "id": "file-2025-10-09-info-symbiose-0.html-letoile-en-banode",
@@ -241,10 +635,10 @@
     }
   },
   {
-    "id": "file-2025-10-09-rezin-0.html-kremstal-stockwerk-gruner-veltliner",
+    "id": "file-2025-10-09-rezin-0.html-kremstal-stockwerk-gruner-veltliner-2024",
     "blockId": "file-2025-10-09-rezin-0.html",
     "createdAt": "2025-10-09T00:00:00.000Z",
-    "name": "KREMSTAL STOCKWERK GRÜNER VELTLINER",
+    "name": "KREMSTAL STOCKWERK GRÜNER VELTLINER - 2024",
     "description": "« Du beau grüner tout en relief, au nez comme en bouche. Un fruité mûr qui se traduit par des tonalités de citron vert, menthe, jasmin, poivre blanc et cailloux frottés. Très légèrement perlant en attaque, la bouche laisse place à une matière harmonieuse avec de la rondeur et une acidité mordante qui apporte un côté effilé. Salin en finale et très désaltérant, je vous invite à le servir bien frais et de l’ouvrir 30-45 minutes avant le service.»\n\nPatrick Désy (Sur le millésime 2022)",
     "price": "28,20 $",
     "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/5e53318c-e2da-4cc6-76c1-3a8971a31cf6.png",
@@ -252,7 +646,7 @@
     "agence": "réZin",
     "disponibilite": "SAQ",
     "raw_data": {
-      "name": "KREMSTAL STOCKWERK GRÜNER VELTLINER",
+      "name": "KREMSTAL STOCKWERK GRÜNER VELTLINER - 2024",
       "description": "« Du beau grüner tout en relief, au nez comme en bouche. Un fruité mûr qui se traduit par des tonalités de citron vert, menthe, jasmin, poivre blanc et cailloux frottés. Très légèrement perlant en attaque, la bouche laisse place à une matière harmonieuse avec de la rondeur et une acidité mordante qui apporte un côté effilé. Salin en finale et très désaltérant, je vous invite à le servir bien frais et de l’ouvrir 30-45 minutes avant le service.»\n\nPatrick Désy (Sur le millésime 2022)",
       "price": "28,20 $",
       "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/5e53318c-e2da-4cc6-76c1-3a8971a31cf6.png",
@@ -266,7 +660,7 @@
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
-          "name": "KREMSTAL STOCKWERK GRÜNER VELTLINER",
+          "name": "KREMSTAL STOCKWERK GRÜNER VELTLINER - 2024",
           "description": "« Du beau grüner tout en relief, au nez comme en bouche. Un fruité mûr qui se traduit par des tonalités de citron vert, menthe, jasmin, poivre blanc et cailloux frottés. Très légèrement perlant en attaque, la bouche laisse place à une matière harmonieuse avec de la rondeur et une acidité mordante qui apporte un côté effilé. Salin en finale et très désaltérant, je vous invite à le servir bien frais et de l’ouvrir 30-45 minutes avant le service.»\n\nPatrick Désy (Sur le millésime 2022)",
           "price": "28,20 $",
           "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/5e53318c-e2da-4cc6-76c1-3a8971a31cf6.png",
@@ -282,13 +676,13 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Kremstal Stockwerk Grüner Veltliner offre un bouquet complexe de citron vert et de menthe, avec une texture harmonieuse et une acidité vive. Ce vin désaltérant, légèrement perlant, se termine par une finale saline, parfait pour être servi frais."
+    "summary": "Le Kremstal Stockwerk Grüner Veltliner 2024 offre une palette aromatique riche de citron vert, menthe et jasmin, avec une texture harmonieuse et une finale saline désaltérante, idéale à savourer bien frais."
   },
   {
-    "id": "file-2025-10-09-rezin-0.html-douro-dourosa",
+    "id": "file-2025-10-09-rezin-0.html-douro-dourosa-2022",
     "blockId": "file-2025-10-09-rezin-0.html",
     "createdAt": "2025-10-09T00:00:00.000Z",
-    "name": "DOURO DOUROSA",
+    "name": "DOURO DOUROSA - 2022",
     "description": "« Ceux qui croyaient jusqu’ici que le Douro ne pouvait pas produire des vins élégants aimeront le Dourosa d’autant plus. Ce rouge d’entrée de gamme de la Quinta de la Rosa est l’illustration parfaite du renouveau de la région. La générosité du climat et le caractère tannique des cépages locaux sont certes présents, mais plutôt que de les exacerber, l’œnologue Jorge Moreira joue de finesse et minimise l’extraction. Résultat : un rouge aux saveurs subtiles de fruits noirs mûrs, mais pas confits, porté par une trame veloutée, caressante, harmonieuse. En finale, une amertume fine, semblable à celle d’un bon chocolat noir, fait saliver et laisse une sensation quasi salée. Tout pour faire merveille à table avec des plats de viande braisée.»\n\nNadia Fournier (Sur le millésime 2020)",
     "price": "22,35 $",
     "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/94c37dde-b7b8-8b38-2e5a-d9fadd286490.png",
@@ -296,7 +690,7 @@
     "agence": "réZin",
     "disponibilite": "SAQ",
     "raw_data": {
-      "name": "DOURO DOUROSA",
+      "name": "DOURO DOUROSA - 2022",
       "description": "« Ceux qui croyaient jusqu’ici que le Douro ne pouvait pas produire des vins élégants aimeront le Dourosa d’autant plus. Ce rouge d’entrée de gamme de la Quinta de la Rosa est l’illustration parfaite du renouveau de la région. La générosité du climat et le caractère tannique des cépages locaux sont certes présents, mais plutôt que de les exacerber, l’œnologue Jorge Moreira joue de finesse et minimise l’extraction. Résultat : un rouge aux saveurs subtiles de fruits noirs mûrs, mais pas confits, porté par une trame veloutée, caressante, harmonieuse. En finale, une amertume fine, semblable à celle d’un bon chocolat noir, fait saliver et laisse une sensation quasi salée. Tout pour faire merveille à table avec des plats de viande braisée.»\n\nNadia Fournier (Sur le millésime 2020)",
       "price": "22,35 $",
       "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/94c37dde-b7b8-8b38-2e5a-d9fadd286490.png",
@@ -310,7 +704,7 @@
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
-          "name": "DOURO DOUROSA",
+          "name": "DOURO DOUROSA - 2022",
           "description": "« Ceux qui croyaient jusqu’ici que le Douro ne pouvait pas produire des vins élégants aimeront le Dourosa d’autant plus. Ce rouge d’entrée de gamme de la Quinta de la Rosa est l’illustration parfaite du renouveau de la région. La générosité du climat et le caractère tannique des cépages locaux sont certes présents, mais plutôt que de les exacerber, l’œnologue Jorge Moreira joue de finesse et minimise l’extraction. Résultat : un rouge aux saveurs subtiles de fruits noirs mûrs, mais pas confits, porté par une trame veloutée, caressante, harmonieuse. En finale, une amertume fine, semblable à celle d’un bon chocolat noir, fait saliver et laisse une sensation quasi salée. Tout pour faire merveille à table avec des plats de viande braisée.»\n\nNadia Fournier (Sur le millésime 2020)",
           "price": "22,35 $",
           "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/94c37dde-b7b8-8b38-2e5a-d9fadd286490.png",
@@ -326,7 +720,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Dourosa de Quinta de la Rosa, un rouge élégant du Douro, séduit par ses saveurs subtiles de fruits noirs et sa trame veloutée. Avec une finale légèrement amère, il s'accorde parfaitement avec des plats de viande braisée, illustrant le renouveau de la région."
+    "summary": "Le Douro Dourosa 2022, une révélation du renouveau du Douro, séduit par sa finesse et ses saveurs subtiles de fruits noirs mûrs, offrant une texture veloutée et une finale délicate, parfaite pour accompagner des plats de viande braisée."
   },
   {
     "id": "file-2025-10-09-vin-dame-jeanne-0.html-champagne-rose-campania-remensis",
@@ -378,7 +772,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Champagne Rosé 'Campania Remensis' allie élégance et vivacité, avec des arômes de fraises sauvages et d'écorces d'orange sanguine. Ce vin gastronomique, composé de Pinot Noir et Chardonnay, offre une expérience pétillante et raffinée."
+    "summary": "Le Champagne Rosé 'Campania Remensis' est une cuvée gastronomique vibrante, alliant 60% de Pinot Noir et des arômes délicats de fraises sauvages et d'écorces d'orange sanguine, pour une expérience élégante et rafraîchissante."
   },
   {
     "id": "file-2025-10-09-vin-dame-jeanne-0.html-amalgamay",
@@ -428,7 +822,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "L'Amalgamay, un assemblage joyeux d'Aligoté et de Gamay, offre une expérience juteuse et rafraîchissante. Élevé en fût, ce vin de soif incarne la convivialité et le plaisir, parfait pour toutes les occasions."
+    "summary": "'Amalgamay' est un assemblage joyeux et juteux d'Aligoté et de Gamay, offrant une expérience de dégustation rafraîchissante et conviviale, grâce à un élevage soigné en pièces bourguignonnes."
   },
   {
     "id": "file-2025-10-09-vin-dame-jeanne-0.html-la-vigne-en-rose",
@@ -480,7 +874,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "'La Vigne en Rose' marie Gewurztraminer, Riesling et Pinot Gris pour créer un blanc floral et expressif, aux arômes de fruits rouges et d'agrumes. Sa fraîcheur et sa finale délicate en font un compagnon idéal pour les plats épicés et festifs."
+    "summary": "'La Vigne en Rose', un assemblage floral de Gewurztraminer, Riesling et Pinot Gris, offre une fraîcheur aromatique éclatante, avec des notes de fruits rouges et d'agrumes, parfait pour accompagner des plats épicés et égayer toute occasion."
   },
   {
     "id": "file-2025-10-08-vin-dame-jeanne-0.html-champagne-ludes-1er-cru-vieilles-vignes-brut-reser",
@@ -499,7 +893,7 @@
       "price": null,
       "image_url": null,
       "link": null,
-      "producer": "BÉRÊCHE ET FILS",
+      "producer": "Bérêche et Fils",
       "region": "Champagne",
       "vintage": null,
       "grape_varieties": null,
@@ -513,7 +907,7 @@
           "price": null,
           "image_url": null,
           "link": null,
-          "producer": "BÉRÊCHE ET FILS",
+          "producer": "Bérêche et Fils",
           "region": "Champagne",
           "vintage": null,
           "grape_varieties": null,
@@ -542,7 +936,7 @@
       "price": null,
       "image_url": null,
       "link": null,
-      "producer": "BÉRÊCHE ET FILS",
+      "producer": "Bérêche et Fils",
       "region": "Champagne",
       "vintage": "2021",
       "grape_varieties": null,
@@ -556,7 +950,7 @@
           "price": null,
           "image_url": null,
           "link": null,
-          "producer": "BÉRÊCHE ET FILS",
+          "producer": "Bérêche et Fils",
           "region": "Champagne",
           "vintage": "2021",
           "grape_varieties": null,
@@ -585,7 +979,7 @@
       "price": null,
       "image_url": null,
       "link": null,
-      "producer": "BÉRÊCHE ET FILS",
+      "producer": "Bérêche et Fils",
       "region": "Champagne",
       "vintage": "2021",
       "grape_varieties": null,
@@ -599,7 +993,7 @@
           "price": null,
           "image_url": null,
           "link": null,
-          "producer": "BÉRÊCHE ET FILS",
+          "producer": "Bérêche et Fils",
           "region": "Champagne",
           "vintage": "2021",
           "grape_varieties": null,
@@ -628,7 +1022,7 @@
       "price": null,
       "image_url": null,
       "link": null,
-      "producer": "BÉRÊCHE ET FILS",
+      "producer": "Bérêche et Fils",
       "region": "Champagne",
       "vintage": "2021",
       "grape_varieties": null,
@@ -642,7 +1036,7 @@
           "price": null,
           "image_url": null,
           "link": null,
-          "producer": "BÉRÊCHE ET FILS",
+          "producer": "Bérêche et Fils",
           "region": "Champagne",
           "vintage": "2021",
           "grape_varieties": null,
@@ -671,7 +1065,7 @@
       "price": null,
       "image_url": null,
       "link": null,
-      "producer": "BÉRÊCHE ET FILS",
+      "producer": "Bérêche et Fils",
       "region": "Champagne",
       "vintage": "2019",
       "grape_varieties": null,
@@ -685,7 +1079,7 @@
           "price": null,
           "image_url": null,
           "link": null,
-          "producer": "BÉRÊCHE ET FILS",
+          "producer": "Bérêche et Fils",
           "region": "Champagne",
           "vintage": "2019",
           "grape_varieties": null,
@@ -714,7 +1108,7 @@
       "price": null,
       "image_url": null,
       "link": null,
-      "producer": "BÉRÊCHE ET FILS",
+      "producer": "Bérêche et Fils",
       "region": "Champagne",
       "vintage": "2019",
       "grape_varieties": null,
@@ -728,7 +1122,7 @@
           "price": null,
           "image_url": null,
           "link": null,
-          "producer": "BÉRÊCHE ET FILS",
+          "producer": "Bérêche et Fils",
           "region": "Champagne",
           "vintage": "2019",
           "grape_varieties": null,
@@ -757,7 +1151,7 @@
       "price": null,
       "image_url": null,
       "link": null,
-      "producer": "BÉRÊCHE ET FILS",
+      "producer": "Bérêche et Fils",
       "region": "Champagne",
       "vintage": "2022",
       "grape_varieties": null,
@@ -771,7 +1165,7 @@
           "price": null,
           "image_url": null,
           "link": null,
-          "producer": "BÉRÊCHE ET FILS",
+          "producer": "Bérêche et Fils",
           "region": "Champagne",
           "vintage": "2022",
           "grape_varieties": null,
@@ -829,54 +1223,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le MunJebel Rosso 2022, pur Nerello Mascalese, révèle l'élégance et la puissance de l'Etna, avec des tannins fondus et une structure affirmée. Ce vin, fruit d'une macération prolongée, capture les nuances délicates de son terroir dramatique."
-  },
-  {
-    "id": "file-2025-10-04-vin-dame-jeanne-0.html-bourgogne-rose",
-    "blockId": "file-2025-10-04-vin-dame-jeanne-0.html",
-    "createdAt": "2025-10-04T00:00:00.000Z",
-    "name": "Bourgogne Rosé",
-    "description": "Pur Pinot Noir de la commune de Saint-Bris, à 250m d'altitude, sur argilo-calcaire du Kimmeridgien. Vignes exposées est, sud-est, et sud. Pressurage direct en pressoir vertical à cage ouverte. Fermentation naturelle, élevage de 18 mois en fût de plusieurs vins, sur lies. Frais, gourmand, sur les notes de fraises et groseilles, poivre noir et petite épices. Léger, vif, et très élégant!",
-    "price": "Particulier 43.50 | Restaurant 37.83",
-    "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
-    "link": "http://SAQ.com",
-    "agence": "Vin Dame-Jeanne",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Bourgogne Rosé",
-      "description": "Pur Pinot Noir de la commune de Saint-Bris, à 250m d'altitude, sur argilo-calcaire du Kimmeridgien. Vignes exposées est, sud-est, et sud. Pressurage direct en pressoir vertical à cage ouverte. Fermentation naturelle, élevage de 18 mois en fût de plusieurs vins, sur lies. Frais, gourmand, sur les notes de fraises et groseilles, poivre noir et petite épices. Léger, vif, et très élégant!",
-      "price": "Particulier 43.50 | Restaurant 37.83",
-      "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
-      "link": "http://SAQ.com",
-      "producer": "Athénaïs de Béru",
-      "region": "Saint-Bris",
-      "vintage": "2022",
-      "grape_varieties": [
-        "Pinot Noir"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Bourgogne Rosé",
-          "description": "Pur Pinot Noir de la commune de Saint-Bris, à 250m d'altitude, sur argilo-calcaire du Kimmeridgien. Vignes exposées est, sud-est, et sud. Pressurage direct en pressoir vertical à cage ouverte. Fermentation naturelle, élevage de 18 mois en fût de plusieurs vins, sur lies. Frais, gourmand, sur les notes de fraises et groseilles, poivre noir et petite épices. Léger, vif, et très élégant!",
-          "price": "Particulier 43.50 | Restaurant 37.83",
-          "image_url": "https://gallery.mailchimp.com/0711127c320d32e15ce6dc05f/images/adf2b9d7-739a-4c47-bfb0-d1c357915531.jpg",
-          "link": "http://SAQ.com",
-          "producer": "Athénaïs de Béru",
-          "region": "Saint-Bris",
-          "vintage": "2022",
-          "grape_varieties": [
-            "Pinot Noir"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Bourgogne Rosé, un pur Pinot Noir de Saint-Bris, séduit par sa fraîcheur et ses notes gourmandes de fraises et de groseilles. Élevé en fût, ce vin léger et élégant offre une belle vivacité, parfait pour les moments conviviaux."
+    "summary": "MunJebel Rosso 2022, un pur Nerello Mascalese de l'Etna, révèle l'élégance et la puissance de son terroir à travers une macération prolongée, offrant une structure raffinée et des tannins fondus, un véritable paradoxe de force et de douceur."
   }
 ]
