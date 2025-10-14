@@ -45,7 +45,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Saumur Buvons des Fruits 2024 est un vin rouge naturel, élaboré selon des méthodes biologiques ancestrales, qui séduit par sa fraîcheur et son authenticité, grâce à une macération carbonique soigneusement maîtrisée."
+    "summary": "La cuvée Buvons des Fruits, élaborée par le domaine Fouet, incarne l'héritage familial et l'agriculture biologique, offrant un rouge naturel aux arômes éclatants issus d'une macération carbonique."
   },
   {
     "id": "file-2025-10-10-noble-selection-0.html-chateau-guiraud-le-g-de-guiraud-2024",
@@ -175,7 +175,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Hippie Love 2022, avec sa robe rubis éclatante, incarne l'esprit libre du cépage Criolla, offrant une expérience de dégustation joyeuse et fruitée, ponctuée d'épices délicates."
+    "summary": "Hippie Love 2022, un rouge rubis lumineux, célèbre la beauté du cépage Criolla avec son esprit indomptable, offrant une expérience de dégustation fraîche et joyeuse, riche en fruits et épices."
   },
   {
     "id": "file-2025-10-10-noble-selection-0.html-bottega-pink-gold-prosecco-2024",
@@ -304,8 +304,7 @@
         }
       ],
       "agence_was_defaulted": false
-    },
-    "summary": "Ce Pinot Noir 2023, entièrement élaboré à partir de raisins soigneusement sélectionnés, révèle une complexité raffinée grâce à une fermentation naturelle et une maturation de sept mois en cuve, promettant une élégance envoûtante."
+    }
   },
   {
     "id": "file-2025-10-10-noble-selection-0.html-monemvasia-asproudi-2023",
@@ -413,7 +412,9 @@
       "producer": "Punset",
       "region": "Barbaresco",
       "vintage": "2016",
-      "grape_varieties": null,
+      "grape_varieties": [
+        "Nebbiolo"
+      ],
       "alcohol_content": null,
       "volume": null,
       "disponibilite": "SAQ",
@@ -427,7 +428,9 @@
           "producer": "Punset",
           "region": "Barbaresco",
           "vintage": "2016",
-          "grape_varieties": null,
+          "grape_varieties": [
+            "Nebbiolo"
+          ],
           "alcohol_content": null,
           "volume": null,
           "disponibilite": "SAQ"
@@ -435,14 +438,14 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Barbaresco Riserva Basarin 2016 de Punset est une œuvre d'art viticole, alliant finesse et précision, qui s'exprime à travers des arômes délicats de fruits rouges, de fleurs séchées et d'épices, tout en promettant une belle évolution en cave."
+    "summary": "Le Barbaresco Riserva Basarin 2016 de Punset, issu de vignes historiques, incarne l'expression pure du terroir avec sa finesse, sa structure élégante et ses arômes nuancés de fruits rouges, fleurs séchées et épices, promettant un potentiel de garde exceptionnel."
   },
   {
     "id": "file-2025-10-09-bambara-selection-0.html-giacomo-fenocchio-barolo-bussia-2020",
     "blockId": "file-2025-10-09-bambara-selection-0.html",
     "createdAt": "2025-10-09T00:00:00.000Z",
     "name": "Giacomo Fenocchio, Barolo Bussia 2020",
-    "description": "«Ce vin se distingue comme l'un des plus grands vins de ce millésime» - 98 points par Wine Enthusiast!!🏆 Une cuvée magistrale du Piémont, saluée par la critique internationale — et désormais offerte en exclusivité sur SAQ.com! Attention, quantités très très limitées!! La maîtrise de Claudio Fenocchio est évidente dans la façon dont il fait ressortir la quintessence de Bussia dans ce vin. Il se dévoile avec une élégance mesurée, sans précipitation dans son expression. Le bouquet est riche en cerises Marasca chaudes, en zeste d'orange sanguine, en rose fanée, en sauge sauvage et en sous-bois. Il glisse sans effort sur le palais, les tanins du 2020 sont doux, ronds et veloutés, embrassant les confitures de baies mélangées saupoudrées d'épices à cuisson, tandis que l'acidité vive rehausse l'expérience, garantissant un palais frais. Il s'agit de l'un des meilleurs vins de ce millésime. À boire dès maintenant et jusqu'en 2045. Voici une grande cuvée qui fait honneur au domaine Fennochio! Niché dans les collines de Monforte d’Alba dans le Piémont, la cantina du domaine Giacomo Fenocchio surplombe l’amphithéâtre du vignoble Bussia, l’un des crus les plus recherchés de Barolo. Le vignoble Bussia de Fenocchio compte cinq hectares et appartient à la famille Fenocchio depuis 1867. Le domaine cultive les cinq hectares de vignes de nebbiolo de 35 ans sur une douce pente exposée au sud-ouest et cette cuvée reflète bien les qualités intrinsèques de ce terroir. Le sol d’argile helvétique avec des sédiments de calcaire riches en fer influence les propriétés des vins que l’on y élabore. Le fer favorise la structure et la concentration du fruit, ce qui fait que les vins de ce cru bénéficient de quelques années en cave pour exprimer pleinement leurs qualités. Les amateurs qui savent patienter seront grandement récompensés par ce vin qui a reçu les éloges des plus grandes critiques du vin! Les vendanges ont lieu en octobre et le vin est élaboré délicatement et lentement, passant quelques années dans des foudres slovènes de première qualité, suivi de quelques années en bouteille avant d’être commercialisé. La robe est d'un rouge grenat foncé et le nez est fin et complexe, avec des notes de rose épicées et de réglisse. Bien que charnu et tannique, le vin demeure élégant, équilibré et complexe avec ses notes de fruits noirs et florales. La finale est longue et prometteuse pour ce vin qui évoluera aisément pendant deux décennies en cave. Disponibles exclusivement en ligne maintenant, nous sommes très contents de pouvoir vous offrir cette cuvée à la SAQ. Ne manquez pas cette chance!! Dans la presse!🌟 98 points, Wine Enthusiast 95 points, James Suckling 95 points, Vinous",
+    "description": "Une cuvée magistrale du Piémont, saluée par la critique internationale — et désormais offerte en exclusivité sur SAQ.com! Attention, quantités très très limitées!! « La maîtrise de Claudio Fenocchio est évidente dans la façon dont il fait ressortir la quintessence de Bussia dans ce vin. Il se dévoile avec une élégance mesurée, sans précipitation dans son expression. Le bouquet est riche en cerises Marasca chaudes, en zeste d'orange sanguine, en rose fanée, en sauge sauvage et en sous-bois. Il glisse sans effort sur le palais, les tanins du 2020 sont doux, ronds et veloutés, embrassant les confitures de baies mélangées saupoudrées d'épices à cuisson, tandis que l'acidité vive rehausse l'expérience, garantissant un palais frais. Il s'agit de l'un des meilleurs vins de ce millésime. À boire dès maintenant et jusqu'en 2045 » - Wine Enthusiast. Voici une grande cuvée qui fait honneur au domaine Fennochio! Niché dans les collines de Monforte d’Alba dans le Piémont, la cantina du domaine Giacomo Fenocchio surplombe l’amphithéâtre du vignoble Bussia, l’un des crus les plus recherchés de Barolo. Le vignoble Bussia de Fenocchio compte cinq hectares et appartient à la famille Fenocchio depuis 1867. Le domaine cultive les cinq hectares de vignes de nebbiolo de 35 ans sur une douce pente exposée au sud-ouest et cette cuvée reflète bien les qualités intrinsèques de ce terroir. Le sol d’argile helvétique avec des sédiments de calcaire riches en fer influence les propriétés des vins que l’on y élabore. Les vendanges ont lieu en octobre et le vin est élaboré délicatement et lentement, passant quelques années dans des foudres slovènes de première qualité, suivi de quelques années en bouteille avant d’être commercialisé. La robe est d'un rouge grenat foncé et le nez est fin et complexe, avec des notes de rose épicées et de réglisse. Bien que charnu et tannique, le vin demeure élégant, équilibré et complexe avec ses notes de fruits noirs et florales. La finale est longue et prometteuse pour ce vin qui évoluera aisément pendant deux décennies en cave. Disponibles exclusivement en ligne maintenant, nous sommes très contents de pouvoir vous offrir cette cuvée à la SAQ. Ne manquez pas cette chance!! Dans la presse!🌟 98 points, Wine Enthusiast 95 points, James Suckling 95 points, Vinous",
     "price": "95,75 $",
     "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/bda98883-88bb-ffb2-395b-fd59c1f20d5a.png",
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=f31d882063&e=a09c2580fc",
@@ -450,28 +453,32 @@
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Giacomo Fenocchio, Barolo Bussia 2020",
-      "description": "«Ce vin se distingue comme l'un des plus grands vins de ce millésime» - 98 points par Wine Enthusiast!!🏆 Une cuvée magistrale du Piémont, saluée par la critique internationale — et désormais offerte en exclusivité sur SAQ.com! Attention, quantités très très limitées!! La maîtrise de Claudio Fenocchio est évidente dans la façon dont il fait ressortir la quintessence de Bussia dans ce vin. Il se dévoile avec une élégance mesurée, sans précipitation dans son expression. Le bouquet est riche en cerises Marasca chaudes, en zeste d'orange sanguine, en rose fanée, en sauge sauvage et en sous-bois. Il glisse sans effort sur le palais, les tanins du 2020 sont doux, ronds et veloutés, embrassant les confitures de baies mélangées saupoudrées d'épices à cuisson, tandis que l'acidité vive rehausse l'expérience, garantissant un palais frais. Il s'agit de l'un des meilleurs vins de ce millésime. À boire dès maintenant et jusqu'en 2045. Voici une grande cuvée qui fait honneur au domaine Fennochio! Niché dans les collines de Monforte d’Alba dans le Piémont, la cantina du domaine Giacomo Fenocchio surplombe l’amphithéâtre du vignoble Bussia, l’un des crus les plus recherchés de Barolo. Le vignoble Bussia de Fenocchio compte cinq hectares et appartient à la famille Fenocchio depuis 1867. Le domaine cultive les cinq hectares de vignes de nebbiolo de 35 ans sur une douce pente exposée au sud-ouest et cette cuvée reflète bien les qualités intrinsèques de ce terroir. Le sol d’argile helvétique avec des sédiments de calcaire riches en fer influence les propriétés des vins que l’on y élabore. Le fer favorise la structure et la concentration du fruit, ce qui fait que les vins de ce cru bénéficient de quelques années en cave pour exprimer pleinement leurs qualités. Les amateurs qui savent patienter seront grandement récompensés par ce vin qui a reçu les éloges des plus grandes critiques du vin! Les vendanges ont lieu en octobre et le vin est élaboré délicatement et lentement, passant quelques années dans des foudres slovènes de première qualité, suivi de quelques années en bouteille avant d’être commercialisé. La robe est d'un rouge grenat foncé et le nez est fin et complexe, avec des notes de rose épicées et de réglisse. Bien que charnu et tannique, le vin demeure élégant, équilibré et complexe avec ses notes de fruits noirs et florales. La finale est longue et prometteuse pour ce vin qui évoluera aisément pendant deux décennies en cave. Disponibles exclusivement en ligne maintenant, nous sommes très contents de pouvoir vous offrir cette cuvée à la SAQ. Ne manquez pas cette chance!! Dans la presse!🌟 98 points, Wine Enthusiast 95 points, James Suckling 95 points, Vinous",
+      "description": "Une cuvée magistrale du Piémont, saluée par la critique internationale — et désormais offerte en exclusivité sur SAQ.com! Attention, quantités très très limitées!! « La maîtrise de Claudio Fenocchio est évidente dans la façon dont il fait ressortir la quintessence de Bussia dans ce vin. Il se dévoile avec une élégance mesurée, sans précipitation dans son expression. Le bouquet est riche en cerises Marasca chaudes, en zeste d'orange sanguine, en rose fanée, en sauge sauvage et en sous-bois. Il glisse sans effort sur le palais, les tanins du 2020 sont doux, ronds et veloutés, embrassant les confitures de baies mélangées saupoudrées d'épices à cuisson, tandis que l'acidité vive rehausse l'expérience, garantissant un palais frais. Il s'agit de l'un des meilleurs vins de ce millésime. À boire dès maintenant et jusqu'en 2045 » - Wine Enthusiast. Voici une grande cuvée qui fait honneur au domaine Fennochio! Niché dans les collines de Monforte d’Alba dans le Piémont, la cantina du domaine Giacomo Fenocchio surplombe l’amphithéâtre du vignoble Bussia, l’un des crus les plus recherchés de Barolo. Le vignoble Bussia de Fenocchio compte cinq hectares et appartient à la famille Fenocchio depuis 1867. Le domaine cultive les cinq hectares de vignes de nebbiolo de 35 ans sur une douce pente exposée au sud-ouest et cette cuvée reflète bien les qualités intrinsèques de ce terroir. Le sol d’argile helvétique avec des sédiments de calcaire riches en fer influence les propriétés des vins que l’on y élabore. Les vendanges ont lieu en octobre et le vin est élaboré délicatement et lentement, passant quelques années dans des foudres slovènes de première qualité, suivi de quelques années en bouteille avant d’être commercialisé. La robe est d'un rouge grenat foncé et le nez est fin et complexe, avec des notes de rose épicées et de réglisse. Bien que charnu et tannique, le vin demeure élégant, équilibré et complexe avec ses notes de fruits noirs et florales. La finale est longue et prometteuse pour ce vin qui évoluera aisément pendant deux décennies en cave. Disponibles exclusivement en ligne maintenant, nous sommes très contents de pouvoir vous offrir cette cuvée à la SAQ. Ne manquez pas cette chance!! Dans la presse!🌟 98 points, Wine Enthusiast 95 points, James Suckling 95 points, Vinous",
       "price": "95,75 $",
       "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/bda98883-88bb-ffb2-395b-fd59c1f20d5a.png",
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=f31d882063&e=a09c2580fc",
       "producer": "Giacomo Fenocchio",
       "region": "Barolo",
       "vintage": "2020",
-      "grape_varieties": null,
+      "grape_varieties": [
+        "Nebbiolo"
+      ],
       "alcohol_content": null,
       "volume": null,
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
           "name": "Giacomo Fenocchio, Barolo Bussia 2020",
-          "description": "«Ce vin se distingue comme l'un des plus grands vins de ce millésime» - 98 points par Wine Enthusiast!!🏆 Une cuvée magistrale du Piémont, saluée par la critique internationale — et désormais offerte en exclusivité sur SAQ.com! Attention, quantités très très limitées!! La maîtrise de Claudio Fenocchio est évidente dans la façon dont il fait ressortir la quintessence de Bussia dans ce vin. Il se dévoile avec une élégance mesurée, sans précipitation dans son expression. Le bouquet est riche en cerises Marasca chaudes, en zeste d'orange sanguine, en rose fanée, en sauge sauvage et en sous-bois. Il glisse sans effort sur le palais, les tanins du 2020 sont doux, ronds et veloutés, embrassant les confitures de baies mélangées saupoudrées d'épices à cuisson, tandis que l'acidité vive rehausse l'expérience, garantissant un palais frais. Il s'agit de l'un des meilleurs vins de ce millésime. À boire dès maintenant et jusqu'en 2045. Voici une grande cuvée qui fait honneur au domaine Fennochio! Niché dans les collines de Monforte d’Alba dans le Piémont, la cantina du domaine Giacomo Fenocchio surplombe l’amphithéâtre du vignoble Bussia, l’un des crus les plus recherchés de Barolo. Le vignoble Bussia de Fenocchio compte cinq hectares et appartient à la famille Fenocchio depuis 1867. Le domaine cultive les cinq hectares de vignes de nebbiolo de 35 ans sur une douce pente exposée au sud-ouest et cette cuvée reflète bien les qualités intrinsèques de ce terroir. Le sol d’argile helvétique avec des sédiments de calcaire riches en fer influence les propriétés des vins que l’on y élabore. Le fer favorise la structure et la concentration du fruit, ce qui fait que les vins de ce cru bénéficient de quelques années en cave pour exprimer pleinement leurs qualités. Les amateurs qui savent patienter seront grandement récompensés par ce vin qui a reçu les éloges des plus grandes critiques du vin! Les vendanges ont lieu en octobre et le vin est élaboré délicatement et lentement, passant quelques années dans des foudres slovènes de première qualité, suivi de quelques années en bouteille avant d’être commercialisé. La robe est d'un rouge grenat foncé et le nez est fin et complexe, avec des notes de rose épicées et de réglisse. Bien que charnu et tannique, le vin demeure élégant, équilibré et complexe avec ses notes de fruits noirs et florales. La finale est longue et prometteuse pour ce vin qui évoluera aisément pendant deux décennies en cave. Disponibles exclusivement en ligne maintenant, nous sommes très contents de pouvoir vous offrir cette cuvée à la SAQ. Ne manquez pas cette chance!! Dans la presse!🌟 98 points, Wine Enthusiast 95 points, James Suckling 95 points, Vinous",
+          "description": "Une cuvée magistrale du Piémont, saluée par la critique internationale — et désormais offerte en exclusivité sur SAQ.com! Attention, quantités très très limitées!! « La maîtrise de Claudio Fenocchio est évidente dans la façon dont il fait ressortir la quintessence de Bussia dans ce vin. Il se dévoile avec une élégance mesurée, sans précipitation dans son expression. Le bouquet est riche en cerises Marasca chaudes, en zeste d'orange sanguine, en rose fanée, en sauge sauvage et en sous-bois. Il glisse sans effort sur le palais, les tanins du 2020 sont doux, ronds et veloutés, embrassant les confitures de baies mélangées saupoudrées d'épices à cuisson, tandis que l'acidité vive rehausse l'expérience, garantissant un palais frais. Il s'agit de l'un des meilleurs vins de ce millésime. À boire dès maintenant et jusqu'en 2045 » - Wine Enthusiast. Voici une grande cuvée qui fait honneur au domaine Fennochio! Niché dans les collines de Monforte d’Alba dans le Piémont, la cantina du domaine Giacomo Fenocchio surplombe l’amphithéâtre du vignoble Bussia, l’un des crus les plus recherchés de Barolo. Le vignoble Bussia de Fenocchio compte cinq hectares et appartient à la famille Fenocchio depuis 1867. Le domaine cultive les cinq hectares de vignes de nebbiolo de 35 ans sur une douce pente exposée au sud-ouest et cette cuvée reflète bien les qualités intrinsèques de ce terroir. Le sol d’argile helvétique avec des sédiments de calcaire riches en fer influence les propriétés des vins que l’on y élabore. Les vendanges ont lieu en octobre et le vin est élaboré délicatement et lentement, passant quelques années dans des foudres slovènes de première qualité, suivi de quelques années en bouteille avant d’être commercialisé. La robe est d'un rouge grenat foncé et le nez est fin et complexe, avec des notes de rose épicées et de réglisse. Bien que charnu et tannique, le vin demeure élégant, équilibré et complexe avec ses notes de fruits noirs et florales. La finale est longue et prometteuse pour ce vin qui évoluera aisément pendant deux décennies en cave. Disponibles exclusivement en ligne maintenant, nous sommes très contents de pouvoir vous offrir cette cuvée à la SAQ. Ne manquez pas cette chance!! Dans la presse!🌟 98 points, Wine Enthusiast 95 points, James Suckling 95 points, Vinous",
           "price": "95,75 $",
           "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/bda98883-88bb-ffb2-395b-fd59c1f20d5a.png",
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=f31d882063&e=a09c2580fc",
           "producer": "Giacomo Fenocchio",
           "region": "Barolo",
           "vintage": "2020",
-          "grape_varieties": null,
+          "grape_varieties": [
+            "Nebbiolo"
+          ],
           "alcohol_content": null,
           "volume": null,
           "disponibilite": "SAQ"
@@ -479,14 +486,14 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Barolo Bussia 2020 de Giacomo Fenocchio, acclamé par la critique avec 98 points, se révèle dans un bouquet complexe de cerises Marasca et d'épices, offrant une structure veloutée et une finale prometteuse, parfait pour une garde prolongée."
+    "summary": "Le Barolo Bussia 2020 de Giacomo Fenocchio, salué par la critique, révèle une élégance mesurée avec des arômes riches de cerises Marasca et d'orange sanguine, tandis que sa texture veloutée et sa finale prometteuse en font un vin d'exception à savourer dès maintenant ou à conserver jusqu'en 2045."
   },
   {
     "id": "file-2025-10-09-bambara-selection-0.html-ca-del-baio-barbaresco-docg-autinbej-2022",
     "blockId": "file-2025-10-09-bambara-selection-0.html",
     "createdAt": "2025-10-09T00:00:00.000Z",
     "name": "Ca' del Baio, Barbaresco DOCG Autinbej 2022",
-    "description": "Découvrez Autinbej, un Barbaresco d’exception signé Ca’ del Baio. Cette cuvée illustre à la perfection le savoir-faire de la famille Grasso, vignerons de génération en génération au coeur du Piémont, dans le Nord de l’ltalie. Un vin de haut voltige proposé à un prix remarquable! Sautez là-dessus ! Exclusivement sur SAQ.com maintenant ! Le Barbaresco Autinbej incarne la philosophie de Ca’ del Baio, où tradition et modernité se rencontrent pour produire des vins d’une grande finesse. En effet, cette cuvée évoque une époque révolue où les Barbaresco étaient issus d'un assemblage des raisins Nebbiolo provenant des plus belles parcelles, aux meilleurs ensoleillements, de différents crus. Cette cuvée rend hommage à Ernesto, père de Giulio Grasso, qui employait souvent le terme piémontais “Autinbej” pour désigner les expositions les plus exceptionnelles du vignoble, sélectionnées pour cette cuvée. Issu à 100 % de Nebbiolo, ce Barbaresco provient de vignes de presque 20 ans d’âge, exposées à l’ouest et à l’est sur des sols de marnes grises calcaires-sableuses. Cette combinaison unique permet au vin de développer à la fois profondeur et équilibre, tout en restant fidèle au caractère racé du Barbaresco. Suite à des vendanges manuelles, l’Autinbej bénéficie d’une vinification traditionnelle qui respecte l’identité du cépage et du terroir. Les raisins sont égrappés et fermentent en cuves, avec une macération pelliculaire d’une dizaine de jours. Le vin est ensuite élevé pendant 24 mois en grands fûts de chêne de Slavonie, avant d’être affiné en bouteille durant au moins 4 mois. Cet élevage long confère au vin une structure équilibrée, des arômes complexes et un potentiel de garde de 10 à 15 ans. Le Barberesco Autinbej séduit d’abord par sa robe grenat profond aux reflets rose antique, typique des grands Nebbiolo. Au nez, il dévoile une intensité fruitée, marqué par la framboise confiturée et la violette, évoluant vers des notes épicées, avec un soupçon subtil de cacao. En bouche, il exprime une belle chaleur, soutenue par une structure tannique élégante, et des notes fruités raffinées en finale. Grâce à sa structure et à sa richesse aromatique, l’Autinbej accompagne parfaitement les viandes rouges, mais se marie aussi avec le canard ou le porc, grillé ou frit, servi avec des sauces aigres-douces ou épicées. Servi à 18°C, il dévoilera toute sa complexité et son élégance. Conservez-le en cave, couché, à température stable, et laissez-le évoluer pour découvrir son plein potentiel au fil des années! Disponible exclusivement sur SAQ.com, ne manquez pas cette cuvée en première ! Dans la presse!🌟 94 points, James Suckling (millésime 2022)",
+    "description": "Découvrez Autinbej, un Barbaresco d’exception signé Ca’ del Baio. Cette cuvée illustre à la perfection le savoir-faire de la famille Grasso, vignerons de génération en génération au coeur du Piémont, dans le Nord de l’ltalie. Un vin de haut voltige proposé à un prix remarquable! Le Barbaresco Autinbej incarne la philosophie de Ca’ del Baio, où tradition et modernité se rencontrent pour produire des vins d’une grande finesse. En effet, cette cuvée évoque une époque révolue où les Barbaresco étaient issus d'un assemblage des raisins Nebbiolo provenant des plus belles parcelles, aux meilleurs ensoleillements, de différents crus. Cette cuvée rend hommage à Ernesto, père de Giulio Grasso, qui employait souvent le terme piémontais “Autinbej” pour désigner les expositions les plus exceptionnelles du vignoble, sélectionnées pour cette cuvée. Issu à 100 % de Nebbiolo, ce Barbaresco provient de vignes de presque 20 ans d’âge, exposées à l’ouest et à l’est sur des sols de marnes grises calcaires-sableuses. Cette combinaison unique permet au vin de développer à la fois profondeur et équilibre, tout en restant fidèle au caractère racé du Barbaresco. Suite à des vendanges manuelles, l’Autinbej bénéficie d’une vinification traditionnelle qui respecte l’identité du cépage et du terroir. Les raisins sont égrappés et fermentent en cuves, avec une macération pelliculaire d’une dizaine de jours. Le vin est ensuite élevé pendant 24 mois en grands fûts de chêne de Slavonie, avant d’être affiné en bouteille durant au moins 4 mois. Cet élevage long confère au vin une structure équilibrée, des arômes complexes et un potentiel de garde de 10 à 15 ans. Le Barberesco Autinbej séduit d’abord par sa robe grenat profond aux reflets rose antique, typique des grands Nebbiolo. Au nez, il dévoile une intensité fruitée, marqué par la framboise confiturée et la violette, évoluant vers des notes épicées, avec un soupçon subtil de cacao. En bouche, il exprime une belle chaleur, soutenue par une structure tannique élégante, et des notes fruités raffinées en finale. Grâce à sa structure et à sa richesse aromatique, l’Autinbej accompagne parfaitement les viandes rouges, mais se marie aussi avec le canard ou le porc, grillé ou frit, servi avec des sauces aigres-douces ou épicées. Servi à 18°C, il dévoilera toute sa complexité et son élégance. Conservez-le en cave, couché, à température stable, et laissez-le évoluer pour découvrir son plein potentiel au fil des années! Disponible exclusivement sur SAQ.com, ne manquez pas cette cuvée en première ! Dans la presse!🌟 94 points, James Suckling (millésime 2022)",
     "price": "46,50 $",
     "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/6cf060f1-2c4b-e833-3170-aa444714f37c.png",
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=9476475d3e&e=a09c2580fc",
@@ -494,28 +501,32 @@
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Ca' del Baio, Barbaresco DOCG Autinbej 2022",
-      "description": "Découvrez Autinbej, un Barbaresco d’exception signé Ca’ del Baio. Cette cuvée illustre à la perfection le savoir-faire de la famille Grasso, vignerons de génération en génération au coeur du Piémont, dans le Nord de l’ltalie. Un vin de haut voltige proposé à un prix remarquable! Sautez là-dessus ! Exclusivement sur SAQ.com maintenant ! Le Barbaresco Autinbej incarne la philosophie de Ca’ del Baio, où tradition et modernité se rencontrent pour produire des vins d’une grande finesse. En effet, cette cuvée évoque une époque révolue où les Barbaresco étaient issus d'un assemblage des raisins Nebbiolo provenant des plus belles parcelles, aux meilleurs ensoleillements, de différents crus. Cette cuvée rend hommage à Ernesto, père de Giulio Grasso, qui employait souvent le terme piémontais “Autinbej” pour désigner les expositions les plus exceptionnelles du vignoble, sélectionnées pour cette cuvée. Issu à 100 % de Nebbiolo, ce Barbaresco provient de vignes de presque 20 ans d’âge, exposées à l’ouest et à l’est sur des sols de marnes grises calcaires-sableuses. Cette combinaison unique permet au vin de développer à la fois profondeur et équilibre, tout en restant fidèle au caractère racé du Barbaresco. Suite à des vendanges manuelles, l’Autinbej bénéficie d’une vinification traditionnelle qui respecte l’identité du cépage et du terroir. Les raisins sont égrappés et fermentent en cuves, avec une macération pelliculaire d’une dizaine de jours. Le vin est ensuite élevé pendant 24 mois en grands fûts de chêne de Slavonie, avant d’être affiné en bouteille durant au moins 4 mois. Cet élevage long confère au vin une structure équilibrée, des arômes complexes et un potentiel de garde de 10 à 15 ans. Le Barberesco Autinbej séduit d’abord par sa robe grenat profond aux reflets rose antique, typique des grands Nebbiolo. Au nez, il dévoile une intensité fruitée, marqué par la framboise confiturée et la violette, évoluant vers des notes épicées, avec un soupçon subtil de cacao. En bouche, il exprime une belle chaleur, soutenue par une structure tannique élégante, et des notes fruités raffinées en finale. Grâce à sa structure et à sa richesse aromatique, l’Autinbej accompagne parfaitement les viandes rouges, mais se marie aussi avec le canard ou le porc, grillé ou frit, servi avec des sauces aigres-douces ou épicées. Servi à 18°C, il dévoilera toute sa complexité et son élégance. Conservez-le en cave, couché, à température stable, et laissez-le évoluer pour découvrir son plein potentiel au fil des années! Disponible exclusivement sur SAQ.com, ne manquez pas cette cuvée en première ! Dans la presse!🌟 94 points, James Suckling (millésime 2022)",
+      "description": "Découvrez Autinbej, un Barbaresco d’exception signé Ca’ del Baio. Cette cuvée illustre à la perfection le savoir-faire de la famille Grasso, vignerons de génération en génération au coeur du Piémont, dans le Nord de l’ltalie. Un vin de haut voltige proposé à un prix remarquable! Le Barbaresco Autinbej incarne la philosophie de Ca’ del Baio, où tradition et modernité se rencontrent pour produire des vins d’une grande finesse. En effet, cette cuvée évoque une époque révolue où les Barbaresco étaient issus d'un assemblage des raisins Nebbiolo provenant des plus belles parcelles, aux meilleurs ensoleillements, de différents crus. Cette cuvée rend hommage à Ernesto, père de Giulio Grasso, qui employait souvent le terme piémontais “Autinbej” pour désigner les expositions les plus exceptionnelles du vignoble, sélectionnées pour cette cuvée. Issu à 100 % de Nebbiolo, ce Barbaresco provient de vignes de presque 20 ans d’âge, exposées à l’ouest et à l’est sur des sols de marnes grises calcaires-sableuses. Cette combinaison unique permet au vin de développer à la fois profondeur et équilibre, tout en restant fidèle au caractère racé du Barbaresco. Suite à des vendanges manuelles, l’Autinbej bénéficie d’une vinification traditionnelle qui respecte l’identité du cépage et du terroir. Les raisins sont égrappés et fermentent en cuves, avec une macération pelliculaire d’une dizaine de jours. Le vin est ensuite élevé pendant 24 mois en grands fûts de chêne de Slavonie, avant d’être affiné en bouteille durant au moins 4 mois. Cet élevage long confère au vin une structure équilibrée, des arômes complexes et un potentiel de garde de 10 à 15 ans. Le Barberesco Autinbej séduit d’abord par sa robe grenat profond aux reflets rose antique, typique des grands Nebbiolo. Au nez, il dévoile une intensité fruitée, marqué par la framboise confiturée et la violette, évoluant vers des notes épicées, avec un soupçon subtil de cacao. En bouche, il exprime une belle chaleur, soutenue par une structure tannique élégante, et des notes fruités raffinées en finale. Grâce à sa structure et à sa richesse aromatique, l’Autinbej accompagne parfaitement les viandes rouges, mais se marie aussi avec le canard ou le porc, grillé ou frit, servi avec des sauces aigres-douces ou épicées. Servi à 18°C, il dévoilera toute sa complexité et son élégance. Conservez-le en cave, couché, à température stable, et laissez-le évoluer pour découvrir son plein potentiel au fil des années! Disponible exclusivement sur SAQ.com, ne manquez pas cette cuvée en première ! Dans la presse!🌟 94 points, James Suckling (millésime 2022)",
       "price": "46,50 $",
       "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/6cf060f1-2c4b-e833-3170-aa444714f37c.png",
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=9476475d3e&e=a09c2580fc",
       "producer": "Ca' del Baio",
       "region": "Barbaresco",
       "vintage": "2022",
-      "grape_varieties": null,
+      "grape_varieties": [
+        "Nebbiolo"
+      ],
       "alcohol_content": null,
       "volume": null,
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
           "name": "Ca' del Baio, Barbaresco DOCG Autinbej 2022",
-          "description": "Découvrez Autinbej, un Barbaresco d’exception signé Ca’ del Baio. Cette cuvée illustre à la perfection le savoir-faire de la famille Grasso, vignerons de génération en génération au coeur du Piémont, dans le Nord de l’ltalie. Un vin de haut voltige proposé à un prix remarquable! Sautez là-dessus ! Exclusivement sur SAQ.com maintenant ! Le Barbaresco Autinbej incarne la philosophie de Ca’ del Baio, où tradition et modernité se rencontrent pour produire des vins d’une grande finesse. En effet, cette cuvée évoque une époque révolue où les Barbaresco étaient issus d'un assemblage des raisins Nebbiolo provenant des plus belles parcelles, aux meilleurs ensoleillements, de différents crus. Cette cuvée rend hommage à Ernesto, père de Giulio Grasso, qui employait souvent le terme piémontais “Autinbej” pour désigner les expositions les plus exceptionnelles du vignoble, sélectionnées pour cette cuvée. Issu à 100 % de Nebbiolo, ce Barbaresco provient de vignes de presque 20 ans d’âge, exposées à l’ouest et à l’est sur des sols de marnes grises calcaires-sableuses. Cette combinaison unique permet au vin de développer à la fois profondeur et équilibre, tout en restant fidèle au caractère racé du Barbaresco. Suite à des vendanges manuelles, l’Autinbej bénéficie d’une vinification traditionnelle qui respecte l’identité du cépage et du terroir. Les raisins sont égrappés et fermentent en cuves, avec une macération pelliculaire d’une dizaine de jours. Le vin est ensuite élevé pendant 24 mois en grands fûts de chêne de Slavonie, avant d’être affiné en bouteille durant au moins 4 mois. Cet élevage long confère au vin une structure équilibrée, des arômes complexes et un potentiel de garde de 10 à 15 ans. Le Barberesco Autinbej séduit d’abord par sa robe grenat profond aux reflets rose antique, typique des grands Nebbiolo. Au nez, il dévoile une intensité fruitée, marqué par la framboise confiturée et la violette, évoluant vers des notes épicées, avec un soupçon subtil de cacao. En bouche, il exprime une belle chaleur, soutenue par une structure tannique élégante, et des notes fruités raffinées en finale. Grâce à sa structure et à sa richesse aromatique, l’Autinbej accompagne parfaitement les viandes rouges, mais se marie aussi avec le canard ou le porc, grillé ou frit, servi avec des sauces aigres-douces ou épicées. Servi à 18°C, il dévoilera toute sa complexité et son élégance. Conservez-le en cave, couché, à température stable, et laissez-le évoluer pour découvrir son plein potentiel au fil des années! Disponible exclusivement sur SAQ.com, ne manquez pas cette cuvée en première ! Dans la presse!🌟 94 points, James Suckling (millésime 2022)",
+          "description": "Découvrez Autinbej, un Barbaresco d’exception signé Ca’ del Baio. Cette cuvée illustre à la perfection le savoir-faire de la famille Grasso, vignerons de génération en génération au coeur du Piémont, dans le Nord de l’ltalie. Un vin de haut voltige proposé à un prix remarquable! Le Barbaresco Autinbej incarne la philosophie de Ca’ del Baio, où tradition et modernité se rencontrent pour produire des vins d’une grande finesse. En effet, cette cuvée évoque une époque révolue où les Barbaresco étaient issus d'un assemblage des raisins Nebbiolo provenant des plus belles parcelles, aux meilleurs ensoleillements, de différents crus. Cette cuvée rend hommage à Ernesto, père de Giulio Grasso, qui employait souvent le terme piémontais “Autinbej” pour désigner les expositions les plus exceptionnelles du vignoble, sélectionnées pour cette cuvée. Issu à 100 % de Nebbiolo, ce Barbaresco provient de vignes de presque 20 ans d’âge, exposées à l’ouest et à l’est sur des sols de marnes grises calcaires-sableuses. Cette combinaison unique permet au vin de développer à la fois profondeur et équilibre, tout en restant fidèle au caractère racé du Barbaresco. Suite à des vendanges manuelles, l’Autinbej bénéficie d’une vinification traditionnelle qui respecte l’identité du cépage et du terroir. Les raisins sont égrappés et fermentent en cuves, avec une macération pelliculaire d’une dizaine de jours. Le vin est ensuite élevé pendant 24 mois en grands fûts de chêne de Slavonie, avant d’être affiné en bouteille durant au moins 4 mois. Cet élevage long confère au vin une structure équilibrée, des arômes complexes et un potentiel de garde de 10 à 15 ans. Le Barberesco Autinbej séduit d’abord par sa robe grenat profond aux reflets rose antique, typique des grands Nebbiolo. Au nez, il dévoile une intensité fruitée, marqué par la framboise confiturée et la violette, évoluant vers des notes épicées, avec un soupçon subtil de cacao. En bouche, il exprime une belle chaleur, soutenue par une structure tannique élégante, et des notes fruités raffinées en finale. Grâce à sa structure et à sa richesse aromatique, l’Autinbej accompagne parfaitement les viandes rouges, mais se marie aussi avec le canard ou le porc, grillé ou frit, servi avec des sauces aigres-douces ou épicées. Servi à 18°C, il dévoilera toute sa complexité et son élégance. Conservez-le en cave, couché, à température stable, et laissez-le évoluer pour découvrir son plein potentiel au fil des années! Disponible exclusivement sur SAQ.com, ne manquez pas cette cuvée en première ! Dans la presse!🌟 94 points, James Suckling (millésime 2022)",
           "price": "46,50 $",
           "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/6cf060f1-2c4b-e833-3170-aa444714f37c.png",
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=9476475d3e&e=a09c2580fc",
           "producer": "Ca' del Baio",
           "region": "Barbaresco",
           "vintage": "2022",
-          "grape_varieties": null,
+          "grape_varieties": [
+            "Nebbiolo"
+          ],
           "alcohol_content": null,
           "volume": null,
           "disponibilite": "SAQ"
@@ -523,14 +534,14 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Barbaresco Autinbej 2022 de Ca’ del Baio est un hommage à l'héritage viticole familial, offrant une profondeur et une élégance remarquables, avec des arômes de framboise et de violette, parfait pour une garde de 10 à 15 ans."
+    "summary": "Le Barbaresco Autinbej 2022 de Ca’ del Baio, un hommage à l'héritage familial, allie tradition et modernité pour offrir un Nebbiolo d'une profondeur et d'une élégance remarquables, avec des arômes de framboise confiturée et de violette, prêt à évoluer en cave pendant 10 à 15 ans."
   },
   {
     "id": "file-2025-10-09-bambara-selection-0.html-ca-del-baio-barbaresco-docg-asili-2022",
     "blockId": "file-2025-10-09-bambara-selection-0.html",
     "createdAt": "2025-10-09T00:00:00.000Z",
     "name": "Ca' del Baio, Barbaresco DOCG Asili 2022",
-    "description": "Un cru mythique du Barbaresco, enfin de retour, sur un nouveau millésime ! Vous l'avez adoré!! Après son FLAGRANT succès lors de son premier arrivage, Ca’ del Baio présente le millésime 2022 de son Barbaresco Asili, provenant de l’un des crus les plus prestigieux de l’appellation. Ce vin, issu d'un terroir d’exception, incarne toute l’élégance et la profondeur du Nebbiolo, magnifiées par le savoir-faire de la famille Grasso, vignerons depuis plusieurs générations au cœur du Piémont. Salué par la critique avec 96 points James Suckling et 95 points Vinous, il offre un rapport qualité-prix remarquable pour un vin de cette envergure. En quantités limitées, exclusivement sur SAQ.com maintenant ! Ne manquez pas cette chance! Cultivé sur l’un des terroirs les plus prestigieux de Barbaresco, Asili est un cru d’exception qui marque l’histoire de Ca’ del Baio. C’est ici que tout a commencé pour la famille Grasso, et c’est ici que naît l’un de leurs vins les plus raffinés et vibrants. Issu de vignes plantées entre 1957 et 1999, ce Nebbiolo exprime avec éclat toute la profondeur et l’élégance de son terroir argilo-calcaire. Les vendanges sont réalisées à la main entre fin septembre et début octobre, suivies d’une fermentation longue de 60 jours qui permet d’extraire toute la richesse du cépage. Son élevage soigné de 30 mois en tonneaux, suivi d’un affinage de 12 mois en bouteille, lui confère une profondeur et une finesse remarquables. Son nez intense révèle des arômes de griottes, de lavande et de pétales de rose, soutenus par des notes d’herbes aromatiques, de poivre noir et de réglisse. En bouche, sa texture soyeuse, ses tanins parfaitement intégrés et sa finale longue et fraîche en font un vin enveloppant, taillé pour la garde! Il accompagnera à merveille viandes braisées, gibier rôti et fromages affinés, et saura surprendre avec un accord audacieux au chocolat noir. Savourez une bouteille dès maintenant et mettez-en une autre de côté pour la laisser évoluer en cave pendant 15 à 20 ans. Un plaisir à redécouvrir avec le temps ! 😉 Dans la presse!🌟 94 points, Decanter",
+    "description": "Un cru mythique du Barbaresco, enfin de retour, sur un nouveau millésime ! Vous l'avez adoré!! Après son FLAGRANT succès lors de son premier arrivage, Ca’ del Baio présente le millésime 2022 de son Barbaresco Asili, provenant de l’un des crus les plus prestigieux de l’appellation. Ce vin, issu d'un terroir d’exception, incarne toute l’élégance et la profondeur du Nebbiolo, magnifiées par le savoir-faire de la famille Grasso, vignerons depuis plusieurs générations au cœur du Piémont. Salué par la critique avec 96 points James Suckling et 95 points Vinous, il offre un rapport qualité-prix remarquable pour un vin de cette envergure. Cultivé sur l’un des terroirs les plus prestigieux de Barbaresco, Asili est un cru d’exception qui marque l’histoire de Ca’ del Baio. C’est ici que tout a commencé pour la famille Grasso, et c’est ici que naît l’un de leurs vins les plus raffinés et vibrants. Issu de vignes plantées entre 1957 et 1999, ce Nebbiolo exprime avec éclat toute la profondeur et l’élégance de son terroir argilo-calcaire. Les vendanges sont réalisées à la main entre fin septembre et début octobre, suivies d’une fermentation longue de 60 jours qui permet d’extraire toute la richesse du cépage. Son élevage soigné de 30 mois en tonneaux, suivi d’un affinage de 12 mois en bouteille, lui confère une profondeur et une finesse remarquables. Son nez intense révèle des arômes de griottes, de lavande et de pétales de rose, soutenus par des notes d’herbes aromatiques, de poivre noir et de réglisse. En bouche, sa texture soyeuse, ses tanins parfaitement intégrés et sa finale longue et fraîche en font un vin enveloppant, taillé pour la garde! Il accompagnera à merveille viandes braisées, gibier rôti et fromages affinés, et saura surprendre avec un accord audacieux au chocolat noir. Savourez une bouteille dès maintenant et mettez-en une autre de côté pour la laisser évoluer en cave pendant 15 à 20 ans. Un plaisir à redécouvrir avec le temps ! Dans la presse!🌟 94 points, Decanter",
     "price": "67,00 $",
     "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/1b5851ce-d5d4-ddaa-b82b-dbccbba41a1c.jpg",
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=7aa357808a&e=a09c2580fc",
@@ -538,28 +549,32 @@
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Ca' del Baio, Barbaresco DOCG Asili 2022",
-      "description": "Un cru mythique du Barbaresco, enfin de retour, sur un nouveau millésime ! Vous l'avez adoré!! Après son FLAGRANT succès lors de son premier arrivage, Ca’ del Baio présente le millésime 2022 de son Barbaresco Asili, provenant de l’un des crus les plus prestigieux de l’appellation. Ce vin, issu d'un terroir d’exception, incarne toute l’élégance et la profondeur du Nebbiolo, magnifiées par le savoir-faire de la famille Grasso, vignerons depuis plusieurs générations au cœur du Piémont. Salué par la critique avec 96 points James Suckling et 95 points Vinous, il offre un rapport qualité-prix remarquable pour un vin de cette envergure. En quantités limitées, exclusivement sur SAQ.com maintenant ! Ne manquez pas cette chance! Cultivé sur l’un des terroirs les plus prestigieux de Barbaresco, Asili est un cru d’exception qui marque l’histoire de Ca’ del Baio. C’est ici que tout a commencé pour la famille Grasso, et c’est ici que naît l’un de leurs vins les plus raffinés et vibrants. Issu de vignes plantées entre 1957 et 1999, ce Nebbiolo exprime avec éclat toute la profondeur et l’élégance de son terroir argilo-calcaire. Les vendanges sont réalisées à la main entre fin septembre et début octobre, suivies d’une fermentation longue de 60 jours qui permet d’extraire toute la richesse du cépage. Son élevage soigné de 30 mois en tonneaux, suivi d’un affinage de 12 mois en bouteille, lui confère une profondeur et une finesse remarquables. Son nez intense révèle des arômes de griottes, de lavande et de pétales de rose, soutenus par des notes d’herbes aromatiques, de poivre noir et de réglisse. En bouche, sa texture soyeuse, ses tanins parfaitement intégrés et sa finale longue et fraîche en font un vin enveloppant, taillé pour la garde! Il accompagnera à merveille viandes braisées, gibier rôti et fromages affinés, et saura surprendre avec un accord audacieux au chocolat noir. Savourez une bouteille dès maintenant et mettez-en une autre de côté pour la laisser évoluer en cave pendant 15 à 20 ans. Un plaisir à redécouvrir avec le temps ! 😉 Dans la presse!🌟 94 points, Decanter",
+      "description": "Un cru mythique du Barbaresco, enfin de retour, sur un nouveau millésime ! Vous l'avez adoré!! Après son FLAGRANT succès lors de son premier arrivage, Ca’ del Baio présente le millésime 2022 de son Barbaresco Asili, provenant de l’un des crus les plus prestigieux de l’appellation. Ce vin, issu d'un terroir d’exception, incarne toute l’élégance et la profondeur du Nebbiolo, magnifiées par le savoir-faire de la famille Grasso, vignerons depuis plusieurs générations au cœur du Piémont. Salué par la critique avec 96 points James Suckling et 95 points Vinous, il offre un rapport qualité-prix remarquable pour un vin de cette envergure. Cultivé sur l’un des terroirs les plus prestigieux de Barbaresco, Asili est un cru d’exception qui marque l’histoire de Ca’ del Baio. C’est ici que tout a commencé pour la famille Grasso, et c’est ici que naît l’un de leurs vins les plus raffinés et vibrants. Issu de vignes plantées entre 1957 et 1999, ce Nebbiolo exprime avec éclat toute la profondeur et l’élégance de son terroir argilo-calcaire. Les vendanges sont réalisées à la main entre fin septembre et début octobre, suivies d’une fermentation longue de 60 jours qui permet d’extraire toute la richesse du cépage. Son élevage soigné de 30 mois en tonneaux, suivi d’un affinage de 12 mois en bouteille, lui confère une profondeur et une finesse remarquables. Son nez intense révèle des arômes de griottes, de lavande et de pétales de rose, soutenus par des notes d’herbes aromatiques, de poivre noir et de réglisse. En bouche, sa texture soyeuse, ses tanins parfaitement intégrés et sa finale longue et fraîche en font un vin enveloppant, taillé pour la garde! Il accompagnera à merveille viandes braisées, gibier rôti et fromages affinés, et saura surprendre avec un accord audacieux au chocolat noir. Savourez une bouteille dès maintenant et mettez-en une autre de côté pour la laisser évoluer en cave pendant 15 à 20 ans. Un plaisir à redécouvrir avec le temps ! Dans la presse!🌟 94 points, Decanter",
       "price": "67,00 $",
       "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/1b5851ce-d5d4-ddaa-b82b-dbccbba41a1c.jpg",
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=7aa357808a&e=a09c2580fc",
       "producer": "Ca' del Baio",
       "region": "Barbaresco",
       "vintage": "2022",
-      "grape_varieties": null,
+      "grape_varieties": [
+        "Nebbiolo"
+      ],
       "alcohol_content": null,
       "volume": null,
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
           "name": "Ca' del Baio, Barbaresco DOCG Asili 2022",
-          "description": "Un cru mythique du Barbaresco, enfin de retour, sur un nouveau millésime ! Vous l'avez adoré!! Après son FLAGRANT succès lors de son premier arrivage, Ca’ del Baio présente le millésime 2022 de son Barbaresco Asili, provenant de l’un des crus les plus prestigieux de l’appellation. Ce vin, issu d'un terroir d’exception, incarne toute l’élégance et la profondeur du Nebbiolo, magnifiées par le savoir-faire de la famille Grasso, vignerons depuis plusieurs générations au cœur du Piémont. Salué par la critique avec 96 points James Suckling et 95 points Vinous, il offre un rapport qualité-prix remarquable pour un vin de cette envergure. En quantités limitées, exclusivement sur SAQ.com maintenant ! Ne manquez pas cette chance! Cultivé sur l’un des terroirs les plus prestigieux de Barbaresco, Asili est un cru d’exception qui marque l’histoire de Ca’ del Baio. C’est ici que tout a commencé pour la famille Grasso, et c’est ici que naît l’un de leurs vins les plus raffinés et vibrants. Issu de vignes plantées entre 1957 et 1999, ce Nebbiolo exprime avec éclat toute la profondeur et l’élégance de son terroir argilo-calcaire. Les vendanges sont réalisées à la main entre fin septembre et début octobre, suivies d’une fermentation longue de 60 jours qui permet d’extraire toute la richesse du cépage. Son élevage soigné de 30 mois en tonneaux, suivi d’un affinage de 12 mois en bouteille, lui confère une profondeur et une finesse remarquables. Son nez intense révèle des arômes de griottes, de lavande et de pétales de rose, soutenus par des notes d’herbes aromatiques, de poivre noir et de réglisse. En bouche, sa texture soyeuse, ses tanins parfaitement intégrés et sa finale longue et fraîche en font un vin enveloppant, taillé pour la garde! Il accompagnera à merveille viandes braisées, gibier rôti et fromages affinés, et saura surprendre avec un accord audacieux au chocolat noir. Savourez une bouteille dès maintenant et mettez-en une autre de côté pour la laisser évoluer en cave pendant 15 à 20 ans. Un plaisir à redécouvrir avec le temps ! 😉 Dans la presse!🌟 94 points, Decanter",
+          "description": "Un cru mythique du Barbaresco, enfin de retour, sur un nouveau millésime ! Vous l'avez adoré!! Après son FLAGRANT succès lors de son premier arrivage, Ca’ del Baio présente le millésime 2022 de son Barbaresco Asili, provenant de l’un des crus les plus prestigieux de l’appellation. Ce vin, issu d'un terroir d’exception, incarne toute l’élégance et la profondeur du Nebbiolo, magnifiées par le savoir-faire de la famille Grasso, vignerons depuis plusieurs générations au cœur du Piémont. Salué par la critique avec 96 points James Suckling et 95 points Vinous, il offre un rapport qualité-prix remarquable pour un vin de cette envergure. Cultivé sur l’un des terroirs les plus prestigieux de Barbaresco, Asili est un cru d’exception qui marque l’histoire de Ca’ del Baio. C’est ici que tout a commencé pour la famille Grasso, et c’est ici que naît l’un de leurs vins les plus raffinés et vibrants. Issu de vignes plantées entre 1957 et 1999, ce Nebbiolo exprime avec éclat toute la profondeur et l’élégance de son terroir argilo-calcaire. Les vendanges sont réalisées à la main entre fin septembre et début octobre, suivies d’une fermentation longue de 60 jours qui permet d’extraire toute la richesse du cépage. Son élevage soigné de 30 mois en tonneaux, suivi d’un affinage de 12 mois en bouteille, lui confère une profondeur et une finesse remarquables. Son nez intense révèle des arômes de griottes, de lavande et de pétales de rose, soutenus par des notes d’herbes aromatiques, de poivre noir et de réglisse. En bouche, sa texture soyeuse, ses tanins parfaitement intégrés et sa finale longue et fraîche en font un vin enveloppant, taillé pour la garde! Il accompagnera à merveille viandes braisées, gibier rôti et fromages affinés, et saura surprendre avec un accord audacieux au chocolat noir. Savourez une bouteille dès maintenant et mettez-en une autre de côté pour la laisser évoluer en cave pendant 15 à 20 ans. Un plaisir à redécouvrir avec le temps ! Dans la presse!🌟 94 points, Decanter",
           "price": "67,00 $",
           "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/1b5851ce-d5d4-ddaa-b82b-dbccbba41a1c.jpg",
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=7aa357808a&e=a09c2580fc",
           "producer": "Ca' del Baio",
           "region": "Barbaresco",
           "vintage": "2022",
-          "grape_varieties": null,
+          "grape_varieties": [
+            "Nebbiolo"
+          ],
           "alcohol_content": null,
           "volume": null,
           "disponibilite": "SAQ"
@@ -567,7 +582,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Barbaresco Asili 2022 de Ca’ del Baio, salué par la critique, est un vin d'une élégance rare, révélant des arômes de griottes et de lavande, avec une texture soyeuse et une finale fraîche, parfait pour une garde prolongée."
+    "summary": "Le Barbaresco Asili 2022 de Ca’ del Baio, un cru mythique, se distingue par sa profondeur et son élégance, offrant des arômes de griottes et de lavande, avec une texture soyeuse et une finale fraîche, idéal pour une garde prolongée de 15 à 20 ans."
   },
   {
     "id": "file-2025-10-09-info-symbiose-0.html-letoile-en-banode",
@@ -659,7 +674,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "Le Grüner Veltliner 2024 se dévoile avec des arômes de citron vert et de menthe, offrant une bouche harmonieuse et désaltérante, avec une finale saline qui appelle à être savourée bien fraîche."
   },
   {
     "id": "file-2025-10-09-rezin-0.html-douro-dourosa-2022",
@@ -702,7 +718,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "Le Dourosa 2022 de la Quinta de la Rosa redéfinit l'élégance du Douro avec ses saveurs subtiles de fruits noirs et sa texture veloutée, offrant une finale délicate qui sublime les plats de viande braisée."
   },
   {
     "id": "file-2025-10-09-vin-dame-jeanne-0.html-champagne-rose-campania-remensis",
@@ -754,7 +771,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Champagne Rosé 'Campania Remensis' est une cuvée gastronomique vibrante, alliant la fraîcheur des fraises sauvages à des notes d'écorces d'orange sanguine et de gingembre, pour une expérience de dégustation inoubliable."
+    "summary": "Ce Champagne Rosé 'Campania Remensis' se distingue par son élégance vibrante, mêlant des arômes de fraises sauvages et d'écorces d'orange sanguine, offrant une expérience gastronomique inoubliable."
   },
   {
     "id": "file-2025-10-09-vin-dame-jeanne-0.html-amalgamay",
@@ -803,7 +820,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "L'Amalgamay, un assemblage audacieux d'Aligoté et de Gamay, offre un rouge juteux et joyeux, parfait pour les moments de convivialité, avec une vinification soignée en cuves de bois."
   },
   {
     "id": "file-2025-10-09-vin-dame-jeanne-0.html-la-vigne-en-rose",
@@ -854,7 +872,8 @@
         }
       ],
       "agence_was_defaulted": false
-    }
+    },
+    "summary": "Ce vin 'La Vigne en Rose', un assemblage de Gewurztraminer, Riesling et Pinot Gris, enchante avec ses arômes floraux et fruités, offrant une fraîcheur aromatique qui sublime les plats épicés et les moments festifs."
   },
   {
     "id": "file-2025-10-08-vin-dame-jeanne-0.html-champagne-ludes-1er-cru-vieilles-vignes-brut-reser",
@@ -1152,53 +1171,6 @@
           "alcohol_content": null,
           "volume": null,
           "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-10-07-vin-dame-jeanne-0.html-munjebel-rosso-2022",
-    "blockId": "file-2025-10-07-vin-dame-jeanne-0.html",
-    "createdAt": "2025-10-07T00:00:00.000Z",
-    "name": "MunJebel Rosso 2022",
-    "description": "Pur Nerello Mascalese du versant nord d'Etna, assemblage de plusieurs parcelles agées entre 20-65 ans. Macération de 50 jours sur raisins partiellement égrappés. Élevage en cuve fibreverre. Un vin élaboré à la vigne où la macération vient puiser toutes les délicates nuances de ce terroir dramatique. Le temps sur peaux prolongé permet la polymérisation de tannins, pour une structure assumée et des tannins fondus, le paradoxe du Nerello Mascalese illustré à merveille : son poing de fer, son gant de velour. L'élégance improbable, la puissance adoucie.",
-    "price": "48.66$",
-    "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/9f278cc1-568f-bbed-56d6-dfef89bf3572.jpg",
-    "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=8b34462510&e=345e10d07b",
-    "agence": "Vin Dame-Jeanne",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "MunJebel Rosso 2022",
-      "description": "Pur Nerello Mascalese du versant nord d'Etna, assemblage de plusieurs parcelles agées entre 20-65 ans. Macération de 50 jours sur raisins partiellement égrappés. Élevage en cuve fibreverre. Un vin élaboré à la vigne où la macération vient puiser toutes les délicates nuances de ce terroir dramatique. Le temps sur peaux prolongé permet la polymérisation de tannins, pour une structure assumée et des tannins fondus, le paradoxe du Nerello Mascalese illustré à merveille : son poing de fer, son gant de velour. L'élégance improbable, la puissance adoucie.",
-      "price": "48.66$",
-      "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/9f278cc1-568f-bbed-56d6-dfef89bf3572.jpg",
-      "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=8b34462510&e=345e10d07b",
-      "producer": "Frank Cornelissen",
-      "region": "Terre Siciliane",
-      "vintage": "2022",
-      "grape_varieties": [
-        "Nerello Mascalese"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "MunJebel Rosso 2022",
-          "description": "Pur Nerello Mascalese du versant nord d'Etna, assemblage de plusieurs parcelles agées entre 20-65 ans. Macération de 50 jours sur raisins partiellement égrappés. Élevage en cuve fibreverre. Un vin élaboré à la vigne où la macération vient puiser toutes les délicates nuances de ce terroir dramatique. Le temps sur peaux prolongé permet la polymérisation de tannins, pour une structure assumée et des tannins fondus, le paradoxe du Nerello Mascalese illustré à merveille : son poing de fer, son gant de velour. L'élégance improbable, la puissance adoucie.",
-          "price": "48.66$",
-          "image_url": "https://mcusercontent.com/0711127c320d32e15ce6dc05f/images/9f278cc1-568f-bbed-56d6-dfef89bf3572.jpg",
-          "link": "https://vindamejeanne.us10.list-manage.com/track/click?u=0711127c320d32e15ce6dc05f&id=8b34462510&e=345e10d07b",
-          "producer": "Frank Cornelissen",
-          "region": "Terre Siciliane",
-          "vintage": "2022",
-          "grape_varieties": [
-            "Nerello Mascalese"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
