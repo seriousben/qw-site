@@ -1,11 +1,414 @@
 [
   {
+    "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-librares-blanco-2024",
+    "blockId": "file-2025-10-16-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Librares Blanco 2024",
+    "description": "Pour une pizza bianca avec fruits de mer, basilic et zeste de citron. Frais, précis, légèrement floral : un blanc espagnol qui a le don de transformer la simplicité en raffinement.",
+    "price": "23.50$",
+    "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/librares-blanco-senorio-de-librares.jpg?v=1751307931",
+    "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_4",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Librares Blanco 2024",
+      "description": "Pour une pizza bianca avec fruits de mer, basilic et zeste de citron. Frais, précis, légèrement floral : un blanc espagnol qui a le don de transformer la simplicité en raffinement.",
+      "price": "23.50$",
+      "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/librares-blanco-senorio-de-librares.jpg?v=1751307931",
+      "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_4",
+      "producer": null,
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Librares Blanco 2024",
+          "description": "Pour une pizza bianca avec fruits de mer, basilic et zeste de citron. Frais, précis, légèrement floral : un blanc espagnol qui a le don de transformer la simplicité en raffinement.",
+          "price": "23.50$",
+          "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/librares-blanco-senorio-de-librares.jpg?v=1751307931",
+          "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_4",
+          "producer": null,
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Librares Blanco 2024 is a fresh and precise Spanish white, lightly floral, that elevates simplicity into elegance, making it an exquisite pairing for seafood pizza with basil and lemon zest."
+  },
+  {
+    "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-a-ma-guise-2024",
+    "blockId": "file-2025-10-16-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "À ma guise 2024",
+    "description": "La pizza margarita, c’est son terrain de jeu. Un rouge clair, fluide et solaire, avec un fruit juteux qui épouse la tomate et la mozzarella sans jamais dominer.",
+    "price": "29.95$",
+    "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/a-ma-guise-domaine-les-terres-promises.jpg?v=1749238301",
+    "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_6",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "À ma guise 2024",
+      "description": "La pizza margarita, c’est son terrain de jeu. Un rouge clair, fluide et solaire, avec un fruit juteux qui épouse la tomate et la mozzarella sans jamais dominer.",
+      "price": "29.95$",
+      "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/a-ma-guise-domaine-les-terres-promises.jpg?v=1749238301",
+      "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_6",
+      "producer": null,
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "À ma guise 2024",
+          "description": "La pizza margarita, c’est son terrain de jeu. Un rouge clair, fluide et solaire, avec un fruit juteux qui épouse la tomate et la mozzarella sans jamais dominer.",
+          "price": "29.95$",
+          "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/a-ma-guise-domaine-les-terres-promises.jpg?v=1749238301",
+          "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_6",
+          "producer": null,
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "À ma guise 2024 is a bright, fluid red that dances harmoniously with the flavors of tomato and mozzarella, making it the perfect companion for a classic margarita pizza."
+  },
+  {
+    "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-obelix-2023",
+    "blockId": "file-2025-10-16-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "O'belix 2023",
+    "description": "Vin orange nature à la fois complexe et frais, aux notes citronnées et légèrement lactées. Texture soyeuse, bouche ample et savoureuse, sans astringence. Parfait avec une pizza bianca aux herbes et ricotta, ou une version champignons et ail rôti.",
+    "price": "37.50$",
+    "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/obelix-2021-il-roccolo-412631.jpg?v=1719295206",
+    "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_8",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "O'belix 2023",
+      "description": "Vin orange nature à la fois complexe et frais, aux notes citronnées et légèrement lactées. Texture soyeuse, bouche ample et savoureuse, sans astringence. Parfait avec une pizza bianca aux herbes et ricotta, ou une version champignons et ail rôti.",
+      "price": "37.50$",
+      "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/obelix-2021-il-roccolo-412631.jpg?v=1719295206",
+      "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_8",
+      "producer": null,
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "O'belix 2023",
+          "description": "Vin orange nature à la fois complexe et frais, aux notes citronnées et légèrement lactées. Texture soyeuse, bouche ample et savoureuse, sans astringence. Parfait avec une pizza bianca aux herbes et ricotta, ou une version champignons et ail rôti.",
+          "price": "37.50$",
+          "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/obelix-2021-il-roccolo-412631.jpg?v=1719295206",
+          "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_8",
+          "producer": null,
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "O'belix 2023 is a complex and fresh orange wine with citrus and subtle creamy notes, offering a silky texture and a rich palate that pairs beautifully with herb and ricotta pizza or roasted garlic mushrooms."
+  },
+  {
+    "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-chiassobuio-2014",
+    "blockId": "file-2025-10-16-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Chiassobuio 2014",
+    "description": "Quand la pizza monte d’un cran, avec nduja, saucisse ou pepperoni bien gras, il faut un rouge avec du coffre et de la profondeur. Ce millésime mature de Toscane garde son mordant et sa noblesse.",
+    "price": "40.95$",
+    "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/chiassobuio-2014-domaine-tunia-798697.jpg?v=1719294991",
+    "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_10",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Chiassobuio 2014",
+      "description": "Quand la pizza monte d’un cran, avec nduja, saucisse ou pepperoni bien gras, il faut un rouge avec du coffre et de la profondeur. Ce millésime mature de Toscane garde son mordant et sa noblesse.",
+      "price": "40.95$",
+      "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/chiassobuio-2014-domaine-tunia-798697.jpg?v=1719294991",
+      "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_10",
+      "producer": null,
+      "region": null,
+      "vintage": "2014",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Chiassobuio 2014",
+          "description": "Quand la pizza monte d’un cran, avec nduja, saucisse ou pepperoni bien gras, il faut un rouge avec du coffre et de la profondeur. Ce millésime mature de Toscane garde son mordant et sa noblesse.",
+          "price": "40.95$",
+          "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/chiassobuio-2014-domaine-tunia-798697.jpg?v=1719294991",
+          "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_10",
+          "producer": null,
+          "region": null,
+          "vintage": "2014",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Chiassobuio 2014 is a robust Tuscan red that maintains its bite and nobility, making it the ideal match for indulgent pizzas topped with nduja, sausage, or pepperoni."
+  },
+  {
+    "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-arbalete-et-coquelicots-2024",
+    "blockId": "file-2025-10-16-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Arbalète et Coquelicots 2024",
+    "description": "Un vin méditerranéen, épicé et charmeur. Pour une pizza provençale avec anchois, poivrons, herbes et olives noires : ça chante fort, et ça sent le Sud.",
+    "price": "29.95$",
+    "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/arbalete-et-coquelicots-domaine-senat.jpg?v=1758048287",
+    "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_12",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Arbalète et Coquelicots 2024",
+      "description": "Un vin méditerranéen, épicé et charmeur. Pour une pizza provençale avec anchois, poivrons, herbes et olives noires : ça chante fort, et ça sent le Sud.",
+      "price": "29.95$",
+      "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/arbalete-et-coquelicots-domaine-senat.jpg?v=1758048287",
+      "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_12",
+      "producer": null,
+      "region": null,
+      "vintage": "2024",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Arbalète et Coquelicots 2024",
+          "description": "Un vin méditerranéen, épicé et charmeur. Pour une pizza provençale avec anchois, poivrons, herbes et olives noires : ça chante fort, et ça sent le Sud.",
+          "price": "29.95$",
+          "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/arbalete-et-coquelicots-domaine-senat.jpg?v=1758048287",
+          "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_12",
+          "producer": null,
+          "region": null,
+          "vintage": "2024",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Arbalète et Coquelicots 2024 is a charming and spicy Mediterranean wine that sings with the vibrant flavors of a Provençal pizza topped with anchovies, peppers, herbs, and black olives."
+  },
+  {
+    "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-zero-zero-2023",
+    "blockId": "file-2025-10-16-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Zero Zero 2023",
+    "description": "Un rouge du Douro qui bouscule les clichés : robe claire, fruit éclatant, bouche fluide et fraîche. Fraises, cerises et légèreté absolue, un vent d’air pur venu du Portugal. Parfait avec une pizza aux légumes grillés ou au chorizo croustillant.",
+    "price": "24.50$",
+    "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/zero-zero-quinta-vale-de-pios.jpg?v=1754932356",
+    "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_14",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Zero Zero 2023",
+      "description": "Un rouge du Douro qui bouscule les clichés : robe claire, fruit éclatant, bouche fluide et fraîche. Fraises, cerises et légèreté absolue, un vent d’air pur venu du Portugal. Parfait avec une pizza aux légumes grillés ou au chorizo croustillant.",
+      "price": "24.50$",
+      "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/zero-zero-quinta-vale-de-pios.jpg?v=1754932356",
+      "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_14",
+      "producer": null,
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Zero Zero 2023",
+          "description": "Un rouge du Douro qui bouscule les clichés : robe claire, fruit éclatant, bouche fluide et fraîche. Fraises, cerises et légèreté absolue, un vent d’air pur venu du Portugal. Parfait avec une pizza aux légumes grillés ou au chorizo croustillant.",
+          "price": "24.50$",
+          "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/zero-zero-quinta-vale-de-pios.jpg?v=1754932356",
+          "link": "https://ctrk.klclick.com/l/01K7PTRVFQDW4Z79370VMNS2NT_14",
+          "producer": null,
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Zero Zero 2023 is a refreshing Douro red that defies conventions with its bright hue and vibrant fruit, offering a lightness that pairs wonderfully with grilled vegetable or crispy chorizo pizza."
+  },
+  {
+    "id": "file-2025-10-16-rezin-0.html-vin-blanc-superbe",
+    "blockId": "file-2025-10-16-rezin-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Vin blanc superbe",
+    "description": "Vin blanc superbe, presque tanique, dont la structure porte la générosité en une longue finale gracieuse, puissante, complexe. Amateur de chenin blanc: même à près de 30$, c’est une aubaine!",
+    "price": "29,99$",
+    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/c7ca334d-ad10-9e4c-ec1b-4ef2f625d4d3.png",
+    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=6560ad54e9&e=c11422f941",
+    "agence": "réZin",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Vin blanc superbe",
+      "description": "Vin blanc superbe, presque tanique, dont la structure porte la générosité en une longue finale gracieuse, puissante, complexe. Amateur de chenin blanc: même à près de 30$, c’est une aubaine!",
+      "price": "29,99$",
+      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/c7ca334d-ad10-9e4c-ec1b-4ef2f625d4d3.png",
+      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=6560ad54e9&e=c11422f941",
+      "producer": "Vincent Carême",
+      "region": "Vouvray",
+      "vintage": "2022",
+      "grape_varieties": [
+        "chenin blanc"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Vin blanc superbe",
+          "description": "Vin blanc superbe, presque tanique, dont la structure porte la générosité en une longue finale gracieuse, puissante, complexe. Amateur de chenin blanc: même à près de 30$, c’est une aubaine!",
+          "price": "29,99$",
+          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/c7ca334d-ad10-9e4c-ec1b-4ef2f625d4d3.png",
+          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=6560ad54e9&e=c11422f941",
+          "producer": "Vincent Carême",
+          "region": "Vouvray",
+          "vintage": "2022",
+          "grape_varieties": [
+            "chenin blanc"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "This superb white wine boasts a near-tannic structure that carries generous flavors into a long, graceful, and complex finish, making it a remarkable find for Chenin Blanc enthusiasts at nearly $30."
+  },
+  {
+    "id": "file-2025-10-16-rezin-0.html-gruner-veltliner-terrassen-trocken",
+    "blockId": "file-2025-10-16-rezin-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "GRÜNER VELTLINER TERRASSEN TROCKEN",
+    "description": "Alwin Jurtschitsch et Stefanie Hasselbach ont repris le domaine familial de Langenlois il y a près de 20 ans et ils ont converti le vignoble à l’agriculture biologique. Leurs vins sont élaborés sans ajout de levure et avec un minimum d’intrants. À l’apéro, on ne demande pas mieux que ce grüner issu des terrasses de gneiss et de loess qui bordent le Danube. Tout y est : un léger perlant, de la fraîcheur, une finale saline et de délicates notes végétales et poivrées, caractéristiques du cépage blanc emblématique de l’Autriche. Net, précis, impeccable!",
+    "price": "26,30 $",
+    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/ef0a776d-6405-8b64-dfec-162cb4e120cb.png",
+    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=472a540970&e=c11422f941",
+    "agence": "réZin",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "GRÜNER VELTLINER TERRASSEN TROCKEN",
+      "description": "Alwin Jurtschitsch et Stefanie Hasselbach ont repris le domaine familial de Langenlois il y a près de 20 ans et ils ont converti le vignoble à l’agriculture biologique. Leurs vins sont élaborés sans ajout de levure et avec un minimum d’intrants. À l’apéro, on ne demande pas mieux que ce grüner issu des terrasses de gneiss et de loess qui bordent le Danube. Tout y est : un léger perlant, de la fraîcheur, une finale saline et de délicates notes végétales et poivrées, caractéristiques du cépage blanc emblématique de l’Autriche. Net, précis, impeccable!",
+      "price": "26,30 $",
+      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/ef0a776d-6405-8b64-dfec-162cb4e120cb.png",
+      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=472a540970&e=c11422f941",
+      "producer": "WEINGUT JURTSCHITSCH",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": [
+        "grüner veltliner"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "GRÜNER VELTLINER TERRASSEN TROCKEN",
+          "description": "Alwin Jurtschitsch et Stefanie Hasselbach ont repris le domaine familial de Langenlois il y a près de 20 ans et ils ont converti le vignoble à l’agriculture biologique. Leurs vins sont élaborés sans ajout de levure et avec un minimum d’intrants. À l’apéro, on ne demande pas mieux que ce grüner issu des terrasses de gneiss et de loess qui bordent le Danube. Tout y est : un léger perlant, de la fraîcheur, une finale saline et de délicates notes végétales et poivrées, caractéristiques du cépage blanc emblématique de l’Autriche. Net, précis, impeccable!",
+          "price": "26,30 $",
+          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/ef0a776d-6405-8b64-dfec-162cb4e120cb.png",
+          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=472a540970&e=c11422f941",
+          "producer": "WEINGUT JURTSCHITSCH",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": [
+            "grüner veltliner"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "GRÜNER VELTLINER TERRASSEN TROCKEN is an impeccable expression of Austria's iconic grape, showcasing a slight effervescence, refreshing salinity, and delicate herbal and peppery notes, all crafted organically for a pure tasting experience."
+  },
+  {
+    "id": "file-2025-10-14-noble-selection-0.html-weingut-markus-huber",
+    "blockId": "file-2025-10-14-noble-selection-0.html",
+    "createdAt": "2025-10-14T00:00:00.000Z",
+    "name": "Weingut Markus Huber",
+    "description": "Venez déguster les vins de Weingut Markus Huber!",
+    "price": null,
+    "image_url": "https://mcusercontent.com/3cbe129d9fba7fd6a0d135511/images/4ce33ded-0595-8f39-9867-f10effda9ef6.jpg",
+    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=a44f0d1454&e=2c9a262afa",
+    "agence": "Noble Sélection",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Weingut Markus Huber",
+      "description": "Venez déguster les vins de Weingut Markus Huber!",
+      "price": null,
+      "image_url": "https://mcusercontent.com/3cbe129d9fba7fd6a0d135511/images/4ce33ded-0595-8f39-9867-f10effda9ef6.jpg",
+      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=a44f0d1454&e=2c9a262afa",
+      "producer": "Weingut Markus Huber",
+      "region": null,
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Weingut Markus Huber",
+          "description": "Venez déguster les vins de Weingut Markus Huber!",
+          "price": null,
+          "image_url": "https://mcusercontent.com/3cbe129d9fba7fd6a0d135511/images/4ce33ded-0595-8f39-9867-f10effda9ef6.jpg",
+          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=a44f0d1454&e=2c9a262afa",
+          "producer": "Weingut Markus Huber",
+          "region": null,
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
     "id": "file-2025-10-14-vin-dame-jeanne-0.html-vdf-merlot-2021",
     "blockId": "file-2025-10-14-vin-dame-jeanne-0.html",
     "createdAt": "2025-10-14T00:00:00.000Z",
     "name": "VDF, Merlot, 2021",
     "description": "Sur un millésime compliqué comme 2021, Marthe a fait appel à son amie Claire du Château Gombaude-Guillot à Pomerol! Raisins 100% égrappés, avec une macération sans trop d'extraction, et un élevage de 18 mois dans sa cave à Meursault. Un résultat tout en finesse, bourré de fraicheur et de délicatesse. Une réussite!",
-    "price": "Particulier 134.06 | Restaurant 111.79 | IP 6",
+    "price": "134,06$",
     "image_url": null,
     "link": null,
     "agence": "Vin Dame-Jeanne",
@@ -13,7 +416,7 @@
     "raw_data": {
       "name": "VDF, Merlot, 2021",
       "description": "Sur un millésime compliqué comme 2021, Marthe a fait appel à son amie Claire du Château Gombaude-Guillot à Pomerol! Raisins 100% égrappés, avec une macération sans trop d'extraction, et un élevage de 18 mois dans sa cave à Meursault. Un résultat tout en finesse, bourré de fraicheur et de délicatesse. Une réussite!",
-      "price": "Particulier 134.06 | Restaurant 111.79 | IP 6",
+      "price": "134,06$",
       "image_url": null,
       "link": null,
       "producer": "Marthe Henry",
@@ -29,7 +432,7 @@
         {
           "name": "VDF, Merlot, 2021",
           "description": "Sur un millésime compliqué comme 2021, Marthe a fait appel à son amie Claire du Château Gombaude-Guillot à Pomerol! Raisins 100% égrappés, avec une macération sans trop d'extraction, et un élevage de 18 mois dans sa cave à Meursault. Un résultat tout en finesse, bourré de fraicheur et de délicatesse. Une réussite!",
-          "price": "Particulier 134.06 | Restaurant 111.79 | IP 6",
+          "price": "134,06$",
           "image_url": null,
           "link": null,
           "producer": "Marthe Henry",
@@ -45,400 +448,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "In the challenging 2021 vintage, Marthe collaborated with Claire from Château Gombaude-Guillot, crafting a Merlot that embodies finesse and freshness, with 18 months of aging in Meursault's cellar, resulting in a delicate and successful expression of the grape."
-  },
-  {
-    "id": "file-2025-10-10-noble-selection-0.html-saumur-buvons-des-fruits-2024",
-    "blockId": "file-2025-10-10-noble-selection-0.html",
-    "createdAt": "2025-10-10T00:00:00.000Z",
-    "name": "Saumur Buvons des Fruits 2024",
-    "description": "Depuis six générations, la tradition familiale se poursuit chez les Fouet. Aux commandes de ce domaine de 22 hectares situé au cœur de l'appellation Saumur Champigny, Julien y pratique une agriculture biologique. Issu d’une macération carbonique, la cuvée Buvons des Fruits rouge est un vin issue de l'agriculture biologique, naturel, non levuré et sans sulfite ajouté.",
-    "price": "26,15$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-fouet-saumur-buvons-des-fruits-2022-copie.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6475f25ac6&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Saumur Buvons des Fruits 2024",
-      "description": "Depuis six générations, la tradition familiale se poursuit chez les Fouet. Aux commandes de ce domaine de 22 hectares situé au cœur de l'appellation Saumur Champigny, Julien y pratique une agriculture biologique. Issu d’une macération carbonique, la cuvée Buvons des Fruits rouge est un vin issue de l'agriculture biologique, naturel, non levuré et sans sulfite ajouté.",
-      "price": "26,15$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-fouet-saumur-buvons-des-fruits-2022-copie.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6475f25ac6&e=2c9a262afa",
-      "producer": "DOMAINE FOUET",
-      "region": "Vallée de la Loire",
-      "vintage": "2024",
-      "grape_varieties": [
-        "Cabernet Franc"
-      ],
-      "alcohol_content": "12.7%",
-      "volume": "750ml",
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Saumur Buvons des Fruits 2024",
-          "description": "Depuis six générations, la tradition familiale se poursuit chez les Fouet. Aux commandes de ce domaine de 22 hectares situé au cœur de l'appellation Saumur Champigny, Julien y pratique une agriculture biologique. Issu d’une macération carbonique, la cuvée Buvons des Fruits rouge est un vin issue de l'agriculture biologique, naturel, non levuré et sans sulfite ajouté.",
-          "price": "26,15$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_domaine-fouet-saumur-buvons-des-fruits-2022-copie.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=6475f25ac6&e=2c9a262afa",
-          "producer": "DOMAINE FOUET",
-          "region": "Vallée de la Loire",
-          "vintage": "2024",
-          "grape_varieties": [
-            "Cabernet Franc"
-          ],
-          "alcohol_content": "12.7%",
-          "volume": "750ml",
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "The Saumur Buvons des Fruits 2024, crafted by the Fouet family over six generations, is a vibrant, organic red wine born from carbonic maceration, showcasing a pure and natural expression without added sulfites."
-  },
-  {
-    "id": "file-2025-10-10-noble-selection-0.html-chateau-guiraud-le-g-de-guiraud-2024",
-    "blockId": "file-2025-10-10-noble-selection-0.html",
-    "createdAt": "2025-10-10T00:00:00.000Z",
-    "name": "Château Guiraud Le G de Guiraud 2024",
-    "description": null,
-    "price": "34,25$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_g-chateau-guiraud-2023.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4f88724396&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Château Guiraud Le G de Guiraud 2024",
-      "description": null,
-      "price": "34,25$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_g-chateau-guiraud-2023.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4f88724396&e=2c9a262afa",
-      "producer": "LA PASSION DES TERROIRS",
-      "region": null,
-      "vintage": "2024",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Château Guiraud Le G de Guiraud 2024",
-          "description": null,
-          "price": "34,25$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_g-chateau-guiraud-2023.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4f88724396&e=2c9a262afa",
-          "producer": "LA PASSION DES TERROIRS",
-          "region": null,
-          "vintage": "2024",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-10-10-noble-selection-0.html-chateau-castigno-pinard-de-rochard-2023",
-    "blockId": "file-2025-10-10-noble-selection-0.html",
-    "createdAt": "2025-10-10T00:00:00.000Z",
-    "name": "Château Castigno Pinard de Rochard 2023",
-    "description": null,
-    "price": "20,85$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-de-castigno-pinard-de-rochard_2.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=344c434f84&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Château Castigno Pinard de Rochard 2023",
-      "description": null,
-      "price": "20,85$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-de-castigno-pinard-de-rochard_2.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=344c434f84&e=2c9a262afa",
-      "producer": "CHÂTEAU CASTIGNO",
-      "region": null,
-      "vintage": "2023",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Château Castigno Pinard de Rochard 2023",
-          "description": null,
-          "price": "20,85$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_chateau-de-castigno-pinard-de-rochard_2.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=344c434f84&e=2c9a262afa",
-          "producer": "CHÂTEAU CASTIGNO",
-          "region": null,
-          "vintage": "2023",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-10-10-noble-selection-0.html-hippie-love-2022",
-    "blockId": "file-2025-10-10-noble-selection-0.html",
-    "createdAt": "2025-10-10T00:00:00.000Z",
-    "name": "Hippie Love 2022",
-    "description": "Sous son chapeau couronne brille un rouge rubis qui laisse passer la lumière partout. La typicité du cépage Criolla montre à quel point il est sa beauté. Revenir au début. Esprit hippie, indomptable et libre. Facile à boire, sans virage. Des fruits et des épices dans une finale moyenne. Un vin frais et heureux",
-    "price": "25,40$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_hippie-love-tinto-2020.jpg",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=736423f774&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Hippie Love 2022",
-      "description": "Sous son chapeau couronne brille un rouge rubis qui laisse passer la lumière partout. La typicité du cépage Criolla montre à quel point il est sa beauté. Revenir au début. Esprit hippie, indomptable et libre. Facile à boire, sans virage. Des fruits et des épices dans une finale moyenne. Un vin frais et heureux",
-      "price": "25,40$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_hippie-love-tinto-2020.jpg",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=736423f774&e=2c9a262afa",
-      "producer": "ERNESTO CATENA",
-      "region": "Mendoza, Argentine",
-      "vintage": "2022",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Hippie Love 2022",
-          "description": "Sous son chapeau couronne brille un rouge rubis qui laisse passer la lumière partout. La typicité du cépage Criolla montre à quel point il est sa beauté. Revenir au début. Esprit hippie, indomptable et libre. Facile à boire, sans virage. Des fruits et des épices dans une finale moyenne. Un vin frais et heureux",
-          "price": "25,40$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_hippie-love-tinto-2020.jpg",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=736423f774&e=2c9a262afa",
-          "producer": "ERNESTO CATENA",
-          "region": "Mendoza, Argentine",
-          "vintage": "2022",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Hippie Love 2022 dazzles with its ruby hue and embodies the free spirit of the Criolla grape, offering a delightful blend of fruits and spices in a fresh, easy-drinking style that celebrates joy and liberation."
-  },
-  {
-    "id": "file-2025-10-10-noble-selection-0.html-bottega-pink-gold-prosecco-2024",
-    "blockId": "file-2025-10-10-noble-selection-0.html",
-    "createdAt": "2025-10-10T00:00:00.000Z",
-    "name": "Bottega Pink Gold Prosecco 2024",
-    "description": null,
-    "price": "32,00$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-gold-pink.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=b9c470eea5&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Bottega Pink Gold Prosecco 2024",
-      "description": null,
-      "price": "32,00$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-gold-pink.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=b9c470eea5&e=2c9a262afa",
-      "producer": "BOTTEGA",
-      "region": null,
-      "vintage": "2024",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Bottega Pink Gold Prosecco 2024",
-          "description": null,
-          "price": "32,00$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_bottega-gold-pink.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=b9c470eea5&e=2c9a262afa",
-          "producer": "BOTTEGA",
-          "region": null,
-          "vintage": "2024",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-10-10-noble-selection-0.html-alentejo-2024",
-    "blockId": "file-2025-10-10-noble-selection-0.html",
-    "createdAt": "2025-10-10T00:00:00.000Z",
-    "name": "Alentejo 2024",
-    "description": null,
-    "price": "21,55$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_coelheiros-2018.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=1b6a335c6a&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Alentejo 2024",
-      "description": null,
-      "price": "21,55$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_coelheiros-2018.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=1b6a335c6a&e=2c9a262afa",
-      "producer": "HERDADE DE COELHEIROS",
-      "region": null,
-      "vintage": "2024",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Alentejo 2024",
-          "description": null,
-          "price": "21,55$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_coelheiros-2018.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=1b6a335c6a&e=2c9a262afa",
-          "producer": "HERDADE DE COELHEIROS",
-          "region": null,
-          "vintage": "2024",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-10-10-noble-selection-0.html-pinot-noir-2023",
-    "blockId": "file-2025-10-10-noble-selection-0.html",
-    "createdAt": "2025-10-10T00:00:00.000Z",
-    "name": "Pinot Noir 2023",
-    "description": "100% vendangé à la main et 100% égrappé puis foulé. La fermentation en levures indigènes dure 2 semaines de cuvaison totale puis remontage 2 fois par jour et enfin 7 mois de maturation en cuve.",
-    "price": "24,45$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_kumeu-village-pinot-noir-2021.jpg",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5bb649ff7c&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Pinot Noir 2023",
-      "description": "100% vendangé à la main et 100% égrappé puis foulé. La fermentation en levures indigènes dure 2 semaines de cuvaison totale puis remontage 2 fois par jour et enfin 7 mois de maturation en cuve.",
-      "price": "24,45$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_kumeu-village-pinot-noir-2021.jpg",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5bb649ff7c&e=2c9a262afa",
-      "producer": "Kumeu River",
-      "region": "North Island, Nouvelle-Zélande",
-      "vintage": "2023",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Pinot Noir 2023",
-          "description": "100% vendangé à la main et 100% égrappé puis foulé. La fermentation en levures indigènes dure 2 semaines de cuvaison totale puis remontage 2 fois par jour et enfin 7 mois de maturation en cuve.",
-          "price": "24,45$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_kumeu-village-pinot-noir-2021.jpg",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=5bb649ff7c&e=2c9a262afa",
-          "producer": "Kumeu River",
-          "region": "North Island, Nouvelle-Zélande",
-          "vintage": "2023",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "The 2023 Pinot Noir, meticulously hand-harvested and destemmed, undergoes a two-week fermentation with indigenous yeasts, followed by a careful seven-month maturation in tank, promising a refined and expressive character."
-  },
-  {
-    "id": "file-2025-10-10-noble-selection-0.html-monemvasia-asproudi-2023",
-    "blockId": "file-2025-10-10-noble-selection-0.html",
-    "createdAt": "2025-10-10T00:00:00.000Z",
-    "name": "Monemvasia Asproudi 2023",
-    "description": null,
-    "price": "20,65$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_asproudi-2023---monemvasia.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=c7e1fb6a59&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Monemvasia Asproudi 2023",
-      "description": null,
-      "price": "20,65$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_asproudi-2023---monemvasia.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=c7e1fb6a59&e=2c9a262afa",
-      "producer": "MONEMVASIA",
-      "region": null,
-      "vintage": "2023",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Monemvasia Asproudi 2023",
-          "description": null,
-          "price": "20,65$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_asproudi-2023---monemvasia.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=c7e1fb6a59&e=2c9a262afa",
-          "producer": "MONEMVASIA",
-          "region": null,
-          "vintage": "2023",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-10-10-noble-selection-0.html-monemvasia-kydonitsa-2023",
-    "blockId": "file-2025-10-10-noble-selection-0.html",
-    "createdAt": "2025-10-10T00:00:00.000Z",
-    "name": "Monemvasia Kydonitsa 2023",
-    "description": null,
-    "price": "21,10$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_monemvasia-kydonitsa-2022.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fd2b742f35&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": null,
-    "raw_data": {
-      "name": "Monemvasia Kydonitsa 2023",
-      "description": null,
-      "price": "21,10$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_monemvasia-kydonitsa-2022.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fd2b742f35&e=2c9a262afa",
-      "producer": "MONEMVASIA",
-      "region": null,
-      "vintage": "2023",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": null,
-      "all_occurrences_raw_data": [
-        {
-          "name": "Monemvasia Kydonitsa 2023",
-          "description": null,
-          "price": "21,10$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_monemvasia-kydonitsa-2022.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=fd2b742f35&e=2c9a262afa",
-          "producer": "MONEMVASIA",
-          "region": null,
-          "vintage": "2023",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": null
-        }
-      ],
-      "agence_was_defaulted": false
-    }
+    "summary": "VDF Merlot 2021 is a refined and delicate wine, showcasing the finesse achieved through careful maceration and 18 months of aging, resulting in a fresh and elegant expression from a challenging vintage."
   }
 ]
