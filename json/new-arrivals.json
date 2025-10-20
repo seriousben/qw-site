@@ -49,7 +49,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ciuchino 2022 showcases the historic Barbera grapes of Cascina Valle Asinari, thriving in the calcareous soils of Monferrato, resulting in exquisite Barbera d'Asti Superiore and Nizza DOCG wines that embody the essence of the Piedmont region."
+    "summary": "Ciuchino 2022 showcases the historic Barbera grapes from the Monferrato hills, where the unique sandstone and limestone soils elevate this wine to the heights of Barbera d'Asti Superiore and Nizza DOCG excellence."
   },
   {
     "id": "file-2025-10-17-noble-selection-0.html-montlouis-sur-loire-levanescente-extra-brut",
@@ -61,7 +61,7 @@
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_complices-de-loire-montlouis-sur-loire-l-evanescente-extra-brut.png",
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=bef3c193e1&e=2c9a262afa",
     "agence": "Noble Sélection",
-    "disponibilite": null,
+    "disponibilite": "SAQ",
     "raw_data": {
       "name": "Montlouis-sur-Loire L'Evanescente Extra Brut",
       "description": "Le vignoble s'étend sur une superficie de deux hectares, avec un rendement de 40 hl/ha. Les vignes sont âgées d'une trentaine d'années et sont plantées sur un sol composé d'argile et de silex. La vinification se fait dans des cuves en inox.",
@@ -74,7 +74,7 @@
       "grape_varieties": null,
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": null,
+      "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
           "name": "Montlouis-sur-Loire L'Evanescente Extra Brut",
@@ -88,12 +88,12 @@
           "grape_varieties": null,
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": null
+          "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Montlouis-sur-Loire L'Evanescente Extra Brut is a refined sparkling wine crafted from thirty-year-old vines, flourishing in clay and flint soils, and vinified in stainless steel to preserve its vibrant character."
+    "summary": "Montlouis-sur-Loire L'Evanescente Extra Brut is a refined sparkling wine crafted from thirty-year-old vines, showcasing a delicate balance of minerality from clay and flint soils, and a crisp, refreshing finish."
   },
   {
     "id": "file-2025-10-17-noble-selection-0.html-pinot-gris-2023",
@@ -309,7 +309,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Librares Blanco 2024 is a fresh and precise Spanish white, with delicate floral notes that elevate the simplicity of seafood pizza to a realm of refined elegance."
+    "summary": "Librares Blanco 2024 is a fresh and precise Spanish white, subtly floral, that elevates the simplicity of a seafood pizza bianca into a refined culinary experience."
   },
   {
     "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-a-ma-guise-2024",
@@ -353,7 +353,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "À ma guise 2024 is a light, sun-kissed red that harmoniously complements the classic margarita pizza, with juicy fruit that enhances rather than overshadows its flavors."
+    "summary": "À ma guise 2024 is a vibrant, light red that dances harmoniously with the flavors of a classic margherita pizza, offering juicy fruit without overpowering the dish."
   },
   {
     "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-obelix-2023",
@@ -397,7 +397,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "O'belix 2023 is a complex yet refreshing natural orange wine, featuring citrus and subtle creamy notes, with a silky texture that pairs beautifully with herb-infused ricotta pizza or roasted mushroom dishes."
+    "summary": "O'belix 2023 is a complex and refreshing orange wine, featuring citrus and subtle creamy notes, with a silky texture that pairs beautifully with herb-infused ricotta pizza or roasted garlic mushrooms."
   },
   {
     "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-chiassobuio-2014",
@@ -441,7 +441,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Chiassobuio 2014 is a robust Tuscan red, perfectly suited for indulgent pizzas topped with nduja or rich sausage, embodying maturity and depth with a noble character."
+    "summary": "Chiassobuio 2014 is a robust Tuscan red, perfectly suited for indulgent pizzas topped with nduja or pepperoni, showcasing a mature depth and noble character."
   },
   {
     "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-arbalete-et-coquelicots-2024",
@@ -485,7 +485,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Arbalète et Coquelicots 2024 is a charming, spicy Mediterranean wine that resonates with the vibrant flavors of a Provençal pizza, evoking the essence of the South."
+    "summary": "Arbalète et Coquelicots 2024 is a charming Mediterranean wine, bursting with spice, that sings alongside a Provençal pizza adorned with anchovies, peppers, and black olives."
   },
   {
     "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-zero-zero-2023",
@@ -529,7 +529,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Zero Zero 2023 is a refreshing Douro red that defies expectations with its bright hue and vibrant fruit, offering a lightness that pairs wonderfully with grilled vegetable or crispy chorizo pizzas."
+    "summary": "Zero Zero 2023 is a refreshing Douro red that defies expectations with its bright hue and vibrant fruit profile, offering a light, breezy experience reminiscent of sun-kissed strawberries and cherries."
   },
   {
     "id": "file-2025-10-16-rezin-0.html-vin-blanc-de-vouvray",
@@ -537,7 +537,7 @@
     "createdAt": "2025-10-16T00:00:00.000Z",
     "name": "Vin blanc de Vouvray",
     "description": "Vin blanc superbe, presque tanique, dont la structure porte la générosité en une longue finale gracieuse, puissante, complexe. Amateur de chenin blanc: même à près de 30$, c’est une aubaine!",
-    "price": "30,00$",
+    "price": "30,00 $",
     "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/c7ca334d-ad10-9e4c-ec1b-4ef2f625d4d3.png",
     "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=6560ad54e9&e=c11422f941",
     "agence": "réZin",
@@ -545,7 +545,7 @@
     "raw_data": {
       "name": "Vin blanc de Vouvray",
       "description": "Vin blanc superbe, presque tanique, dont la structure porte la générosité en une longue finale gracieuse, puissante, complexe. Amateur de chenin blanc: même à près de 30$, c’est une aubaine!",
-      "price": "30,00$",
+      "price": "30,00 $",
       "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/c7ca334d-ad10-9e4c-ec1b-4ef2f625d4d3.png",
       "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=6560ad54e9&e=c11422f941",
       "producer": "Vin blanc de Vouvray",
@@ -561,7 +561,7 @@
         {
           "name": "Vin blanc de Vouvray",
           "description": "Vin blanc superbe, presque tanique, dont la structure porte la générosité en une longue finale gracieuse, puissante, complexe. Amateur de chenin blanc: même à près de 30$, c’est une aubaine!",
-          "price": "30,00$",
+          "price": "30,00 $",
           "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/c7ca334d-ad10-9e4c-ec1b-4ef2f625d4d3.png",
           "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=6560ad54e9&e=c11422f941",
           "producer": "Vin blanc de Vouvray",
@@ -577,7 +577,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "This superb Vouvray white wine boasts a near-tannic structure, delivering a powerful and complex profile with a graceful, lingering finish, making it an exceptional value for Chenin Blanc enthusiasts."
+    "summary": "This superb Vouvray white wine boasts a near-tannic structure, delivering a powerful and complex finish that embodies the generosity of Chenin Blanc, making it an exceptional value."
   },
   {
     "id": "file-2025-10-16-rezin-0.html-emilio-valerio",
@@ -633,7 +633,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Emilio Valerio is a captivating blend dominated by Grenache, enriched with Tempranillo, Merlot, Cabernet Sauvignon, and Graciano, offering ripe red and black fruit aromas with hints of spice and cocoa, culminating in a round, dry palate with subtle animal notes."
+    "summary": "Emilio Valerio is a captivating blend dominated by Grenache, enriched with ripe red and black fruits, subtle spices, and a hint of cocoa, offering a round and luscious mouthfeel with a touch of animal notes."
   },
   {
     "id": "file-2025-10-16-rezin-0.html-weingut-jurtschitsch-gruner-veltliner-terrassen-tr",
@@ -681,7 +681,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "WEINGUT JURTSCHITSCH Grüner Veltliner Terrassen Trocken is a pristine organic wine from the terraces along the Danube, featuring a slight effervescence, refreshing salinity, and delicate herbal and peppery notes that exemplify Austria's iconic white grape."
+    "summary": "Weingut Jurtschitsch Grüner Veltliner Terrassen Trocken is a vibrant, organic wine from the terraces along the Danube, showcasing a refreshing effervescence, saline finish, and characteristic peppery notes of this iconic Austrian varietal."
   },
   {
     "id": "file-2025-10-14-noble-selection-0.html-weingut-markus-huber",
@@ -732,7 +732,7 @@
     "createdAt": "2025-10-14T00:00:00.000Z",
     "name": "VDF, Merlot, 2021",
     "description": "Sur un millésime compliqué comme 2021, Marthe a fait appel à son amie Claire du Château Gombaude-Guillot à Pomerol! Raisins 100% égrappés, avec une macération sans trop d'extraction, et un élevage de 18 mois dans sa cave à Meursault. Un résultat tout en finesse, bourré de fraicheur et de délicatesse. Une réussite!",
-    "price": "Particulier 134.06 | Restaurant 111.79 | IP 6",
+    "price": "134,06$",
     "image_url": null,
     "link": null,
     "agence": "Vin Dame-Jeanne",
@@ -740,7 +740,7 @@
     "raw_data": {
       "name": "VDF, Merlot, 2021",
       "description": "Sur un millésime compliqué comme 2021, Marthe a fait appel à son amie Claire du Château Gombaude-Guillot à Pomerol! Raisins 100% égrappés, avec une macération sans trop d'extraction, et un élevage de 18 mois dans sa cave à Meursault. Un résultat tout en finesse, bourré de fraicheur et de délicatesse. Une réussite!",
-      "price": "Particulier 134.06 | Restaurant 111.79 | IP 6",
+      "price": "134,06$",
       "image_url": null,
       "link": null,
       "producer": "Marthe Henry",
@@ -756,7 +756,7 @@
         {
           "name": "VDF, Merlot, 2021",
           "description": "Sur un millésime compliqué comme 2021, Marthe a fait appel à son amie Claire du Château Gombaude-Guillot à Pomerol! Raisins 100% égrappés, avec une macération sans trop d'extraction, et un élevage de 18 mois dans sa cave à Meursault. Un résultat tout en finesse, bourré de fraicheur et de délicatesse. Une réussite!",
-          "price": "Particulier 134.06 | Restaurant 111.79 | IP 6",
+          "price": "134,06$",
           "image_url": null,
           "link": null,
           "producer": "Marthe Henry",
@@ -772,6 +772,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "VDF Merlot 2021 is a finely crafted wine, showcasing 100% destemmed grapes with gentle maceration and 18 months of aging in Meursault, resulting in a fresh and delicate expression that shines in a challenging vintage."
+    "summary": "VDF Merlot 2021 is a finely crafted wine, born from a challenging vintage, showcasing a delicate freshness and finesse achieved through gentle maceration and 18 months of aging in Meursault."
   }
 ]
