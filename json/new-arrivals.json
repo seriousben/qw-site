@@ -1,11 +1,398 @@
 [
   {
+    "id": "file-2025-10-22-wino-import-0.html-domaine-les-hautes-noelles",
+    "blockId": "file-2025-10-22-wino-import-0.html",
+    "createdAt": "2025-10-22T00:00:00.000Z",
+    "name": "Domaine Les Hautes Noëlles",
+    "description": "AOP Muscadet-Côtes-de-Grandlieu, Les Parcelles",
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Domaine Les Hautes Noëlles",
+      "description": "AOP Muscadet-Côtes-de-Grandlieu, Les Parcelles",
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Les Hautes Noëlles",
+      "region": "Muscadet-Côtes-de-Grandlieu",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Domaine Les Hautes Noëlles",
+          "description": "AOP Muscadet-Côtes-de-Grandlieu, Les Parcelles",
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Les Hautes Noëlles",
+          "region": "Muscadet-Côtes-de-Grandlieu",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-22-wino-import-0.html-la-bauge-elementair",
+    "blockId": "file-2025-10-22-wino-import-0.html",
+    "createdAt": "2025-10-22T00:00:00.000Z",
+    "name": "La Bauge - Élément'Air",
+    "description": null,
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "La Bauge - Élément'Air",
+      "description": null,
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "La Bauge",
+      "region": null,
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "La Bauge - Élément'Air",
+          "description": null,
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "La Bauge",
+          "region": null,
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-22-wino-import-0.html-la-bauge-elementterre",
+    "blockId": "file-2025-10-22-wino-import-0.html",
+    "createdAt": "2025-10-22T00:00:00.000Z",
+    "name": "La Bauge - Élément'Terre",
+    "description": null,
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "La Bauge - Élément'Terre",
+      "description": null,
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "La Bauge",
+      "region": null,
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "La Bauge - Élément'Terre",
+          "description": null,
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "La Bauge",
+          "region": null,
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-22-wino-import-0.html-la-bauge-les-beaux-jus-rouge",
+    "blockId": "file-2025-10-22-wino-import-0.html",
+    "createdAt": "2025-10-22T00:00:00.000Z",
+    "name": "La Bauge - Les Beaux Jus Rouge",
+    "description": null,
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "La Bauge - Les Beaux Jus Rouge",
+      "description": null,
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "La Bauge",
+      "region": null,
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "La Bauge - Les Beaux Jus Rouge",
+          "description": null,
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "La Bauge",
+          "region": null,
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-22-wino-import-0.html-la-bauge-voltige",
+    "blockId": "file-2025-10-22-wino-import-0.html",
+    "createdAt": "2025-10-22T00:00:00.000Z",
+    "name": "La Bauge - Voltige",
+    "description": null,
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "La Bauge - Voltige",
+      "description": null,
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "La Bauge",
+      "region": null,
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "La Bauge - Voltige",
+          "description": null,
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "La Bauge",
+          "region": null,
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-22-wino-import-0.html-la-bauge-regeneration",
+    "blockId": "file-2025-10-22-wino-import-0.html",
+    "createdAt": "2025-10-22T00:00:00.000Z",
+    "name": "La Bauge - Régénération",
+    "description": null,
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "La Bauge - Régénération",
+      "description": null,
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "La Bauge",
+      "region": null,
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "La Bauge - Régénération",
+          "description": null,
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "La Bauge",
+          "region": null,
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-22-wino-import-0.html-andre-rohrer-nouvelle-lune",
+    "blockId": "file-2025-10-22-wino-import-0.html",
+    "createdAt": "2025-10-22T00:00:00.000Z",
+    "name": "André Rohrer - Nouvelle Lune",
+    "description": null,
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "André Rohrer - Nouvelle Lune",
+      "description": null,
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "André Rohrer",
+      "region": "Alsace",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "André Rohrer - Nouvelle Lune",
+          "description": null,
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "André Rohrer",
+          "region": "Alsace",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-22-wino-import-0.html-domaine-le-briseau-cot-et-coeur",
+    "blockId": "file-2025-10-22-wino-import-0.html",
+    "createdAt": "2025-10-22T00:00:00.000Z",
+    "name": "Domaine Le Briseau - Côt et Coeur",
+    "description": null,
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Domaine Le Briseau - Côt et Coeur",
+      "description": null,
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Le Briseau",
+      "region": null,
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Domaine Le Briseau - Côt et Coeur",
+          "description": null,
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Le Briseau",
+          "region": null,
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-22-wino-import-0.html-domaine-bertin-delatte-lechalier",
+    "blockId": "file-2025-10-22-wino-import-0.html",
+    "createdAt": "2025-10-22T00:00:00.000Z",
+    "name": "Domaine Bertin-Delatte - L'Échalier",
+    "description": null,
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Domaine Bertin-Delatte - L'Échalier",
+      "description": null,
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Bertin-Delatte",
+      "region": null,
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Domaine Bertin-Delatte - L'Échalier",
+          "description": null,
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Bertin-Delatte",
+          "region": null,
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
     "id": "file-2025-10-20-bambara-selection-0.html-gulfi-nero-sanlore-2019",
     "blockId": "file-2025-10-20-bambara-selection-0.html",
     "createdAt": "2025-10-20T00:00:00.000Z",
     "name": "Gulfi, Nero Sanloré 2019",
     "description": "Un modèle d’élégance sicilienne! Situé entre Pachino et Noto, le vignoble de San Lorenzo s’étend sur 2,5 hectares de sols sablonneux rouges, tout près de la mer Méditerranée. Tout comme les autres grands vins de Gulfi, ce cru est composé à 100% de nero d’avola cultivé sur la pointe sud-est de la Sicile, là où sont localisés les meilleurs terroirs pour ce cépage autochtone. Planté il y a plus de 40 ans, ce cru emblématique de Gulfi révèle le côté le plus raffiné du Nero d’Avola : floral, soyeux, avec une belle minéralité et d’une précision et pureté remarquable. Le vignoble, situé à 10 mètres d’altitude est cultivé en agriculture biologique, non irrigué, taillé en gobelet (alberello) et récolté manuellement. Le sol de sable rouge confère aux tannins une élégance naturelle et une texture soyeuse incomparable, la signature du Sanloré. Un bouquet irrésistible de prunes écrasées, pétales de rose, lavande et violette confite. Un modèle de grâce et d’élégance à la texture soyeuse, aux fruits rouges et pourpres mûrs rehaussés par des agrumes et une acidité vive et stimulante. La finale est longue, vibrante, avec des tanins doux et des notes persistantes de mandarine et de mûre. À tomber! Un Nero d’Avola somptueux. (À boire entre 2023 et 2033.) Le Nero Sanloré 2019 charme dès aujourd’hui par son équilibre, sa finesse et son élégance, tout en promettant une belle évolution en cave. Il s’accorde magnifiquement avec des viandes rouges grillées, du gibier ou des fromages affinés, où sa structure et sa fraîcheur s'agenceront parfaitement. Splendide dès maintenant; mais faites-vous plaisir : gardez-en une deuxième pour la cave… vous verrez, magie pure! 😉",
-    "price": "71,75 $",
+    "price": "71,75$",
     "image_url": null,
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=7bb9bfaec5&e=a09c2580fc",
     "agence": "Bambara Selection",
@@ -13,7 +400,7 @@
     "raw_data": {
       "name": "Gulfi, Nero Sanloré 2019",
       "description": "Un modèle d’élégance sicilienne! Situé entre Pachino et Noto, le vignoble de San Lorenzo s’étend sur 2,5 hectares de sols sablonneux rouges, tout près de la mer Méditerranée. Tout comme les autres grands vins de Gulfi, ce cru est composé à 100% de nero d’avola cultivé sur la pointe sud-est de la Sicile, là où sont localisés les meilleurs terroirs pour ce cépage autochtone. Planté il y a plus de 40 ans, ce cru emblématique de Gulfi révèle le côté le plus raffiné du Nero d’Avola : floral, soyeux, avec une belle minéralité et d’une précision et pureté remarquable. Le vignoble, situé à 10 mètres d’altitude est cultivé en agriculture biologique, non irrigué, taillé en gobelet (alberello) et récolté manuellement. Le sol de sable rouge confère aux tannins une élégance naturelle et une texture soyeuse incomparable, la signature du Sanloré. Un bouquet irrésistible de prunes écrasées, pétales de rose, lavande et violette confite. Un modèle de grâce et d’élégance à la texture soyeuse, aux fruits rouges et pourpres mûrs rehaussés par des agrumes et une acidité vive et stimulante. La finale est longue, vibrante, avec des tanins doux et des notes persistantes de mandarine et de mûre. À tomber! Un Nero d’Avola somptueux. (À boire entre 2023 et 2033.) Le Nero Sanloré 2019 charme dès aujourd’hui par son équilibre, sa finesse et son élégance, tout en promettant une belle évolution en cave. Il s’accorde magnifiquement avec des viandes rouges grillées, du gibier ou des fromages affinés, où sa structure et sa fraîcheur s'agenceront parfaitement. Splendide dès maintenant; mais faites-vous plaisir : gardez-en une deuxième pour la cave… vous verrez, magie pure! 😉",
-      "price": "71,75 $",
+      "price": "71,75$",
       "image_url": null,
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=7bb9bfaec5&e=a09c2580fc",
       "producer": "Gulfi",
@@ -29,7 +416,7 @@
         {
           "name": "Gulfi, Nero Sanloré 2019",
           "description": "Un modèle d’élégance sicilienne! Situé entre Pachino et Noto, le vignoble de San Lorenzo s’étend sur 2,5 hectares de sols sablonneux rouges, tout près de la mer Méditerranée. Tout comme les autres grands vins de Gulfi, ce cru est composé à 100% de nero d’avola cultivé sur la pointe sud-est de la Sicile, là où sont localisés les meilleurs terroirs pour ce cépage autochtone. Planté il y a plus de 40 ans, ce cru emblématique de Gulfi révèle le côté le plus raffiné du Nero d’Avola : floral, soyeux, avec une belle minéralité et d’une précision et pureté remarquable. Le vignoble, situé à 10 mètres d’altitude est cultivé en agriculture biologique, non irrigué, taillé en gobelet (alberello) et récolté manuellement. Le sol de sable rouge confère aux tannins une élégance naturelle et une texture soyeuse incomparable, la signature du Sanloré. Un bouquet irrésistible de prunes écrasées, pétales de rose, lavande et violette confite. Un modèle de grâce et d’élégance à la texture soyeuse, aux fruits rouges et pourpres mûrs rehaussés par des agrumes et une acidité vive et stimulante. La finale est longue, vibrante, avec des tanins doux et des notes persistantes de mandarine et de mûre. À tomber! Un Nero d’Avola somptueux. (À boire entre 2023 et 2033.) Le Nero Sanloré 2019 charme dès aujourd’hui par son équilibre, sa finesse et son élégance, tout en promettant une belle évolution en cave. Il s’accorde magnifiquement avec des viandes rouges grillées, du gibier ou des fromages affinés, où sa structure et sa fraîcheur s'agenceront parfaitement. Splendide dès maintenant; mais faites-vous plaisir : gardez-en une deuxième pour la cave… vous verrez, magie pure! 😉",
-          "price": "71,75 $",
+          "price": "71,75$",
           "image_url": null,
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=7bb9bfaec5&e=a09c2580fc",
           "producer": "Gulfi",
@@ -45,7 +432,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Gulfi Nero Sanloré 2019 incarne l'élégance sicilienne avec son bouquet de prunes, roses et violettes, offrant une texture soyeuse et une finale vibrante de mandarine et de mûre, tout en promettant une belle évolution en cave."
+    "summary": "Le Gulfi Nero Sanloré 2019 incarne l'élégance sicilienne avec son bouquet floral de prunes, rose et lavande, et sa texture soyeuse, révélant des fruits rouges et une acidité vive. Ce vin, issu de vignes cultivées biologiquement, promet une belle évolution en cave et une expérience gustative vibrante et raffinée."
   },
   {
     "id": "file-2025-10-17-noble-selection-0.html-ciuchino-2022",
@@ -73,7 +460,7 @@
         "Barbera"
       ],
       "alcohol_content": "15%",
-      "volume": null,
+      "volume": "750ml",
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
@@ -91,13 +478,13 @@
             "Barbera"
           ],
           "alcohol_content": "15%",
-          "volume": null,
+          "volume": "750ml",
           "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Ciuchino 2022, issu des sols de grès et de calcaire du Piémont, révèle le potentiel exceptionnel de la Barbera, promettant une expérience vinicole authentique et raffinée."
+    "summary": "Le Ciuchino 2022, issu des historiques collines du Monferrato, révèle le potentiel exceptionnel de la Barbera sur des sols de grès et de calcaire, offrant une expression authentique du terroir piémontais."
   },
   {
     "id": "file-2025-10-17-noble-selection-0.html-montlouis-sur-loire-levanescente-extra-brut",
@@ -109,7 +496,7 @@
     "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_complices-de-loire-montlouis-sur-loire-l-evanescente-extra-brut.png",
     "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=bef3c193e1&e=2c9a262afa",
     "agence": "Noble Sélection",
-    "disponibilite": null,
+    "disponibilite": "SAQ",
     "raw_data": {
       "name": "Montlouis-sur-Loire L'Evanescente Extra Brut",
       "description": "Le vignoble s'étend sur une superficie de deux hectares, avec un rendement de 40 hl/ha. Les vignes sont âgées d'une trentaine d'années et sont plantées sur un sol composé d'argile et de silex. La vinification se fait dans des cuves en inox.",
@@ -122,7 +509,7 @@
       "grape_varieties": null,
       "alcohol_content": null,
       "volume": null,
-      "disponibilite": null,
+      "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
           "name": "Montlouis-sur-Loire L'Evanescente Extra Brut",
@@ -136,12 +523,11 @@
           "grape_varieties": null,
           "alcohol_content": null,
           "volume": null,
-          "disponibilite": null
+          "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
-    },
-    "summary": "Montlouis-sur-Loire L'Evanescente Extra Brut, issu de vignes de 30 ans sur argile et silex, offre une effervescence délicate et une fraîcheur remarquable, parfait pour les moments festifs."
+    }
   },
   {
     "id": "file-2025-10-17-noble-selection-0.html-pinot-gris-2023",
@@ -357,7 +743,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Librares Blanco 2024, avec sa fraîcheur et ses notes florales, sublime la simplicité d'un plat de fruits de mer, transformant chaque bouchée en une expérience raffinée."
+    "summary": "Le Librares Blanco 2024, frais et floral, sublime la simplicité d'une pizza bianca avec fruits de mer, transformant chaque bouchée en une expérience raffinée."
   },
   {
     "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-a-ma-guise-2024",
@@ -401,7 +787,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "À ma guise 2024, un rouge clair et solaire, s'harmonise parfaitement avec une pizza margarita, offrant un équilibre délicat entre fruit juteux et fraîcheur."
+    "summary": "À ma guise 2024 est un rouge clair et solaire qui danse harmonieusement avec la pizza margarita, offrant un fruit juteux sans jamais écraser les saveurs délicates de la tomate et de la mozzarella."
   },
   {
     "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-obelix-2023",
@@ -445,7 +831,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "O'belix 2023, un vin orange nature aux notes citronnées et lactées, offre une texture soyeuse et une bouche ample, idéale pour accompagner des plats savoureux."
+    "summary": "O'belix 2023, un vin orange naturel, séduit par sa complexité et sa fraîcheur, avec des notes citronnées et une texture soyeuse, idéal pour accompagner une pizza bianca aux herbes."
   },
   {
     "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-chiassobuio-2014",
@@ -489,7 +875,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Chiassobuio 2014, un rouge toscan mature, se révèle être le compagnon idéal pour des pizzas riches, alliant profondeur et caractère."
+    "summary": "Chiassobuio 2014, un rouge toscan mature, offre la profondeur et le caractère nécessaires pour accompagner des pizzas riches en saveurs comme la nduja ou le pepperoni, tout en conservant son élégance."
   },
   {
     "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-arbalete-et-coquelicots-2024",
@@ -533,7 +919,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Arbalète et Coquelicots 2024, un vin méditerranéen épicé, évoque les saveurs du Sud, parfait pour accompagner une pizza provençale vibrante."
+    "summary": "Arbalète et Coquelicots 2024, un vin méditerranéen épicé, exalte les saveurs d'une pizza provençale, évoquant le chant vibrant du Sud avec ses notes envoûtantes."
   },
   {
     "id": "file-2025-10-16-le-vin-dans-les-voiles-0.html-zero-zero-2023",
@@ -577,7 +963,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Zero Zero 2023, un rouge du Douro aux fruits éclatants et à la légèreté rafraîchissante, redéfinit les attentes avec sa robe claire et son caractère fluide."
+    "summary": "Zero Zero 2023, un rouge du Douro audacieux, se distingue par sa robe claire et ses saveurs éclatantes de fraises et cerises, apportant une légèreté rafraîchissante à chaque gorgée."
   },
   {
     "id": "file-2025-10-16-rezin-0.html-vin-blanc-de-vouvray",
@@ -625,7 +1011,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Vin blanc de Vouvray, avec sa structure presque tannique et sa finale gracieuse, offre une expérience complexe et généreuse, un véritable trésor pour les amateurs de Chenin Blanc."
+    "summary": "Ce vin blanc de Vouvray, presque tanique, allie puissance et complexité, offrant une finale gracieuse qui ravira les amateurs de chenin blanc à la recherche d'une expérience exceptionnelle."
   },
   {
     "id": "file-2025-10-16-rezin-0.html-emilio-valerio",
@@ -681,7 +1067,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Emilio Valerio, un assemblage séduisant de Grenache et autres cépages, séduit par ses arômes de fruits mûrs et d'épices, offrant une bouche ronde et équilibrée, idéale pour des plats savoureux."
+    "summary": "L'Emilio Valerio, un assemblage séduisant de grenache et autres cépages, enchante avec son nez fruité et épicé, tandis que sa bouche ronde et délicate offre une belle structure, parfaite pour accompagner des plats épicés."
   },
   {
     "id": "file-2025-10-16-rezin-0.html-weingut-jurtschitsch-gruner-veltliner-terrassen-tr",
@@ -729,6 +1115,565 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le WEINGUT JURTSCHITSCH Grüner Veltliner Terrassen Trocken, issu de l'agriculture biologique, offre une fraîcheur éclatante et une finale saline, parfait pour un apéritif raffiné."
+    "summary": "Le Grüner Veltliner Terrassen Trocken de Weingut Jurtschitsch, issu de terrasses de gneiss et de loess, offre une fraîcheur éclatante et une finale saline, incarnant la pureté et la précision du cépage emblématique autrichien."
+  },
+  {
+    "id": "file-2025-10-16-wino-import-0.html-le-grand-frais",
+    "blockId": "file-2025-10-16-wino-import-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Le Grand Frais",
+    "description": "AOP Gros Plant du Pays Nantais, Le Grand Frais",
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Le Grand Frais",
+      "description": "AOP Gros Plant du Pays Nantais, Le Grand Frais",
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Les Hautes Noëlles",
+      "region": "Gros Plant du Pays Nantais",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Le Grand Frais",
+          "description": "AOP Gros Plant du Pays Nantais, Le Grand Frais",
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Les Hautes Noëlles",
+          "region": "Gros Plant du Pays Nantais",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-16-wino-import-0.html-les-parcelles",
+    "blockId": "file-2025-10-16-wino-import-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Les Parcelles",
+    "description": "AOP Muscadet-Côtes-de-Grandlieu, Les Parcelles",
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Les Parcelles",
+      "description": "AOP Muscadet-Côtes-de-Grandlieu, Les Parcelles",
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Les Hautes Noëlles",
+      "region": "Muscadet-Côtes-de-Grandlieu",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Les Parcelles",
+          "description": "AOP Muscadet-Côtes-de-Grandlieu, Les Parcelles",
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Les Hautes Noëlles",
+          "region": "Muscadet-Côtes-de-Grandlieu",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-16-wino-import-0.html-zephyr",
+    "blockId": "file-2025-10-16-wino-import-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Zéphyr",
+    "description": "AOP Muscadet-Côtes-de-Grandlieu, Zéphyr",
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Zéphyr",
+      "description": "AOP Muscadet-Côtes-de-Grandlieu, Zéphyr",
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Les Hautes Noëlles",
+      "region": "Muscadet-Côtes-de-Grandlieu",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Zéphyr",
+          "description": "AOP Muscadet-Côtes-de-Grandlieu, Zéphyr",
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Les Hautes Noëlles",
+          "region": "Muscadet-Côtes-de-Grandlieu",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-16-wino-import-0.html-cabotage",
+    "blockId": "file-2025-10-16-wino-import-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Cabotage",
+    "description": "Vins de Loire, Cabotage",
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Cabotage",
+      "description": "Vins de Loire, Cabotage",
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Les Hautes Noëlles",
+      "region": "Vins de Loire",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Cabotage",
+          "description": "Vins de Loire, Cabotage",
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Les Hautes Noëlles",
+          "region": "Vins de Loire",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-16-wino-import-0.html-plemora",
+    "blockId": "file-2025-10-16-wino-import-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Plémora",
+    "description": "Vins de Loire, Plémora",
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Plémora",
+      "description": "Vins de Loire, Plémora",
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Les Hautes Noëlles",
+      "region": "Vins de Loire",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Plémora",
+          "description": "Vins de Loire, Plémora",
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Les Hautes Noëlles",
+          "region": "Vins de Loire",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-16-wino-import-0.html-elementair",
+    "blockId": "file-2025-10-16-wino-import-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Élément'Air",
+    "description": "VdQ, Élément'Air",
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Élément'Air",
+      "description": "VdQ, Élément'Air",
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "La Bauge",
+      "region": "VdQ",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Élément'Air",
+          "description": "VdQ, Élément'Air",
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "La Bauge",
+          "region": "VdQ",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-16-wino-import-0.html-elementterre",
+    "blockId": "file-2025-10-16-wino-import-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Élément'Terre",
+    "description": "VdQ, Élément'Terre",
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Élément'Terre",
+      "description": "VdQ, Élément'Terre",
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "La Bauge",
+      "region": "VdQ",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Élément'Terre",
+          "description": "VdQ, Élément'Terre",
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "La Bauge",
+          "region": "VdQ",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-16-wino-import-0.html-branco",
+    "blockId": "file-2025-10-16-wino-import-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Branco",
+    "description": "Dão Serra da estrela, Branco*",
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Branco",
+      "description": "Dão Serra da estrela, Branco*",
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "Antonio Madeira",
+      "region": "Dão",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Branco",
+          "description": "Dão Serra da estrela, Branco*",
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "Antonio Madeira",
+          "region": "Dão",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-16-wino-import-0.html-tinto",
+    "blockId": "file-2025-10-16-wino-import-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Tinto",
+    "description": "Dão Serra da estrela, Tinto*",
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Tinto",
+      "description": "Dão Serra da estrela, Tinto*",
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "Antonio Madeira",
+      "region": "Dão",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Tinto",
+          "description": "Dão Serra da estrela, Tinto*",
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "Antonio Madeira",
+          "region": "Dão",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-16-wino-import-0.html-initiation-brut-nature",
+    "blockId": "file-2025-10-16-wino-import-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Initiation Brut Nature",
+    "description": "Champagne, Initiation Brut Nature",
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Initiation Brut Nature",
+      "description": "Champagne, Initiation Brut Nature",
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "Benoît Déhu",
+      "region": "Champagne",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Initiation Brut Nature",
+          "description": "Champagne, Initiation Brut Nature",
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "Benoît Déhu",
+          "region": "Champagne",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-16-wino-import-0.html-nouvelle-lune",
+    "blockId": "file-2025-10-16-wino-import-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Nouvelle Lune",
+    "description": "Alsace, Nouvelle Lune",
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Nouvelle Lune",
+      "description": "Alsace, Nouvelle Lune",
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "André Rohrer",
+      "region": "Alsace",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Nouvelle Lune",
+          "description": "Alsace, Nouvelle Lune",
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "André Rohrer",
+          "region": "Alsace",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-16-wino-import-0.html-cot-et-coeur",
+    "blockId": "file-2025-10-16-wino-import-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "Côt et Coeur",
+    "description": "VdF, Côt et Coeur",
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "Côt et Coeur",
+      "description": "VdF, Côt et Coeur",
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Le Briseau",
+      "region": "VdF",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Côt et Coeur",
+          "description": "VdF, Côt et Coeur",
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Le Briseau",
+          "region": "VdF",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-16-wino-import-0.html-lechalier",
+    "blockId": "file-2025-10-16-wino-import-0.html",
+    "createdAt": "2025-10-16T00:00:00.000Z",
+    "name": "L'Échalier",
+    "description": "VdF, L'Échalier",
+    "price": null,
+    "image_url": null,
+    "link": null,
+    "agence": "Wino Import",
+    "disponibilite": "Importation Privée",
+    "raw_data": {
+      "name": "L'Échalier",
+      "description": "VdF, L'Échalier",
+      "price": null,
+      "image_url": null,
+      "link": null,
+      "producer": "Domaine Bertin-Delatte",
+      "region": "VdF",
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "Importation Privée",
+      "all_occurrences_raw_data": [
+        {
+          "name": "L'Échalier",
+          "description": "VdF, L'Échalier",
+          "price": null,
+          "image_url": null,
+          "link": null,
+          "producer": "Domaine Bertin-Delatte",
+          "region": "VdF",
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "Importation Privée"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
   }
 ]
