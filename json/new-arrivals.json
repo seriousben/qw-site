@@ -1,12 +1,798 @@
 [
   {
+    "id": "file-2025-10-23-bambara-selection-0.html-le-litre-du-ridge-rouge",
+    "blockId": "file-2025-10-23-bambara-selection-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "Le Litre du Ridge Rouge",
+    "description": "Vibrant, fruité et résolument convivial, le Litre du Ridge Rouge est un assemblage d'une majorité de Lucie Kuhlmann, ainsi que de Frontenac noir, Sabrevois, Seyval blanc, et une touche de Seyval noir. Certifié IGP Vin du Québec et issu d’un vignoble désormais certifié biologique, il reflète la diversité et l’énergie de Saint-Armand. Une partie du vin provient d’une presse directe, tandis que l’autre, issue d’une courte macération pelliculaire, a été fermentée sur levures indigènes. Élevé quatre mois sur lies en cuves inox, il conserve cette fraîcheur et cette limpidité de fruit qui en font un vin aussi libre que précis. Le résultat est un rouge léger, éclatant et charmant, où se mêlent cerise, fraise et framboise, relevées d’une subtile touche de poivre blanc et d’épices douces. Souple, frais et précis, il exprime un très beau fruit qui appelle les grandes tablées entre amis!",
+    "price": "22,95$",
+    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
+    "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=4a8377e3c5&e=a09c2580fc",
+    "agence": "Bambara Selection",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Le Litre du Ridge Rouge",
+      "description": "Vibrant, fruité et résolument convivial, le Litre du Ridge Rouge est un assemblage d'une majorité de Lucie Kuhlmann, ainsi que de Frontenac noir, Sabrevois, Seyval blanc, et une touche de Seyval noir. Certifié IGP Vin du Québec et issu d’un vignoble désormais certifié biologique, il reflète la diversité et l’énergie de Saint-Armand. Une partie du vin provient d’une presse directe, tandis que l’autre, issue d’une courte macération pelliculaire, a été fermentée sur levures indigènes. Élevé quatre mois sur lies en cuves inox, il conserve cette fraîcheur et cette limpidité de fruit qui en font un vin aussi libre que précis. Le résultat est un rouge léger, éclatant et charmant, où se mêlent cerise, fraise et framboise, relevées d’une subtile touche de poivre blanc et d’épices douces. Souple, frais et précis, il exprime un très beau fruit qui appelle les grandes tablées entre amis!",
+      "price": "22,95$",
+      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
+      "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=4a8377e3c5&e=a09c2580fc",
+      "producer": "Domaine du Ridge",
+      "region": "Saint-Armand, Québec",
+      "vintage": "2024",
+      "grape_varieties": [
+        "Lucie Kuhlmann",
+        "Frontenac noir",
+        "Sabrevois",
+        "Seyval blanc",
+        "Seyval noir"
+      ],
+      "alcohol_content": "10%",
+      "volume": "1L",
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Le Litre du Ridge Rouge",
+          "description": "Vibrant, fruité et résolument convivial, le Litre du Ridge Rouge est un assemblage d'une majorité de Lucie Kuhlmann, ainsi que de Frontenac noir, Sabrevois, Seyval blanc, et une touche de Seyval noir. Certifié IGP Vin du Québec et issu d’un vignoble désormais certifié biologique, il reflète la diversité et l’énergie de Saint-Armand. Une partie du vin provient d’une presse directe, tandis que l’autre, issue d’une courte macération pelliculaire, a été fermentée sur levures indigènes. Élevé quatre mois sur lies en cuves inox, il conserve cette fraîcheur et cette limpidité de fruit qui en font un vin aussi libre que précis. Le résultat est un rouge léger, éclatant et charmant, où se mêlent cerise, fraise et framboise, relevées d’une subtile touche de poivre blanc et d’épices douces. Souple, frais et précis, il exprime un très beau fruit qui appelle les grandes tablées entre amis!",
+          "price": "22,95$",
+          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
+          "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=4a8377e3c5&e=a09c2580fc",
+          "producer": "Domaine du Ridge",
+          "region": "Saint-Armand, Québec",
+          "vintage": "2024",
+          "grape_varieties": [
+            "Lucie Kuhlmann",
+            "Frontenac noir",
+            "Sabrevois",
+            "Seyval blanc",
+            "Seyval noir"
+          ],
+          "alcohol_content": "10%",
+          "volume": "1L",
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Le Litre du Ridge Rouge, un assemblage vibrant de Lucie Kuhlmann et autres cépages, séduit par sa fraîcheur et ses notes éclatantes de cerise, fraise et framboise, rehaussées d'épices douces. Ce vin léger et convivial, issu d'un vignoble biologique, est le compagnon idéal pour des moments partagés entre amis."
+  },
+  {
+    "id": "file-2025-10-23-bambara-selection-0.html-le-litre-du-ridge-blanc",
+    "blockId": "file-2025-10-23-bambara-selection-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "Le Litre du Ridge Blanc",
+    "description": "Issu du cépage Vidal, ce blanc audacieux allie macération carbonique et macération pelliculaire pour offrir une aromatique éclatante et une texture souple, pleine de fraîcheur. Le millésime 2024 marque une étape importante pour le domaine, symbole d’un savoir-faire en pleine évolution. Après un élevage de cinq mois sur lies en cuve inox, le vin révèle une expression pure et harmonieuse du Vidal, travaillée avec soin et sensibilité. Le nez séduit par ses arômes expressifs d’orange sanguine, d’écorces d’agrumes et de fleurs blanches. En bouche, l’attaque est franche, la trame fine et équilibrée. Les tanins délicats issus de la macération apportent structure et profondeur, tandis que la macération carbonique adoucit l’acidité naturelle du cépage, soulignant la richesse du fruit et la longueur en bouche. Polyvalent et raffiné, le Litre du Ridge Blanc est pensé pour les moments de partage et les longues fins de journée à l’apéro. Son éclat et sa fraîcheur en font un allié de choix pour la table : il accompagne aussi bien une salade de fenouil et d’orange qu’un filet de truite grillée au beurre d’agrumes. Il se marie tout aussi bien à un ceviche de pétoncles ou à des fromages frais aux zestes d’agrumes et herbes fraîches. Un vin précis, vibrant et d’une grande buvabilité, qui illustre avec brio le renouveau du Domaine du Ridge!",
+    "price": "22,95$",
+    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
+    "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=91538e469e&e=a09c2580fc",
+    "agence": "Bambara Selection",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Le Litre du Ridge Blanc",
+      "description": "Issu du cépage Vidal, ce blanc audacieux allie macération carbonique et macération pelliculaire pour offrir une aromatique éclatante et une texture souple, pleine de fraîcheur. Le millésime 2024 marque une étape importante pour le domaine, symbole d’un savoir-faire en pleine évolution. Après un élevage de cinq mois sur lies en cuve inox, le vin révèle une expression pure et harmonieuse du Vidal, travaillée avec soin et sensibilité. Le nez séduit par ses arômes expressifs d’orange sanguine, d’écorces d’agrumes et de fleurs blanches. En bouche, l’attaque est franche, la trame fine et équilibrée. Les tanins délicats issus de la macération apportent structure et profondeur, tandis que la macération carbonique adoucit l’acidité naturelle du cépage, soulignant la richesse du fruit et la longueur en bouche. Polyvalent et raffiné, le Litre du Ridge Blanc est pensé pour les moments de partage et les longues fins de journée à l’apéro. Son éclat et sa fraîcheur en font un allié de choix pour la table : il accompagne aussi bien une salade de fenouil et d’orange qu’un filet de truite grillée au beurre d’agrumes. Il se marie tout aussi bien à un ceviche de pétoncles ou à des fromages frais aux zestes d’agrumes et herbes fraîches. Un vin précis, vibrant et d’une grande buvabilité, qui illustre avec brio le renouveau du Domaine du Ridge!",
+      "price": "22,95$",
+      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
+      "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=91538e469e&e=a09c2580fc",
+      "producer": "Domaine du Ridge",
+      "region": "Saint-Armand, Québec",
+      "vintage": "2024",
+      "grape_varieties": [
+        "Vidal"
+      ],
+      "alcohol_content": null,
+      "volume": "1L",
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Le Litre du Ridge Blanc",
+          "description": "Issu du cépage Vidal, ce blanc audacieux allie macération carbonique et macération pelliculaire pour offrir une aromatique éclatante et une texture souple, pleine de fraîcheur. Le millésime 2024 marque une étape importante pour le domaine, symbole d’un savoir-faire en pleine évolution. Après un élevage de cinq mois sur lies en cuve inox, le vin révèle une expression pure et harmonieuse du Vidal, travaillée avec soin et sensibilité. Le nez séduit par ses arômes expressifs d’orange sanguine, d’écorces d’agrumes et de fleurs blanches. En bouche, l’attaque est franche, la trame fine et équilibrée. Les tanins délicats issus de la macération apportent structure et profondeur, tandis que la macération carbonique adoucit l’acidité naturelle du cépage, soulignant la richesse du fruit et la longueur en bouche. Polyvalent et raffiné, le Litre du Ridge Blanc est pensé pour les moments de partage et les longues fins de journée à l’apéro. Son éclat et sa fraîcheur en font un allié de choix pour la table : il accompagne aussi bien une salade de fenouil et d’orange qu’un filet de truite grillée au beurre d’agrumes. Il se marie tout aussi bien à un ceviche de pétoncles ou à des fromages frais aux zestes d’agrumes et herbes fraîches. Un vin précis, vibrant et d’une grande buvabilité, qui illustre avec brio le renouveau du Domaine du Ridge!",
+          "price": "22,95$",
+          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
+          "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=91538e469e&e=a09c2580fc",
+          "producer": "Domaine du Ridge",
+          "region": "Saint-Armand, Québec",
+          "vintage": "2024",
+          "grape_varieties": [
+            "Vidal"
+          ],
+          "alcohol_content": null,
+          "volume": "1L",
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Le Litre du Ridge Blanc, un audacieux Vidal, dévoile une aromatique éclatante d'orange sanguine et de fleurs blanches, avec une texture souple et une fraîcheur inégalée. Ce vin raffiné, issu d'un savoir-faire en évolution, est parfait pour accompagner des plats variés, tout en célébrant le renouveau du Domaine du Ridge."
+  },
+  {
+    "id": "file-2025-10-23-bambara-selection-0.html-le-ragnaie-rosso-di-montalcino-2021",
+    "blockId": "file-2025-10-23-bambara-selection-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "Le Ragnaie, Rosso di Montalcino 2021",
+    "description": "Un an plus tard, encore plus de grâce. Ce Rosso di Montalcino 2021 signé Le Ragnaie revient sous son plus beau jour : même millésime, mais un an de plus d’affinage en bouteille, et ça change tout! Le fruit s’est fondu, la texture s’est étirée, la trame minérale s’exprime avec une pureté exemplaire, sans rien perdre de la fraîcheur et de la grâce qui font la signature du domaine. Un Rosso qui rivalise sans complexe avec bien des Brunello. À la dégustation, la robe rubis clair annonce un bouquet séduisant de cerise noire, de fleurs séchées et d’herbes sauvages. La bouche est souple, enveloppante et portée par une fraîcheur vibrante. Le fruit rouge s’y déploie avec précision, encadré par des tanins fins et une trame minérale persistante. Aujourd’hui, ce 2021 exprime tout le caractère et la précision du style Le Ragnaie : une pureté de fruit remarquable, une tension minérale d’une grande élégance et une fraîcheur intemporelle. Un Rosso d’altitude à découvrir, ou à redécouvrir, dans toute sa maturité.",
+    "price": "55,00$",
+    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
+    "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=2f6b8b23eb&e=a09c2580fc",
+    "agence": "Bambara Selection",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Le Ragnaie, Rosso di Montalcino 2021",
+      "description": "Un an plus tard, encore plus de grâce. Ce Rosso di Montalcino 2021 signé Le Ragnaie revient sous son plus beau jour : même millésime, mais un an de plus d’affinage en bouteille, et ça change tout! Le fruit s’est fondu, la texture s’est étirée, la trame minérale s’exprime avec une pureté exemplaire, sans rien perdre de la fraîcheur et de la grâce qui font la signature du domaine. Un Rosso qui rivalise sans complexe avec bien des Brunello. À la dégustation, la robe rubis clair annonce un bouquet séduisant de cerise noire, de fleurs séchées et d’herbes sauvages. La bouche est souple, enveloppante et portée par une fraîcheur vibrante. Le fruit rouge s’y déploie avec précision, encadré par des tanins fins et une trame minérale persistante. Aujourd’hui, ce 2021 exprime tout le caractère et la précision du style Le Ragnaie : une pureté de fruit remarquable, une tension minérale d’une grande élégance et une fraîcheur intemporelle. Un Rosso d’altitude à découvrir, ou à redécouvrir, dans toute sa maturité.",
+      "price": "55,00$",
+      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
+      "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=2f6b8b23eb&e=a09c2580fc",
+      "producer": "Le Ragnaie",
+      "region": "Montalcino, Toscane",
+      "vintage": "2021",
+      "grape_varieties": [
+        "Sangiovese"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Le Ragnaie, Rosso di Montalcino 2021",
+          "description": "Un an plus tard, encore plus de grâce. Ce Rosso di Montalcino 2021 signé Le Ragnaie revient sous son plus beau jour : même millésime, mais un an de plus d’affinage en bouteille, et ça change tout! Le fruit s’est fondu, la texture s’est étirée, la trame minérale s’exprime avec une pureté exemplaire, sans rien perdre de la fraîcheur et de la grâce qui font la signature du domaine. Un Rosso qui rivalise sans complexe avec bien des Brunello. À la dégustation, la robe rubis clair annonce un bouquet séduisant de cerise noire, de fleurs séchées et d’herbes sauvages. La bouche est souple, enveloppante et portée par une fraîcheur vibrante. Le fruit rouge s’y déploie avec précision, encadré par des tanins fins et une trame minérale persistante. Aujourd’hui, ce 2021 exprime tout le caractère et la précision du style Le Ragnaie : une pureté de fruit remarquable, une tension minérale d’une grande élégance et une fraîcheur intemporelle. Un Rosso d’altitude à découvrir, ou à redécouvrir, dans toute sa maturité.",
+          "price": "55,00$",
+          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
+          "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=2f6b8b23eb&e=a09c2580fc",
+          "producer": "Le Ragnaie",
+          "region": "Montalcino, Toscane",
+          "vintage": "2021",
+          "grape_varieties": [
+            "Sangiovese"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Le Rosso di Montalcino 2021 de Le Ragnaie, après un an d'affinage, révèle une pureté exemplaire avec des arômes séduisants de cerise noire et d'herbes sauvages. Sa texture souple et sa fraîcheur vibrante en font un vin d'une élégance intemporelle, rivalisant avec les plus grands Brunello."
+  },
+  {
+    "id": "file-2025-10-23-bambara-selection-0.html-vignoble-des-3-terres-domaine-mann-cremant-dalsace",
+    "blockId": "file-2025-10-23-bambara-selection-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "Vignoble des 3 Terres - Domaine Mann, Crémant d’Alsace Brut Nature 2021",
+    "description": "Crémant d’Alsace Brut Nature : LA bulle pour votre temps des fêtes! Enfin de retour pour le meilleur temps de l’année! Auparavant exclusivement en importation privée, nous sommes extrêmement contents de vous offrir cette grande cuvée du Domaine Mann à la SAQ, disponible en exclusivité en ligne sur SAQ.com maintenant! Élaboré sans dosage, cet assemblage d’Auxerrois, Chardonnay et Pinot Noir, cultivés en biodynamie sur des sols marno-calcaires et graveleux, offre une expérience unique. Affiné 26 mois sur lattes et partiellement élevé en barriques, il révèle une texture crémeuse et une complexité exceptionnelle. Sa robe dorée, ses bulles fines et ses arômes de fruits mûrs, de brioche et sa minéralité s’harmonisent parfaitement pour un vin vibrant, structuré et éclatant de fraîcheur. Au profil tonique, gourmand, polyvalent et sophistiqué, il se déguste aussi bien en apéritif qu’avec des plats raffinés comme une blanquette de veau ou une choucroute de poissons. Absolument majestueux, à un prix plus que généreux, rivalisant avec les Champagnes millésimés pour une fraction du coût!",
+    "price": "45,00$",
+    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/9a5c3abf-6263-a224-9e03-56e7fec2ee9c.jpg",
+    "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=8e74de057c&e=a09c2580fc",
+    "agence": "Bambara Selection",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Vignoble des 3 Terres - Domaine Mann, Crémant d’Alsace Brut Nature 2021",
+      "description": "Crémant d’Alsace Brut Nature : LA bulle pour votre temps des fêtes! Enfin de retour pour le meilleur temps de l’année! Auparavant exclusivement en importation privée, nous sommes extrêmement contents de vous offrir cette grande cuvée du Domaine Mann à la SAQ, disponible en exclusivité en ligne sur SAQ.com maintenant! Élaboré sans dosage, cet assemblage d’Auxerrois, Chardonnay et Pinot Noir, cultivés en biodynamie sur des sols marno-calcaires et graveleux, offre une expérience unique. Affiné 26 mois sur lattes et partiellement élevé en barriques, il révèle une texture crémeuse et une complexité exceptionnelle. Sa robe dorée, ses bulles fines et ses arômes de fruits mûrs, de brioche et sa minéralité s’harmonisent parfaitement pour un vin vibrant, structuré et éclatant de fraîcheur. Au profil tonique, gourmand, polyvalent et sophistiqué, il se déguste aussi bien en apéritif qu’avec des plats raffinés comme une blanquette de veau ou une choucroute de poissons. Absolument majestueux, à un prix plus que généreux, rivalisant avec les Champagnes millésimés pour une fraction du coût!",
+      "price": "45,00$",
+      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/9a5c3abf-6263-a224-9e03-56e7fec2ee9c.jpg",
+      "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=8e74de057c&e=a09c2580fc",
+      "producer": "Vignoble des 3 Terres - Domaine Mann",
+      "region": "Alsace",
+      "vintage": "2021",
+      "grape_varieties": [
+        "Auxerrois",
+        "Chardonnay",
+        "Pinot Noir"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Vignoble des 3 Terres - Domaine Mann, Crémant d’Alsace Brut Nature 2021",
+          "description": "Crémant d’Alsace Brut Nature : LA bulle pour votre temps des fêtes! Enfin de retour pour le meilleur temps de l’année! Auparavant exclusivement en importation privée, nous sommes extrêmement contents de vous offrir cette grande cuvée du Domaine Mann à la SAQ, disponible en exclusivité en ligne sur SAQ.com maintenant! Élaboré sans dosage, cet assemblage d’Auxerrois, Chardonnay et Pinot Noir, cultivés en biodynamie sur des sols marno-calcaires et graveleux, offre une expérience unique. Affiné 26 mois sur lattes et partiellement élevé en barriques, il révèle une texture crémeuse et une complexité exceptionnelle. Sa robe dorée, ses bulles fines et ses arômes de fruits mûrs, de brioche et sa minéralité s’harmonisent parfaitement pour un vin vibrant, structuré et éclatant de fraîcheur. Au profil tonique, gourmand, polyvalent et sophistiqué, il se déguste aussi bien en apéritif qu’avec des plats raffinés comme une blanquette de veau ou une choucroute de poissons. Absolument majestueux, à un prix plus que généreux, rivalisant avec les Champagnes millésimés pour une fraction du coût!",
+          "price": "45,00$",
+          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/9a5c3abf-6263-a224-9e03-56e7fec2ee9c.jpg",
+          "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=8e74de057c&e=a09c2580fc",
+          "producer": "Vignoble des 3 Terres - Domaine Mann",
+          "region": "Alsace",
+          "vintage": "2021",
+          "grape_varieties": [
+            "Auxerrois",
+            "Chardonnay",
+            "Pinot Noir"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Le Crémant d’Alsace Brut Nature du Domaine Mann, élaboré sans dosage, offre une expérience unique avec sa texture crémeuse et ses arômes de fruits mûrs et de brioche. Ce vin doré, vibrant et sophistiqué, est un choix majestueux pour toutes les occasions, rivalisant avec les plus grands Champagnes à un prix exceptionnel."
+  },
+  {
+    "id": "file-2025-10-23-bambara-selection-0.html-punset-barbera-dalba-2023",
+    "blockId": "file-2025-10-23-bambara-selection-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "Punset, Barbera d’Alba 2023",
+    "description": "Un Barbera d’Alba bio, pur fruit et signé par l’une des grandes figures du Piémont : voilà votre nouveau rouge italien de tous les jours! Pas de bois, pas d’artifice, juste l’éclat du cépage, une belle tension naturelle, et cette buvabilité franche qu’on adore. Marina Marcarino, vigneronne pionnière de la viticulture biologique à Barbaresco depuis plus de 40 ans, livre ici un Barbera libre, fidèle au cépage et pensé pour la table. Dans le verre, la robe rubis lumineuse précède un nez franc, sur la cerise fraîche, la framboise écrasée et les petits fruits rouges confits. En bouche, la trame est juteuse, pleine d’énergie, avec une belle acidité et une finale nette, sans lourdeur. Aucune trace de bois ici : tout est dans l’éclat, la pureté, et la buvabilité! Un rouge qui coche toutes les cases pour tous vos repas : servi légèrement rafraîchi, il accompagne à merveille les charcuteries, les viandes grillées, les plats tomatés et même les fromages affinés. Avec sa structure souple et sa belle acidité, il trouve sa place partout, tout le temps!",
+    "price": "27,60$",
+    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/9a5c3abf-6263-a224-9e03-56e7fec2ee9c.jpg",
+    "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=cae9cb7d62&e=a09c2580fc",
+    "agence": "Bambara Selection",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Punset, Barbera d’Alba 2023",
+      "description": "Un Barbera d’Alba bio, pur fruit et signé par l’une des grandes figures du Piémont : voilà votre nouveau rouge italien de tous les jours! Pas de bois, pas d’artifice, juste l’éclat du cépage, une belle tension naturelle, et cette buvabilité franche qu’on adore. Marina Marcarino, vigneronne pionnière de la viticulture biologique à Barbaresco depuis plus de 40 ans, livre ici un Barbera libre, fidèle au cépage et pensé pour la table. Dans le verre, la robe rubis lumineuse précède un nez franc, sur la cerise fraîche, la framboise écrasée et les petits fruits rouges confits. En bouche, la trame est juteuse, pleine d’énergie, avec une belle acidité et une finale nette, sans lourdeur. Aucune trace de bois ici : tout est dans l’éclat, la pureté, et la buvabilité! Un rouge qui coche toutes les cases pour tous vos repas : servi légèrement rafraîchi, il accompagne à merveille les charcuteries, les viandes grillées, les plats tomatés et même les fromages affinés. Avec sa structure souple et sa belle acidité, il trouve sa place partout, tout le temps!",
+      "price": "27,60$",
+      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/9a5c3abf-6263-a224-9e03-56e7fec2ee9c.jpg",
+      "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=cae9cb7d62&e=a09c2580fc",
+      "producer": "Punset",
+      "region": "Piémont",
+      "vintage": "2023",
+      "grape_varieties": [
+        "Barbera"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Punset, Barbera d’Alba 2023",
+          "description": "Un Barbera d’Alba bio, pur fruit et signé par l’une des grandes figures du Piémont : voilà votre nouveau rouge italien de tous les jours! Pas de bois, pas d’artifice, juste l’éclat du cépage, une belle tension naturelle, et cette buvabilité franche qu’on adore. Marina Marcarino, vigneronne pionnière de la viticulture biologique à Barbaresco depuis plus de 40 ans, livre ici un Barbera libre, fidèle au cépage et pensé pour la table. Dans le verre, la robe rubis lumineuse précède un nez franc, sur la cerise fraîche, la framboise écrasée et les petits fruits rouges confits. En bouche, la trame est juteuse, pleine d’énergie, avec une belle acidité et une finale nette, sans lourdeur. Aucune trace de bois ici : tout est dans l’éclat, la pureté, et la buvabilité! Un rouge qui coche toutes les cases pour tous vos repas : servi légèrement rafraîchi, il accompagne à merveille les charcuteries, les viandes grillées, les plats tomatés et même les fromages affinés. Avec sa structure souple et sa belle acidité, il trouve sa place partout, tout le temps!",
+          "price": "27,60$",
+          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/9a5c3abf-6263-a224-9e03-56e7fec2ee9c.jpg",
+          "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=cae9cb7d62&e=a09c2580fc",
+          "producer": "Punset",
+          "region": "Piémont",
+          "vintage": "2023",
+          "grape_varieties": [
+            "Barbera"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Le Barbera d’Alba bio de Marina Marcarino, un rouge lumineux et pur, exprime l'éclat du cépage sans artifice, avec des notes de cerise et de framboise. Sa buvabilité franche et sa belle acidité en font le compagnon idéal pour tous vos repas, à savourer légèrement rafraîchi."
+  },
+  {
+    "id": "file-2025-10-23-info-symbiose-0.html-faugeres-vieilles-vignes",
+    "blockId": "file-2025-10-23-info-symbiose-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "Faugères Vieilles Vignes",
+    "description": "Mourvèdre, Carignan, Syrah\nLanguedoc-Roussillon — France",
+    "price": "26,80 $",
+    "image_url": "https://www.saq.com/media/catalog/product/1/4/14719391-1_1679001788.png",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1244656&idl=6673&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=4M4xNjpXltms4R4fHmljsawA5RIHJMr5hsKeYjwH_Uo",
+    "agence": "Info Symbiose",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Faugères Vieilles Vignes",
+      "description": "Mourvèdre, Carignan, Syrah\nLanguedoc-Roussillon — France",
+      "price": "26,80 $",
+      "image_url": "https://www.saq.com/media/catalog/product/1/4/14719391-1_1679001788.png",
+      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1244656&idl=6673&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=4M4xNjpXltms4R4fHmljsawA5RIHJMr5hsKeYjwH_Uo",
+      "producer": "Mas des Capitelles",
+      "region": "Languedoc-Roussillon",
+      "vintage": "2022",
+      "grape_varieties": [
+        "Mourvèdre",
+        "Carignan",
+        "Syrah"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Faugères Vieilles Vignes",
+          "description": "Mourvèdre, Carignan, Syrah\nLanguedoc-Roussillon — France",
+          "price": "26,80 $",
+          "image_url": "https://www.saq.com/media/catalog/product/1/4/14719391-1_1679001788.png",
+          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1244656&idl=6673&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=4M4xNjpXltms4R4fHmljsawA5RIHJMr5hsKeYjwH_Uo",
+          "producer": "Mas des Capitelles",
+          "region": "Languedoc-Roussillon",
+          "vintage": "2022",
+          "grape_varieties": [
+            "Mourvèdre",
+            "Carignan",
+            "Syrah"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-23-info-symbiose-0.html-sternenglanz-weiburgunder",
+    "blockId": "file-2025-10-23-info-symbiose-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "Sternenglanz Weißburgunder",
+    "description": "Weissburgunder\nRheinhessen — Allemagne",
+    "price": "23,95 $",
+    "image_url": "https://www.saq.com/media/catalog/product/1/4/14948951-1_1653416475.png",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1244656&idl=2475&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=2cRJlbI5JJO4Lmq7BLB3tTVhR_g8awJ8O5bOZY-pLzU",
+    "agence": "Info Symbiose",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "Sternenglanz Weißburgunder",
+      "description": "Weissburgunder\nRheinhessen — Allemagne",
+      "price": "23,95 $",
+      "image_url": "https://www.saq.com/media/catalog/product/1/4/14948951-1_1653416475.png",
+      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1244656&idl=2475&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=2cRJlbI5JJO4Lmq7BLB3tTVhR_g8awJ8O5bOZY-pLzU",
+      "producer": "Alexander Gysler",
+      "region": "Rheinhessen",
+      "vintage": "2024",
+      "grape_varieties": [
+        "Weissburgunder"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "Sternenglanz Weißburgunder",
+          "description": "Weissburgunder\nRheinhessen — Allemagne",
+          "price": "23,95 $",
+          "image_url": "https://www.saq.com/media/catalog/product/1/4/14948951-1_1653416475.png",
+          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1244656&idl=2475&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=2cRJlbI5JJO4Lmq7BLB3tTVhR_g8awJ8O5bOZY-pLzU",
+          "producer": "Alexander Gysler",
+          "region": "Rheinhessen",
+          "vintage": "2024",
+          "grape_varieties": [
+            "Weissburgunder"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-23-info-symbiose-0.html-letoile",
+    "blockId": "file-2025-10-23-info-symbiose-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "L'Étoile",
+    "description": "Chardonnay\nJura — France",
+    "price": "42,50 $",
+    "image_url": "https://www.saq.com/media/catalog/product/1/5/15501502-1_1760617385.png",
+    "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1244656&idl=8642&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=EWuVFAbhPyweliW_JMUaq7iplhAFZhGpOfo_6jZl_I4",
+    "agence": "Info Symbiose",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "L'Étoile",
+      "description": "Chardonnay\nJura — France",
+      "price": "42,50 $",
+      "image_url": "https://www.saq.com/media/catalog/product/1/5/15501502-1_1760617385.png",
+      "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1244656&idl=8642&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=EWuVFAbhPyweliW_JMUaq7iplhAFZhGpOfo_6jZl_I4",
+      "producer": "Domaine de Montbourgeau",
+      "region": "Jura",
+      "vintage": "2022",
+      "grape_varieties": [
+        "Chardonnay"
+      ],
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "L'Étoile",
+          "description": "Chardonnay\nJura — France",
+          "price": "42,50 $",
+          "image_url": "https://www.saq.com/media/catalog/product/1/5/15501502-1_1760617385.png",
+          "link": "https://lnk_a1000004144.centrixmail.com/fr/redir.awp?idccp=1244656&idl=8642&db=GqyTLqpzI2IxBzbw4LxH23c4VfDnfXZ9GOk&ck=EWuVFAbhPyweliW_JMUaq7iplhAFZhGpOfo_6jZl_I4",
+          "producer": "Domaine de Montbourgeau",
+          "region": "Jura",
+          "vintage": "2022",
+          "grape_varieties": [
+            "Chardonnay"
+          ],
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-23-le-vin-dans-les-voiles-0.html-dorange-et-de-fleurs-2023",
+    "blockId": "file-2025-10-23-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "D'Orange et de Fleurs 2023",
+    "description": "Vin orange généreux et charmeur, aux arômes de mandarine et de fleurs blanches. Enveloppant et d’un subtil pétillant, le premier verre après avoir fermé son cellulaire.",
+    "price": "35.95$",
+    "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/dorange-et-de-fleurs-domaine-de-berguerolles.jpg?v=1757959871",
+    "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_4",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "D'Orange et de Fleurs 2023",
+      "description": "Vin orange généreux et charmeur, aux arômes de mandarine et de fleurs blanches. Enveloppant et d’un subtil pétillant, le premier verre après avoir fermé son cellulaire.",
+      "price": "35.95$",
+      "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/dorange-et-de-fleurs-domaine-de-berguerolles.jpg?v=1757959871",
+      "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_4",
+      "producer": null,
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "D'Orange et de Fleurs 2023",
+          "description": "Vin orange généreux et charmeur, aux arômes de mandarine et de fleurs blanches. Enveloppant et d’un subtil pétillant, le premier verre après avoir fermé son cellulaire.",
+          "price": "35.95$",
+          "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/dorange-et-de-fleurs-domaine-de-berguerolles.jpg?v=1757959871",
+          "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_4",
+          "producer": null,
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-23-le-vin-dans-les-voiles-0.html-fruit-2022",
+    "blockId": "file-2025-10-23-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "Fruit 2022",
+    "description": "Joufflu et enrobant, ce rouge aromatique séduit avec ses parfums : fruits noirs, violette et tabac. Ample et rond, il devient un petit refuge quand le temps rafraîchit.",
+    "price": "29.95$",
+    "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/fruit-domaine-jonc-blanc.jpg?v=1749587043",
+    "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_6",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Fruit 2022",
+      "description": "Joufflu et enrobant, ce rouge aromatique séduit avec ses parfums : fruits noirs, violette et tabac. Ample et rond, il devient un petit refuge quand le temps rafraîchit.",
+      "price": "29.95$",
+      "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/fruit-domaine-jonc-blanc.jpg?v=1749587043",
+      "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_6",
+      "producer": null,
+      "region": null,
+      "vintage": "2022",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Fruit 2022",
+          "description": "Joufflu et enrobant, ce rouge aromatique séduit avec ses parfums : fruits noirs, violette et tabac. Ample et rond, il devient un petit refuge quand le temps rafraîchit.",
+          "price": "29.95$",
+          "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/fruit-domaine-jonc-blanc.jpg?v=1749587043",
+          "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_6",
+          "producer": null,
+          "region": null,
+          "vintage": "2022",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-23-le-vin-dans-les-voiles-0.html-lair-du-paradis",
+    "blockId": "file-2025-10-23-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "L'Air du Paradis",
+    "description": "À l’heure du brunch ou de l’apéro, cette bulle allie légèreté, texture et onctuosité. Elle crée un espace-temps doux et agréable. Bouteille toujours prête à être partagée.",
+    "price": "34.95$",
+    "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/air-du-paradis-les-hautes-terres.jpg?v=1757692598",
+    "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_8",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "L'Air du Paradis",
+      "description": "À l’heure du brunch ou de l’apéro, cette bulle allie légèreté, texture et onctuosité. Elle crée un espace-temps doux et agréable. Bouteille toujours prête à être partagée.",
+      "price": "34.95$",
+      "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/air-du-paradis-les-hautes-terres.jpg?v=1757692598",
+      "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_8",
+      "producer": null,
+      "region": null,
+      "vintage": null,
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "L'Air du Paradis",
+          "description": "À l’heure du brunch ou de l’apéro, cette bulle allie légèreté, texture et onctuosité. Elle crée un espace-temps doux et agréable. Bouteille toujours prête à être partagée.",
+          "price": "34.95$",
+          "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/air-du-paradis-les-hautes-terres.jpg?v=1757692598",
+          "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_8",
+          "producer": null,
+          "region": null,
+          "vintage": null,
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-23-le-vin-dans-les-voiles-0.html-rio-mora-2021",
+    "blockId": "file-2025-10-23-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "Rio Mora 2021",
+    "description": "Rouge pétillant unique, parfait pour ces instants où la lumière dorée embrase les érables et que les amis débarquent. Rustique et vivant, apéro charcuteries!",
+    "price": "30.95$",
+    "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/rio-mora-elisabetta-montesissa.png?v=1755200537",
+    "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_10",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Rio Mora 2021",
+      "description": "Rouge pétillant unique, parfait pour ces instants où la lumière dorée embrase les érables et que les amis débarquent. Rustique et vivant, apéro charcuteries!",
+      "price": "30.95$",
+      "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/rio-mora-elisabetta-montesissa.png?v=1755200537",
+      "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_10",
+      "producer": null,
+      "region": null,
+      "vintage": "2021",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Rio Mora 2021",
+          "description": "Rouge pétillant unique, parfait pour ces instants où la lumière dorée embrase les érables et que les amis débarquent. Rustique et vivant, apéro charcuteries!",
+          "price": "30.95$",
+          "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/rio-mora-elisabetta-montesissa.png?v=1755200537",
+          "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_10",
+          "producer": null,
+          "region": null,
+          "vintage": "2021",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-23-le-vin-dans-les-voiles-0.html-di-rado-2021",
+    "blockId": "file-2025-10-23-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "Di Rado 2021",
+    "description": "Envoûtant blanc de macération profond et frais. Un canon qui donne envie de prendre son temps, de se prélasser et qui rappelle que rien ne presse. Un moment pour soi.",
+    "price": "40.95$",
+    "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/di-rado-il-roccolo-di-monticelli.jpg?v=1755010438",
+    "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_12",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "Di Rado 2021",
+      "description": "Envoûtant blanc de macération profond et frais. Un canon qui donne envie de prendre son temps, de se prélasser et qui rappelle que rien ne presse. Un moment pour soi.",
+      "price": "40.95$",
+      "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/di-rado-il-roccolo-di-monticelli.jpg?v=1755010438",
+      "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_12",
+      "producer": null,
+      "region": null,
+      "vintage": "2021",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "Di Rado 2021",
+          "description": "Envoûtant blanc de macération profond et frais. Un canon qui donne envie de prendre son temps, de se prélasser et qui rappelle que rien ne presse. Un moment pour soi.",
+          "price": "40.95$",
+          "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/di-rado-il-roccolo-di-monticelli.jpg?v=1755010438",
+          "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_12",
+          "producer": null,
+          "region": null,
+          "vintage": "2021",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-23-le-vin-dans-les-voiles-0.html-la-botte-secrete-2021",
+    "blockId": "file-2025-10-23-le-vin-dans-les-voiles-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "La Botte Secrète 2021",
+    "description": "Découvrir un grand vigneron italien avec ce rouge rassembleur. Sangiovese de course, élégant, grand ami des tables chaleureuses et des discussions enflammées.",
+    "price": "42.95$",
+    "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/la-botte-secrete-2021-vin-des-potes-730968.png?v=1719295113",
+    "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_14",
+    "agence": "Le vin dans les voiles",
+    "disponibilite": null,
+    "raw_data": {
+      "name": "La Botte Secrète 2021",
+      "description": "Découvrir un grand vigneron italien avec ce rouge rassembleur. Sangiovese de course, élégant, grand ami des tables chaleureuses et des discussions enflammées.",
+      "price": "42.95$",
+      "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/la-botte-secrete-2021-vin-des-potes-730968.png?v=1719295113",
+      "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_14",
+      "producer": null,
+      "region": null,
+      "vintage": "2021",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": null,
+      "all_occurrences_raw_data": [
+        {
+          "name": "La Botte Secrète 2021",
+          "description": "Découvrir un grand vigneron italien avec ce rouge rassembleur. Sangiovese de course, élégant, grand ami des tables chaleureuses et des discussions enflammées.",
+          "price": "42.95$",
+          "image_url": "https://cdn.shopify.com/s/files/1/0243/5406/2413/files/la-botte-secrete-2021-vin-des-potes-730968.png?v=1719295113",
+          "link": "https://ctrk.klclick.com/l/01K88PW171JHWN9RZQ2NTCYHZE_14",
+          "producer": null,
+          "region": null,
+          "vintage": "2021",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": null
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-23-rezin-0.html-pont-du-gard-terre-dargence-blanc-2023",
+    "blockId": "file-2025-10-23-rezin-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "PONT DU GARD TERRE D'ARGENCE BLANC - 2023",
+    "description": "« Un onctueux, sphérique, caressant et de très bon volume gustatif blanc du sud de la France qui fera un «hit» à table! À déguster avec : des plats ayant une sauce béchamel, du fromage, de la pâte feuilletée, des poissons à chair blanche..»",
+    "price": "26,65 $",
+    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/95078a06-d012-041b-1c2c-ce0e894eea93.png",
+    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=ebd658095e&e=c11422f941",
+    "agence": "réZin",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "PONT DU GARD TERRE D'ARGENCE BLANC - 2023",
+      "description": "« Un onctueux, sphérique, caressant et de très bon volume gustatif blanc du sud de la France qui fera un «hit» à table! À déguster avec : des plats ayant une sauce béchamel, du fromage, de la pâte feuilletée, des poissons à chair blanche..»",
+      "price": "26,65 $",
+      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/95078a06-d012-041b-1c2c-ce0e894eea93.png",
+      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=ebd658095e&e=c11422f941",
+      "producer": "CHÂTEAU MOURGUES DU GRÈS",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "PONT DU GARD TERRE D'ARGENCE BLANC - 2023",
+          "description": "« Un onctueux, sphérique, caressant et de très bon volume gustatif blanc du sud de la France qui fera un «hit» à table! À déguster avec : des plats ayant une sauce béchamel, du fromage, de la pâte feuilletée, des poissons à chair blanche..»",
+          "price": "26,65 $",
+          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/95078a06-d012-041b-1c2c-ce0e894eea93.png",
+          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=ebd658095e&e=c11422f941",
+          "producer": "CHÂTEAU MOURGUES DU GRÈS",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    }
+  },
+  {
+    "id": "file-2025-10-23-rezin-0.html-crozes-hermitage-2023",
+    "blockId": "file-2025-10-23-rezin-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "CROZES-HERMITAGE - 2023",
+    "description": "« Le collectif Les Vins de Vienne met en commun le talent de trois vignerons réputés (et à juste titre) du nord de la vallée du Rhône: Yves Cuilleron, Pierre Gaillard et François Villard. Leur crozes-hermitage de la gamme L’Amphore d’argent est drôlement réussi en 2022. Au nez, une explosion de saveurs de violette et de mûre; en bouche, une trame suave, des tanins ronds, mais tissés assez serrés, et une finale fraîche et franche. Un excellent choix pour des côtelettes d’agneau aux herbes.»",
+    "price": "33,00 $",
+    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/c8a9d091-9075-c385-9b9a-9540e397fc1d.png",
+    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=e84cc2a602&e=c11422f941",
+    "agence": "réZin",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "CROZES-HERMITAGE - 2023",
+      "description": "« Le collectif Les Vins de Vienne met en commun le talent de trois vignerons réputés (et à juste titre) du nord de la vallée du Rhône: Yves Cuilleron, Pierre Gaillard et François Villard. Leur crozes-hermitage de la gamme L’Amphore d’argent est drôlement réussi en 2022. Au nez, une explosion de saveurs de violette et de mûre; en bouche, une trame suave, des tanins ronds, mais tissés assez serrés, et une finale fraîche et franche. Un excellent choix pour des côtelettes d’agneau aux herbes.»",
+      "price": "33,00 $",
+      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/c8a9d091-9075-c385-9b9a-9540e397fc1d.png",
+      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=e84cc2a602&e=c11422f941",
+      "producer": "LES VINS DE VIENNE",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "CROZES-HERMITAGE - 2023",
+          "description": "« Le collectif Les Vins de Vienne met en commun le talent de trois vignerons réputés (et à juste titre) du nord de la vallée du Rhône: Yves Cuilleron, Pierre Gaillard et François Villard. Leur crozes-hermitage de la gamme L’Amphore d’argent est drôlement réussi en 2022. Au nez, une explosion de saveurs de violette et de mûre; en bouche, une trame suave, des tanins ronds, mais tissés assez serrés, et une finale fraîche et franche. Un excellent choix pour des côtelettes d’agneau aux herbes.»",
+          "price": "33,00 $",
+          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/c8a9d091-9075-c385-9b9a-9540e397fc1d.png",
+          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=e84cc2a602&e=c11422f941",
+          "producer": "LES VINS DE VIENNE",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Le Crozes-Hermitage 2022, fruit du talent collectif de trois vignerons, offre une explosion de violette et de mûre, avec une trame suave et des tanins ronds, parfait pour accompagner des côtelettes d’agneau aux herbes."
+  },
+  {
+    "id": "file-2025-10-23-rezin-0.html-muscadet-amphibolite-2023",
+    "blockId": "file-2025-10-23-rezin-0.html",
+    "createdAt": "2025-10-23T00:00:00.000Z",
+    "name": "MUSCADET AMPHIBOLITE - 2023",
+    "description": "« Un peu plus cher que du Muscadet de base, mais tellement meilleur! Vêtu d'une brillante robe jaune clair, striée de légers reflets verts, ce vin laisse échapper des notes de fleurs blanches, ainsi que des parfums d'agrumes (citron), ciselés dans le minéral crayeux. Bien frais en bouche, il s'avère salivant et désaltérant. On y perçoit également un certain volume caressant qui se dessine en milieu de bouche, supporté par des flaveurs de fruits blancs à noyau. Jolie et très précise finale évoquant la salinité. Un vin vivant et vibrant qui s'exprime avec une grande franchise. Pour un apéro de grande classe, mais également à table avec tout ce qui sort de l'eau, principalement les coquillages et les crustacés, les plats de légumes et le fromage de chèvre.»",
+    "price": "30,25 $",
+    "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/bdab227d-0c44-0077-d471-f8ffdf65d8e5.png",
+    "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=dfb76f75d8&e=c11422f941",
+    "agence": "réZin",
+    "disponibilite": "SAQ",
+    "raw_data": {
+      "name": "MUSCADET AMPHIBOLITE - 2023",
+      "description": "« Un peu plus cher que du Muscadet de base, mais tellement meilleur! Vêtu d'une brillante robe jaune clair, striée de légers reflets verts, ce vin laisse échapper des notes de fleurs blanches, ainsi que des parfums d'agrumes (citron), ciselés dans le minéral crayeux. Bien frais en bouche, il s'avère salivant et désaltérant. On y perçoit également un certain volume caressant qui se dessine en milieu de bouche, supporté par des flaveurs de fruits blancs à noyau. Jolie et très précise finale évoquant la salinité. Un vin vivant et vibrant qui s'exprime avec une grande franchise. Pour un apéro de grande classe, mais également à table avec tout ce qui sort de l'eau, principalement les coquillages et les crustacés, les plats de légumes et le fromage de chèvre.»",
+      "price": "30,25 $",
+      "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/bdab227d-0c44-0077-d471-f8ffdf65d8e5.png",
+      "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=dfb76f75d8&e=c11422f941",
+      "producer": "DOMAINES LANDRON",
+      "region": null,
+      "vintage": "2023",
+      "grape_varieties": null,
+      "alcohol_content": null,
+      "volume": null,
+      "disponibilite": "SAQ",
+      "all_occurrences_raw_data": [
+        {
+          "name": "MUSCADET AMPHIBOLITE - 2023",
+          "description": "« Un peu plus cher que du Muscadet de base, mais tellement meilleur! Vêtu d'une brillante robe jaune clair, striée de légers reflets verts, ce vin laisse échapper des notes de fleurs blanches, ainsi que des parfums d'agrumes (citron), ciselés dans le minéral crayeux. Bien frais en bouche, il s'avère salivant et désaltérant. On y perçoit également un certain volume caressant qui se dessine en milieu de bouche, supporté par des flaveurs de fruits blancs à noyau. Jolie et très précise finale évoquant la salinité. Un vin vivant et vibrant qui s'exprime avec une grande franchise. Pour un apéro de grande classe, mais également à table avec tout ce qui sort de l'eau, principalement les coquillages et les crustacés, les plats de légumes et le fromage de chèvre.»",
+          "price": "30,25 $",
+          "image_url": "https://mcusercontent.com/f9dbc793775ee9e91677594b0/images/bdab227d-0c44-0077-d471-f8ffdf65d8e5.png",
+          "link": "https://rezin.us8.list-manage.com/track/click?u=f9dbc793775ee9e91677594b0&id=dfb76f75d8&e=c11422f941",
+          "producer": "DOMAINES LANDRON",
+          "region": null,
+          "vintage": "2023",
+          "grape_varieties": null,
+          "alcohol_content": null,
+          "volume": null,
+          "disponibilite": "SAQ"
+        }
+      ],
+      "agence_was_defaulted": false
+    },
+    "summary": "Ce Muscadet supérieur, avec sa robe jaune clair et ses arômes de fleurs blanches et d'agrumes, offre une fraîcheur salivante et une finale précise, parfaite pour accompagner les fruits de mer et les plats légers. Un vin vibrant et franc, idéal pour un apéritif de classe."
+  },
+  {
     "id": "file-2025-10-22-wino-import-0.html-domaine-les-hautes-noelles",
     "blockId": "file-2025-10-22-wino-import-0.html",
     "createdAt": "2025-10-22T00:00:00.000Z",
     "name": "Domaine Les Hautes Noëlles",
     "description": "AOP Muscadet-Côtes-de-Grandlieu, Les Parcelles",
     "price": null,
-    "image_url": null,
+    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/TDEjTZ/images/8345345a-6fcf-4317-9198-4a11f5591678.jpeg",
     "link": null,
     "agence": "Wino Import",
     "disponibilite": null,
@@ -14,7 +800,7 @@
       "name": "Domaine Les Hautes Noëlles",
       "description": "AOP Muscadet-Côtes-de-Grandlieu, Les Parcelles",
       "price": null,
-      "image_url": null,
+      "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/TDEjTZ/images/8345345a-6fcf-4317-9198-4a11f5591678.jpeg",
       "link": null,
       "producer": "Domaine Les Hautes Noëlles",
       "region": "Muscadet-Côtes-de-Grandlieu",
@@ -28,7 +814,7 @@
           "name": "Domaine Les Hautes Noëlles",
           "description": "AOP Muscadet-Côtes-de-Grandlieu, Les Parcelles",
           "price": null,
-          "image_url": null,
+          "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/TDEjTZ/images/8345345a-6fcf-4317-9198-4a11f5591678.jpeg",
           "link": null,
           "producer": "Domaine Les Hautes Noëlles",
           "region": "Muscadet-Côtes-de-Grandlieu",
@@ -432,274 +1218,6 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Gulfi Nero Sanloré 2019 incarne l'élégance sicilienne avec son bouquet de prunes écrasées, pétales de rose et violette confite, offrant une texture soyeuse et une acidité vive qui promettent une belle évolution en cave. Ce vin, 100% Nero d'Avola, séduit par sa finesse et son équilibre, parfait pour accompagner viandes rouges grillées et fromages affinés."
-  },
-  {
-    "id": "file-2025-10-17-noble-selection-0.html-ciuchino-2022",
-    "blockId": "file-2025-10-17-noble-selection-0.html",
-    "createdAt": "2025-10-17T00:00:00.000Z",
-    "name": "Ciuchino 2022",
-    "description": "Cascina Valle Asinari est l'une des propriétés les plus historiques du Piémont, située à San Marzano Oliveto (province d'Asti), dans les collines du Monferrato, surnommée la «vallée des éleveurs d'ânes» (asinari signifiant âne). Sur des sols de grès et de calcaire, les raisins de Barbera y atteignent leur plein potentiel, profitant des conditions idéales pour produire des Barbera d'Asti Superiore et Nizza DOCG, deux vins d'exception de la région.",
-    "price": "24,55$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cascina-asinari-ciuchino_4.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=7202ea4e40&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Ciuchino 2022",
-      "description": "Cascina Valle Asinari est l'une des propriétés les plus historiques du Piémont, située à San Marzano Oliveto (province d'Asti), dans les collines du Monferrato, surnommée la «vallée des éleveurs d'ânes» (asinari signifiant âne). Sur des sols de grès et de calcaire, les raisins de Barbera y atteignent leur plein potentiel, profitant des conditions idéales pour produire des Barbera d'Asti Superiore et Nizza DOCG, deux vins d'exception de la région.",
-      "price": "24,55$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cascina-asinari-ciuchino_4.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=7202ea4e40&e=2c9a262afa",
-      "producer": "Cascina Valle Asinari",
-      "region": "Piémont",
-      "vintage": "2022",
-      "grape_varieties": [
-        "Merlot",
-        "Cabernet Sauvignon",
-        "Barbera"
-      ],
-      "alcohol_content": "15%",
-      "volume": "750ml",
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Ciuchino 2022",
-          "description": "Cascina Valle Asinari est l'une des propriétés les plus historiques du Piémont, située à San Marzano Oliveto (province d'Asti), dans les collines du Monferrato, surnommée la «vallée des éleveurs d'ânes» (asinari signifiant âne). Sur des sols de grès et de calcaire, les raisins de Barbera y atteignent leur plein potentiel, profitant des conditions idéales pour produire des Barbera d'Asti Superiore et Nizza DOCG, deux vins d'exception de la région.",
-          "price": "24,55$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_cascina-asinari-ciuchino_4.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=7202ea4e40&e=2c9a262afa",
-          "producer": "Cascina Valle Asinari",
-          "region": "Piémont",
-          "vintage": "2022",
-          "grape_varieties": [
-            "Merlot",
-            "Cabernet Sauvignon",
-            "Barbera"
-          ],
-          "alcohol_content": "15%",
-          "volume": "750ml",
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Ciuchino 2022, issu des historiques vignes de Cascina Valle Asinari, révèle toute la richesse de la Barbera sur des sols de grès et de calcaire, offrant des vins d'exception tels que Barbera d'Asti Superiore et Nizza DOCG, emblématiques du Piémont."
-  },
-  {
-    "id": "file-2025-10-17-noble-selection-0.html-montlouis-sur-loire-levanescente-extra-brut",
-    "blockId": "file-2025-10-17-noble-selection-0.html",
-    "createdAt": "2025-10-17T00:00:00.000Z",
-    "name": "Montlouis-sur-Loire L'Evanescente Extra Brut",
-    "description": "Le vignoble s'étend sur une superficie de deux hectares, avec un rendement de 40 hl/ha. Les vignes sont âgées d'une trentaine d'années et sont plantées sur un sol composé d'argile et de silex. La vinification se fait dans des cuves en inox.",
-    "price": "25,50$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_complices-de-loire-montlouis-sur-loire-l-evanescente-extra-brut.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=bef3c193e1&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Montlouis-sur-Loire L'Evanescente Extra Brut",
-      "description": "Le vignoble s'étend sur une superficie de deux hectares, avec un rendement de 40 hl/ha. Les vignes sont âgées d'une trentaine d'années et sont plantées sur un sol composé d'argile et de silex. La vinification se fait dans des cuves en inox.",
-      "price": "25,50$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_complices-de-loire-montlouis-sur-loire-l-evanescente-extra-brut.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=bef3c193e1&e=2c9a262afa",
-      "producer": "COMPLICES DE LOIRE",
-      "region": "Vallée de la Loire",
-      "vintage": null,
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Montlouis-sur-Loire L'Evanescente Extra Brut",
-          "description": "Le vignoble s'étend sur une superficie de deux hectares, avec un rendement de 40 hl/ha. Les vignes sont âgées d'une trentaine d'années et sont plantées sur un sol composé d'argile et de silex. La vinification se fait dans des cuves en inox.",
-          "price": "25,50$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_complices-de-loire-montlouis-sur-loire-l-evanescente-extra-brut.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=bef3c193e1&e=2c9a262afa",
-          "producer": "COMPLICES DE LOIRE",
-          "region": "Vallée de la Loire",
-          "vintage": null,
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "L'Evanescente Extra Brut de Montlouis-sur-Loire, issu de vignes trentenaires cultivées sur un sol d'argile et de silex, offre une élégance pétillante, vinifiée avec soin dans des cuves en inox pour préserver sa fraîcheur et sa finesse."
-  },
-  {
-    "id": "file-2025-10-17-noble-selection-0.html-pinot-gris-2023",
-    "blockId": "file-2025-10-17-noble-selection-0.html",
-    "createdAt": "2025-10-17T00:00:00.000Z",
-    "name": "Pinot Gris 2023",
-    "description": null,
-    "price": "23,75$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_paxton-pinot-gris-2023.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=347d45b6a1&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Pinot Gris 2023",
-      "description": null,
-      "price": "23,75$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_paxton-pinot-gris-2023.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=347d45b6a1&e=2c9a262afa",
-      "producer": "PAXTON",
-      "region": null,
-      "vintage": "2023",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Pinot Gris 2023",
-          "description": null,
-          "price": "23,75$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_paxton-pinot-gris-2023.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=347d45b6a1&e=2c9a262afa",
-          "producer": "PAXTON",
-          "region": null,
-          "vintage": "2023",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-10-17-noble-selection-0.html-alba-de-vetus-rias-baixas-2024",
-    "blockId": "file-2025-10-17-noble-selection-0.html",
-    "createdAt": "2025-10-17T00:00:00.000Z",
-    "name": "Alba de Vetus Rias Baixas 2024",
-    "description": null,
-    "price": "25,85$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_image1_75.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=7949c1dcbc&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Alba de Vetus Rias Baixas 2024",
-      "description": null,
-      "price": "25,85$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_image1_75.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=7949c1dcbc&e=2c9a262afa",
-      "producer": "VETUS",
-      "region": null,
-      "vintage": "2024",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Alba de Vetus Rias Baixas 2024",
-          "description": null,
-          "price": "25,85$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_image1_75.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=7949c1dcbc&e=2c9a262afa",
-          "producer": "VETUS",
-          "region": null,
-          "vintage": "2024",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-10-17-noble-selection-0.html-alentejano-2021",
-    "blockId": "file-2025-10-17-noble-selection-0.html",
-    "createdAt": "2025-10-17T00:00:00.000Z",
-    "name": "Alentejano 2021",
-    "description": null,
-    "price": "16,95$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_alentejano-2021.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4a684245a5&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Alentejano 2021",
-      "description": null,
-      "price": "16,95$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_alentejano-2021.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4a684245a5&e=2c9a262afa",
-      "producer": "MONTE DA CAL",
-      "region": null,
-      "vintage": "2021",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Alentejano 2021",
-          "description": null,
-          "price": "16,95$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_alentejano-2021.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=4a684245a5&e=2c9a262afa",
-          "producer": "MONTE DA CAL",
-          "region": null,
-          "vintage": "2021",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
-  },
-  {
-    "id": "file-2025-10-17-noble-selection-0.html-mas-elena-2020",
-    "blockId": "file-2025-10-17-noble-selection-0.html",
-    "createdAt": "2025-10-17T00:00:00.000Z",
-    "name": "Mas Elena 2020",
-    "description": null,
-    "price": "21,95$",
-    "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_mas-elena-2-copie.png",
-    "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=dc4ff6258e&e=2c9a262afa",
-    "agence": "Noble Sélection",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Mas Elena 2020",
-      "description": null,
-      "price": "21,95$",
-      "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_mas-elena-2-copie.png",
-      "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=dc4ff6258e&e=2c9a262afa",
-      "producer": "PARÉS BALTÀ",
-      "region": null,
-      "vintage": "2020",
-      "grape_varieties": null,
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Mas Elena 2020",
-          "description": null,
-          "price": "21,95$",
-          "image_url": "https://dfalvymn23xg3.cloudfront.net/images/c_220x500_mas-elena-2-copie.png",
-          "link": "https://nobleselection.us20.list-manage.com/track/click?u=3cbe129d9fba7fd6a0d135511&id=dc4ff6258e&e=2c9a262afa",
-          "producer": "PARÉS BALTÀ",
-          "region": null,
-          "vintage": "2020",
-          "grape_varieties": null,
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    }
+    "summary": "Le Nero Sanloré 2019 de Gulfi, un modèle d’élégance sicilienne, séduit par son bouquet de prunes, roses et lavande, et sa texture soyeuse. Avec sa fraîcheur vibrante et ses notes de mandarine, ce Nero d’Avola promet une expérience somptueuse, parfaite pour accompagner viandes rouges et fromages affinés."
   }
 ]
