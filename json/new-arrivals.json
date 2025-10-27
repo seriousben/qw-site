@@ -166,7 +166,7 @@
         "Merlot"
       ],
       "alcohol_content": "13.5%",
-      "volume": null,
+      "volume": "750ml",
       "disponibilite": "SAQ",
       "all_occurrences_raw_data": [
         {
@@ -183,13 +183,13 @@
             "Merlot"
           ],
           "alcohol_content": "13.5%",
-          "volume": null,
+          "volume": "750ml",
           "disponibilite": "SAQ"
         }
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Tsar Pierre Le Grand 2021 enchante par sa robe rubis et ses arômes raffinés de baies noires et de mûre, délicatement relevés d'épices douces, offrant une expérience soyeuse et parfaitement équilibrée."
+    "summary": "Le Tsar Pierre Le Grand 2021, une cuvée d'excellence du Château Eugénie, se dévoile dans une belle robe rubis, offrant des arômes de baies noires et de mûre, enrichis de notes d'épices douces, pour un vin soyeux et parfaitement équilibré entre finesse et profondeur."
   },
   {
     "id": "file-2025-10-24-noble-selection-0.html-chianti-classico-2022",
@@ -498,16 +498,16 @@
     "createdAt": "2025-10-23T00:00:00.000Z",
     "name": "Litre du Ridge Rouge 2024",
     "description": "Vibrant, fruité et résolument convivial, le Litre du Ridge Rouge est un assemblage d'une majorité de Lucie Kuhlmann, ainsi que de Frontenac noir, Sabrevois, Seyval blanc, et une touche de Seyval noir. Certifié IGP Vin du Québec et issu d’un vignoble désormais certifié biologique, il reflète la diversité et l’énergie de Saint-Armand. Une partie du vin provient d’une presse directe, tandis que l’autre, issue d’une courte macération pelliculaire, a été fermentée sur levures indigènes. Élevé quatre mois sur lies en cuves inox, il conserve cette fraîcheur et cette limpidité de fruit qui en font un vin aussi libre que précis. Le résultat est un rouge léger, éclatant et charmant, où se mêlent cerise, fraise et framboise, relevées d’une subtile touche de poivre blanc et d’épices douces. Souple, frais et précis, il exprime un très beau fruit qui appelle les grandes tablées entre amis!",
-    "price": "22,95",
-    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
+    "price": "22,95$",
+    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=4a8377e3c5&e=a09c2580fc",
     "agence": "Bambara Selection",
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Litre du Ridge Rouge 2024",
       "description": "Vibrant, fruité et résolument convivial, le Litre du Ridge Rouge est un assemblage d'une majorité de Lucie Kuhlmann, ainsi que de Frontenac noir, Sabrevois, Seyval blanc, et une touche de Seyval noir. Certifié IGP Vin du Québec et issu d’un vignoble désormais certifié biologique, il reflète la diversité et l’énergie de Saint-Armand. Une partie du vin provient d’une presse directe, tandis que l’autre, issue d’une courte macération pelliculaire, a été fermentée sur levures indigènes. Élevé quatre mois sur lies en cuves inox, il conserve cette fraîcheur et cette limpidité de fruit qui en font un vin aussi libre que précis. Le résultat est un rouge léger, éclatant et charmant, où se mêlent cerise, fraise et framboise, relevées d’une subtile touche de poivre blanc et d’épices douces. Souple, frais et précis, il exprime un très beau fruit qui appelle les grandes tablées entre amis!",
-      "price": "22,95",
-      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
+      "price": "22,95$",
+      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=4a8377e3c5&e=a09c2580fc",
       "producer": "Domaine du Ridge",
       "region": "Saint-Armand, Québec",
@@ -526,8 +526,8 @@
         {
           "name": "Litre du Ridge Rouge 2024",
           "description": "Vibrant, fruité et résolument convivial, le Litre du Ridge Rouge est un assemblage d'une majorité de Lucie Kuhlmann, ainsi que de Frontenac noir, Sabrevois, Seyval blanc, et une touche de Seyval noir. Certifié IGP Vin du Québec et issu d’un vignoble désormais certifié biologique, il reflète la diversité et l’énergie de Saint-Armand. Une partie du vin provient d’une presse directe, tandis que l’autre, issue d’une courte macération pelliculaire, a été fermentée sur levures indigènes. Élevé quatre mois sur lies en cuves inox, il conserve cette fraîcheur et cette limpidité de fruit qui en font un vin aussi libre que précis. Le résultat est un rouge léger, éclatant et charmant, où se mêlent cerise, fraise et framboise, relevées d’une subtile touche de poivre blanc et d’épices douces. Souple, frais et précis, il exprime un très beau fruit qui appelle les grandes tablées entre amis!",
-          "price": "22,95",
-          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
+          "price": "22,95$",
+          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=4a8377e3c5&e=a09c2580fc",
           "producer": "Domaine du Ridge",
           "region": "Saint-Armand, Québec",
@@ -546,7 +546,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Litre du Ridge Rouge 2024, un assemblage vibrant de Lucie Kuhlmann et autres cépages, séduit par sa fraîcheur et ses arômes de cerise, fraise et framboise, rehaussés d'une touche d'épices douces, parfait pour des moments conviviaux."
+    "summary": "Le Litre du Ridge Rouge 2024, un assemblage vibrant et convivial, marie Lucie Kuhlmann et d'autres cépages pour offrir un rouge léger et éclatant, où cerise, fraise et framboise se mêlent à des notes de poivre blanc, parfait pour des moments partagés entre amis."
   },
   {
     "id": "file-2025-10-23-bambara-selection-0.html-litre-du-ridge-blanc-2024",
@@ -554,16 +554,16 @@
     "createdAt": "2025-10-23T00:00:00.000Z",
     "name": "Litre du Ridge Blanc 2024",
     "description": "Issu du cépage Vidal, ce blanc audacieux allie macération carbonique et macération pelliculaire pour offrir une aromatique éclatante et une texture souple, pleine de fraîcheur. Le millésime 2024 marque une étape importante pour le domaine, symbole d’un savoir-faire en pleine évolution. Après un élevage de cinq mois sur lies en cuve inox, le vin révèle une expression pure et harmonieuse du Vidal, travaillée avec soin et sensibilité. Le nez séduit par ses arômes expressifs d’orange sanguine, d’écorces d’agrumes et de fleurs blanches. En bouche, l’attaque est franche, la trame fine et équilibrée. Les tanins délicats issus de la macération apportent structure et profondeur, tandis que la macération carbonique adoucit l’acidité naturelle du cépage, soulignant la richesse du fruit et la longueur en bouche. Polyvalent et raffiné, le Litre du Ridge Blanc est pensé pour les moments de partage et les longues fins de journée à l’apéro. Son éclat et sa fraîcheur en font un allié de choix pour la table : il accompagne aussi bien une salade de fenouil et d’orange qu’un filet de truite grillée au beurre d’agrumes. Il se marie tout aussi bien à un ceviche de pétoncles ou à des fromages frais aux zestes d’agrumes et herbes fraîches. Un vin précis, vibrant et d’une grande buvabilité, qui illustre avec brio le renouveau du Domaine du Ridge!",
-    "price": "22,95",
-    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
+    "price": "22,95$",
+    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=91538e469e&e=a09c2580fc",
     "agence": "Bambara Selection",
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Litre du Ridge Blanc 2024",
       "description": "Issu du cépage Vidal, ce blanc audacieux allie macération carbonique et macération pelliculaire pour offrir une aromatique éclatante et une texture souple, pleine de fraîcheur. Le millésime 2024 marque une étape importante pour le domaine, symbole d’un savoir-faire en pleine évolution. Après un élevage de cinq mois sur lies en cuve inox, le vin révèle une expression pure et harmonieuse du Vidal, travaillée avec soin et sensibilité. Le nez séduit par ses arômes expressifs d’orange sanguine, d’écorces d’agrumes et de fleurs blanches. En bouche, l’attaque est franche, la trame fine et équilibrée. Les tanins délicats issus de la macération apportent structure et profondeur, tandis que la macération carbonique adoucit l’acidité naturelle du cépage, soulignant la richesse du fruit et la longueur en bouche. Polyvalent et raffiné, le Litre du Ridge Blanc est pensé pour les moments de partage et les longues fins de journée à l’apéro. Son éclat et sa fraîcheur en font un allié de choix pour la table : il accompagne aussi bien une salade de fenouil et d’orange qu’un filet de truite grillée au beurre d’agrumes. Il se marie tout aussi bien à un ceviche de pétoncles ou à des fromages frais aux zestes d’agrumes et herbes fraîches. Un vin précis, vibrant et d’une grande buvabilité, qui illustre avec brio le renouveau du Domaine du Ridge!",
-      "price": "22,95",
-      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
+      "price": "22,95$",
+      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=91538e469e&e=a09c2580fc",
       "producer": "Domaine du Ridge",
       "region": "Saint-Armand, Québec",
@@ -578,8 +578,8 @@
         {
           "name": "Litre du Ridge Blanc 2024",
           "description": "Issu du cépage Vidal, ce blanc audacieux allie macération carbonique et macération pelliculaire pour offrir une aromatique éclatante et une texture souple, pleine de fraîcheur. Le millésime 2024 marque une étape importante pour le domaine, symbole d’un savoir-faire en pleine évolution. Après un élevage de cinq mois sur lies en cuve inox, le vin révèle une expression pure et harmonieuse du Vidal, travaillée avec soin et sensibilité. Le nez séduit par ses arômes expressifs d’orange sanguine, d’écorces d’agrumes et de fleurs blanches. En bouche, l’attaque est franche, la trame fine et équilibrée. Les tanins délicats issus de la macération apportent structure et profondeur, tandis que la macération carbonique adoucit l’acidité naturelle du cépage, soulignant la richesse du fruit et la longueur en bouche. Polyvalent et raffiné, le Litre du Ridge Blanc est pensé pour les moments de partage et les longues fins de journée à l’apéro. Son éclat et sa fraîcheur en font un allié de choix pour la table : il accompagne aussi bien une salade de fenouil et d’orange qu’un filet de truite grillée au beurre d’agrumes. Il se marie tout aussi bien à un ceviche de pétoncles ou à des fromages frais aux zestes d’agrumes et herbes fraîches. Un vin précis, vibrant et d’une grande buvabilité, qui illustre avec brio le renouveau du Domaine du Ridge!",
-          "price": "22,95",
-          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/7a092dd4-7011-f429-1c05-10e7dbea1ceb.png",
+          "price": "22,95$",
+          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=91538e469e&e=a09c2580fc",
           "producer": "Domaine du Ridge",
           "region": "Saint-Armand, Québec",
@@ -594,7 +594,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Litre du Ridge Blanc 2024, issu du cépage Vidal, se distingue par son aromatique éclatante d’orange sanguine et de fleurs blanches, offrant une texture souple et une fraîcheur harmonieuse, parfait pour des moments de partage."
+    "summary": "Le Litre du Ridge Blanc 2024, issu du cépage Vidal, se distingue par son audace et son élégance, offrant une aromatique éclatante d'orange sanguine et de fleurs blanches, avec une texture souple et fraîche, parfaite pour des moments de partage."
   },
   {
     "id": "file-2025-10-23-bambara-selection-0.html-le-ragnaie-rosso-di-montalcino-2021",
@@ -602,7 +602,7 @@
     "createdAt": "2025-10-23T00:00:00.000Z",
     "name": "Le Ragnaie, Rosso di Montalcino 2021",
     "description": "Un an plus tard, encore plus de grâce. Ce Rosso di Montalcino 2021 signé Le Ragnaie revient sous son plus beau jour : même millésime, mais un an de plus d’affinage en bouteille, et ça change tout! Le fruit s’est fondu, la texture s’est étirée, la trame minérale s’exprime avec une pureté exemplaire, sans rien perdre de la fraîcheur et de la grâce qui font la signature du domaine. Un Rosso qui rivalise sans complexe avec bien des Brunello. Exclusivement sur SAQ.com; qu'attendez vous?! Le Ragnaie, domaine emblématique de Montalcino, s’élève à plus de 500 mètres d’altitude au cœur des collines toscanes. Sous la direction de Riccardo Campinoti, il s’impose aujourd’hui parmi les plus grands noms de l’appellation. Les vins du domaine sont cultivés selon les principes de l’agriculture biologique et élaborés avec une rigueur exemplaire à chaque étape du processus. Ce Rosso di Montalcino est élaboré avec la même rigueur que les prestigieux Brunello du domaine : fermentation lente en cuve béton, puis un élevage durant vingt-quatre mois en grands foudres de chêne de Slavonie, avant de reposer longuement en bouteille. À la dégustation, la robe rubis clair annonce un bouquet séduisant de cerise noire, de fleurs séchées et d’herbes sauvages. La bouche est souple, enveloppante et portée par une fraîcheur vibrante. Le fruit rouge s’y déploie avec précision, encadré par des tanins fins et une trame minérale persistante. La presse internationale s’accorde à le reconnaître parmi les plus grands Rosso de Montalcino du millésime.",
-    "price": "55,00",
+    "price": "55,00$",
     "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=2f6b8b23eb&e=a09c2580fc",
     "agence": "Bambara Selection",
@@ -610,7 +610,7 @@
     "raw_data": {
       "name": "Le Ragnaie, Rosso di Montalcino 2021",
       "description": "Un an plus tard, encore plus de grâce. Ce Rosso di Montalcino 2021 signé Le Ragnaie revient sous son plus beau jour : même millésime, mais un an de plus d’affinage en bouteille, et ça change tout! Le fruit s’est fondu, la texture s’est étirée, la trame minérale s’exprime avec une pureté exemplaire, sans rien perdre de la fraîcheur et de la grâce qui font la signature du domaine. Un Rosso qui rivalise sans complexe avec bien des Brunello. Exclusivement sur SAQ.com; qu'attendez vous?! Le Ragnaie, domaine emblématique de Montalcino, s’élève à plus de 500 mètres d’altitude au cœur des collines toscanes. Sous la direction de Riccardo Campinoti, il s’impose aujourd’hui parmi les plus grands noms de l’appellation. Les vins du domaine sont cultivés selon les principes de l’agriculture biologique et élaborés avec une rigueur exemplaire à chaque étape du processus. Ce Rosso di Montalcino est élaboré avec la même rigueur que les prestigieux Brunello du domaine : fermentation lente en cuve béton, puis un élevage durant vingt-quatre mois en grands foudres de chêne de Slavonie, avant de reposer longuement en bouteille. À la dégustation, la robe rubis clair annonce un bouquet séduisant de cerise noire, de fleurs séchées et d’herbes sauvages. La bouche est souple, enveloppante et portée par une fraîcheur vibrante. Le fruit rouge s’y déploie avec précision, encadré par des tanins fins et une trame minérale persistante. La presse internationale s’accorde à le reconnaître parmi les plus grands Rosso de Montalcino du millésime.",
-      "price": "55,00",
+      "price": "55,00$",
       "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=2f6b8b23eb&e=a09c2580fc",
       "producer": "Le Ragnaie",
@@ -626,7 +626,7 @@
         {
           "name": "Le Ragnaie, Rosso di Montalcino 2021",
           "description": "Un an plus tard, encore plus de grâce. Ce Rosso di Montalcino 2021 signé Le Ragnaie revient sous son plus beau jour : même millésime, mais un an de plus d’affinage en bouteille, et ça change tout! Le fruit s’est fondu, la texture s’est étirée, la trame minérale s’exprime avec une pureté exemplaire, sans rien perdre de la fraîcheur et de la grâce qui font la signature du domaine. Un Rosso qui rivalise sans complexe avec bien des Brunello. Exclusivement sur SAQ.com; qu'attendez vous?! Le Ragnaie, domaine emblématique de Montalcino, s’élève à plus de 500 mètres d’altitude au cœur des collines toscanes. Sous la direction de Riccardo Campinoti, il s’impose aujourd’hui parmi les plus grands noms de l’appellation. Les vins du domaine sont cultivés selon les principes de l’agriculture biologique et élaborés avec une rigueur exemplaire à chaque étape du processus. Ce Rosso di Montalcino est élaboré avec la même rigueur que les prestigieux Brunello du domaine : fermentation lente en cuve béton, puis un élevage durant vingt-quatre mois en grands foudres de chêne de Slavonie, avant de reposer longuement en bouteille. À la dégustation, la robe rubis clair annonce un bouquet séduisant de cerise noire, de fleurs séchées et d’herbes sauvages. La bouche est souple, enveloppante et portée par une fraîcheur vibrante. Le fruit rouge s’y déploie avec précision, encadré par des tanins fins et une trame minérale persistante. La presse internationale s’accorde à le reconnaître parmi les plus grands Rosso de Montalcino du millésime.",
-          "price": "55,00",
+          "price": "55,00$",
           "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=2f6b8b23eb&e=a09c2580fc",
           "producer": "Le Ragnaie",
@@ -642,24 +642,24 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Rosso di Montalcino 2021 de Le Ragnaie, après un an d’affinage, révèle une élégance inégalée avec ses arômes de cerise noire et de fleurs séchées, offrant une bouche souple et vibrante, rivalisant avec les plus grands Brunello."
+    "summary": "Le Ragnaie Rosso di Montalcino 2021, après un an d'affinage, révèle une pureté exemplaire et une fraîcheur vibrante, avec des arômes séduisants de cerise noire et d'herbes sauvages, rivalisant avec les plus grands Brunello."
   },
   {
     "id": "file-2025-10-23-bambara-selection-0.html-vignoble-des-3-terres-domaine-mann-cremant-dalsace",
     "blockId": "file-2025-10-23-bambara-selection-0.html",
     "createdAt": "2025-10-23T00:00:00.000Z",
     "name": "Vignoble des 3 Terres - Domaine Mann, Crémant d’Alsace Brut Nature 2021",
-    "description": "Crémant d’Alsace Brut Nature : LA bulle pour votre temps des fêtes!!! Enfin de retour pour le meilleur temps de l’année! Auparavant exclusivement en importation privée, nous sommes extrêmement contents de vous offrir cette grande cuvée du Domaine Mann à la SAQ, disponible en exclusivité en ligne sur SAQ.com maintenant! C’est notamment chez Vouette & Sorbée, maison emblématique de Champagne, que Sébastien Mann a perfectionné son art des bulles et développé sa passion pour le Brut Nature. Il transpose aujourd’hui cette maîtrise dans un Crémant d’Alsace qui allie précision champenoise et caractère alsacien. Élaboré sans dosage, cet assemblage d’Auxerrois, Chardonnay et Pinot Noir, cultivés en biodynamie sur des sols marno-calcaires et graveleux, offre une expérience unique. Affiné 26 mois sur lattes et partiellement élevé en barriques, il révèle une texture crémeuse et une complexité exceptionnelle. Sa robe dorée, ses bulles fines et ses arômes de fruits mûrs, de brioche et sa minéralité s’harmonisent parfaitement pour un vin vibrant, structuré et éclatant de fraîcheur. Au profil tonique, gourmand, polyvalent et sophistiqué, il se déguste aussi bien en apéritif qu’avec des plats raffinés comme une blanquette de veau ou une choucroute de poissons. Absolument majestueux, à un prix plus que généreux, rivalisant avec les Champagnes millésimés pour une fraction du coût!",
-    "price": "45,00",
-    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/9a5c3abf-6263-a224-9e03-56e7fec2ee9c.jpg",
+    "description": "Crémant d’Alsace Brut Nature : LA bulle pour votre temps des fêtes!!! Enfin de retour pour le meilleur temps de l’année! Auparavant exclusivement en importation privée, nous sommes extrêmement contents de vous offrir cette grande cuvée du Domaine Mann à la SAQ, disponible en exclusivité en ligne sur SAQ.com maintenant! C’est notamment chez Vouette & Sorbée, maison emblématique de Champagne, que Sébastien Mann a perfectionné son art des bulles et développé sa passion pour le Brut Nature. Il transpose aujourd’hui cette maîtrise dans un Crémant d’Alsace qui allie précision champenoise et caractère alsacien. Élaboré sans dosage, cet assemblage d’Auxerrois, Chardonnay et Pinot Noir, cultivés en biodynamie sur des sols marno-calcaires et graveleux, offre une expérience unique. Affiné 26 mois sur lattes et partiellement élevé en barriques, il révèle une texture crémeuse et une complexité exceptionnelle. Sa robe dorée, ses bulles fines et ses arômes de fruits mûrs, de brioche et sa minéralité s’harmonisent parfaitement pour un vin vibrant, structuré et éclatant de fraîcheur. Absolument majestueux, à un prix plus que généreux, rivalisant avec les Champagnes millésimés pour une fraction du coût!",
+    "price": "45,00$",
+    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=8e74de057c&e=a09c2580fc",
     "agence": "Bambara Selection",
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Vignoble des 3 Terres - Domaine Mann, Crémant d’Alsace Brut Nature 2021",
-      "description": "Crémant d’Alsace Brut Nature : LA bulle pour votre temps des fêtes!!! Enfin de retour pour le meilleur temps de l’année! Auparavant exclusivement en importation privée, nous sommes extrêmement contents de vous offrir cette grande cuvée du Domaine Mann à la SAQ, disponible en exclusivité en ligne sur SAQ.com maintenant! C’est notamment chez Vouette & Sorbée, maison emblématique de Champagne, que Sébastien Mann a perfectionné son art des bulles et développé sa passion pour le Brut Nature. Il transpose aujourd’hui cette maîtrise dans un Crémant d’Alsace qui allie précision champenoise et caractère alsacien. Élaboré sans dosage, cet assemblage d’Auxerrois, Chardonnay et Pinot Noir, cultivés en biodynamie sur des sols marno-calcaires et graveleux, offre une expérience unique. Affiné 26 mois sur lattes et partiellement élevé en barriques, il révèle une texture crémeuse et une complexité exceptionnelle. Sa robe dorée, ses bulles fines et ses arômes de fruits mûrs, de brioche et sa minéralité s’harmonisent parfaitement pour un vin vibrant, structuré et éclatant de fraîcheur. Au profil tonique, gourmand, polyvalent et sophistiqué, il se déguste aussi bien en apéritif qu’avec des plats raffinés comme une blanquette de veau ou une choucroute de poissons. Absolument majestueux, à un prix plus que généreux, rivalisant avec les Champagnes millésimés pour une fraction du coût!",
-      "price": "45,00",
-      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/9a5c3abf-6263-a224-9e03-56e7fec2ee9c.jpg",
+      "description": "Crémant d’Alsace Brut Nature : LA bulle pour votre temps des fêtes!!! Enfin de retour pour le meilleur temps de l’année! Auparavant exclusivement en importation privée, nous sommes extrêmement contents de vous offrir cette grande cuvée du Domaine Mann à la SAQ, disponible en exclusivité en ligne sur SAQ.com maintenant! C’est notamment chez Vouette & Sorbée, maison emblématique de Champagne, que Sébastien Mann a perfectionné son art des bulles et développé sa passion pour le Brut Nature. Il transpose aujourd’hui cette maîtrise dans un Crémant d’Alsace qui allie précision champenoise et caractère alsacien. Élaboré sans dosage, cet assemblage d’Auxerrois, Chardonnay et Pinot Noir, cultivés en biodynamie sur des sols marno-calcaires et graveleux, offre une expérience unique. Affiné 26 mois sur lattes et partiellement élevé en barriques, il révèle une texture crémeuse et une complexité exceptionnelle. Sa robe dorée, ses bulles fines et ses arômes de fruits mûrs, de brioche et sa minéralité s’harmonisent parfaitement pour un vin vibrant, structuré et éclatant de fraîcheur. Absolument majestueux, à un prix plus que généreux, rivalisant avec les Champagnes millésimés pour une fraction du coût!",
+      "price": "45,00$",
+      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=8e74de057c&e=a09c2580fc",
       "producer": "Vignoble des 3 Terres - Domaine Mann",
       "region": "Alsace",
@@ -675,9 +675,9 @@
       "all_occurrences_raw_data": [
         {
           "name": "Vignoble des 3 Terres - Domaine Mann, Crémant d’Alsace Brut Nature 2021",
-          "description": "Crémant d’Alsace Brut Nature : LA bulle pour votre temps des fêtes!!! Enfin de retour pour le meilleur temps de l’année! Auparavant exclusivement en importation privée, nous sommes extrêmement contents de vous offrir cette grande cuvée du Domaine Mann à la SAQ, disponible en exclusivité en ligne sur SAQ.com maintenant! C’est notamment chez Vouette & Sorbée, maison emblématique de Champagne, que Sébastien Mann a perfectionné son art des bulles et développé sa passion pour le Brut Nature. Il transpose aujourd’hui cette maîtrise dans un Crémant d’Alsace qui allie précision champenoise et caractère alsacien. Élaboré sans dosage, cet assemblage d’Auxerrois, Chardonnay et Pinot Noir, cultivés en biodynamie sur des sols marno-calcaires et graveleux, offre une expérience unique. Affiné 26 mois sur lattes et partiellement élevé en barriques, il révèle une texture crémeuse et une complexité exceptionnelle. Sa robe dorée, ses bulles fines et ses arômes de fruits mûrs, de brioche et sa minéralité s’harmonisent parfaitement pour un vin vibrant, structuré et éclatant de fraîcheur. Au profil tonique, gourmand, polyvalent et sophistiqué, il se déguste aussi bien en apéritif qu’avec des plats raffinés comme une blanquette de veau ou une choucroute de poissons. Absolument majestueux, à un prix plus que généreux, rivalisant avec les Champagnes millésimés pour une fraction du coût!",
-          "price": "45,00",
-          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/9a5c3abf-6263-a224-9e03-56e7fec2ee9c.jpg",
+          "description": "Crémant d’Alsace Brut Nature : LA bulle pour votre temps des fêtes!!! Enfin de retour pour le meilleur temps de l’année! Auparavant exclusivement en importation privée, nous sommes extrêmement contents de vous offrir cette grande cuvée du Domaine Mann à la SAQ, disponible en exclusivité en ligne sur SAQ.com maintenant! C’est notamment chez Vouette & Sorbée, maison emblématique de Champagne, que Sébastien Mann a perfectionné son art des bulles et développé sa passion pour le Brut Nature. Il transpose aujourd’hui cette maîtrise dans un Crémant d’Alsace qui allie précision champenoise et caractère alsacien. Élaboré sans dosage, cet assemblage d’Auxerrois, Chardonnay et Pinot Noir, cultivés en biodynamie sur des sols marno-calcaires et graveleux, offre une expérience unique. Affiné 26 mois sur lattes et partiellement élevé en barriques, il révèle une texture crémeuse et une complexité exceptionnelle. Sa robe dorée, ses bulles fines et ses arômes de fruits mûrs, de brioche et sa minéralité s’harmonisent parfaitement pour un vin vibrant, structuré et éclatant de fraîcheur. Absolument majestueux, à un prix plus que généreux, rivalisant avec les Champagnes millésimés pour une fraction du coût!",
+          "price": "45,00$",
+          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=8e74de057c&e=a09c2580fc",
           "producer": "Vignoble des 3 Terres - Domaine Mann",
           "region": "Alsace",
@@ -694,24 +694,24 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Crémant d’Alsace Brut Nature 2021 du Domaine Mann, élaboré avec soin en biodynamie, offre une expérience pétillante unique avec ses arômes de fruits mûrs et de brioche, révélant une texture crémeuse et une fraîcheur éclatante, parfait pour toute occasion festive."
+    "summary": "Le Crémant d’Alsace Brut Nature 2021 du Domaine Mann, élaboré avec un assemblage d’Auxerrois, Chardonnay et Pinot Noir, offre une texture crémeuse et une complexité exceptionnelle, alliant précision champenoise et caractère alsacien, pour une expérience festive inoubliable."
   },
   {
     "id": "file-2025-10-23-bambara-selection-0.html-punset-barbera-dalba-2023",
     "blockId": "file-2025-10-23-bambara-selection-0.html",
     "createdAt": "2025-10-23T00:00:00.000Z",
     "name": "Punset, Barbera d’Alba 2023",
-    "description": "Un Barbera d’Alba bio, pur fruit et signé par l’une des grandes figures du Piémont : voilà votre nouveau rouge italien de tous les jours! Pas de bois, pas d’artifice, juste l’éclat du cépage, une belle tension naturelle, et cette buvabilité franche qu’on adore. Marina Marcarino, vigneronne pionnière de la viticulture biologique à Barbaresco depuis plus de 40 ans, livre ici un Barbera libre, fidèle au cépage et pensé pour la table. Après l’élégant Barbaresco et l’éclatant Arneis, ce Barbera, frais et croquant, signe la cuvée emblématique et la plus accessible de Marina Marcarino du fabuleux domaine Punset. Tout en fruit et en fraîcheur, il est vinifié sans bois pour un style franc, pur, authentique et d’une grande typicité. Comme toujours chez Punset, le travail à la vigne est irréprochable : agriculture biologique certifiée depuis plus de 30 ans, vendanges manuelles, fermentation naturelle sur levures indigènes, sans intrant. Le vin est ensuite élevé en cuves neutres (béton), pour préserver l’intégrité du fruit et laisser parler le cépage. Dans le verre, la robe rubis lumineuse précède un nez franc, sur la cerise fraîche, la framboise écrasée et les petits fruits rouges confits. En bouche, la trame est juteuse, pleine d’énergie, avec une belle acidité et une finale nette, sans lourdeur. Aucune trace de bois ici : tout est dans l’éclat, la pureté, et la buvabilité! Un rouge qui coche toutes les cases pour tous vos repas : servi légèrement rafraîchi, il accompagne à merveille les charcuteries, les viandes grillées, les plats tomatés et même les fromages affinés. Avec sa structure souple et sa belle acidité, il trouve sa place partout, tout le temps!!",
-    "price": "27,60",
-    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/9a5c3abf-6263-a224-9e03-56e7fec2ee9c.jpg",
+    "description": "Un Barbera d’Alba bio, pur fruit et signé par l’une des grandes figures du Piémont : voilà votre nouveau rouge italien de tous les jours! Pas de bois, pas d’artifice, juste l’éclat du cépage, une belle tension naturelle, et cette buvabilité franche qu’on adore. Marina Marcarino, vigneronne pionnière de la viticulture biologique à Barbaresco depuis plus de 40 ans, livre ici un Barbera libre, fidèle au cépage et pensé pour la table. Dans le verre, la robe rubis lumineuse précède un nez franc, sur la cerise fraîche, la framboise écrasée et les petits fruits rouges confits. En bouche, la trame est juteuse, pleine d’énergie, avec une belle acidité et une finale nette, sans lourdeur. Aucune trace de bois ici : tout est dans l’éclat, la pureté, et la buvabilité! Un rouge qui coche toutes les cases pour tous vos repas : servi légèrement rafraîchi, il accompagne à merveille les charcuteries, les viandes grillées, les plats tomatés et même les fromages affinés. Avec sa structure souple et sa belle acidité, il trouve sa place partout, tout le temps!!",
+    "price": "27,60$",
+    "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
     "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=cae9cb7d62&e=a09c2580fc",
     "agence": "Bambara Selection",
     "disponibilite": "SAQ",
     "raw_data": {
       "name": "Punset, Barbera d’Alba 2023",
-      "description": "Un Barbera d’Alba bio, pur fruit et signé par l’une des grandes figures du Piémont : voilà votre nouveau rouge italien de tous les jours! Pas de bois, pas d’artifice, juste l’éclat du cépage, une belle tension naturelle, et cette buvabilité franche qu’on adore. Marina Marcarino, vigneronne pionnière de la viticulture biologique à Barbaresco depuis plus de 40 ans, livre ici un Barbera libre, fidèle au cépage et pensé pour la table. Après l’élégant Barbaresco et l’éclatant Arneis, ce Barbera, frais et croquant, signe la cuvée emblématique et la plus accessible de Marina Marcarino du fabuleux domaine Punset. Tout en fruit et en fraîcheur, il est vinifié sans bois pour un style franc, pur, authentique et d’une grande typicité. Comme toujours chez Punset, le travail à la vigne est irréprochable : agriculture biologique certifiée depuis plus de 30 ans, vendanges manuelles, fermentation naturelle sur levures indigènes, sans intrant. Le vin est ensuite élevé en cuves neutres (béton), pour préserver l’intégrité du fruit et laisser parler le cépage. Dans le verre, la robe rubis lumineuse précède un nez franc, sur la cerise fraîche, la framboise écrasée et les petits fruits rouges confits. En bouche, la trame est juteuse, pleine d’énergie, avec une belle acidité et une finale nette, sans lourdeur. Aucune trace de bois ici : tout est dans l’éclat, la pureté, et la buvabilité! Un rouge qui coche toutes les cases pour tous vos repas : servi légèrement rafraîchi, il accompagne à merveille les charcuteries, les viandes grillées, les plats tomatés et même les fromages affinés. Avec sa structure souple et sa belle acidité, il trouve sa place partout, tout le temps!!",
-      "price": "27,60",
-      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/9a5c3abf-6263-a224-9e03-56e7fec2ee9c.jpg",
+      "description": "Un Barbera d’Alba bio, pur fruit et signé par l’une des grandes figures du Piémont : voilà votre nouveau rouge italien de tous les jours! Pas de bois, pas d’artifice, juste l’éclat du cépage, une belle tension naturelle, et cette buvabilité franche qu’on adore. Marina Marcarino, vigneronne pionnière de la viticulture biologique à Barbaresco depuis plus de 40 ans, livre ici un Barbera libre, fidèle au cépage et pensé pour la table. Dans le verre, la robe rubis lumineuse précède un nez franc, sur la cerise fraîche, la framboise écrasée et les petits fruits rouges confits. En bouche, la trame est juteuse, pleine d’énergie, avec une belle acidité et une finale nette, sans lourdeur. Aucune trace de bois ici : tout est dans l’éclat, la pureté, et la buvabilité! Un rouge qui coche toutes les cases pour tous vos repas : servi légèrement rafraîchi, il accompagne à merveille les charcuteries, les viandes grillées, les plats tomatés et même les fromages affinés. Avec sa structure souple et sa belle acidité, il trouve sa place partout, tout le temps!!",
+      "price": "27,60$",
+      "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
       "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=cae9cb7d62&e=a09c2580fc",
       "producer": "Punset",
       "region": "Piémont",
@@ -725,9 +725,9 @@
       "all_occurrences_raw_data": [
         {
           "name": "Punset, Barbera d’Alba 2023",
-          "description": "Un Barbera d’Alba bio, pur fruit et signé par l’une des grandes figures du Piémont : voilà votre nouveau rouge italien de tous les jours! Pas de bois, pas d’artifice, juste l’éclat du cépage, une belle tension naturelle, et cette buvabilité franche qu’on adore. Marina Marcarino, vigneronne pionnière de la viticulture biologique à Barbaresco depuis plus de 40 ans, livre ici un Barbera libre, fidèle au cépage et pensé pour la table. Après l’élégant Barbaresco et l’éclatant Arneis, ce Barbera, frais et croquant, signe la cuvée emblématique et la plus accessible de Marina Marcarino du fabuleux domaine Punset. Tout en fruit et en fraîcheur, il est vinifié sans bois pour un style franc, pur, authentique et d’une grande typicité. Comme toujours chez Punset, le travail à la vigne est irréprochable : agriculture biologique certifiée depuis plus de 30 ans, vendanges manuelles, fermentation naturelle sur levures indigènes, sans intrant. Le vin est ensuite élevé en cuves neutres (béton), pour préserver l’intégrité du fruit et laisser parler le cépage. Dans le verre, la robe rubis lumineuse précède un nez franc, sur la cerise fraîche, la framboise écrasée et les petits fruits rouges confits. En bouche, la trame est juteuse, pleine d’énergie, avec une belle acidité et une finale nette, sans lourdeur. Aucune trace de bois ici : tout est dans l’éclat, la pureté, et la buvabilité! Un rouge qui coche toutes les cases pour tous vos repas : servi légèrement rafraîchi, il accompagne à merveille les charcuteries, les viandes grillées, les plats tomatés et même les fromages affinés. Avec sa structure souple et sa belle acidité, il trouve sa place partout, tout le temps!!",
-          "price": "27,60",
-          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/9a5c3abf-6263-a224-9e03-56e7fec2ee9c.jpg",
+          "description": "Un Barbera d’Alba bio, pur fruit et signé par l’une des grandes figures du Piémont : voilà votre nouveau rouge italien de tous les jours! Pas de bois, pas d’artifice, juste l’éclat du cépage, une belle tension naturelle, et cette buvabilité franche qu’on adore. Marina Marcarino, vigneronne pionnière de la viticulture biologique à Barbaresco depuis plus de 40 ans, livre ici un Barbera libre, fidèle au cépage et pensé pour la table. Dans le verre, la robe rubis lumineuse précède un nez franc, sur la cerise fraîche, la framboise écrasée et les petits fruits rouges confits. En bouche, la trame est juteuse, pleine d’énergie, avec une belle acidité et une finale nette, sans lourdeur. Aucune trace de bois ici : tout est dans l’éclat, la pureté, et la buvabilité! Un rouge qui coche toutes les cases pour tous vos repas : servi légèrement rafraîchi, il accompagne à merveille les charcuteries, les viandes grillées, les plats tomatés et même les fromages affinés. Avec sa structure souple et sa belle acidité, il trouve sa place partout, tout le temps!!",
+          "price": "27,60$",
+          "image_url": "https://mcusercontent.com/d2f1e39952eafd8949f464f3f/images/abde9097-11e2-b548-252e-00dba2a26dd2.jpg",
           "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=cae9cb7d62&e=a09c2580fc",
           "producer": "Punset",
           "region": "Piémont",
@@ -742,7 +742,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Barbera d’Alba 2023 de Punset, un rouge bio éclatant et pur, offre des arômes de cerise et de framboise, avec une trame juteuse et une belle acidité, parfait pour accompagner une variété de plats avec élégance."
+    "summary": "Le Barbera d’Alba 2023 de Punset, un rouge bio sans artifice, révèle une robe rubis lumineuse et des arômes de cerise fraîche et de framboise, offrant une buvabilité franche et une belle acidité, parfait pour accompagner tous vos repas."
   },
   {
     "id": "file-2025-10-23-info-symbiose-0.html-faugeres-vieilles-vignes",
@@ -931,7 +931,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le vin orange 2023 séduit par ses arômes envoûtants de mandarine et de fleurs blanches, offrant une expérience enveloppante et légèrement pétillante, idéale pour se déconnecter et savourer l’instant."
+    "summary": "Le D'Orange et de Fleurs 2023, un vin orange charmeur, séduit par ses arômes de mandarine et de fleurs blanches, offrant une expérience enveloppante et pétillante, idéale pour déconnecter et savourer."
   },
   {
     "id": "file-2025-10-23-le-vin-dans-les-voiles-0.html-fruit-2022",
@@ -975,7 +975,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le rouge 2022, généreux et aromatique, enchante avec ses notes de fruits noirs, de violette et de tabac, offrant une texture ample et réconfortante pour les journées fraîches."
+    "summary": "Le Fruit 2022, un rouge joufflu et enrobant, enchante avec ses arômes de fruits noirs, de violette et de tabac, offrant une expérience ample et réconfortante pour les journées fraîches."
   },
   {
     "id": "file-2025-10-23-le-vin-dans-les-voiles-0.html-lair-du-paradis",
@@ -1019,7 +1019,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "L'Air du Paradis est une bulle légère et onctueuse, parfaite pour les moments de partage, créant une atmosphère douce et agréable à chaque gorgée."
+    "summary": "L'Air du Paradis, une bulle légère et onctueuse, transforme chaque moment de brunch ou d'apéritif en une expérience douce et agréable, prête à être partagée."
   },
   {
     "id": "file-2025-10-23-le-vin-dans-les-voiles-0.html-rio-mora-2021",
@@ -1063,7 +1063,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Rio Mora 2021, un rouge pétillant unique, évoque des instants chaleureux entre amis, avec sa rusticité vivante et son caractère idéal pour accompagner les charcuteries."
+    "summary": "Le Rio Mora 2021, un rouge pétillant unique, évoque des moments chaleureux sous la lumière dorée, offrant une rusticité vivante, idéal pour accompagner des apéritifs de charcuteries."
   },
   {
     "id": "file-2025-10-23-le-vin-dans-les-voiles-0.html-di-rado-2021",
@@ -1107,7 +1107,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Di Rado 2021, un blanc de macération captivant, invite à la détente avec sa fraîcheur envoûtante, parfait pour savourer des moments de tranquillité."
+    "summary": "Le Di Rado 2021, un blanc envoûtant de macération, invite à la détente et à la contemplation, offrant une fraîcheur profonde qui rappelle l'art de savourer chaque instant."
   },
   {
     "id": "file-2025-10-23-le-vin-dans-les-voiles-0.html-la-botte-secrete-2021",
@@ -1151,7 +1151,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "La Botte Secrète 2021, un Sangiovese élégant, incarne l'art de la convivialité, idéal pour animer les tables chaleureuses et les discussions passionnées."
+    "summary": "La Botte Secrète 2021, un Sangiovese élégant, incarne l'esprit rassembleur d'un grand vigneron italien, parfait pour animer les tables conviviales et les échanges passionnés."
   },
   {
     "id": "file-2025-10-23-rezin-0.html-pont-du-gard-terre-dargence-blanc-2023",
@@ -1195,7 +1195,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Pont du Gard Terre d'Argence Blanc 2023, un vin onctueux et sphérique, offre une belle richesse en bouche, parfait pour accompagner des plats raffinés et savoureux."
+    "summary": "Le Pont du Gard Terre d'Argence Blanc 2023, un vin onctueux et sphérique, offre une expérience gustative caressante, idéal pour sublimer vos plats à table."
   },
   {
     "id": "file-2025-10-23-rezin-0.html-crozes-hermitage-2023",
@@ -1239,7 +1239,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Crozes-Hermitage 2023, fruit de l'union des talents de trois vignerons, offre une explosion de violette et de mûre, avec une bouche suave et des tanins ronds, parfait pour accompagner des côtelettes d’agneau."
+    "summary": "Le Crozes-Hermitage 2023, fruit de la collaboration de vignerons renommés, offre une explosion de violette et de mûre, avec une trame suave et des tanins ronds, parfait pour accompagner des côtelettes d'agneau aux herbes."
   },
   {
     "id": "file-2025-10-23-rezin-0.html-muscadet-amphibolite-2023",
@@ -1283,7 +1283,7 @@
       ],
       "agence_was_defaulted": false
     },
-    "summary": "Le Muscadet Amphibolite 2023, un vin vibrant et vivant, séduit par ses arômes de fleurs blanches et d'agrumes, offrant une bouche fraîche et salivante, idéale pour accompagner les fruits de mer et les plats légers."
+    "summary": "Le Muscadet Amphibolite 2023, avec sa robe jaune clair et ses arômes de fleurs blanches et d'agrumes, offre une fraîcheur salivante et un volume caressant, parfait pour accompagner les fruits de mer et les plats de légumes."
   },
   {
     "id": "file-2025-10-22-wino-import-0.html-domaine-les-hautes-noelles",
@@ -1671,53 +1671,5 @@
       ],
       "agence_was_defaulted": false
     }
-  },
-  {
-    "id": "file-2025-10-20-bambara-selection-0.html-gulfi-nero-sanlore-2019",
-    "blockId": "file-2025-10-20-bambara-selection-0.html",
-    "createdAt": "2025-10-20T00:00:00.000Z",
-    "name": "Gulfi, Nero Sanloré 2019",
-    "description": "Un modèle d’élégance sicilienne! Situé entre Pachino et Noto, le vignoble de San Lorenzo s’étend sur 2,5 hectares de sols sablonneux rouges, tout près de la mer Méditerranée. Tout comme les autres grands vins de Gulfi, ce cru est composé à 100% de nero d’avola cultivé sur la pointe sud-est de la Sicile, là où sont localisés les meilleurs terroirs pour ce cépage autochtone. Planté il y a plus de 40 ans, ce cru emblématique de Gulfi révèle le côté le plus raffiné du Nero d’Avola : floral, soyeux, avec une belle minéralité et d’une précision et pureté remarquable. Le vignoble, situé à 10 mètres d’altitude est cultivé en agriculture biologique, non irrigué, taillé en gobelet (alberello) et récolté manuellement. Le sol de sable rouge confère aux tannins une élégance naturelle et une texture soyeuse incomparable, la signature du Sanloré. Un bouquet irrésistible de prunes écrasées, pétales de rose, lavande et violette confite. Un modèle de grâce et d’élégance à la texture soyeuse, aux fruits rouges et pourpres mûrs rehaussés par des agrumes et une acidité vive et stimulante. La finale est longue, vibrante, avec des tanins doux et des notes persistantes de mandarine et de mûre. À tomber! Un Nero d’Avola somptueux. (À boire entre 2023 et 2033.) Le Nero Sanloré 2019 charme dès aujourd’hui par son équilibre, sa finesse et son élégance, tout en promettant une belle évolution en cave. Il s’accorde magnifiquement avec des viandes rouges grillées, du gibier ou des fromages affinés, où sa structure et sa fraîcheur s'agenceront parfaitement. Splendide dès maintenant; mais faites-vous plaisir : gardez-en une deuxième pour la cave… vous verrez, magie pure! 😉",
-    "price": "71,75$",
-    "image_url": null,
-    "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=7bb9bfaec5&e=a09c2580fc",
-    "agence": "Bambara Selection",
-    "disponibilite": "SAQ",
-    "raw_data": {
-      "name": "Gulfi, Nero Sanloré 2019",
-      "description": "Un modèle d’élégance sicilienne! Situé entre Pachino et Noto, le vignoble de San Lorenzo s’étend sur 2,5 hectares de sols sablonneux rouges, tout près de la mer Méditerranée. Tout comme les autres grands vins de Gulfi, ce cru est composé à 100% de nero d’avola cultivé sur la pointe sud-est de la Sicile, là où sont localisés les meilleurs terroirs pour ce cépage autochtone. Planté il y a plus de 40 ans, ce cru emblématique de Gulfi révèle le côté le plus raffiné du Nero d’Avola : floral, soyeux, avec une belle minéralité et d’une précision et pureté remarquable. Le vignoble, situé à 10 mètres d’altitude est cultivé en agriculture biologique, non irrigué, taillé en gobelet (alberello) et récolté manuellement. Le sol de sable rouge confère aux tannins une élégance naturelle et une texture soyeuse incomparable, la signature du Sanloré. Un bouquet irrésistible de prunes écrasées, pétales de rose, lavande et violette confite. Un modèle de grâce et d’élégance à la texture soyeuse, aux fruits rouges et pourpres mûrs rehaussés par des agrumes et une acidité vive et stimulante. La finale est longue, vibrante, avec des tanins doux et des notes persistantes de mandarine et de mûre. À tomber! Un Nero d’Avola somptueux. (À boire entre 2023 et 2033.) Le Nero Sanloré 2019 charme dès aujourd’hui par son équilibre, sa finesse et son élégance, tout en promettant une belle évolution en cave. Il s’accorde magnifiquement avec des viandes rouges grillées, du gibier ou des fromages affinés, où sa structure et sa fraîcheur s'agenceront parfaitement. Splendide dès maintenant; mais faites-vous plaisir : gardez-en une deuxième pour la cave… vous verrez, magie pure! 😉",
-      "price": "71,75$",
-      "image_url": null,
-      "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=7bb9bfaec5&e=a09c2580fc",
-      "producer": "Gulfi",
-      "region": "Sicile",
-      "vintage": "2019",
-      "grape_varieties": [
-        "nero d’avola"
-      ],
-      "alcohol_content": null,
-      "volume": null,
-      "disponibilite": "SAQ",
-      "all_occurrences_raw_data": [
-        {
-          "name": "Gulfi, Nero Sanloré 2019",
-          "description": "Un modèle d’élégance sicilienne! Situé entre Pachino et Noto, le vignoble de San Lorenzo s’étend sur 2,5 hectares de sols sablonneux rouges, tout près de la mer Méditerranée. Tout comme les autres grands vins de Gulfi, ce cru est composé à 100% de nero d’avola cultivé sur la pointe sud-est de la Sicile, là où sont localisés les meilleurs terroirs pour ce cépage autochtone. Planté il y a plus de 40 ans, ce cru emblématique de Gulfi révèle le côté le plus raffiné du Nero d’Avola : floral, soyeux, avec une belle minéralité et d’une précision et pureté remarquable. Le vignoble, situé à 10 mètres d’altitude est cultivé en agriculture biologique, non irrigué, taillé en gobelet (alberello) et récolté manuellement. Le sol de sable rouge confère aux tannins une élégance naturelle et une texture soyeuse incomparable, la signature du Sanloré. Un bouquet irrésistible de prunes écrasées, pétales de rose, lavande et violette confite. Un modèle de grâce et d’élégance à la texture soyeuse, aux fruits rouges et pourpres mûrs rehaussés par des agrumes et une acidité vive et stimulante. La finale est longue, vibrante, avec des tanins doux et des notes persistantes de mandarine et de mûre. À tomber! Un Nero d’Avola somptueux. (À boire entre 2023 et 2033.) Le Nero Sanloré 2019 charme dès aujourd’hui par son équilibre, sa finesse et son élégance, tout en promettant une belle évolution en cave. Il s’accorde magnifiquement avec des viandes rouges grillées, du gibier ou des fromages affinés, où sa structure et sa fraîcheur s'agenceront parfaitement. Splendide dès maintenant; mais faites-vous plaisir : gardez-en une deuxième pour la cave… vous verrez, magie pure! 😉",
-          "price": "71,75$",
-          "image_url": null,
-          "link": "https://bambaraselection.us1.list-manage.com/track/click?u=d2f1e39952eafd8949f464f3f&id=7bb9bfaec5&e=a09c2580fc",
-          "producer": "Gulfi",
-          "region": "Sicile",
-          "vintage": "2019",
-          "grape_varieties": [
-            "nero d’avola"
-          ],
-          "alcohol_content": null,
-          "volume": null,
-          "disponibilite": "SAQ"
-        }
-      ],
-      "agence_was_defaulted": false
-    },
-    "summary": "Le Nero Sanloré 2019 de Gulfi incarne l'élégance sicilienne avec ses arômes de prunes, de rose et de lavande, offrant une texture soyeuse et une finale vibrante, un véritable chef-d'œuvre à savourer dès maintenant ou à garder en cave."
   }
 ]
